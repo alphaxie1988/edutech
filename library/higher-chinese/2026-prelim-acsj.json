@@ -1,0 +1,547 @@
+{
+  "paper": {
+    "id": "2026-prelim-acsj",
+    "subject": "higher-chinese",
+    "year": 2026,
+    "exam": "Prelim",
+    "school": "ACSJ",
+    "schoolFull": "Anglo-Chinese School (Junior)",
+    "file": "PSLE-2026-P6-papers/Higher-Chinese/P6-Higher-Chinese-Prelim-2026-ACSJ-Paper.pdf",
+    "coordDpi": 100
+  },
+  "groups": [
+    {
+      "id": "g1",
+      "text": "语文应用 A组：从所提供的词语中，选出短文所缺的词语，然后写出代表它的数字。\n\n[[img1]]",
+      "images": [
+        { "id": "img1", "alt": "词语表（1 诱人、2 吩咐、3 陪伴、4 费尽心思、5 动人、6 约定、7 抱怨、8 足智多谋）和一篇关于广东点心“老婆饼”由来的短文，文中有 Q1 到 Q5 五个空格。", "page": 2, "box": [100, 160, 725, 930] }
+      ]
+    },
+    {
+      "id": "g2",
+      "text": "语文应用 B组：画线的词语是运用不当的词语（词语中的一个字是不恰当的），括号里的字是写错的字。根据短文的内容和上下文的意思，把它们改正过来。\n\n[[img1]]",
+      "images": [
+        { "id": "img1", "alt": "一篇关于几名中学生在学校洗手间玩火的短文，文中有 Q6 到 Q10 五处需要改正的词语或错字。", "page": 3, "box": [118, 122, 740, 728] }
+      ]
+    },
+    {
+      "id": "g3",
+      "text": "阅读理解（一）：根据文章的内容和上下文的意思，回答问题。\n\n[[img1]]",
+      "images": [
+        { "id": "img1", "alt": "一篇记叙文：失业的工人大叔开摊位卖奶茶，从没有生意到摊位前排起长龙，成了“奶茶大叔”。", "page": 4, "box": [75, 100, 742, 1020] }
+      ]
+    },
+    {
+      "id": "g4",
+      "text": "阅读理解（二）：根据短文的内容和上下文的意思，回答问题。\n\n[[img1]]",
+      "images": [
+        { "id": "img1", "alt": "一篇记叙文：一位父亲雨天驾车时溅湿了行人的衣服，后来在儿子面前以身作则，上网写道歉信承担责任。", "page": 6, "box": [62, 105, 765, 930] }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "section": "p2", "number": 1, "page": 2, "format": "short", "marks": 2,
+      "topic": "cloze", "group": "g1",
+      "subtypes": ["word-choice"],
+      "stem": "Q1 的答案是：（写出代表词语的数字。）",
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "text", "value": "3", "accept": ["陪伴", "3 陪伴"] },
+          "explanation": [
+            "句子是“很少有时间 Q1 妻子”。师父每天忙着工作，所以没有时间和妻子在一起。",
+            "“陪伴”的意思是在身边作伴，和“妻子心里很委屈”相配。",
+            "“吩咐”是叫别人做事，放在这里意思不通。",
+            "答案是 3（陪伴）。"
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "3（陪伴）", "solvedAnswer": "3（陪伴）", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 2, "page": 2, "format": "short", "marks": 2,
+      "topic": "cloze", "group": "g1",
+      "subtypes": ["word-choice"],
+      "stem": "Q2 的答案是：（写出代表词语的数字。）",
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "text", "value": "7", "accept": ["抱怨", "7 抱怨"] },
+          "explanation": [
+            "句子是“她忍不住 Q2：‘你天天做精美的点心给别人吃，什么时候也为我做一道？’”",
+            "妻子心里委屈，说的话是在表示不满，所以用“抱怨”。“抱怨”的意思是说出心中的不满。",
+            "“吩咐”是上对下交代事情，妻子不是在下命令，所以不合适。",
+            "答案是 7（抱怨）。"
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "7（抱怨）", "solvedAnswer": "7（抱怨）", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 3, "page": 2, "format": "short", "marks": 2,
+      "topic": "cloze", "group": "g1",
+      "subtypes": ["word-choice"],
+      "stem": "Q3 的答案是：（写出代表词语的数字。）",
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "text", "value": "6", "accept": ["约定", "6 约定"] },
+          "explanation": [
+            "句子是“就把和老婆的 Q3 忘得一干二净”。前面说师父“一口答应，还说明天一定做”。",
+            "两个人说好要做的事叫“约定”。",
+            "这里需要一个名词，词语表里只有“约定”合适。",
+            "答案是 6（约定）。"
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "6（约定）", "solvedAnswer": "6（约定）", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 4, "page": 2, "format": "short", "marks": 2,
+      "topic": "cloze", "group": "g1",
+      "subtypes": ["word-choice"],
+      "stem": "Q4 的答案是：（写出代表词语的数字。）",
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "text", "value": "1", "accept": ["诱人", "1 诱人"] },
+          "explanation": [
+            "句子是“散发着 Q4 的香气”。",
+            "“诱人”的意思是很吸引人，常用来形容食物的香味，例如“诱人的香气”。",
+            "“动人”是让人感动，用来形容故事、歌声等，不用来形容香气。",
+            "答案是 1（诱人）。"
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "1（诱人）", "solvedAnswer": "1（诱人）", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 5, "page": 2, "format": "short", "marks": 2,
+      "topic": "cloze", "group": "g1",
+      "subtypes": ["word-choice", "idioms"],
+      "stem": "Q5 的答案是：（写出代表词语的数字。）",
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "text", "value": "4", "accept": ["费尽心思", "4 费尽心思"] },
+          "explanation": [
+            "句子是“妻子 Q5 创造出这道点心，就是要提醒丈夫别忘了自己答应老婆的事”。",
+            "“费尽心思”的意思是花了很多心思、想尽办法去做一件事，可以放在动词“创造”前面。",
+            "“足智多谋”是形容一个人很聪明、计谋多，通常用来形容人，不能说“足智多谋创造出”。",
+            "答案是 4（费尽心思）。"
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "4（费尽心思）", "solvedAnswer": "4（费尽心思）", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 6, "page": 3, "format": "short", "marks": 2,
+      "topic": "error-correction", "group": "g2",
+      "subtypes": ["wrong-word"],
+      "stem": "Q6 画线的词语“++热情++”运用不当，正确的词语是：",
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "text", "value": "热烈", "accept": ["烈"] },
+          "explanation": [
+            "句子是“录像引发了人们热情的讨论”。",
+            "“热情”形容人的态度，例如“热情的服务员”。",
+            "形容讨论、掌声等气氛很高，要用“热烈”，例如“热烈的讨论”。",
+            "所以把“情”改成“烈”，答案是“热烈”。"
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "热烈", "solvedAnswer": "热烈", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 7, "page": 3, "format": "short", "marks": 2,
+      "topic": "error-correction", "group": "g2",
+      "subtypes": ["wrong-character"],
+      "stem": "Q7 “（饼）命”括号里的字写错了，正确的字是：",
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "text", "value": "拼", "accept": ["拼命"] },
+          "explanation": [
+            "句子是“几人（饼）命用脚踩”，意思是用尽全力去踩。",
+            "用尽全力叫“拼命”。“拼”是提手旁，和动作有关。",
+            "“饼”是食字旁，指吃的东西，例如“饼干”。两个字读音相近，字形也像，容易写错。",
+            "答案是“拼”。"
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "拼", "solvedAnswer": "拼", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 8, "page": 3, "format": "short", "marks": 2,
+      "topic": "error-correction", "group": "g2",
+      "subtypes": ["wrong-word"],
+      "stem": "Q8 画线的词语“++批改++”运用不当，正确的词语是：",
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "text", "value": "批评", "accept": ["评"] },
+          "explanation": [
+            "句子是“大家纷纷批改这几个学生”。",
+            "“批改”是老师改作业、改作文，对象是作业，不是人。",
+            "指出别人的错误要用“批评”，下文的“指责”也说明大家是在批评他们。",
+            "所以把“改”改成“评”，答案是“批评”。"
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "批评", "solvedAnswer": "批评", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 9, "page": 3, "format": "short", "marks": 2,
+      "topic": "error-correction", "group": "g2",
+      "subtypes": ["wrong-word"],
+      "stem": "Q9 画线的词语“++珍贵++”运用不当，正确的词语是：",
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "text", "value": "珍惜", "accept": ["惜"] },
+          "explanation": [
+            "句子是“把卫生纸当成了玩具，不懂得珍贵”。",
+            "“珍贵”是形容词，形容东西很宝贵，例如“珍贵的礼物”，不能放在“懂得”后面当动作。",
+            "“不懂得”后面要用动词“珍惜”，意思是爱惜、不浪费。",
+            "所以把“贵”改成“惜”，答案是“珍惜”。"
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "珍惜", "solvedAnswer": "珍惜", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 10, "page": 3, "format": "short", "marks": 2,
+      "topic": "error-correction", "group": "g2",
+      "subtypes": ["wrong-character"],
+      "stem": "Q10 “违（犯）”括号里的字写错了，正确的字是：",
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "text", "value": "反", "accept": ["违反"] },
+          "explanation": [
+            "句子是“在学校玩火不仅违（犯）了校规”。",
+            "不遵守规则，固定的搭配是“违反校规”“违反规则”。",
+            "“犯”和“反”读音相近，“犯”常用在“犯错”“犯规”里，所以容易混淆。",
+            "答案是“反”（违反）。"
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "违反", "solvedAnswer": "反（违反）", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 11, "page": 5, "format": "short", "marks": 2,
+      "topic": "comprehension", "group": "g3",
+      "subtypes": ["vocabulary-in-context"],
+      "stem": "从短文中找出与下列画线词语意思相近或相同的词语。\n这么好的小说，++没想到++是一个小学生写的。",
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "text", "value": "竟然" },
+          "explanation": [
+            "“没想到”表示事情出乎意料。",
+            "短文第二段写大叔在红茶里加了奶和糖，“发现味道竟然很不错”，这里的“竟然”也表示出乎意料。",
+            "把“竟然”放回句子里：“这么好的小说，竟然是一个小学生写的。”句子通顺，意思不变。",
+            "答案是“竟然”。"
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "竟然", "solvedAnswer": "竟然", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 12, "page": 5, "format": "short", "marks": 2,
+      "topic": "comprehension", "group": "g3",
+      "subtypes": ["vocabulary-in-context"],
+      "stem": "从短文中找出与下列画线词语意思相近或相同的词语。\n我++按照++老师的指示完成了活动。",
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "text", "value": "根据" },
+          "explanation": [
+            "“按照”的意思是依照、照着去做。",
+            "短文写大叔“还根据顾客的建议，不断尝试创新口味”，这里的“根据”也是依照的意思。",
+            "把“根据”放回句子里：“我根据老师的指示完成了活动。”句子通顺，意思不变。",
+            "答案是“根据”。"
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "根据", "solvedAnswer": "根据", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 13, "page": 5, "format": "structured", "marks": 2,
+      "topic": "comprehension", "group": "g3",
+      "subtypes": ["factual", "cause-and-effect"],
+      "stem": "大叔奶茶的生意情况和刚开始时有所不同，试加以比较，并说明原因。\n（Q13 填写表格中“刚开始”的一行。）",
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "刚开始的生意情况：",
+          "marks": 1,
+          "answer": { "type": "self", "value": "刚开始，大叔几乎完全没有生意。", "accept": ["几乎完全没有生意", "几乎没有生意", "几乎完全没有生意。"] },
+          "explanation": [
+            "答案在第三段：“要不是有几个人看它价钱便宜买来解渴，他几乎完全没有生意。”",
+            "要点：几乎（完全）没有生意。"
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "原因：",
+          "marks": 1,
+          "answer": { "type": "self", "value": "因为大叔完全不懂年轻人的口味，只会做最简单的奶茶。" },
+          "explanation": [
+            "答案在第三段的第一句：“大叔完全不懂年轻人的口味，只会做最简单的奶茶。”",
+            "要点有两个：不懂年轻人的口味；只会做最简单的奶茶。"
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "生意情况：几乎（完全）没有生意（做）。原因：完全不懂年轻人的口味，只会做最简单的奶茶", "solvedAnswer": "与答案一致", "status": "verified", "note": "试卷上 Q13–Q14 共 4 分，每题 2 分；每格各算 1 分。" }
+    },
+    {
+      "section": "p2", "number": 14, "page": 5, "format": "structured", "marks": 2,
+      "topic": "comprehension", "group": "g3",
+      "subtypes": ["factual", "cause-and-effect"],
+      "stem": "大叔奶茶的生意情况和刚开始时有所不同，试加以比较，并说明原因。\n（Q14 填写表格中“现在”的一行。）",
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "现在的生意情况：",
+          "marks": 1,
+          "answer": { "type": "self", "value": "现在，大叔的摊位前排起了长龙，生意很好。", "accept": ["摊位前排起了长龙", "排起了长龙", "摊位前排起了长龙。"] },
+          "explanation": [
+            "答案在倒数第二段（“从零开始……”）：“两个月后，大叔的摊位前排起了长龙。”",
+            "要点：（摊位前）排起了长龙，也就是生意很好。"
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "原因：",
+          "marks": 1,
+          "answer": { "type": "self", "value": "因为大叔不断学习制作奶茶的方法，泡出的茶越来越香浓，他还根据顾客的建议不断尝试创新口味。" },
+          "explanation": [
+            "答案在倒数第二段（“从零开始……”）：“大叔不断学习制作奶茶的方法，泡出的茶也越来越香浓。他还根据顾客的建议，不断尝试创新口味。”",
+            "要点有两个：不断学习制作奶茶的方法（茶越来越香浓）；根据顾客的建议不断创新口味。"
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "生意情况：（摊位前）排起了长龙。原因：不断学习制作奶茶的方法，泡出的茶越来越香浓，还根据顾客的建议不断尝试创新口味", "solvedAnswer": "与答案一致", "status": "verified", "note": "试卷上 Q13–Q14 共 4 分，每题 2 分；每格各算 1 分。" }
+    },
+    {
+      "section": "p2", "number": 15, "page": 5, "format": "structured", "marks": 4,
+      "topic": "comprehension", "group": "g3",
+      "subtypes": ["factual", "cause-and-effect"],
+      "stem": "",
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "工人大叔打算转行做什么？",
+          "marks": 1,
+          "answer": { "type": "self", "value": "工人大叔打算转行卖奶茶（当奶茶摊主）。", "accept": ["卖奶茶", "打算卖奶茶", "他打算卖奶茶。"] },
+          "explanation": [
+            "答案在第二段的最后：“他去小贩中心租了一个摊位，取名为‘大叔奶茶’。”",
+            "要点：卖奶茶。"
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "为什么？",
+          "marks": 3,
+          "answer": { "type": "self", "value": "因为他失业了，前途一片黑暗。他在家里泡红茶时发现加了奶和糖味道很不错，认为做奶茶很容易，而且奶茶很受年轻人欢迎。" },
+          "explanation": [
+            "答案在第二段。3 分要写出三个要点：",
+            "（1）他失业了，前途一片黑暗，需要找新的工作。",
+            "（2）他认为做奶茶好像很容易。",
+            "（3）奶茶很受年轻人欢迎。"
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "打算卖奶茶（当奶茶摊主）；因为他失业了，前途一片黑暗，他认为做奶茶很容易，而且很受年轻人欢迎", "solvedAnswer": "与答案一致", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 16, "page": 5, "format": "structured", "marks": 4,
+      "topic": "comprehension", "group": "g3",
+      "subtypes": ["main-idea", "opinion"],
+      "stem": "试从以下的两个选项中，选一个最适合的作为这篇短文的题目，然后举例说明做出这个选择的理由。\n（1）成功的关键\n（2）最难喝的奶茶\n（先写出你选的题目，再写理由。）",
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "self", "value": "我选（1）成功的关键。因为短文主要写大叔从几乎没有生意到摊位前排起长龙的经过，说明了他成功的原因。例如：他做事认真，从零开始不断学习制作奶茶的方法，并根据顾客的建议创新口味；他待人真诚，承认自己不会加珍珠，奶茶太甜就让顾客免费。最后大叔也亲口说出成功的心得：做事要认真，待人要真诚。“最难喝的奶茶”只是他吸引顾客的牌子，不是短文的重点。" },
+          "explanation": [
+            "答案选（1）成功的关键。",
+            "理由要说明短文的重点是大叔怎样成功，而不是奶茶难喝。",
+            "要从短文举例子：做事认真（不断学习、不断创新口味），待人真诚（承认自己的不足、奶茶太甜就免费）。",
+            "可以引用最后一段大叔说的成功心得来支持。",
+            "答案没有列出理由，只要选对题目，并用短文里的例子说清楚就可以。"
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "(1) 成功的关键", "solvedAnswer": "（1）成功的关键", "status": "verified", "note": "答案只给出选项（1），没有给理由；示范答案中的理由是根据短文内容自己写的。" }
+    },
+    {
+      "section": "p2", "number": 17, "page": 7, "format": "structured", "marks": 2,
+      "topic": "comprehension", "group": "g4",
+      "subtypes": ["vocabulary-in-context", "character-and-feelings"],
+      "stem": "试解释下面的短语在文中的意思。\n一颗心沉了下去（第三段）",
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "self", "value": "父亲听到儿子说这件事不是父亲的错，而是行人的错，觉得自己给孩子树立了不负责任的榜样，心情变得很沉重，感到害怕。" },
+          "explanation": [
+            "解释短语在文中的意思，要写出“谁、因为什么事、有什么感受”。",
+            "第三段：儿子说“这不是你的错。谁叫他站得那么靠近马路？”父亲听了，“害怕自己……给儿子树立了不负责任的榜样”。",
+            "要点：（1）父亲听到儿子说不是他的错，是行人的错；（2）父亲害怕（担心）自己给儿子树立了不负责任的榜样，心情沉重。"
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "父亲听到儿子说这件事不是父亲的错，而是行人的错，觉得自己给孩子树立了不负责任的榜样，父亲感到害怕", "solvedAnswer": "父亲听了儿子的话，心情一下子变得沉重，担心自己给儿子树立了不负责任的榜样（与答案一致）", "status": "verified", "note": "答案第一行“儿子说这件事不是父亲的错”有几个字印得重叠模糊，“这件事”三个字是根据上下文推断的，不影响答案要点。" }
+    },
+    {
+      "section": "p2", "number": 18, "page": 7, "format": "structured", "marks": 2,
+      "topic": "comprehension", "group": "g4",
+      "subtypes": ["vocabulary-in-context"],
+      "stem": "试解释下面的短语在文中的意思。\n没有得到期待的回应（第五段）",
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "self", "value": "父亲把道歉信传到各个网络平台，一个星期过去了，仍没有得到被他弄湿衣服的那位行人的回应。" },
+          "explanation": [
+            "先想：父亲“期待”的是谁的回应？第四段说他“希望当面向那位行人道歉”，所以他期待的是那位行人的回应。",
+            "第五段：“一个星期过去了，他的道歉信没有得到期待的回应。”",
+            "要点：（1）父亲把道歉信上传到网络平台；（2）那位被弄湿衣服的行人一直没有回应（联系）他。"
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "父亲把道歉信传到各个网络平台，一个星期过去了，仍没有得到被他弄湿衣服的那位行人的回应", "solvedAnswer": "父亲没有收到那位行人的回复（与答案一致）", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 19, "page": 7, "format": "structured", "marks": 3,
+      "topic": "comprehension", "group": "g4",
+      "subtypes": ["factual", "character-and-feelings"],
+      "stem": "",
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "什么事情让父亲放不下？",
+          "marks": 1,
+          "answer": { "type": "self", "value": "父亲开车经过积水时，车轮卷起的水花打湿了路边一位行人的衣服。" },
+          "explanation": [
+            "答案在第一段：“途中经过一滩积水时，车轮卷起的水花打湿了路边一位行人的衣服。”",
+            "要点：他的车溅起的水花打湿了行人的衣服。"
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "为什么他放不下？",
+          "marks": 2,
+          "answer": { "type": "self", "value": "因为他觉得这是自己的错，但当时是繁忙时间，前后都挤满了车，他无法停下来向那位行人道歉，所以心里很不安。" },
+          "explanation": [
+            "答案在第二段：“这都是我的错，我要是开慢一点就好了。可当时是繁忙时间，前后都挤满了车，我怎么可能停下来道歉？”",
+            "要点有两个：（1）他觉得是自己的错；（2）当时没办法停下来道歉，心里不安（内疚）。"
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "事情：父亲开车经过积水时，车轮卷起的水花打湿了路边一位行人的衣服。原因：他觉得是自己的错，但当时前后都挤满了车，无法停下道歉，因此想当面向那个人道歉却做不到，心里很不安", "solvedAnswer": "与答案一致", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 20, "page": 7, "format": "structured", "marks": 4,
+      "topic": "comprehension", "group": "g4",
+      "subtypes": ["inference", "cause-and-effect"],
+      "stem": "父亲在“认错”这件事上，早上和晚上的想法有什么不同？为什么他的想法会有这样的变化？",
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "self", "value": "早上，父亲认为是自己的错，但因为路上挤满了车，没能停下来道歉，觉得自己什么也做不了，只好作罢。晚上，听了儿子的话后，父亲认为不论如何，做错了事就应该承认错误，决定上网道歉。他的想法有这样的变化，是因为儿子的反应让他意识到，如果自己不承担责任，会给孩子树立不负责任的榜样。" },
+          "explanation": [
+            "这题要写三个部分：早上的想法、晚上的想法、变化的原因。",
+            "早上（第二段）：“我怎么可能停下来道歉？哎！我什么也做不了！”他觉得没办法道歉，只好算了。",
+            "晚上（第三段）：“既然做错了事，就应该承认错误。”他决定想办法补救，上网道歉。",
+            "原因（第三段）：儿子说“这不是你的错”，父亲“害怕自己在无奈之下做出的行为给儿子树立了不负责任的榜样”。"
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "早上：父亲认为是自己的错，但因为路上挤满车，没能停下道歉，只好作罢。晚上：听了儿子的话后，父亲认为不论如何，做错事就该承认错误，决定上网道歉。原因：儿子的反应让父亲意识到，若自己不承担责任，会给孩子树立不负责任的榜样", "solvedAnswer": "与答案一致", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 21, "page": 7, "format": "structured", "marks": 4,
+      "topic": "comprehension", "group": "g4",
+      "subtypes": ["main-idea"],
+      "stem": "请用不超过 15 个字，写出短文中第四段的段落大意。",
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "self", "value": "父亲上网发道歉信，还愿意出钱洗衣。", "accept": ["父亲上网发道歉信，还愿意出钱洗衣"] },
+          "explanation": [
+            "段落大意要写出“谁、做了什么”，只留下最重要的内容。",
+            "第四段写了两件事：父亲把道歉信上传到网络平台；他愿意出钱帮行人洗衣服。",
+            "把这两点用最短的话写出来，不能超过 15 个字（标点不算）。",
+            "示范答案“父亲上网发道歉信，还愿意出钱洗衣”刚好 15 个字。"
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "父亲上网发道歉信，还愿意出钱洗衣。", "solvedAnswer": "父亲上网发道歉信，想补偿行人（与答案要点一致）", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 22, "page": 7, "format": "structured", "marks": 4,
+      "topic": "comprehension", "group": "g4",
+      "subtypes": ["character-and-feelings", "inference"],
+      "stem": "",
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "父亲有哪两个优点？",
+          "marks": 2,
+          "answer": { "type": "self", "value": "父亲有责任感，也勇于认错。", "accept": ["有责任感，勇于认错", "有责任感和勇于认错", "有责任感、勇于认错"] },
+          "explanation": [
+            "优点要用形容人品的词语来写。",
+            "优点一：有责任感。优点二：勇于认错。",
+            "从父亲一整天都放不下这件事，后来又主动公开道歉，可以看出这两个优点。"
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "试分别举例说明。",
+          "marks": 2,
+          "answer": { "type": "self", "value": "有责任感：父亲主动跟家人谈起把行人衣服弄湿的事，即使儿子说不是他的错，他仍然自责，认为做错了事就应该承认错误。勇于认错：他把道歉信上传到各个网络平台，说明事情的经过，希望当面向那位行人道歉，并愿意出钱帮他洗衣服。" },
+          "explanation": [
+            "每个优点都要从短文里找一个例子，一个例子 1 分。",
+            "有责任感的例子（第三段）：他主动和家人谈起这件事，儿子说不是他的错，他还是自责。",
+            "勇于认错的例子（第四段）：他把道歉信上传到网络平台，希望当面道歉，还愿意出钱帮行人洗衣服。"
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "优点一：有责任感 — 例：主动跟家人分享把行人弄湿衣服一事，即使儿子说不是他的错，他仍自责。优点二：勇于认错 — 例：把道歉信上传到各个网络平台，说明经过，希望当面道歉并愿意出钱洗衣", "solvedAnswer": "有责任感（勇于承担）、勇于认错；另外也看得出他善于教导孩子、以身作则", "status": "verified", "note": "答案的两个优点是“有责任感”和“勇于认错”。“以身作则／善于教导孩子”（例：引导儿子想“如果你是那个行人”）也是短文中可以找到的合理优点，由家长酌情给分。" }
+    },
+    {
+      "section": "p2", "number": 23, "page": 7, "format": "structured", "marks": 5,
+      "topic": "comprehension", "group": "g4",
+      "subtypes": ["inference", "opinion"],
+      "stem": "",
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "为什么说“父亲的所作所为给很多人上了宝贵的一课”？",
+          "marks": 2,
+          "answer": { "type": "self", "value": "因为父亲勇于承认错误、承担责任的行为感动了很多人，让大家明白一个人即使犯了错，只要愿意为自己的错误承担责任，这样的勇气也值得赞赏。" },
+          "explanation": [
+            "“上了一课”的意思是让人学到一个道理。",
+            "答案在第五段：“很多人都被父亲的行为感动”，有人写道：“一个人即使犯了错，只要愿意为自己的错误承担责任，这样的勇气也值得赞赏。”",
+            "要点有两个：（1）父亲勇于认错、承担责任的行为感动了很多人；（2）大家明白了犯错后要勇于承担责任的道理。"
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "如果你是那个行人，看到了那封道歉信，你会怎么做？为什么？",
+          "marks": 3,
+          "answer": { "type": "self", "value": "（开放式题目，没有固定答案。）示范：如果我是那个行人，我会回复那位父亲，告诉他我接受他的道歉，也不需要他出钱洗衣服。因为他不是故意把我的衣服弄湿的，而且他事后一直放不下，还公开道歉，愿意承担责任，态度很真诚，值得原谅。我回复他，也能让他安心。" },
+          "explanation": [
+            "这是开放式题目，没有固定答案，说得合理就可以。",
+            "先清楚写出你会怎么做（例如：回复他、接受道歉、原谅他）。",
+            "再写出理由，理由要和短文内容有关（例如：他不是故意的；他很有诚意，勇于承担责任）。",
+            "做法 1 分，理由 2 分，句子要完整通顺。"
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "因为父亲勇于承认错误、承担责任的行为感动了很多人，让大家明白「只要愿意为自己的错误承担责任，这样的勇气也值得赞赏」（第二部分为开放式主观题，可按合理论述作答，无固定答案）", "solvedAnswer": "第一部分与答案一致；第二部分为开放式题目", "status": "verified", "note": "第二部分答案没有示范答案，示范答案是自己写的。" }
+    }
+  ]
+}

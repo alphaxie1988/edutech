@@ -1,0 +1,2963 @@
+{
+ "paper": {
+  "id": "2026-prelim-ai-tong",
+  "subject": "english",
+  "year": 2026,
+  "exam": "Prelim",
+  "school": "Ai Tong",
+  "schoolFull": "Ai Tong School",
+  "file": "PSLE-2026-P6-papers/English/P6-English-Prelim-2026-Ai-Tong-Paper.pdf",
+  "coordDpi": 100
+ },
+ "groups": [
+  {
+   "id": "g1",
+   "text": "For each question from 16 to 20, choose the word closest in meaning to the underlined word(s).\n\nThe Singapore Zoo celebrated the birth of three Sri Lankan leopard cubs early this year. This arrival marked a significant __(16: milestone)__ as these were the first-ever cubs of their kind to be born here. As there are fewer than 800 of these leopards left in the wild, experts hope the birth of these cubs will __(17: bring up)__ the shrinking population of this endangered species. Mandai Wildlife Group curator, Mr Anand Kumar, said that witnessing the healthy cubs __(18: thrive)__ and develop distinct personalities was __(19: incredibly rewarding)__. He added that the two male cubs were more laid-back while the female cub was observed to be __(20: feisty)__. The cubs can be found in the Wild Africa exhibit every Wednesday, Saturday and Sunday.\nAdapted from www.straitstimes.com"
+  },
+  {
+   "id": "g2",
+   "text": "Study the poster (Text 1) and the extract from an online article (Text 2) and answer questions 21 to 25.\n\n++Text 1++\nThe text below shows a poster related to running.\n[[img1]]\n++Text 2++\nThe extract below is taken from an online article.\nFor many, running is seen as a symbol of health and vitality. Because of its health benefits, some people insist that it is the best or most important form of exercise. The truth is, there are many other ways to enjoy similar health benefits. Activities such as cycling or playing sports can also help improve heart health and strengthen the body. What matters most is staying active regularly and enjoying the process.\nRunning can be an intense activity, especially for beginners. If people run too often, too fast or for too long, they will likely experience injuries such as muscle strain or joint pain. When this happens, some individuals may feel discouraged and stop exercising altogether. Health experts often recommend matching activities with one's current fitness level. Whether it is running, walking, or playing games with friends, regularly engaging in enjoyable activities is what helps people stay healthy in the long run. In addition, maintaining a balanced diet and drinking enough water help support overall health.",
+   "images": [
+    {
+     "id": "img1",
+     "page": 6,
+     "box": [
+      120,
+      204,
+      676,
+      925
+     ],
+     "alt": "Poster. At the top is a photograph of runners' legs and running shoes on a road. Title: House of Runners. Run Your Way to a Healthier Life. In a box: Want to feel stronger and more energetic? Run! Benefits: Improves heart health (picture of a heart); Strengthens muscles (picture of a flexed arm); Increases stamina (picture of a battery). Below the box: Our friendly members meet every Tuesday evening and Saturday morning for group runs. Runners of all levels come together to exercise, support one another and stay motivated. Whether you are new to running or already enjoy it, we welcome you! At the bottom: Interested? Contact Jim at 9123 4567 to sign up."
+    }
+   ]
+  },
+  {
+   "id": "g3",
+   "text": "There are 10 blanks, numbered 26 to 35, in the passage below. From the list of words given, choose the most suitable word for each blank. Write its letter (A to Q) in the blank. The letters (I) and (O) have been omitted to avoid confusion during marking.\n**EACH WORD CAN BE USED ONLY ONCE.**\n[[table1]]\n\nA 25-year-old Singaporean, Daniel Goh, has gained attention online for creating Chimbridge, a Singlish dictionary. The project features humorous entries inspired __(26)__ local expressions and everyday speech commonly used in Singapore. Many of these entries include creative phrases and one of the examples __(27)__ \"lao hong biscuit\", which describes something that has become outdated over time.\nThe creator, __(28)__ started the project as a personal passion, wanted to showcase the uniqueness of Singlish __(29)__ highlight how language reflects identity in society. He believes Singlish plays __(30)__ unique role in shaping how Singaporeans communicate __(31)__ others in daily life.\nThrough Chimbridge, he hopes to provide a platform __(32)__ creative expression and cultural sharing among online users __(33)__ different walks of life. The dictionary has rapidly grown __(34)__ popularity over time, gaining attention from local and international audiences. __(35)__ success has also encouraged others to contribute ideas to the project in meaningful ways. Do refer to the Chimbridge dictionary if you ever need Singlish references.\nAdapted from: www.channelnewsasia.com",
+   "tables": [
+    {
+     "id": "table1",
+     "rows": [
+      [
+       "(A) a",
+       "(D) are",
+       "(G) from",
+       "(K) its",
+       "(N) who"
+      ],
+      [
+       "(B) an",
+       "(E) by",
+       "(H) in",
+       "(L) it's",
+       "(P) whom"
+      ],
+      [
+       "(C) and",
+       "(F) for",
+       "(J) is",
+       "(M) or",
+       "(Q) with"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g4",
+   "text": "Each of the underlined words contains either a spelling or grammatical error. Write the correct word in each of the boxes.\n\nWhen Mr Rakcent Wong and his family made plans to travel around the world two years ago, many could not understand why they would do so. However, it was an __(36: opurtooniti)__ they did not want to miss. Over the past year, acquaintances they met have often asked if life overseas was more __(37: apeeling)__ for them. Certainly, it was. Nonetheless, travelling around the world has __(38: shows)__ the family how fortunate they already are. Singapore may be short __(39: in)__ natural resources, but it offers safety and __(40: stable)__. To them, Singapore is the best place to settle down and build a home.\nIn retrospect, the family found their world travels __(41: bearnefical)__ to them. Particularly, Mr Wong and his wife __(42: rekonaised)__ that their young son had experienced the __(43: great)__ gain among them. At a young age, he had cultivated an __(44: advencheras)__ spirit. Now that they are back in Singapore, it does not mark the end of a journey. Instead, it is __(45: simple)__ a new season in their journey together. Mr Wong is ready to build many more memories with his family.\nAdapted from: www.channelnewsasia.com"
+  },
+  {
+   "id": "g5",
+   "text": "Fill in each blank with a suitable word.\n\nDo students in Singapore like the food from their school canteens? For those who have a wide __(46)__ of food options to choose from, the answer is probably yes. __(47)__, for others, their experiences may not be as positive.\nAddressing this issue may not be a __(48)__ of cake, but some schools have adopted a central kitchen system to provide meals for their students. This change is largely __(49)__ to the decreasing number of canteen vendors. Many stallholders find it hard to __(50)__ with the long working hours and rising operating costs over time. As a result, many of them are __(51)__ to run food stalls in schools, despite the pressing need for canteen vendors.\nUnder the central kitchen system, meals are prepared in a main kitchen before being __(52)__ into bento boxes and delivered to schools. While this seems like a __(53)__ to the problem of having a shortage of canteen vendors in some schools, it also __(54)__ concerns among parents and students. For one, food that is transported over a long __(55)__ may not always be as fresh as it was when first cooked. Students may also have __(56)__ food choices than before, especially if only a limited menu is offered.\nTo improve the situation, central kitchens are making changes. Some work with nutritionists to __(57)__ meals are healthy and tasty. Schools also collect feedback from students so that changes to the menu can be made __(58)__ on their food preferences. It is __(59)__ noting that this system will not be implemented across all schools. It is meant to serve as an option for schools that face difficulties finding vendors, rather __(60)__ replace the traditional canteen completely. As schools continue to review this system, further improvements are expected to make school dining both convenient and enjoyable for students.\nAdapted from: The Straits Times"
+  },
+  {
+   "id": "g6",
+   "text": "Read the passage and answer questions 66 to 75.\n\n**1** Nick trudged out of the school gate with a heavy heart. It had been a dreadful day. In the morning, he had been reprimanded by his English teacher for forgetting to bring his homework. The stinging words still echoed in his mind, making his **cheeks burn with embarrassment**. During group work later in the day, his classmates had barely acknowledged his presence and brushed aside his ideas, leaving him feeling unimportant and excluded. To make matters worse, a stack of assignments awaited him, each one seeming more overwhelming than the last. By the time school ended, Nick felt utterly drained. It seemed as though nothing had gone right for him that day.\n**2** Dark clouds loomed overhead as Nick made his way towards the traffic light. Just as he stepped off the curb, a sudden downpour began. Caught off guard by **this**, Nick froze, unsure of what to do. At that moment, a gentle voice spoke beside him. \"Would you like to share my umbrella?\" Turning around, Nick saw a friendly lady with a tote bag slung on her shoulder smiling at him. Without waiting for a reply, she tilted **it** to shelter him from the rain. Nick nodded gratefully. As they crossed the road together, a warmth stirred in Nick's heart. It was a simple gesture, yet it brightened his gloomy mood.\n**3** After parting ways with the lady, Nick hurried towards the MRT station, weaving through the crowd to escape the rain. He tapped his card at the gantry and made his way onto the platform, his damp uniform clinging to his skin. Despite the **discomfort**, Nick patiently watched the train approach. He sighed deeply, trying to ease the uncertainty that filled his **burdened** heart. \"How can I complete all that homework by tonight?\" he lamented softly. Boarding the train, Nick found a seat and stared blankly at the floor, still thinking about the events of the day.\n**4** Suddenly, a commotion broke out. A commuter, who looked visibly unwell, had vomited on the train floor. Immediately, several passengers recoiled in disgust, covering their noses and moving away. Moments later, a young man stepped forward swiftly. Calmly, he approached the commuter and rendered assistance. Taking out some tissue paper, he began cleaning up the mess, his actions steady and uncomplaining. Nick watched in awe. Despite the unpleasant situation, the young man chose to help instead of turning away. Perhaps Singaporeans were not as selfish as he had thought, and kindness still existed in society.\n**5** When Nick alighted from the train, the rain had let up. As he walked home, he noticed a concerning sight – an **elderly lady was in distress.** Her electric wheelchair had run out of battery and she was stranded at the side of the path. Beside her stood a man who was struggling to push the heavy wheelchair forward. Without hesitation, Nick hurried over. \"Let me help,\" he offered. Together, they pushed the wheelchair slowly along the path. It was not easy, as the wheels resisted their efforts. However, Nick and the man persevered and they finally reached the old lady's flat. After a quick exchange, the man rushed off as he was running late for his appointment. With gratitude in her eyes, the old lady looked at Nick and uttered, \"Thank you, young man.\" Then, she added warmly, \"You have a kind heart.\" Her words lingered with him as he made his way home. For the first time that day, Nick smiled.\n**6** As he reflected on the events of the afternoon, Nick realised that while his day had started poorly, it did not have to end that way. The kindness he had witnessed, and taken part in, had shifted his perspective. Life would always have its challenges. With a lighter heart, Nick walked on, determined to face tomorrow with renewed positivity.\nWritten by: Casey Low"
+  }
+ ],
+ "questions": [
+  {
+   "section": "a",
+   "number": 1,
+   "page": 2,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "grammar",
+   "subtypes": [
+    "conditionals",
+    "inversion"
+   ],
+   "stem": "__________ the traffic not been heavy, we would have reached the airport on time.",
+   "options": [
+    "Did",
+    "Had",
+    "Might",
+    "Should"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 2
+     },
+     "explanation": [
+      "Clue: 'we **would have reached**' tells us this is about something in the past that did not happen (the traffic was heavy, and we were late).",
+      "Rule: for an unreal past condition we use 'If + had + past participle'. The 'if' can be dropped by moving 'had' to the front: 'If the traffic had not been heavy' becomes 'Had the traffic not been heavy'.",
+      "The word after the blank is 'been', a past participle, so only 'Had' can go with it. 'Did', 'Might' and 'Should' are followed by the base form of a verb, not 'been'.",
+      "'Had the traffic not been heavy, we would have reached the airport on time.' The answer is option (2)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "2",
+    "solvedAnswer": "2",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 2,
+   "page": 2,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "grammar",
+   "subtypes": [
+    "question-tags"
+   ],
+   "stem": "\"I heard Ryan is being awarded the Model Student Award. He's improved immensely in his behaviour, __________ he?\" Mrs Tan commented.",
+   "options": [
+    "is",
+    "has",
+    "isn't",
+    "hasn't"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 4
+     },
+     "explanation": [
+      "First work out what 'He's' stands for. It is followed by 'improved', a past participle, so 'He's improved' means 'He **has** improved' (present perfect), not 'He is'.",
+      "Rule for question tags: use the same helping verb as the statement, and make a positive statement take a negative tag.",
+      "The statement is positive ('has improved'), so the tag is negative: 'hasn't he?'",
+      "'isn't' is the tempting wrong answer, because 's can also mean 'is'. The answer is option (4), hasn't."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "4",
+    "solvedAnswer": "4",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 3,
+   "page": 2,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "grammar",
+   "subtypes": [
+    "pronouns"
+   ],
+   "stem": "\"Both of you should give __________ credit for working so well together despite your differences,\" praised Miss Chan.",
+   "options": [
+    "oneself",
+    "yourself",
+    "yourselves",
+    "themselves"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 3
+     },
+     "explanation": [
+      "When the person doing the action and the person receiving it are the same, we use a reflexive pronoun (a '-self' or '-selves' word).",
+      "Miss Chan is speaking **to** two people: 'Both of you'. The reflexive pronoun for 'you' is 'yourself' for one person and 'yourselves' for more than one.",
+      "'Both' means two people, so we need the plural 'yourselves'. 'themselves' goes with 'they', and 'oneself' goes with 'one'.",
+      "The answer is option (3), yourselves."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "3",
+    "solvedAnswer": "3",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 4,
+   "page": 2,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "grammar",
+   "subtypes": [
+    "prepositions"
+   ],
+   "stem": "\"Being declared the winners of the National Volleyball Championships was __________ our wildest dreams,\" the star player said.",
+   "options": [
+    "of",
+    "over",
+    "above",
+    "beyond"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 4
+     },
+     "explanation": [
+      "'beyond our wildest dreams' is a fixed expression. It means far better than anything we had ever imagined or hoped for.",
+      "'beyond' means further than a limit. The win went further than even their wildest dreams.",
+      "'over' and 'above' also mean 'higher than', which makes them tempting, but they are not used in this expression.",
+      "The answer is option (4), beyond."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "4",
+    "solvedAnswer": "4",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 5,
+   "page": 2,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "grammar",
+   "subtypes": [
+    "infinitives-and-gerunds",
+    "prepositions"
+   ],
+   "stem": "Krish insisted on __________ the puzzle before his dinner, refusing to leave it half done.",
+   "options": [
+    "complete",
+    "completed",
+    "completing",
+    "completion"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 3
+     },
+     "explanation": [
+      "Rule: a verb that comes straight after a preposition (on, in, at, of, for ...) takes the -ing form.",
+      "'insisted **on**' ends with the preposition 'on', so the verb becomes 'completing'.",
+      "'completion' is a noun. It would need 'of' after it ('insisted on the completion of the puzzle'), so it does not fit here.",
+      "'Krish insisted on completing the puzzle.' The answer is option (3)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "3",
+    "solvedAnswer": "3",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 6,
+   "page": 3,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "grammar",
+   "subtypes": [
+    "connectors"
+   ],
+   "stem": "Avery dislikes prawns. __________ that, she enjoys seafood.",
+   "options": [
+    "As a result of",
+    "In addition to",
+    "According to",
+    "In spite of"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 4
+     },
+     "explanation": [
+      "Look at how the two sentences are linked. Prawns are a kind of seafood, so disliking prawns but enjoying seafood is a contrast, something we would not expect.",
+      "'In spite of that' means 'even though that is true'. It links two ideas that contrast with each other.",
+      "'As a result of' gives a cause, 'In addition to' adds a similar idea, and 'According to' tells us who said something. None of them shows contrast.",
+      "'Avery dislikes prawns. In spite of that, she enjoys seafood.' The answer is option (4)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "4",
+    "solvedAnswer": "4",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 7,
+   "page": 3,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "grammar",
+   "subtypes": [
+    "quantifiers"
+   ],
+   "stem": "The scientists conducted __________ research on sea jellies before they published their detailed work last year.",
+   "options": [
+    "little",
+    "much",
+    "many",
+    "several"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 2
+     },
+     "explanation": [
+      "'research' is an uncountable noun: we do not say 'a research' or 'researches'.",
+      "'many' and 'several' are used only with countable plural nouns (many books, several tests), so they are out.",
+      "'little' and 'much' both go with uncountable nouns, so use the meaning. The scientists published '**detailed** work', so they must have done a lot of research, not hardly any.",
+      "The answer is option (2), much."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "2",
+    "solvedAnswer": "2",
+    "status": "verified",
+    "note": "The key's digit for Q7 is partly under the watermark; the visible strokes are a 2, which matches the solved answer."
+   }
+  },
+  {
+   "section": "a",
+   "number": 8,
+   "page": 3,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "grammar",
+   "subtypes": [
+    "subjunctive",
+    "tenses"
+   ],
+   "stem": "Hoping to avoid the peak-hour crowd, the tour guide suggested that the tourists __________ at the lobby after breakfast.",
+   "options": [
+    "gather",
+    "gathered",
+    "had gathered",
+    "have gathered"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 1
+     },
+     "explanation": [
+      "Rule: after verbs such as suggest, recommend, insist and demand + 'that', the next verb stays in its base form, whatever the tense or subject. (It is short for 'should gather'.)",
+      "So we write 'suggested that the tourists gather', just as we would write 'suggested that he gather'.",
+      "'gathered' is tempting because 'suggested' is in the past tense, but the gathering had not happened yet. It was only a suggestion.",
+      "The answer is option (1), gather."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "1",
+    "solvedAnswer": "1",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 9,
+   "page": 3,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "grammar",
+   "subtypes": [
+    "subject-verb-agreement"
+   ],
+   "stem": "\"Neither of us __________ ready to leave the party now,\" whined Kim to her mother.",
+   "options": [
+    "is",
+    "are",
+    "was",
+    "were"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 1
+     },
+     "explanation": [
+      "Rule: 'neither of' + plural noun or pronoun takes a singular verb, because it means 'not one and not the other'.",
+      "The word 'now' shows the present tense, so 'was' and 'were' are out.",
+      "The singular present form of 'to be' is 'is'. 'are' is tempting because 'us' is plural, but the subject is 'Neither'.",
+      "'Neither of us is ready to leave the party now.' The answer is option (1)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "1",
+    "solvedAnswer": "1",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 10,
+   "page": 3,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "grammar",
+   "subtypes": [
+    "comparatives"
+   ],
+   "stem": "\"Working with Nora on this project was __________ than the requirements of the project itself,\" said Jill.",
+   "options": [
+    "challenging",
+    "as challenging",
+    "more challenging",
+    "most challenging"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 3
+     },
+     "explanation": [
+      "The clue is the word 'than' right after the blank. 'than' is used when two things are compared.",
+      "Two things are compared here: working with Nora, and the requirements of the project. For two things we use the comparative form.",
+      "'challenging' is a long adjective, so its comparative is 'more challenging'. 'as challenging' needs 'as', not 'than'; 'most challenging' is for three or more things and needs 'the'.",
+      "The answer is option (3), more challenging."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "3",
+    "solvedAnswer": "3",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 11,
+   "page": 4,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "vocabulary",
+   "subtypes": [
+    "word-meaning"
+   ],
+   "stem": "The __________ of the football player was on full display as he successfully dodged the tackles from his opponents.",
+   "options": [
+    "accuracy",
+    "strength",
+    "stamina",
+    "agility"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 4
+     },
+     "explanation": [
+      "Clue: he 'dodged the tackles'. To dodge is to move quickly out of the way.",
+      "'agility' is the ability to move quickly and easily, changing direction fast. That is exactly what dodging needs.",
+      "'stamina' is the energy to keep going for a long time, 'strength' is power, and 'accuracy' is about hitting a target. None of these is shown by dodging.",
+      "The answer is option (4), agility."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "4",
+    "solvedAnswer": "4",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 12,
+   "page": 4,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "vocabulary",
+   "subtypes": [
+    "phrasal-verbs"
+   ],
+   "stem": "David stayed up late to revise for the examinations because he had __________ studying until the night before his first paper.",
+   "options": [
+    "put out",
+    "put off",
+    "put up",
+    "put on"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 2
+     },
+     "explanation": [
+      "Clue: he had to stay up late because he had not studied 'until the night before'. He had delayed his studying.",
+      "'put off' means to delay something or leave it until later.",
+      "'put out' means to stop a fire or light, 'put up' means to build something or let someone stay, and 'put on' means to wear something or to stage a show.",
+      "The answer is option (2), put off."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "2",
+    "solvedAnswer": "2",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 13,
+   "page": 4,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "vocabulary",
+   "subtypes": [
+    "word-meaning"
+   ],
+   "stem": "Although Lilian had won the Student Leader Award, she remained __________, rarely bringing up her achievements to her classmates.",
+   "options": [
+    "confident",
+    "modest",
+    "selfless",
+    "proud"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 2
+     },
+     "explanation": [
+      "Clue: she was 'rarely bringing up her achievements'. She did not boast. 'Although' also tells us her behaviour is a surprise after winning an award.",
+      "'modest' means not talking much about your own abilities or successes; humble.",
+      "'selfless' is tempting, but it means caring about other people's needs more than your own, which is not what the sentence describes. 'proud' is the opposite of what we need.",
+      "The answer is option (2), modest."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "2",
+    "solvedAnswer": "2",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 14,
+   "page": 4,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "vocabulary",
+   "subtypes": [
+    "word-meaning"
+   ],
+   "stem": "The detective searched the room __________ for fingerprints, looking into every nook and cranny for even the smallest clue.",
+   "options": [
+    "meticulously",
+    "vigorously",
+    "hastily",
+    "calmly"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 1
+     },
+     "explanation": [
+      "Clue: 'every nook and cranny' and 'even the smallest clue'. The search was very careful and thorough.",
+      "'meticulously' means very carefully, paying attention to every small detail.",
+      "'vigorously' means with a lot of energy and force, which says nothing about care. 'hastily' means in a hurry, the opposite of careful.",
+      "The answer is option (1), meticulously."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "1",
+    "solvedAnswer": "1",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 15,
+   "page": 4,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "vocabulary",
+   "subtypes": [
+    "collocation",
+    "word-meaning"
+   ],
+   "stem": "When Jessie and her team members were having a heated argument, Mrs Lim stepped in to __________ the tension before it worsened.",
+   "options": [
+    "minimise",
+    "subside",
+    "reduce",
+    "defuse"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 4
+     },
+     "explanation": [
+      "'defuse' means to make a tense or dangerous situation calmer. (It comes from removing the fuse of a bomb so that it cannot explode.) 'Defuse the tension' is a common word pair.",
+      "It fits best because Mrs Lim acted 'before it worsened', like stopping a bomb before it goes off.",
+      "'subside' means to become calmer by itself (the tension subsided); a person cannot 'subside' something. 'reduce' and 'minimise' make sense, but they are not the words normally paired with 'tension' in a heated argument, so they are not the best answer.",
+      "The answer is option (4), defuse."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "4",
+    "solvedAnswer": "4",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 16,
+   "page": 5,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "vocabulary-cloze",
+   "subtypes": [
+    "word-meaning"
+   ],
+   "group": "g1",
+   "stem": "Choose the word closest in meaning to ++milestone++.",
+   "options": [
+    "transformation",
+    "breakthrough",
+    "anniversary",
+    "incident"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 2
+     },
+     "explanation": [
+      "A 'milestone' is a very important event or achievement that marks a new stage.",
+      "Clue in the passage: these were 'the first-ever cubs of their kind to be born here'. Something achieved for the first time is a breakthrough.",
+      "'breakthrough' means an important achievement or success after much effort, which matches.",
+      "'anniversary' is tempting because the zoo 'celebrated', but an anniversary is the date on which something happened in an earlier year. The answer is option (2)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "2",
+    "solvedAnswer": "2",
+    "status": "verified",
+    "note": "The key's digit for Q16 is partly under the watermark; the visible strokes are a 2, which matches the solved answer."
+   }
+  },
+  {
+   "section": "a",
+   "number": 17,
+   "page": 5,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "vocabulary-cloze",
+   "subtypes": [
+    "word-meaning",
+    "phrasal-verbs"
+   ],
+   "group": "g1",
+   "stem": "Choose the word closest in meaning to ++bring up++.",
+   "options": [
+    "improve",
+    "multiply",
+    "expand",
+    "aid"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 3
+     },
+     "explanation": [
+      "Here 'bring up' means to raise a number: to make it go up.",
+      "Clue in the passage: the population is 'shrinking', with 'fewer than 800' left. The experts hope the new cubs will make the population bigger again.",
+      "'expand' means to make something larger in size or number. It is the opposite of 'shrink', so it fits best.",
+      "'multiply' is tempting, but it means to increase many times over, which is far more than three cubs can do. 'improve' means to make better, not bigger. The answer is option (3)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "3",
+    "solvedAnswer": "3",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 18,
+   "page": 5,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "vocabulary-cloze",
+   "subtypes": [
+    "word-meaning"
+   ],
+   "group": "g1",
+   "stem": "Choose the word closest in meaning to ++thrive++.",
+   "options": [
+    "excel",
+    "mature",
+    "flourish",
+    "survive"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 3
+     },
+     "explanation": [
+      "To 'thrive' is to grow strong and healthy and do very well.",
+      "Clue in the passage: the cubs are described as 'healthy' and developing well.",
+      "'flourish' means to grow well and be healthy and successful, the same meaning.",
+      "'survive' is tempting, but it only means to stay alive, which is much weaker. 'excel' means to be very good at a skill. The answer is option (3)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "3",
+    "solvedAnswer": "3",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 19,
+   "page": 5,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "vocabulary-cloze",
+   "subtypes": [
+    "word-meaning"
+   ],
+   "group": "g1",
+   "stem": "Choose the word closest in meaning to ++incredibly rewarding++.",
+   "options": [
+    "enjoyable",
+    "valuable",
+    "inspiring",
+    "fulfilling"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 4
+     },
+     "explanation": [
+      "Something 'rewarding' gives you a deep feeling of satisfaction because your effort was worth it.",
+      "The curator looks after the animals, so seeing the cubs healthy made him feel that his work had been worthwhile.",
+      "'fulfilling' means making you feel satisfied and happy with what you have done, which matches.",
+      "'enjoyable' is tempting, but it only means fun or pleasant; it does not carry the sense of satisfaction from effort. The answer is option (4)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "4",
+    "solvedAnswer": "4",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 20,
+   "page": 5,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "vocabulary-cloze",
+   "subtypes": [
+    "word-meaning"
+   ],
+   "group": "g1",
+   "stem": "Choose the word closest in meaning to ++feisty++.",
+   "options": [
+    "lively",
+    "fierce",
+    "playful",
+    "uptight"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 1
+     },
+     "explanation": [
+      "'feisty' describes someone who is full of energy and spirit and not easily pushed around.",
+      "Clue in the passage: the word 'while' contrasts the female cub with the males, who were 'laid-back' (relaxed and easy-going). The opposite of laid-back is energetic.",
+      "'lively' means full of energy, which matches.",
+      "'fierce' is tempting because leopards are wild animals, but fierce means violent and frightening, which is too strong and is not the opposite of 'laid-back'. The answer is option (1)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "1",
+    "solvedAnswer": "1",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 21,
+   "page": 8,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "visual-text",
+   "subtypes": [
+    "purpose-and-audience"
+   ],
+   "group": "g2",
+   "stem": "\"Want to feel stronger and more energetic?\" The purpose of this question in Text 1 is to __________.",
+   "options": [
+    "make readers want to pick up running",
+    "invite readers to join House of Runners",
+    "show readers what it means to be healthy",
+    "ask readers how they can become healthier"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 1
+     },
+     "explanation": [
+      "Look at what follows the question on the poster: the one-word answer 'Run!' and then a list of the benefits of running.",
+      "The question names something most readers want (to feel stronger and more energetic) and then offers running as the way to get it. Its job is to make readers want to start running.",
+      "(2) is tempting because the whole poster wants people to join the club, but this question says nothing about the club. The invitation comes later: 'we welcome you!' and 'Contact Jim ... to sign up'.",
+      "The poster does not expect readers to reply, so (4) is wrong, and the question does not explain what being healthy means, so (3) is wrong. The answer is option (1)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "1",
+    "solvedAnswer": "1",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 22,
+   "page": 8,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "visual-text",
+   "subtypes": [
+    "inference"
+   ],
+   "group": "g2",
+   "stem": "Based on the poster in Text 1, which of the following would you least expect House of Runners to be?",
+   "options": [
+    "a club for people to make friends",
+    "a group of people who meet regularly",
+    "a way for people to exercise together",
+    "a club that people who like running can join"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 1
+     },
+     "explanation": [
+      "'Least expect' means: find the description that the poster supports the least. Check each one.",
+      "(2) is stated: members 'meet every Tuesday evening and Saturday morning'. (3) is stated: runners 'come together to exercise'. (4) is stated: 'Whether you are new to running or already enjoy it, we welcome you!'",
+      "(1) is never given as the purpose. The members are 'friendly' and 'support one another', but people join to run and get healthier ('Run Your Way to a Healthier Life'), not mainly to make friends.",
+      "The answer is option (1)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "1",
+    "solvedAnswer": "1",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 23,
+   "page": 8,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "visual-text",
+   "subtypes": [
+    "purpose-and-audience",
+    "inference"
+   ],
+   "group": "g2",
+   "stem": "Which of the following statements are true about how information on House of Runners is presented in Text 1?\nA: It expresses concern about readers' health issues.\nB: It emphasises how readers can benefit from an activity.\nC: It uses an inclusive and welcoming approach to attract readers.",
+   "options": [
+    "A and B",
+    "A and C",
+    "B and C",
+    "A, B and C"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 3
+     },
+     "explanation": [
+      "A is false. The poster never mentions illness or health problems, and it does not sound worried. It is cheerful and encouraging.",
+      "B is true. The heading 'Benefits:' is underlined and lists three benefits of running: 'Improves heart health', 'Strengthens muscles', 'Increases stamina'.",
+      "C is true. 'Runners of all levels come together' and 'Whether you are new to running or already enjoy it, we welcome you!' show that everyone is included.",
+      "Only B and C are true. The answer is option (3)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "3",
+    "solvedAnswer": "3",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 24,
+   "page": 8,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "visual-text",
+   "subtypes": [
+    "inference"
+   ],
+   "group": "g2",
+   "stem": "What is the **main** message Text 2 conveys about staying healthy?",
+   "options": [
+    "Include a wide range of exercises.",
+    "Establish an enjoyable exercise routine.",
+    "Maintain a balanced diet and drink enough water.",
+    "Match the intensity of the activity to one's fitness level."
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 2
+     },
+     "explanation": [
+      "The main message is the idea the writer keeps coming back to, not a detail mentioned once.",
+      "Each paragraph ends on the same idea. Paragraph 1: 'What matters most is staying active regularly and enjoying the process.' Paragraph 2: 'regularly engaging in enjoyable activities is what helps people stay healthy in the long run.'",
+      "Regular + enjoyable = an enjoyable exercise routine, which is option (2).",
+      "(3) and (4) are in the text, but each is mentioned only once as extra advice ('In addition, ...', 'Health experts often recommend ...'). (1) is not said: the text says other activities also work, not that you must do many kinds. The answer is option (2)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "2",
+    "solvedAnswer": "2",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 25,
+   "page": 8,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "visual-text",
+   "subtypes": [
+    "factual"
+   ],
+   "group": "g2",
+   "stem": "Which idea is expressed in both Text 1 and Text 2?",
+   "options": [
+    "Running offers health benefits.",
+    "Running is not suitable for beginners.",
+    "Running regularly will result in injuries.",
+    "Running is the only way to improve heart health."
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 1
+     },
+     "explanation": [
+      "The idea must be found in both texts, so check each option against Text 1 and Text 2.",
+      "(1) Text 1 lists the 'Benefits' of running (heart health, muscles, stamina). Text 2 says 'Because of its health benefits ...'. Both agree.",
+      "(2) is wrong: Text 1 welcomes people who are 'new to running'. (3) is wrong: Text 2 says injuries are likely only if people run 'too often, too fast or for too long'. (4) is wrong: Text 2 says cycling or playing sports 'can also help improve heart health'.",
+      "The answer is option (1)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "1",
+    "solvedAnswer": "1",
+    "status": "verified",
+    "note": "The key's digit for Q25 is partly under the watermark; the visible stroke is a 1, which matches the solved answer."
+   }
+  },
+  {
+   "section": "b",
+   "number": 26,
+   "page": 11,
+   "format": "short",
+   "marks": 1,
+   "topic": "grammar-cloze",
+   "subtypes": [
+    "prepositions"
+   ],
+   "group": "g3",
+   "stem": "Choose the most suitable word for blank (26). (Type its letter, A to Q.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "E",
+      "accept": [
+       "e",
+       "by"
+      ]
+     },
+     "explanation": [
+      "'inspired' here is a past participle used in the passive: the entries were inspired ___ something.",
+      "In the passive, the thing that causes the action is introduced with 'by': 'inspired by local expressions and everyday speech'.",
+      "'from' is tempting, but the usual pattern is 'inspired by'. 'from' is also needed for blank (33).",
+      "The answer is (E) by."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "E",
+    "solvedAnswer": "E (by)",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 27,
+   "page": 11,
+   "format": "short",
+   "marks": 1,
+   "topic": "grammar-cloze",
+   "subtypes": [
+    "verb-forms"
+   ],
+   "group": "g3",
+   "stem": "Choose the most suitable word for blank (27). (Type its letter, A to Q.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "J",
+      "accept": [
+       "j",
+       "is"
+      ]
+     },
+     "explanation": [
+      "The sentence part 'one of the examples ___ \"lao hong biscuit\"' has no verb, so the blank needs one.",
+      "Rule: 'one of the' + plural noun takes a singular verb, because the subject is 'one'.",
+      "So we need 'is', not 'are'. The passage is in the present tense ('include', 'describes').",
+      "The answer is (J) is: 'one of the examples is \"lao hong biscuit\"'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "J",
+    "solvedAnswer": "J (is)",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 28,
+   "page": 11,
+   "format": "short",
+   "marks": 1,
+   "topic": "grammar-cloze",
+   "subtypes": [
+    "pronouns"
+   ],
+   "group": "g3",
+   "stem": "Choose the most suitable word for blank (28). (Type its letter, A to Q.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "N",
+      "accept": [
+       "n",
+       "who"
+      ]
+     },
+     "explanation": [
+      "The words between the two commas give extra information about 'The creator', a person. That is a relative clause, and for a person it begins with 'who' or 'whom'.",
+      "After the blank comes the verb 'started'. The creator did the starting, so the pronoun is the **subject** of 'started'. Use 'who' for the subject.",
+      "'whom' is used for the object, for example 'the creator, whom many people admire'. It cannot be followed directly by a verb.",
+      "The answer is (N) who: 'The creator, who started the project as a personal passion, ...'"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "N",
+    "solvedAnswer": "N (who)",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 29,
+   "page": 11,
+   "format": "short",
+   "marks": 1,
+   "topic": "grammar-cloze",
+   "subtypes": [
+    "connectors"
+   ],
+   "group": "g3",
+   "stem": "Choose the most suitable word for blank (29). (Type its letter, A to Q.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "C",
+      "accept": [
+       "c",
+       "and"
+      ]
+     },
+     "explanation": [
+      "Look at the two verbs on either side of the blank: 'wanted to **showcase** the uniqueness of Singlish ___ **highlight** how language reflects identity'.",
+      "He wanted to do both things, so we need a word that adds one action to another: 'and'.",
+      "'or' would mean he wanted only one of the two, which does not fit.",
+      "The answer is (C) and."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "C",
+    "solvedAnswer": "C (and)",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 30,
+   "page": 11,
+   "format": "short",
+   "marks": 1,
+   "topic": "grammar-cloze",
+   "subtypes": [
+    "articles-and-determiners"
+   ],
+   "group": "g3",
+   "stem": "Choose the most suitable word for blank (30). (Type its letter, A to Q.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "A",
+      "accept": [
+       "a",
+       "a"
+      ]
+     },
+     "explanation": [
+      "'role' is a singular countable noun, so it needs an article: 'plays ___ unique role'.",
+      "Choose 'a' or 'an' by the **sound** that follows, not the letter. 'unique' begins with a 'yoo' sound, which is a consonant sound.",
+      "So it is 'a unique role', just like 'a uniform' and 'a university'. 'an' is the trap.",
+      "The answer is (A) a."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "A",
+    "solvedAnswer": "A (a)",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 31,
+   "page": 11,
+   "format": "short",
+   "marks": 1,
+   "topic": "grammar-cloze",
+   "subtypes": [
+    "prepositions"
+   ],
+   "group": "g3",
+   "stem": "Choose the most suitable word for blank (31). (Type its letter, A to Q.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "Q",
+      "accept": [
+       "q",
+       "with"
+      ]
+     },
+     "explanation": [
+      "The verb is 'communicate'. We communicate **with** other people.",
+      "'how Singaporeans communicate with others in daily life' makes sense.",
+      "The answer is (Q) with."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "Q",
+    "solvedAnswer": "Q (with)",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 32,
+   "page": 11,
+   "format": "short",
+   "marks": 1,
+   "topic": "grammar-cloze",
+   "subtypes": [
+    "prepositions"
+   ],
+   "group": "g3",
+   "stem": "Choose the most suitable word for blank (32). (Type its letter, A to Q.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "F",
+      "accept": [
+       "f",
+       "for"
+      ]
+     },
+     "explanation": [
+      "'a platform ___ creative expression and cultural sharing' tells us the purpose of the platform, what it is meant to be used for.",
+      "'for' introduces a purpose: a platform for creative expression.",
+      "The answer is (F) for."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "F",
+    "solvedAnswer": "F (for)",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 33,
+   "page": 11,
+   "format": "short",
+   "marks": 1,
+   "topic": "grammar-cloze",
+   "subtypes": [
+    "prepositions"
+   ],
+   "group": "g3",
+   "stem": "Choose the most suitable word for blank (33). (Type its letter, A to Q.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "G",
+      "accept": [
+       "g",
+       "from"
+      ]
+     },
+     "explanation": [
+      "'people from all walks of life' is a fixed expression. It means people of many different jobs and backgrounds.",
+      "Here it is 'online users from different walks of life': 'from' shows where the users come from.",
+      "The answer is (G) from."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "G",
+    "solvedAnswer": "G (from)",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 34,
+   "page": 11,
+   "format": "short",
+   "marks": 1,
+   "topic": "grammar-cloze",
+   "subtypes": [
+    "prepositions"
+   ],
+   "group": "g3",
+   "stem": "Choose the most suitable word for blank (34). (Type its letter, A to Q.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "H",
+      "accept": [
+       "h",
+       "in"
+      ]
+     },
+     "explanation": [
+      "'grow in popularity' is a fixed pattern: grow in size, grow in number, grow in confidence.",
+      "'The dictionary has rapidly grown in popularity over time' means it has become more and more popular.",
+      "The answer is (H) in."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "H",
+    "solvedAnswer": "H (in)",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 35,
+   "page": 11,
+   "format": "short",
+   "marks": 1,
+   "topic": "grammar-cloze",
+   "subtypes": [
+    "pronouns",
+    "articles-and-determiners"
+   ],
+   "group": "g3",
+   "stem": "Choose the most suitable word for blank (35). (Type its letter, A to Q.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "K",
+      "accept": [
+       "k",
+       "its"
+      ]
+     },
+     "explanation": [
+      "The blank comes before the noun 'success', so we need a word that shows whose success it is: the dictionary's.",
+      "'its' (no apostrophe) is the possessive word for a thing: its success.",
+      "'it's' (with an apostrophe) is the trap. It is short for 'it is' or 'it has'; 'It is success has also encouraged' makes no sense.",
+      "The answer is (K) its: 'Its success has also encouraged others ...'"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "K",
+    "solvedAnswer": "K (its)",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 36,
+   "page": 12,
+   "format": "short",
+   "marks": 1,
+   "topic": "editing",
+   "subtypes": [
+    "spelling"
+   ],
+   "group": "g4",
+   "stem": "Write the correct word for (36) ++opurtooniti++.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "opportunity"
+     },
+     "explanation": [
+      "This is a spelling error. Say the word aloud: op-por-tu-ni-ty. It means a chance to do something.",
+      "Break it into parts: op + por + tu + ni + ty. Remember the double 'p' and the ending '-ity'.",
+      "The correct word is 'opportunity'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "opportunity",
+    "solvedAnswer": "opportunity",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 37,
+   "page": 12,
+   "format": "short",
+   "marks": 1,
+   "topic": "editing",
+   "subtypes": [
+    "spelling"
+   ],
+   "group": "g4",
+   "stem": "Write the correct word for (37) ++apeeling++.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "appealing"
+     },
+     "explanation": [
+      "This is a spelling error. The word means attractive or interesting: was life overseas more attractive for them?",
+      "It comes from the verb 'appeal': double 'p', and the long 'ee' sound is spelt 'ea'. Then add -ing.",
+      "The correct word is 'appealing'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "appealing",
+    "solvedAnswer": "appealing",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 38,
+   "page": 12,
+   "format": "short",
+   "marks": 1,
+   "topic": "editing",
+   "subtypes": [
+    "grammar"
+   ],
+   "group": "g4",
+   "stem": "Write the correct word for (38) ++shows++.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "shown"
+     },
+     "explanation": [
+      "This is a grammar error. Look at the helping verb in front: 'travelling around the world **has** ___ the family'.",
+      "Rule: has/have + past participle makes the present perfect tense.",
+      "The verb 'show' goes show, showed, shown. The past participle is 'shown'.",
+      "The correct word is 'shown'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "shown",
+    "solvedAnswer": "shown",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 39,
+   "page": 12,
+   "format": "short",
+   "marks": 1,
+   "topic": "editing",
+   "subtypes": [
+    "grammar"
+   ],
+   "group": "g4",
+   "stem": "Write the correct word for (39) ++in++.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "of",
+      "accept": [
+       "on"
+      ]
+     },
+     "explanation": [
+      "This is a grammar error: the wrong preposition has been used.",
+      "The fixed phrase is 'short **of** something', meaning not having enough of it: short of money, short of time.",
+      "'Singapore may be short of natural resources' means it does not have many.",
+      "The correct word is 'of'. ('short on' is also used in everyday English.)"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "of",
+    "solvedAnswer": "of",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 40,
+   "page": 12,
+   "format": "short",
+   "marks": 1,
+   "topic": "editing",
+   "subtypes": [
+    "grammar"
+   ],
+   "group": "g4",
+   "stem": "Write the correct word for (40) ++stable++.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "stability"
+     },
+     "explanation": [
+      "This is a grammar error: the wrong form of the word has been used.",
+      "'it offers safety and ___': the word 'and' joins two things of the same kind. 'safety' is a noun, so the second word must also be a noun.",
+      "'stable' is an adjective. Its noun is 'stability' (stable: drop the 'le', add 'ility').",
+      "The correct word is 'stability'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "stability",
+    "solvedAnswer": "stability",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 41,
+   "page": 12,
+   "format": "short",
+   "marks": 1,
+   "topic": "editing",
+   "subtypes": [
+    "spelling"
+   ],
+   "group": "g4",
+   "stem": "Write the correct word for (41) ++bearnefical++.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "beneficial"
+     },
+     "explanation": [
+      "This is a spelling error. The word means helpful or having a good effect.",
+      "It comes from 'benefit'. Break it up: ben + e + fi + cial. The 'shul' sound at the end is spelt '-cial', as in 'special'.",
+      "The correct word is 'beneficial'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "beneficial",
+    "solvedAnswer": "beneficial",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 42,
+   "page": 12,
+   "format": "short",
+   "marks": 1,
+   "topic": "editing",
+   "subtypes": [
+    "spelling"
+   ],
+   "group": "g4",
+   "stem": "Write the correct word for (42) ++rekonaised++.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "recognised",
+      "accept": [
+       "recognized"
+      ]
+     },
+     "explanation": [
+      "This is a spelling error. The word means realised or accepted that something is true.",
+      "Break it up: rec + og + nise + d. There is a 'g' after 'reco' that is easy to forget, and the 'k' sound is spelt with a 'c'.",
+      "The correct word is 'recognised'. (The American spelling 'recognized' is also accepted.)"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "recognised",
+    "solvedAnswer": "recognised",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 43,
+   "page": 12,
+   "format": "short",
+   "marks": 1,
+   "topic": "editing",
+   "subtypes": [
+    "grammar"
+   ],
+   "group": "g4",
+   "stem": "Write the correct word for (43) ++great++.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "greatest"
+     },
+     "explanation": [
+      "This is a grammar error. Clues: 'the ___ gain **among them**'.",
+      "The son is being compared with everyone in the family (three or more people), and the word 'the' comes before the blank. That calls for the superlative form.",
+      "great, greater, greatest: the superlative is 'greatest'.",
+      "The correct word is 'greatest'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "greatest",
+    "solvedAnswer": "greatest",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 44,
+   "page": 12,
+   "format": "short",
+   "marks": 1,
+   "topic": "editing",
+   "subtypes": [
+    "spelling"
+   ],
+   "group": "g4",
+   "stem": "Write the correct word for (44) ++advencheras++.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "adventurous"
+     },
+     "explanation": [
+      "This is a spelling error. The word means willing to try new and exciting things.",
+      "It comes from 'adventure'. Drop the 'e' and add '-ous': adventur + ous. The 'cher' sound is spelt 'tur', and the ending 'us' sound is spelt 'ous'.",
+      "The correct word is 'adventurous'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "adventurous",
+    "solvedAnswer": "adventurous",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 45,
+   "page": 12,
+   "format": "short",
+   "marks": 1,
+   "topic": "editing",
+   "subtypes": [
+    "grammar"
+   ],
+   "group": "g4",
+   "stem": "Write the correct word for (45) ++simple++.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "simply"
+     },
+     "explanation": [
+      "This is a grammar error: the wrong form of the word has been used.",
+      "In 'it is ___ a new season', the word does not describe a noun. It adds to the whole statement, with the meaning 'just' or 'only'. That is the job of an adverb.",
+      "'simple' is an adjective. Its adverb is 'simply' (drop the 'e', add 'y').",
+      "The correct word is 'simply'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "simply",
+    "solvedAnswer": "simply",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 46,
+   "page": 13,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "contextual-vocabulary",
+    "collocation"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (46) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "variety",
+      "accept": [
+       "range",
+       "selection",
+       "array",
+       "assortment"
+      ]
+     },
+     "explanation": [
+      "Clues: 'a wide ___ of food options to choose from'. We need a noun that goes with 'a wide ... of' and means many different kinds.",
+      "'a wide variety of' is a very common phrase meaning many different types.",
+      "'range' and 'selection' have the same meaning and also fit.",
+      "The answer is 'variety'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "variety",
+    "solvedAnswer": "variety",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 47,
+   "page": 13,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "connectors"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (47) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "Meanwhile",
+      "accept": [
+       "however",
+       "conversely"
+      ]
+     },
+     "explanation": [
+      "Compare the sentences on either side. Before: for some students 'the answer is probably yes'. After: 'for others, their experiences may not be as positive'.",
+      "The two groups of students are being contrasted, and the blank starts a new sentence and is followed by a comma. We need a linking word that turns to the other side.",
+      "The key gives 'Meanwhile', which can mean 'on the other hand' when two situations are compared. 'However' shows the contrast even more clearly and is just as correct.",
+      "The answer is 'Meanwhile' (or 'However')."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "Meanwhile",
+    "solvedAnswer": "However",
+    "status": "verified",
+    "note": "The key gives only 'Meanwhile'. Solved independently as 'However', which fits the contrast between the two groups of students at least as well, so it is in the accept list. A school marker following the key strictly would be expected to accept 'However' too."
+   }
+  },
+  {
+   "section": "b",
+   "number": 48,
+   "page": 13,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "idioms"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (48) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "piece"
+     },
+     "explanation": [
+      "'a piece of cake' is an idiom. It means something that is very easy to do.",
+      "'Addressing this issue may not be a piece of cake' means that solving the problem is not easy.",
+      "The answer is 'piece'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "piece",
+    "solvedAnswer": "piece",
+    "status": "verified",
+    "note": "The key prints 'Piece' with a capital letter; the blank is in the middle of a sentence, so the answer is 'piece'."
+   }
+  },
+  {
+   "section": "b",
+   "number": 49,
+   "page": 13,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "connectors",
+    "collocation"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (49) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "due",
+      "accept": [
+       "owing",
+       "attributed",
+       "attributable"
+      ]
+     },
+     "explanation": [
+      "The sentence gives the reason for the change: there are fewer and fewer canteen vendors.",
+      "The blank sits between 'largely' and 'to', so we need a word that makes a 'because of' phrase with 'to'.",
+      "'due to' means 'because of': 'This change is largely due to the decreasing number of canteen vendors.' ('owing to' means the same.)",
+      "The answer is 'due'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "due",
+    "solvedAnswer": "due",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 50,
+   "page": 13,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "phrasal-verbs",
+    "contextual-vocabulary"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (50) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "cope",
+      "accept": [
+       "deal",
+       "contend"
+      ]
+     },
+     "explanation": [
+      "Clues: 'find it hard to ___ **with** the long working hours and rising operating costs'. We need a verb that is followed by 'with' and means to manage something difficult.",
+      "'cope with' means to manage a difficult situation successfully.",
+      "'deal with' is close in meaning and also fits.",
+      "The answer is 'cope'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "cope",
+    "solvedAnswer": "cope",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 51,
+   "page": 13,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "contextual-vocabulary"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (51) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "unwilling",
+      "accept": [
+       "reluctant",
+       "hesitant"
+      ]
+     },
+     "explanation": [
+      "'As a result' tells us this sentence is the effect of the long hours and rising costs. What would stallholders feel about running a stall?",
+      "They would not want to. The blank comes between 'are' and 'to run', so we need an adjective: 'are ___ to run food stalls'.",
+      "'despite the pressing need for canteen vendors' confirms it: stalls are needed, yet people do not want to run them.",
+      "The answer is 'unwilling' ('reluctant' has the same meaning)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "unwilling",
+    "solvedAnswer": "unwilling",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 52,
+   "page": 13,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "contextual-vocabulary",
+    "verb-forms"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (52) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "packed",
+      "accept": [
+       "packaged",
+       "placed",
+       "put",
+       "portioned"
+      ]
+     },
+     "explanation": [
+      "Clue: 'before being ___ **into bento boxes** and delivered'. What is done to meals to get them into boxes?",
+      "They are packed. After 'being' we need a past participle (passive voice), matching 'delivered'.",
+      "The answer is 'packed'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "packed",
+    "solvedAnswer": "packed",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 53,
+   "page": 13,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "contextual-vocabulary",
+    "collocation"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (53) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "solution",
+      "accept": [
+       "answer"
+      ]
+     },
+     "explanation": [
+      "Clue: 'a ___ **to the problem** of having a shortage of canteen vendors'.",
+      "The word that pairs with 'problem' is 'solution': a solution to a problem. Note the preposition 'to'.",
+      "The answer is 'solution'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "solution",
+    "solvedAnswer": "solution",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 54,
+   "page": 13,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "contextual-vocabulary",
+    "collocation"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (54) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "sparks",
+      "accept": [
+       "raises",
+       "causes",
+       "creates",
+       "triggers",
+       "generates",
+       "prompts"
+      ]
+     },
+     "explanation": [
+      "'While this seems like a solution ..., it also ___ concerns among parents and students.' 'While' sets up a contrast: there is a good side, but also a worrying side.",
+      "We need a verb meaning 'causes to begin'. The subject is 'it' (singular) and the passage is in the present tense, so the verb must end in -s.",
+      "The key gives 'sparks' (to spark is to set something off). 'raises concerns' is the most common word pair and is equally correct.",
+      "The answer is 'sparks' (or 'raises')."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "sparks",
+    "solvedAnswer": "raises",
+    "status": "verified",
+    "note": "The key gives only 'sparks'. Solved independently as 'raises' ('raises concerns' is the standard collocation), so it and close synonyms are in the accept list."
+   }
+  },
+  {
+   "section": "b",
+   "number": 55,
+   "page": 13,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "contextual-vocabulary"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (55) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "time",
+      "accept": [
+       "distance",
+       "period",
+       "duration"
+      ]
+     },
+     "explanation": [
+      "Clue: food 'transported over a long ___ may not always be as fresh as it was when first cooked'.",
+      "Food loses its freshness when a long time passes between cooking and eating. 'over a long time' fits.",
+      "'over a long distance' also makes sense, because a long journey takes a long time.",
+      "The answer is 'time' (or 'distance')."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "time",
+    "solvedAnswer": "distance",
+    "status": "verified",
+    "note": "The key gives only 'time'. Solved independently as 'distance' ('transported over a long distance'), which is clearly correct in context, so it is in the accept list."
+   }
+  },
+  {
+   "section": "b",
+   "number": 56,
+   "page": 13,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "quantifiers",
+    "comparatives"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (56) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "fewer"
+     },
+     "explanation": [
+      "Clues: 'than before' shows a comparison, and 'only a limited menu' tells us there is not as much to choose from.",
+      "'choices' is a countable plural noun. For a smaller number of countable things we use 'fewer'; 'less' is for uncountable nouns (less food, fewer food choices).",
+      "The answer is 'fewer'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "fewer",
+    "solvedAnswer": "fewer",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 57,
+   "page": 13,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "contextual-vocabulary"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (57) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "ensure",
+      "accept": [
+       "guarantee"
+      ]
+     },
+     "explanation": [
+      "Why would central kitchens work with nutritionists? To make sure that the meals are healthy and tasty.",
+      "The blank needs one verb after 'to' that means 'make sure': 'ensure'. ('ensure (that) meals are healthy and tasty')",
+      "The answer is 'ensure'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "ensure",
+    "solvedAnswer": "ensure",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 58,
+   "page": 13,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "collocation"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (58) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "based",
+      "accept": [
+       "depending"
+      ]
+     },
+     "explanation": [
+      "Clue: 'changes to the menu can be made ___ **on** their food preferences'. The changes follow what the students like.",
+      "'based on' means using something as the reason or starting point.",
+      "The answer is 'based'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "based",
+    "solvedAnswer": "based",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 59,
+   "page": 13,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "collocation"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (59) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "worth"
+     },
+     "explanation": [
+      "'It is worth noting that ...' is a fixed expression used to point out an important fact.",
+      "After 'worth' the verb takes the -ing form: worth noting, worth trying, worth reading. The '-ing' in 'noting' is the clue.",
+      "The answer is 'worth'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "worth",
+    "solvedAnswer": "worth",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 60,
+   "page": 13,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "connectors"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (60) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "than"
+     },
+     "explanation": [
+      "'rather than' means 'instead of'. It is used to say what something is **not** meant to do.",
+      "The system is meant 'to serve as an option ..., rather than replace the traditional canteen completely'.",
+      "The answer is 'than'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "than",
+    "solvedAnswer": "than",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 61,
+   "page": 14,
+   "format": "structured",
+   "marks": 2,
+   "topic": "synthesis",
+   "subtypes": [
+    "preposition-gerund"
+   ],
+   "stem": "Mrs Lim received the bad news. Mrs Lim fainted on the spot.\nOn ____________________.\n(Rewrite as one sentence using the word(s) given. The meaning must stay the same.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "On receiving the bad news, Mrs Lim fainted on the spot.",
+      "accept": [
+       "On receiving the bad news, she fainted on the spot.",
+       "On receipt of the bad news, Mrs Lim fainted on the spot."
+      ]
+     },
+     "explanation": [
+      "'On' + verb-ing means 'at the moment when' or 'as soon as': the second action happened right after the first.",
+      "'On' is a preposition, so the verb after it takes the -ing form and the subject is dropped: 'Mrs Lim received' becomes 'On receiving'.",
+      "Put a comma after the opening phrase. Then name the person in the main clause, because the opening phrase has no subject of its own: '..., Mrs Lim fainted on the spot.'",
+      "Answer: On receiving the bad news, Mrs Lim fainted on the spot."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "On receiving the bad news, Mrs Lim fainted on the spot.",
+    "solvedAnswer": "On receiving the bad news, Mrs Lim fainted on the spot.",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 62,
+   "page": 14,
+   "format": "structured",
+   "marks": 2,
+   "topic": "synthesis",
+   "subtypes": [
+    "noun-form"
+   ],
+   "stem": "Tina achieved her goal after months of training.\n____________________ of her goal came after ____________________.\n(Rewrite as one sentence using the word(s) given. The meaning must stay the same.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "Tina's achievement of her goal came after months of training.",
+      "accept": [
+       "Tina's achievement of her goal came after months of training"
+      ]
+     },
+     "explanation": [
+      "The words 'of her goal came after' show that the verb 'achieved' must be turned into a noun, which becomes the subject of 'came'.",
+      "The noun of 'achieve' is 'achievement' (achieve + ment; keep the 'e').",
+      "Tina was the one who achieved, so she becomes the owner of the noun: 'Tina' becomes 'Tina's' with an apostrophe and s.",
+      "The rest stays the same after 'came after': months of training.",
+      "Answer: Tina's achievement of her goal came after months of training."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "Tina's achievement of her goal came after months of training.",
+    "solvedAnswer": "Tina's achievement of her goal came after months of training.",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 63,
+   "page": 14,
+   "format": "structured",
+   "marks": 2,
+   "topic": "synthesis",
+   "subtypes": [
+    "reported-speech"
+   ],
+   "stem": "\"Why did you forget your homework?\" Mrs Gan asked Brother.\nMrs Gan asked Brother ____________________.\n(Rewrite as one sentence using the word(s) given. The meaning must stay the same.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "Mrs Gan asked Brother why he had forgotten his homework.",
+      "accept": [
+       "Mrs Gan asked Brother why he had forgotten his homework"
+      ]
+     },
+     "explanation": [
+      "This is direct speech changed to reported speech. A reported question keeps the question word ('why'), uses statement word order (subject before verb), has no 'did', and ends with a full stop.",
+      "Tense moves one step back: simple past 'did you forget' becomes past perfect 'had forgotten'.",
+      "Pronouns change to fit the speaker: 'you' is Brother, so 'he'; 'your' becomes 'his'.",
+      "Do not add 'if'. 'if' or 'whether' is only for yes/no questions; this question already has 'why'.",
+      "Answer: Mrs Gan asked Brother why he had forgotten his homework."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "Mrs Gan asked Brother if why he had forgotten his homework.",
+    "solvedAnswer": "Mrs Gan asked Brother why he had forgotten his homework.",
+    "status": "verified",
+    "note": "The key prints 'asked Brother if why he had forgotten his homework'. The stray 'if' is a typing slip in the key: a wh-question is reported with the question word alone. The model answer leaves it out."
+   }
+  },
+  {
+   "section": "b",
+   "number": 64,
+   "page": 14,
+   "format": "structured",
+   "marks": 2,
+   "topic": "synthesis",
+   "subtypes": [
+    "passive-voice"
+   ],
+   "stem": "Passing the exam needs at least fifty marks.\nA minimum of ____________________.\n(Rewrite as one sentence using the word(s) given. The meaning must stay the same.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "A minimum of fifty marks is needed to pass the exam.",
+      "accept": [
+       "A minimum of fifty marks is required to pass the exam.",
+       "A minimum of fifty marks is needed for passing the exam.",
+       "A minimum of 50 marks is needed to pass the exam.",
+       "A minimum of fifty marks is needed in order to pass the exam."
+      ]
+     },
+     "explanation": [
+      "'A minimum of' means 'at least', so 'at least fifty marks' becomes 'A minimum of fifty marks'. Do not write 'at least' again.",
+      "The marks are now the subject, but marks do not need anything; they are needed. So the verb becomes passive: 'needs' becomes 'is needed'.",
+      "Agreement: the subject is 'A minimum', which is singular, so use 'is needed', not 'are needed'.",
+      "'Passing the exam' moves to the end as the purpose: 'to pass the exam'.",
+      "Answer: A minimum of fifty marks is needed to pass the exam."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "A minimum of fifty marks is needed to pass the exam.",
+    "solvedAnswer": "A minimum of fifty marks is needed to pass the exam.",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 65,
+   "page": 14,
+   "format": "structured",
+   "marks": 2,
+   "topic": "synthesis",
+   "subtypes": [
+    "infinitive-of-purpose"
+   ],
+   "stem": "The coach adjusted the training hours so that the pressure on students would be less.\nTo ____________________, the coach ____________________.\n(Rewrite as one sentence using the word(s) given. The meaning must stay the same.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "To lessen the pressure on students, the coach adjusted the training hours.",
+      "accept": [
+       "To reduce the pressure on students, the coach adjusted the training hours.",
+       "To decrease the pressure on students, the coach adjusted the training hours.",
+       "To lower the pressure on students, the coach adjusted the training hours.",
+       "To ease the pressure on students, the coach adjusted the training hours."
+      ]
+     },
+     "explanation": [
+      "'so that ...' gives the purpose of an action. A purpose can also be given with 'To' + base verb at the start of the sentence.",
+      "After 'To' we need a verb, but 'would be less' has only the adjective 'less'. Change it to a verb with the same meaning: 'lessen' (or 'reduce').",
+      "The purpose phrase becomes 'To lessen the pressure on students', followed by the printed comma.",
+      "The main clause stays the same after 'the coach': adjusted the training hours.",
+      "Answer: To lessen the pressure on students, the coach adjusted the training hours."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "To lessen the pressure on students, the coach adjusted the training hours.",
+    "solvedAnswer": "To lessen the pressure on students, the coach adjusted the training hours.",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 66,
+   "page": 15,
+   "format": "structured",
+   "marks": 2,
+   "topic": "comprehension",
+   "subtypes": [
+    "cause-and-effect",
+    "factual"
+   ],
+   "group": "g6",
+   "stem": "Explain how the English teacher made Nick's \"cheeks burn with embarrassment\" (lines 3–4, paragraph 1, from \"The stinging words\" to \"embarrassment\").",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "The English teacher reprimanded Nick for forgetting to bring his homework, and her stinging words still echoed in his mind (he could not forget them)."
+     },
+     "explanation": [
+      "Find the phrase in paragraph 1 and read the sentence before it: 'In the morning, he had been reprimanded by his English teacher for forgetting to bring his homework.'",
+      "Then read the sentence it is in: 'The stinging words still echoed in his mind, **making** his cheeks burn with embarrassment.' The word 'making' shows cause and effect.",
+      "The question carries 2 marks, so give both points: (1) the teacher reprimanded (scolded) him for forgetting to bring his homework; (2) her stinging words still echoed in his mind, so he could not forget them.",
+      "'Echoed in his mind' is a figure of speech. It is safest to show you understand it: he kept remembering the words."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "The English teacher reprimanded Nick for forgetting to bring his homework and Nick could not forget her stinging words.",
+    "solvedAnswer": "She reprimanded him for forgetting his homework, and her stinging words kept echoing in his mind. Agrees with key.",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 67,
+   "page": 15,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension",
+   "subtypes": [
+    "evidence-phrase"
+   ],
+   "group": "g6",
+   "stem": "From the first paragraph, pick out a two-word phrase that tells us Nick's suggestions were ignored.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "brushed aside"
+     },
+     "explanation": [
+      "Look in paragraph 1 for the part about Nick's suggestions (his 'ideas'): 'his classmates had barely acknowledged his presence and brushed aside his ideas'.",
+      "To 'brush aside' something is to refuse to consider it, like sweeping it away with your hand. That is the same as ignoring it.",
+      "'barely acknowledged' is also two words, but it is about his **presence** (they hardly noticed he was there), not his suggestions.",
+      "Copy exactly two words: 'brushed aside'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "brushed aside",
+    "solvedAnswer": "brushed aside",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 68,
+   "page": 15,
+   "format": "structured",
+   "marks": 2,
+   "topic": "comprehension",
+   "subtypes": [
+    "cause-and-effect",
+    "character-and-feelings"
+   ],
+   "group": "g6",
+   "stem": "The answer boxes on the paper are headed: Two effects the lady's act of kindness had on Nick.\n(Write one effect for each box, (a) and (b).)",
+   "parts": [
+    {
+     "label": "a",
+     "prompt": "First effect:",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "It brightened his gloomy mood.",
+      "accept": [
+       "It brightened his gloomy mood",
+       "brightened his gloomy mood",
+       "It brightened his mood"
+      ]
+     },
+     "explanation": [
+      "The lady's act of kindness is sharing her umbrella in paragraph 2. Read the last two sentences of that paragraph for what it did to Nick.",
+      "'It was a simple gesture, yet it brightened his gloomy mood.' 'It' is the lady's gesture, so this is one effect: his gloomy mood became brighter (he felt more cheerful).",
+      "The two effects can be written in either box."
+     ]
+    },
+    {
+     "label": "b",
+     "prompt": "Second effect:",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "A warmth stirred in his heart (he felt warm inside / touched).",
+      "accept": [
+       "A warmth stirred in his heart",
+       "a warmth stirred in his heart",
+       "A warmth stirred in Nick's heart"
+      ]
+     },
+     "explanation": [
+      "The other effect is in the sentence before: 'As they crossed the road together, a warmth stirred in Nick's heart.'",
+      "This means he felt warm inside, or touched by her kindness.",
+      "'Nick nodded gratefully' shows he was thankful, but the two effects the passage spells out are the warmth in his heart and his brightened mood."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "a) brightened b) a warmth stirred in his heart",
+    "solvedAnswer": "A warmth stirred in his heart; it brightened his gloomy mood. Agrees with key (either order).",
+    "status": "verified",
+    "note": "On the paper this is a small diagram: a heading box with arrows to two empty boxes labelled a) and b). It is given as two 1-mark parts. The key's (a) is the single word 'brightened', short for 'brightened his gloomy mood'."
+   }
+  },
+  {
+   "section": "b",
+   "number": 69,
+   "page": 15,
+   "format": "structured",
+   "marks": 3,
+   "topic": "comprehension",
+   "subtypes": [
+    "referencing"
+   ],
+   "group": "g6",
+   "stem": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right.",
+   "parts": [
+    {
+     "label": "a",
+     "prompt": "this (line 10, paragraph 2)",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "The sudden downpour (that began just as Nick stepped off the curb).",
+      "accept": [
+       "a sudden downpour",
+       "the sudden downpour",
+       "the downpour",
+       "the sudden rain"
+      ]
+     },
+     "explanation": [
+      "A word like 'this' points back to something already mentioned. Read the sentence just before it.",
+      "'Just as he stepped off the curb, a sudden downpour began. Caught off guard by **this**, Nick froze'.",
+      "What caught Nick off guard? The sudden downpour. Test by replacing the word: 'Caught off guard by the sudden downpour, Nick froze.' It makes sense.",
+      "The answer is the sudden downpour. Include 'sudden': that is why he was caught off guard."
+     ]
+    },
+    {
+     "label": "b",
+     "prompt": "it (line 13, paragraph 2)",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "The friendly lady's umbrella.",
+      "accept": [
+       "the lady's umbrella",
+       "the friendly lady's umbrella",
+       "her umbrella",
+       "the umbrella"
+      ]
+     },
+     "explanation": [
+      "'Without waiting for a reply, she tilted **it** to shelter him from the rain.'",
+      "What can be tilted to shelter someone from rain? Look back: the lady asked, 'Would you like to share my umbrella?'",
+      "The tote bag is the nearest noun before 'it', which makes it the trap, but a tote bag slung on a shoulder cannot shelter anyone from the rain.",
+      "The answer is the (friendly) lady's umbrella. Say whose umbrella it is."
+     ]
+    },
+    {
+     "label": "c",
+     "prompt": "discomfort (line 18, paragraph 3)",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "Nick's damp uniform clinging to his skin.",
+      "accept": [
+       "his damp uniform clinging to his skin",
+       "Nick's damp uniform clinging to his skin"
+      ]
+     },
+     "explanation": [
+      "'the discomfort' points back to something uncomfortable that was just mentioned. Read the sentence before it.",
+      "'... made his way onto the platform, his damp uniform clinging to his skin. Despite the **discomfort**, Nick patiently watched the train approach.'",
+      "The uncomfortable thing is the wet uniform sticking to his skin. Give the whole idea, not just 'his uniform'.",
+      "The answer is Nick's damp uniform clinging to his skin."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "a) a sudden downpour b) the friendly lady's umbrella c) Nick's damp uniform clinging to his skin.",
+    "solvedAnswer": "a) the sudden downpour; b) the lady's umbrella; c) his damp uniform clinging to his skin. Agrees with key.",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 70,
+   "page": 16,
+   "format": "structured",
+   "marks": 2,
+   "topic": "comprehension",
+   "subtypes": [
+    "inference",
+    "cause-and-effect"
+   ],
+   "group": "g6",
+   "stem": "Why was Nick \"burdened\" (line 20, paragraph 3)?",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "Nick was burdened because he had a stack of assignments awaiting him and he was uncertain about being able to complete all that homework by that night."
+     },
+     "explanation": [
+      "Find 'burdened' in paragraph 3: 'trying to ease the uncertainty that filled his **burdened** heart'. A burden is a heavy load, so something was weighing on his mind.",
+      "The very next sentence tells us what it was: '\"How can I complete all that homework by tonight?\" he lamented softly.'",
+      "Link it back to paragraph 1: 'a stack of assignments awaited him, each one seeming more overwhelming than the last'.",
+      "The marker looks for: he was uncertain (worried) about whether he could complete all his homework by that night. Change 'I' to 'he' and 'tonight' to 'that night' when you use the quoted words."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "Nick was uncertain about being able to complete his homework by that night.",
+    "solvedAnswer": "He had a stack of homework and was unsure whether he could finish it all by that night. Agrees with key.",
+    "status": "verified",
+    "note": "The key's line is garbled and partly under the watermark ('Nick was uncertain out being able complete his homework by that night'); it is read as 'uncertain about being able to complete'. The model answer adds the stack of assignments from paragraph 1 as supporting detail."
+   }
+  },
+  {
+   "section": "b",
+   "number": 71,
+   "page": 16,
+   "format": "structured",
+   "marks": 3,
+   "topic": "comprehension",
+   "subtypes": [
+    "true-false-with-reason"
+   ],
+   "group": "g6",
+   "stem": "Based on lines 23–30 (paragraph 4), state whether each statement in the table below is true or false, then give one reason why you think so.",
+   "parts": [
+    {
+     "label": "a",
+     "prompt": "The passengers were worried for the unwell commuter right after he vomited.\n(Type True or False, then give one reason from the passage.)",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "False. The passengers recoiled in disgust, covering their noses and moving away."
+     },
+     "explanation": [
+      "Find what the passengers did right after the commuter vomited: 'Immediately, several passengers recoiled in disgust, covering their noses and moving away.'",
+      "'Immediately' matches 'right after he vomited'. To 'recoil in disgust' is to pull back because something is revolting. People who were worried would move towards him to help, not away.",
+      "So the statement is False. The reason is the evidence: they recoiled in disgust, covered their noses and moved away."
+     ]
+    },
+    {
+     "label": "b",
+     "prompt": "The young man assisted the unwell commuter hesitantly.\n(Type True or False, then give one reason from the passage.)",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "False. The young man stepped forward swiftly and calmly approached the commuter to render assistance."
+     },
+     "explanation": [
+      "'hesitantly' means slowly and unsurely, as if not certain whether to act.",
+      "The passage says the opposite: 'a young man stepped forward **swiftly**. **Calmly**, he approached the commuter and rendered assistance.' His actions were also 'steady and uncomplaining'.",
+      "So the statement is False. The reason must contain the words that show he did not hesitate: swiftly (and calmly)."
+     ]
+    },
+    {
+     "label": "c",
+     "prompt": "The incident on the train caused Nick to view society more positively.\n(Type True or False, then give one reason from the passage.)",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "True. Nick thought that perhaps Singaporeans were not as selfish as he had thought and that kindness still existed in society."
+     },
+     "explanation": [
+      "Look at Nick's thoughts at the end of the paragraph, after he 'watched in awe': 'Perhaps Singaporeans were not as selfish as he had thought, and kindness still existed in society.'",
+      "'not as selfish as he had thought' shows his opinion of people changed for the better, which is what 'view society more positively' means.",
+      "So the statement is True. Give his thought as the reason."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "a) False --- The passengers recoiled in disgust and covered their noses while moving away. b) False --- The young man stepped forward swiftly and calmly approached the unwell commuter before rendering assistance. c) True --- Nick thought perhaps Singaporeans were not as selfish as he thought and kindness still existed in society.",
+    "solvedAnswer": "a) False: they recoiled in disgust and moved away; b) False: he stepped forward swiftly and calmly; c) True: he thought Singaporeans were not as selfish as he had thought. Agrees with key.",
+    "status": "verified",
+    "note": "The key has typing slips in (a): it prints 'recoiled in august' and 'while morning away' for 'recoiled in disgust' and 'while moving away'. The passage wording is used."
+   }
+  },
+  {
+   "section": "b",
+   "number": 72,
+   "page": 16,
+   "format": "structured",
+   "marks": 2,
+   "topic": "comprehension",
+   "subtypes": [
+    "character-and-feelings",
+    "inference"
+   ],
+   "group": "g6",
+   "stem": "The \"elderly lady was in distress\" (line 32, paragraph 5).",
+   "parts": [
+    {
+     "label": "a",
+     "prompt": "How did Nick feel when he saw the elderly lady in distress?",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "Nick felt worried (concerned) for her.",
+      "accept": [
+       "Nick felt worried",
+       "He felt worried",
+       "worried",
+       "Nick felt concerned",
+       "He felt concerned",
+       "concerned",
+       "Nick felt worried for her",
+       "He felt worried for her",
+       "Nick felt concerned for her",
+       "He felt concerned for her"
+      ]
+     },
+     "explanation": [
+      "The passage does not name the feeling directly, so look for clues in paragraph 5.",
+      "He 'noticed a **concerning** sight'. A concerning sight is one that makes you feel concerned, or worried.",
+      "His action agrees: 'Without hesitation, Nick hurried over' to help.",
+      "The answer is that Nick felt worried or concerned."
+     ]
+    },
+    {
+     "label": "b",
+     "prompt": "Why did Nick feel this way?",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "The elderly lady's electric wheelchair had run out of battery and she was stranded at the side of the path."
+     },
+     "explanation": [
+      "The reason for his worry is the trouble the lady was in. Read the sentence after 'an elderly lady was in distress'.",
+      "'Her electric wheelchair had run out of battery and she was stranded at the side of the path.'",
+      "The marker looks for both ideas: the wheelchair had run out of battery, and she was stranded (stuck and unable to move on)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "a) Nick felt worried b) The elderly lady's electric wheelchair had run out of battery and she was stranded at the side of the path.",
+    "solvedAnswer": "a) worried / concerned; b) her electric wheelchair had run out of battery and she was stranded. Agrees with key.",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 73,
+   "page": 16,
+   "format": "structured",
+   "marks": 2,
+   "topic": "comprehension",
+   "subtypes": [
+    "factual",
+    "cause-and-effect"
+   ],
+   "group": "g6",
+   "stem": "Explain why it was difficult to push the wheelchair.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "The wheelchair was heavy and its wheels resisted their efforts."
+     },
+     "explanation": [
+      "Find the pushing in paragraph 5. Two reasons are given in two different sentences.",
+      "First: 'a man who was struggling to push the **heavy** wheelchair forward'. The wheelchair was heavy.",
+      "Second: 'It was not easy, **as the wheels resisted their efforts**.' The word 'as' means 'because'. The wheels did not turn easily (the battery was flat, so the wheelchair could not move by itself).",
+      "The question carries 2 marks, so give both reasons: the wheelchair was heavy, and the wheels resisted their efforts."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "The wheelchair was heavy.",
+    "solvedAnswer": "It was heavy, and the wheels resisted their efforts.",
+    "status": "verified",
+    "note": "For this 2-mark question the key gives only one point, 'The wheelchair was heavy.' The passage also says 'It was not easy, as the wheels resisted their efforts', which is a direct reason, so the model answer gives both points. A child who writes only that the wheelchair was heavy matches the key."
+   }
+  },
+  {
+   "section": "b",
+   "number": 74,
+   "page": 17,
+   "format": "structured",
+   "marks": 1,
+   "topic": "comprehension",
+   "subtypes": [
+    "inference",
+    "character-and-feelings"
+   ],
+   "group": "g6",
+   "stem": "What impression did the elderly lady have of Nick in lines 38–39 (paragraph 5, from \"With gratitude in her eyes\" to \"You have a kind heart.\")?",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "She thought he had a kind heart (he was kind-hearted).",
+      "accept": [
+       "She thought he had a kind heart",
+       "She thought he was kind-hearted",
+       "She thought he was kind",
+       "She thought that he had a kind heart",
+       "She thought Nick had a kind heart",
+       "She thought that Nick had a kind heart"
+      ]
+     },
+     "explanation": [
+      "An 'impression' is the opinion someone forms of a person.",
+      "Read what the old lady said to Nick: '\"Thank you, young man.\" Then, she added warmly, \"You have a kind heart.\"'",
+      "Her own words give her opinion of him. Turn them into reported speech: she thought he had a kind heart, or that he was kind-hearted.",
+      "Do not just write 'she was grateful'. That is how **she** felt, not what she thought of **Nick**."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "She thought he had a kind heart.",
+    "solvedAnswer": "She thought he was kind-hearted. Agrees with key.",
+    "status": "verified",
+    "note": "The key prints 'a kind heat', a typing slip for 'a kind heart'."
+   }
+  },
+  {
+   "section": "b",
+   "number": 75,
+   "page": 17,
+   "format": "structured",
+   "marks": 2,
+   "topic": "comprehension",
+   "subtypes": [
+    "inference"
+   ],
+   "group": "g6",
+   "stem": "What lesson did Nick learn about life that day?",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "Nick learnt that kindness can change one's outlook, and that although life will always have its challenges, one should face them positively."
+     },
+     "explanation": [
+      "The lesson is in the last paragraph, where Nick 'reflected on the events of the afternoon'.",
+      "Point 1: 'The kindness he had witnessed, and taken part in, had shifted his perspective.' Kindness can change the way a person sees things. (A day that starts poorly 'did not have to end that way'.)",
+      "Point 2: 'Life would always have its challenges', yet he was 'determined to face tomorrow with renewed positivity'. Challenges will always come, but we can choose to face them positively.",
+      "The question carries 2 marks, so give both points, and write them as a general lesson about life rather than retelling what happened to Nick."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "Kindness can change one's outlook, and although life will always have challenges, one should face them positively.",
+    "solvedAnswer": "Life will always have challenges, but kindness can change how we see things, so a bad start need not end badly and we should face challenges positively. Agrees with key.",
+    "status": "verified"
+   }
+  }
+ ]
+}

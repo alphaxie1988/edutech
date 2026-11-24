@@ -1,0 +1,1083 @@
+{
+ "paper": {
+  "id": "2026-prelim-tao-nan",
+  "subject": "higher-chinese",
+  "year": 2026,
+  "exam": "Prelim",
+  "school": "Tao Nan",
+  "schoolFull": "Tao Nan School",
+  "file": "PSLE-2026-P6-papers/Higher-Chinese/P6-Higher-Chinese-Prelim-2026-Tao-Nan-Paper.pdf",
+  "coordDpi": 100
+ },
+ "groups": [
+  {
+   "id": "g1",
+   "text": "语文应用 A组：从所提供的词语中，选出短文所缺的词语，然后写出代表它的数字。\n\n[[table1]]\n\n[[img1]]",
+   "tables": [
+    {
+     "id": "table1",
+     "rows": [
+      [
+       "1 增添",
+       "2 兴趣",
+       "3 精神",
+       "4 表扬"
+      ],
+      [
+       "5 设计",
+       "6 榜样",
+       "7 遭受",
+       "8 激发"
+      ]
+     ]
+    }
+   ],
+   "images": [
+    {
+     "id": "img1",
+     "alt": "一篇关于一位年轻人 1995 年接触互联网后，利用互联网做生意，经过多次失败终于成功的短文，文中有 Q1 到 Q5 五个空格。",
+     "page": 2,
+     "box": [
+      100,
+      345,
+      692,
+      810
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g2",
+   "text": "语文应用 B组：画线的词语是运用不当的词语（词语中的其中一个字是不恰当的），括号里的字是写错的字。根据短文的内容和上下文的意思，把它们改正过来。\n\n[[img1]]",
+   "images": [
+    {
+     "id": "img1",
+     "alt": "一篇关于政府鼓励家长为孩子创造学习母语的环境的短文，文中有 Q6 到 Q10 五处需要改正的词语或错字。",
+     "page": 3,
+     "box": [
+      98,
+      245,
+      735,
+      650
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g3",
+   "text": "阅读理解（一）：根据短文的内容和上下文的意思，回答问题。\n\n[[img1]]",
+   "images": [
+    {
+     "id": "img1",
+     "alt": "一篇记叙文：伟明游泳只想夺得第一名，比赛失败后闷闷不乐，父亲用旅行和风景作比喻，让他明白每天的进步比第一名更重要。",
+     "page": 4,
+     "box": [
+      95,
+      213,
+      735,
+      985
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g4",
+   "text": "阅读理解（二）：根据短文的内容和上下文的意思回答问题。\n\n[[img1]]",
+   "images": [
+    {
+     "id": "img1",
+     "alt": "一篇记叙文：“我”转到新学校后交不到朋友，爷爷看了“我”画同学的画册，教“我”交朋友要心到、眼到、口到和手到，“我”鼓起勇气把画册拿给同学看。",
+     "page": 6,
+     "box": [
+      95,
+      218,
+      740,
+      1025
+     ]
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "section": "p2",
+   "number": 1,
+   "page": 2,
+   "format": "short",
+   "marks": 2,
+   "topic": "cloze",
+   "group": "g1",
+   "subtypes": [
+    "word-choice"
+   ],
+   "stem": "Q1 的答案是：（写出代表词语的数字。）",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "2",
+      "accept": [
+       "兴趣",
+       "2 兴趣"
+      ]
+     },
+     "explanation": [
+      "句子是“这项新科技让他十分感 Q1”。",
+      "“感兴趣”是固定的搭配，意思是觉得有意思、很想了解。",
+      "词语表里只有“兴趣”可以放在“感”的后面。",
+      "答案是 2（兴趣）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "2（兴趣）",
+    "solvedAnswer": "2（兴趣）",
+    "status": "verified",
+    "note": "试卷上的词语表有铅笔记号（“兴趣”“精神”下面画了线，“7”被打了叉），所以词语表改用文字表格显示，短文图片里没有这些记号。"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 2,
+   "page": 2,
+   "format": "short",
+   "marks": 2,
+   "topic": "cloze",
+   "group": "g1",
+   "subtypes": [
+    "word-choice"
+   ],
+   "stem": "Q2 的答案是：（写出代表词语的数字。）",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "5",
+      "accept": [
+       "设计",
+       "5 设计"
+      ]
+     },
+     "explanation": [
+      "句子是“年轻人 Q2 的产品不受人们的欢迎”。",
+      "这里需要一个动词，说明产品是年轻人怎么做出来的。“设计产品”是常见的搭配。",
+      "“增添”是加多的意思，不能说“增添的产品”。",
+      "答案是 5（设计）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "5（设计）",
+    "solvedAnswer": "5（设计）",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 3,
+   "page": 2,
+   "format": "short",
+   "marks": 2,
+   "topic": "cloze",
+   "group": "g1",
+   "subtypes": [
+    "word-choice"
+   ],
+   "stem": "Q3 的答案是：（写出代表词语的数字。）",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "7",
+      "accept": [
+       "遭受",
+       "7 遭受"
+      ]
+     },
+     "explanation": [
+      "句子是“还 Q3 了不少失败”。",
+      "“遭受”的意思是碰到不好的事情，常和“失败”“打击”“损失”搭配。",
+      "“增添”多用在“增添乐趣”“增添麻烦”，不和“失败”搭配。",
+      "答案是 7（遭受）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "7（遭受）",
+    "solvedAnswer": "7（遭受）",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 4,
+   "page": 2,
+   "format": "short",
+   "marks": 2,
+   "topic": "cloze",
+   "group": "g1",
+   "subtypes": [
+    "word-choice"
+   ],
+   "stem": "Q4 的答案是：（写出代表词语的数字。）",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "8",
+      "accept": [
+       "激发",
+       "8 激发"
+      ]
+     },
+     "explanation": [
+      "句子是“这些困难并没有使他放弃，反而 Q4 了他对学习新事物的热情”。",
+      "“激发”的意思是使人产生某种感情或力量，“激发热情”是常见的搭配。",
+      "“表扬”是称赞人，不能说“表扬了热情”。",
+      "答案是 8（激发）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "8（激发）",
+    "solvedAnswer": "8（激发）",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 5,
+   "page": 2,
+   "format": "short",
+   "marks": 2,
+   "topic": "cloze",
+   "group": "g1",
+   "subtypes": [
+    "word-choice"
+   ],
+   "stem": "Q5 的答案是：（写出代表词语的数字。）",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "3",
+      "accept": [
+       "精神",
+       "3 精神"
+      ]
+     },
+     "explanation": [
+      "句子是“他这种不轻言放弃的 Q5，值得大家学习”。",
+      "“不轻言放弃”是一种好的品质，要说“不轻言放弃的精神”。",
+      "“榜样”指值得学习的人，可以说“他是我们的榜样”，但不能说“不轻言放弃的榜样值得学习”来指一种品质。",
+      "答案是 3（精神）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "3（精神）",
+    "solvedAnswer": "3（精神）",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 6,
+   "page": 3,
+   "format": "short",
+   "marks": 2,
+   "topic": "error-correction",
+   "group": "g2",
+   "subtypes": [
+    "wrong-character"
+   ],
+   "stem": "Q6 “（甚）础”括号里的字写错了，正确的字是：",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "基",
+      "accept": [
+       "基础"
+      ]
+     },
+     "explanation": [
+      "句子是“让孩子在进入小学之前就能打好母语（甚）础”。",
+      "“打好基础”是固定的搭配。“基”下面是“土”字，和地基有关。",
+      "“甚”用在“甚至”里，字形和“基”很像，容易写错。",
+      "答案是“基”。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "基",
+    "solvedAnswer": "基",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 7,
+   "page": 3,
+   "format": "short",
+   "marks": 2,
+   "topic": "error-correction",
+   "group": "g2",
+   "subtypes": [
+    "wrong-word"
+   ],
+   "stem": "Q7 画线的词语“++轮流++”运用不当，正确的词语是：",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "交流",
+      "accept": [
+       "交"
+      ]
+     },
+     "explanation": [
+      "句子是“因此不太敢用母语和孩子轮流”。",
+      "“轮流”的意思是一个接一个地做，例如“轮流打扫”。",
+      "用语言互相沟通要用“交流”，例如“用母语和孩子交流”。",
+      "所以把“轮”改成“交”，答案是“交流”。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "交流",
+    "solvedAnswer": "交流",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 8,
+   "page": 3,
+   "format": "short",
+   "marks": 2,
+   "topic": "error-correction",
+   "group": "g2",
+   "subtypes": [
+    "wrong-character"
+   ],
+   "stem": "Q8 “（治）造”括号里的字写错了，正确的字是：",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "制",
+      "accept": [
+       "制造"
+      ]
+     },
+     "explanation": [
+      "句子是“政府还是想鼓励他们（治）造机会让孩子多说多用”。",
+      "“制造机会”的意思是想办法让机会出现。",
+      "“治”和“制”读音相同（zhì）。“治”用在“治病”“治理”里，所以容易混淆。",
+      "答案是“制”（制造）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "制",
+    "solvedAnswer": "先想到“创”（创造机会），核对后改为“制”",
+    "status": "verified",
+    "note": "“创造机会”意思也通顺，但错字“治”和“制”同音，这题考的是同音字，答案“制”正确。孩子如果写“创”，请家长酌情处理。"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 9,
+   "page": 3,
+   "format": "short",
+   "marks": 2,
+   "topic": "error-correction",
+   "group": "g2",
+   "subtypes": [
+    "wrong-word"
+   ],
+   "stem": "Q9 画线的词语“++测验++”运用不当，正确的词语是：",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "体验",
+      "accept": [
+       "体"
+      ]
+     },
+     "explanation": [
+      "句子是“让孩子测验到学习母语的快乐和意义”。",
+      "“测验”是小考试，不能说“测验到快乐”。",
+      "亲身去感受要用“体验”，例如“体验到学习的快乐”。",
+      "所以把“测”改成“体”，答案是“体验”。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "体验",
+    "solvedAnswer": "体验",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 10,
+   "page": 3,
+   "format": "short",
+   "marks": 2,
+   "topic": "error-correction",
+   "group": "g2",
+   "subtypes": [
+    "wrong-character"
+   ],
+   "stem": "Q10 “（晨）浸”括号里的字写错了，正确的字是：",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "沉",
+      "accept": [
+       "沉浸"
+      ]
+     },
+     "explanation": [
+      "句子是“让孩子有更多时间（晨）浸在使用母语的环境中”。",
+      "“沉浸”的意思是完全处在某种环境或气氛里。“沉”是三点水，和水有关。",
+      "“晨”是早晨的“晨”，和“沉”读音相同（chén），所以容易写错。",
+      "答案是“沉”。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "沉",
+    "solvedAnswer": "沉",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 11,
+   "page": 5,
+   "format": "short",
+   "marks": 2,
+   "topic": "comprehension",
+   "group": "g3",
+   "subtypes": [
+    "vocabulary-in-context"
+   ],
+   "stem": "从短文中找出与下列画线词语意思相近或相同的词语。\n小猫跳进花丛中，身影一下子就++不见++了。",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "消失"
+     },
+     "explanation": [
+      "“不见”的意思是看不到了、没有了。",
+      "短文第二段写“以往的自信也消失了”，这里的“消失”也是不见了的意思。",
+      "把“消失”放回句子里：“身影一下子就消失了。”句子通顺，意思不变。",
+      "答案是“消失”。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "消失",
+    "solvedAnswer": "消失",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 12,
+   "page": 5,
+   "format": "short",
+   "marks": 2,
+   "topic": "comprehension",
+   "group": "g3",
+   "subtypes": [
+    "vocabulary-in-context"
+   ],
+   "stem": "从短文中找出与下列画线词语意思相近或相同的词语。\n小丽在运动会上表现++优秀++，获得了观众热烈的掌声。",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "杰出"
+     },
+     "explanation": [
+      "“优秀”的意思是非常好。",
+      "短文最后一段写伟明“取得了杰出成绩”，这里的“杰出”也是非常好、很出色的意思。",
+      "把“杰出”放回句子里：“小丽在运动会上表现杰出。”句子通顺，意思不变。",
+      "答案是“杰出”。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "杰出",
+    "solvedAnswer": "杰出",
+    "status": "needs-review",
+    "note": "短文图片上有荧光笔痕迹，标出了答案所在的词句 (highlighter in the passage scan marks the answer). "
+   }
+  },
+  {
+   "section": "p2",
+   "number": 13,
+   "page": 5,
+   "format": "structured",
+   "marks": 2,
+   "topic": "comprehension",
+   "group": "g3",
+   "subtypes": [
+    "factual",
+    "cause-and-effect"
+   ],
+   "stem": "得到父亲的安慰之前和之后，伟明训练的目标有所不同，试加以比较，并说明原因。\n（Q13 填写表格中“得到父亲的安慰前”的一行。）",
+   "parts": [
+    {
+     "label": "a",
+     "prompt": "得到父亲的安慰前，伟明训练的目标：",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "在比赛中夺得第一名。",
+      "accept": [
+       "在比赛中夺得第一名",
+       "夺得第一名",
+       "比赛中夺得第一名"
+      ]
+     },
+     "explanation": [
+      "答案在第一段：“他的目标只有一个——在比赛中夺得第一名。”",
+      "要点：在比赛中夺得第一名。"
+     ]
+    },
+    {
+     "label": "b",
+     "prompt": "原因：",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "为了在领奖台上得到观众的鲜花与掌声。",
+      "accept": [
+       "在领奖台上得到观众的鲜花和掌声",
+       "在领奖台上得到观众的鲜花与掌声",
+       "为了在领奖台上得到观众的鲜花与掌声"
+      ]
+     },
+     "explanation": [
+      "答案在第一段：“为了在领奖台上得到观众的鲜花与掌声，他的目标只有一个……”",
+      "“为了”说明目的，也就是原因。要点：在领奖台上得到观众的鲜花和掌声。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "目标：在比赛中夺得第一名。原因：在领奖台上得到观众的鲜花和掌声",
+    "solvedAnswer": "与答案一致",
+    "status": "verified",
+    "note": "试卷上 Q13–Q14 共 4 分，每题 2 分；每格各算 1 分。"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 14,
+   "page": 5,
+   "format": "structured",
+   "marks": 2,
+   "topic": "comprehension",
+   "group": "g3",
+   "subtypes": [
+    "factual",
+    "cause-and-effect"
+   ],
+   "stem": "得到父亲的安慰之前和之后，伟明训练的目标有所不同，试加以比较，并说明原因。\n（Q14 填写表格中“得到父亲的安慰后”的一行。）",
+   "parts": [
+    {
+     "label": "a",
+     "prompt": "得到父亲的安慰后，伟明训练的目标：",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "取得进步（更看重自己取得的进步）。",
+      "accept": [
+       "取得进步",
+       "取得进步。",
+       "更看重自己取得的进步"
+      ]
+     },
+     "explanation": [
+      "答案在第四段：“伟明不再只想着拿第一名，而更看重自己取得的进步。”",
+      "要点：取得进步。"
+     ]
+    },
+    {
+     "label": "b",
+     "prompt": "原因：",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "父亲的话让他明白每天的进步比夺得第一名更重要。",
+      "accept": [
+       "明白进步比夺得第一名更重要",
+       "他明白进步比夺得第一名更重要",
+       "明白每天的进步比夺得第一名更重要"
+      ]
+     },
+     "explanation": [
+      "答案在第四段伟明说的话：“是父亲的话让我明白，每天的进步比夺得第一名更重要。”",
+      "要点：明白（每天的）进步比夺得第一名更重要。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "目标：取得进步。原因：明白进步比夺得第一名更重要",
+    "solvedAnswer": "与答案一致",
+    "status": "needs-review",
+    "note": "短文图片上有荧光笔痕迹，标出了答案所在的词句 (highlighter in the passage scan marks the answer). 试卷上 Q13–Q14 共 4 分，每题 2 分；每格各算 1 分。"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 15,
+   "page": 5,
+   "format": "structured",
+   "marks": 4,
+   "topic": "comprehension",
+   "group": "g3",
+   "subtypes": [
+    "factual",
+    "cause-and-effect"
+   ],
+   "stem": "",
+   "parts": [
+    {
+     "label": "a",
+     "prompt": "听了父亲的解释，伟明有什么反应？",
+     "marks": 3,
+     "answer": {
+      "type": "self",
+      "value": "伟明的眼中仿佛闪过一道亮光，重新露出了光彩，脸上也浮现出笑容。"
+     },
+     "explanation": [
+      "答案在第三段的最后一句：“听了父亲的解释，伟明的眼中仿佛闪过一道亮光，重新露出了光彩，脸上也浮现出笑容。”",
+      "3 分要写出三个要点：（1）眼中仿佛闪过一道亮光；（2）重新露出了光彩；（3）脸上浮现出笑容。"
+     ]
+    },
+    {
+     "label": "b",
+     "prompt": "为什么他会有这样的反应？",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "因为他明白了父亲说的话，明白了每天的进步比夺得第一名更重要。"
+     },
+     "explanation": [
+      "伟明原来“没能理解父亲的意思”，听了解释后才明白过来，所以眼睛亮了、笑了。",
+      "要点：他明白了父亲说的话（每天的努力和进步比夺得第一名更重要）。",
+      "答案提醒：题目有两个问号，回答时要写两个句子，分开回答。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "伟明的眼中仿佛闪过一道亮光，重新露出了光彩，脸上也浮现出笑容。他明白了父亲说的话。【明白了每天的进步比夺得第一名更重要】",
+    "solvedAnswer": "与答案一致",
+    "status": "needs-review",
+    "note": "短文图片上有荧光笔痕迹，标出了答案所在的词句 (highlighter in the passage scan marks the answer). "
+   }
+  },
+  {
+   "section": "p2",
+   "number": 16,
+   "page": 5,
+   "format": "structured",
+   "marks": 4,
+   "topic": "comprehension",
+   "group": "g3",
+   "subtypes": [
+    "main-idea",
+    "opinion"
+   ],
+   "stem": "试从以下的两个选项中，选一个最适合的作为这篇短文的题目，然后举例说明做出这个选择的理由。\n（1）学会看到自己的进步\n（2）要相信自己\n（先写出你选的题目，再写理由。）",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "我选（1）学会看到自己的进步。伟明在比赛失败后闷闷不乐。父亲指着路边的花朵，说只顾着赶路，就无法欣赏路边的美景，让他明白每天的努力和进步同样重要。后来，伟明不再只想着拿第一名，开始更看重自己的进步。"
+     },
+     "explanation": [
+      "答案选（1）学会看到自己的进步。",
+      "理由要按“起因、经过、结果”来写，结果要点题。",
+      "起因：伟明在比赛失败后闷闷不乐。",
+      "经过：父亲指着路边的花，说只顾着赶路就无法欣赏路边的美景，让他明白每天的努力和进步同样重要。",
+      "结果：伟明开始更看重自己的进步，不再只想着拿第一名了。",
+      "“要相信自己”不合适，因为短文的重点不是自信，而是伟明学会重视进步。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "（1）学会看到自己的进步【起因、经过、结果（点题）】。起因：伟明在比赛失败后闷闷不乐。经过：父亲指着路边的花草，说只顾着赶路，就无法欣赏路边的美景，让他明白每天的努力和进步同样重要。结果：后来，伟明开始更看重自己的进步【不再只想着拿第一名了】",
+    "solvedAnswer": "（1）学会看到自己的进步，理由与答案一致",
+    "status": "needs-review",
+    "note": "短文图片上有荧光笔痕迹，标出了答案所在的词句 (highlighter in the passage scan marks the answer). "
+   }
+  },
+  {
+   "section": "p2",
+   "number": 17,
+   "page": 7,
+   "format": "structured",
+   "marks": 2,
+   "topic": "comprehension",
+   "group": "g4",
+   "subtypes": [
+    "vocabulary-in-context",
+    "character-and-feelings"
+   ],
+   "stem": "试解释下面的短语在文中的意思。\n点亮我那乱糟糟的心（第二段）",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "作者希望爷爷会教他怎么交到新朋友，让他快乐起来，不再让他难受。"
+     },
+     "explanation": [
+      "解释短语要回答三个问题：谁“点亮”作者的心？怎么“点亮”？“点亮”的意思是什么？",
+      "谁：作者希望爷爷帮他。",
+      "怎么点亮：爷爷教他怎么交到新朋友。",
+      "“乱糟糟的心”指他因为交不到朋友而难受；“点亮”就是让他快乐起来、不再难受。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "作者希望爷爷会教他怎么交到新朋友，让他快乐起来／不再让他难受",
+    "solvedAnswer": "作者希望爷爷的建议能帮他解决交不到朋友的烦恼，让他的心情好起来（与答案一致）",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 18,
+   "page": 7,
+   "format": "structured",
+   "marks": 2,
+   "topic": "comprehension",
+   "group": "g4",
+   "subtypes": [
+    "vocabulary-in-context"
+   ],
+   "stem": "试解释下面的短语在文中的意思。\n似乎把我带到了同学身边（第四段）",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "爷爷觉得作者太会画了，好像同学们都出现在他的眼前。"
+     },
+     "explanation": [
+      "解释短语要回答三个问题：把谁“带到同学身边”？怎么“带到”？“带到同学身边”的意思是什么？",
+      "把谁：这句话是爷爷说的，“我”指爷爷。",
+      "怎么带到：作者太会画了，把同学画得很像。",
+      "“似乎”是“好像”的意思；“带到了同学身边”是说好像同学们都出现在爷爷的眼前。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "爷爷觉得作者太会画了，好像同学们都出现在他的眼前",
+    "solvedAnswer": "作者把同学画得很生动，爷爷看了好像真的见到了同学们（与答案一致）",
+    "status": "verified",
+    "note": "短文里画线的句子是“似乎把我带到了同学们身边”，题目印的是“同学身边”，照题目原样抄录。"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 19,
+   "page": 7,
+   "format": "structured",
+   "marks": 3,
+   "topic": "comprehension",
+   "group": "g4",
+   "subtypes": [
+    "factual",
+    "character-and-feelings"
+   ],
+   "stem": "",
+   "parts": [
+    {
+     "label": "a",
+     "prompt": "作者转到新学校后有什么感受？",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "作者觉得很难受。",
+      "accept": [
+       "作者觉得很难受",
+       "难受",
+       "很难受",
+       "作者觉得很烦恼。",
+       "作者觉得很难过。",
+       "作者觉得很不开心。"
+      ]
+     },
+     "explanation": [
+      "答案在第一段：“这样的生活真让人难受。”",
+      "写“难受”“烦恼”“难过”或“不开心”都可以。"
+     ]
+    },
+    {
+     "label": "b",
+     "prompt": "为什么？",
+     "marks": 2,
+     "answer": {
+      "type": "self",
+      "value": "因为作者一直没交上新朋友，每天的休息时间总是独自到食堂用餐。"
+     },
+     "explanation": [
+      "答案在第一段：“我转到新学校后一直没交上新朋友，每天的休息时间只能独自到食堂用餐。”",
+      "要点有两个：（1）一直没交上新朋友；（2）休息时间独自到食堂用餐。",
+      "答案提醒：题目有两个问号，回答时要写两个句子。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "作者觉得很难受／烦恼／难过／不开心。作者一直没交上新朋友，每天的休息时间总是独自到食堂用餐",
+    "solvedAnswer": "与答案一致",
+    "status": "needs-review",
+    "note": "短文图片上有荧光笔痕迹，标出了答案所在的词句 (highlighter in the passage scan marks the answer). "
+   }
+  },
+  {
+   "section": "p2",
+   "number": 20,
+   "page": 7,
+   "format": "structured",
+   "marks": 4,
+   "topic": "comprehension",
+   "group": "g4",
+   "subtypes": [
+    "factual",
+    "cause-and-effect"
+   ],
+   "stem": "",
+   "parts": [
+    {
+     "label": "a",
+     "prompt": "爷爷认为交朋友需要做到什么？",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "爷爷认为交朋友需要做到“心到”、“眼到”、“手到”和“口到”。",
+      "accept": [
+       "心到、眼到、口到和手到",
+       "心到、眼到、手到和口到",
+       "交朋友要做到心到、眼到、口到和手到"
+      ]
+     },
+     "explanation": [
+      "答案在第四段爷爷说的话：“交朋友要做到心到、眼到、口到和手到。”",
+      "四个“到”都要写出来。"
+     ]
+    },
+    {
+     "label": "b",
+     "prompt": "他觉得作者哪些方面做得不足？",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "他觉得作者没有做到“手到”和“口到”。",
+      "accept": [
+       "手到和口到",
+       "口到和手到",
+       "没有做到手到和口到"
+      ]
+     },
+     "explanation": [
+      "答案在第四段：“我从你的画册看到‘心到’和‘眼到’，就缺少‘手到’和‘口到’了。”",
+      "要点：手到、口到。"
+     ]
+    },
+    {
+     "label": "c",
+     "prompt": "为什么？",
+     "marks": 2,
+     "answer": {
+      "type": "self",
+      "value": "因为作者没有把画册拿给同学看，也没有主动和同学交谈。"
+     },
+     "explanation": [
+      "第四段：爷爷问同学们看过画册吗，作者摇着头说“我不敢……”。",
+      "第五段：爷爷说“你把画册拿给同学看，主动与他们谈天……就完成‘手到’和‘口到’了”，可见作者还没有这样做。",
+      "要点有两个：（1）没有把画册拿给同学看（手到）；（2）没有主动和同学交谈（口到）。",
+      "答案提醒：题目有三个问号，回答时要写三个句子。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "爷爷认为交朋友需要做到“心到”、“眼到”、“手到”和“口到”。他觉得作者没有做到“手到”和“口到”。作者没有把画册拿给同学看也没有主动和同学交谈",
+    "solvedAnswer": "与答案一致",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 21,
+   "page": 7,
+   "format": "structured",
+   "marks": 4,
+   "topic": "comprehension",
+   "group": "g4",
+   "subtypes": [
+    "main-idea"
+   ],
+   "stem": "请用不超过 15 个字，写出短文中第三段的段落大意。",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "作者拿画册给爷爷看，爷爷发出赞叹。",
+      "accept": [
+       "作者拿画册给爷爷看，爷爷发出赞叹",
+       "爷爷看作者拿给他的画册，发出赞叹。",
+       "爷爷看作者拿给他的画册，发出赞叹",
+       "爷爷翻阅“我”拿给他的画册，发出赞叹。",
+       "爷爷翻阅“我”拿给他的画册，发出赞叹"
+      ]
+     },
+     "explanation": [
+      "段落大意要写出“谁、做了什么”，只留下最重要的内容。",
+      "第三段写了两件事：作者拿画册给爷爷看；爷爷看了发出赞叹。",
+      "要点：作者（我）、拿、画册、给爷爷看、赞叹。",
+      "把这些要点用最短的话写出来，不能超过 15 个字（标点不算）。示范答案刚好 15 个字。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "爷爷看作者拿给他的画册，发出赞叹。／作者拿画册给爷爷看，爷爷发出赞叹。／爷爷翻阅“我”拿给他的画册，发出赞叹。（各 15 字）",
+    "solvedAnswer": "我拿画册给爷爷看，爷爷赞叹（与答案要点一致）",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 22,
+   "page": 7,
+   "format": "structured",
+   "marks": 4,
+   "topic": "comprehension",
+   "group": "g4",
+   "subtypes": [
+    "cause-and-effect",
+    "factual"
+   ],
+   "stem": "",
+   "parts": [
+    {
+     "label": "a",
+     "prompt": "作者要拿出画册时，为什么迟疑了？",
+     "marks": 3,
+     "answer": {
+      "type": "self",
+      "value": "因为作者看到同学们都在闲聊，根本没有人注意到他走进了课室，他怀疑爷爷的建议是否有用。"
+     },
+     "explanation": [
+      "答案在最后一段：“却看到同学们都在闲聊，根本没有人注意到我走进了课室，我不禁迟疑了：爷爷的建议真的有用吗？”",
+      "3 分要写出三个要点：（1）同学们都在闲聊；（2）没有人注意到他走进课室；（3）他不知道／不确定／怀疑爷爷的建议是否有用。"
+     ]
+    },
+    {
+     "label": "b",
+     "prompt": "他最后是怎么做的？",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "他最后鼓起勇气走到班长小文身边，给他看自己的画册。"
+     },
+     "explanation": [
+      "答案在最后一段：“过了一会儿，我鼓起勇气走到班长小文身边，给他看我的画册。”",
+      "要点：鼓起勇气走到班长小文身边，给他看画册。回答时要把“我”改成“他”或“作者”。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "作者看到同学们都在闲聊，根本没有人注意到他走进了课室，他不知道／不确定／怀疑爷爷的建议是否有用。他最后鼓起勇气走到班长小文身边，给他看自己的画册",
+    "solvedAnswer": "与答案一致",
+    "status": "needs-review",
+    "note": "短文图片上有荧光笔痕迹，标出了答案所在的词句 (highlighter in the passage scan marks the answer). "
+   }
+  },
+  {
+   "section": "p2",
+   "number": 23,
+   "page": 7,
+   "format": "structured",
+   "marks": 5,
+   "topic": "comprehension",
+   "group": "g4",
+   "subtypes": [
+    "opinion",
+    "inference"
+   ],
+   "stem": "",
+   "parts": [
+    {
+     "label": "a",
+     "prompt": "爷爷告诉作者“行动才能点亮希望”，你同意这句话吗？为什么？",
+     "marks": 2,
+     "answer": {
+      "type": "self",
+      "value": "我同意。作者希望能交到朋友，他主动把画册拿给同学看，主动和同学交谈，结果拉近了和其他同学的距离。",
+      "accept": [
+       "我同意。无论我们要达到什么目标，一定要付出行动，才有成功的可能。"
+      ]
+     },
+     "explanation": [
+      "先清楚写出“我同意”。",
+      "理由可以用两种写法：",
+      "（A）用短文的例子，写出“目标／希望 + 行动 + 结果”：作者希望交到朋友，他主动把画册拿给同学看、主动和同学交谈，结果拉近了和同学的距离。",
+      "（B）写出道理：无论要达到什么目标，一定要付出行动（采取行动），才有成功的可能。",
+      "答案提醒：不可以从反面作答，例如“我同意。因为我没有主动……，就……”。"
+     ]
+    },
+    {
+     "label": "b",
+     "prompt": "除了文中的例子，你还会怎么把它运用在生活中？",
+     "marks": 3,
+     "answer": {
+      "type": "self",
+      "value": "（开放式题目，没有固定答案。）示范：如果我想要在考试中取得好成绩，就必须努力认真地学习，才有可能取得好成绩。",
+      "accept": [
+       "如果我想要在考试中取得好成绩，就必须努力认真地学习，才有可能取得好成绩。"
+      ]
+     },
+     "explanation": [
+      "这是开放式题目，例子合理就可以。",
+      "3 分要写出三个部分：（1）目标或希望；（2）要采取的行动；（3）结果。",
+      "答案的另一个例子：如果我想代表学校参加校际篮球比赛，我会很努力地参加训练，训练虽然辛苦，但是我不会抱怨，也不会放弃。我会通过训练让自己的球艺更好，让自己有机会获选。",
+      "答案提醒：题目问“还会怎么”，所以例子不可以是已经发生过的事，要写将来会怎么做（如“如果我想……，我会……”）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "（A）【目标／希望 + 行动 + 结果】我同意。作者希望能交到朋友，他主动把画册拿给同学看，主动和同学交谈，结果拉近了和其他同学的距离。如果我想要在考试中取得好成绩，就必须努力认真地学习，才有可能取得好成绩。（B）【目标 + 道理】我同意。无论我们要达到什么目标，一定要付出行动／采取行动，才有成功的可能。如果我想代表学校参加校际篮球比赛，我会很努力地参加训练，训练虽然辛苦，但是我不会抱怨，也不会放弃。我会通过训练让自己的球艺更好，让自己有机会获选。",
+    "solvedAnswer": "同意；理由和例子为开放式，与答案的要求一致",
+    "status": "needs-review",
+    "note": "短文图片上有荧光笔痕迹，标出了答案所在的词句 (highlighter in the passage scan marks the answer). 答案中（B）的标题“【目标 + 道理】”被水印遮住一部分，“道理”两个字是根据字形和内容推断的，不影响答案。第二部分的示范答案取自答案（A）。"
+   }
+  }
+ ]
+}

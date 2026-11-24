@@ -97,7 +97,7 @@ h2.sec{font-size:1.5rem;font-weight:800;margin:0 0 12px}
 
 /* play */
 #play{background:#fff}
-.qpanel{flex:none;max-height:44vh;min-height:70px;overflow:auto;background:var(--card);border-bottom:3px solid var(--ink);padding:12px 18px 6px;position:relative}
+.qpanel{flex:0 1 auto;max-height:44vh;min-height:70px;overflow:auto;background:var(--card);border-bottom:3px solid var(--ink);padding:12px 18px 6px;position:relative}
 .qmeta{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:8px;align-items:center}
 .qmeta .cite{font-size:.78rem;color:#5a6079;font-weight:700}
 .qtext{font-size:1.15rem}
@@ -117,7 +117,7 @@ table.qt th{background:#f3ecd7}
 .grip{flex:none;height:16px;background:var(--ink);cursor:ns-resize;display:grid;place-items:center;touch-action:none}
 .grip::after{content:"";width:60px;height:4px;border-radius:9px;background:#fff;opacity:.7}
 
-.board{flex:1;position:relative;min-height:120px;overflow:hidden;background:#fff}
+.board{flex:1 0 120px;position:relative;min-height:120px;overflow:hidden;background:#fff}
 #cv{position:absolute;inset:0;width:100%;height:100%;touch-action:none;cursor:crosshair}
 .tools{position:absolute;left:10px;top:10px;display:flex;flex-wrap:wrap;align-items:center;max-width:calc(100% - 20px);gap:4px;background:var(--card);border:3px solid var(--ink);border-radius:16px;padding:6px;box-shadow:var(--shadow);z-index:3}
 .tools button{width:42px;height:42px;border-radius:11px;border:2.5px solid transparent;background:transparent;font-size:1.25rem;display:grid;place-items:center;padding:0}
@@ -128,6 +128,25 @@ table.qt th{background:#f3ecd7}
 .zoomer button{width:40px;height:40px;border-radius:11px;border:2.5px solid var(--ink);background:var(--card);font-weight:800;font-size:1.1rem;box-shadow:2px 2px 0 var(--ink);padding:0}
 .zoomer span{font-weight:800;font-size:.85rem;background:var(--card);border:2px solid var(--ink);border-radius:9px;padding:2px 7px}
 @media (max-width:620px){.tools hr{display:none}.tools button{width:38px;height:38px}}
+.passage{position:absolute;inset:0;overflow:auto;background:#fffdf4;padding:58px 22px 40px;z-index:20;font-size:1.14rem;line-height:1.75;display:none}
+.passage .inner{max-width:780px;margin:0 auto}
+.passage p{margin:.55em 0}
+.passage .fig{display:flex;margin:10px 0}
+.passage .fig img{max-width:100%;max-height:none}
+.board.haspass.showpass .passage{display:block}
+.ptabs{position:absolute;top:10px;right:10px;z-index:21;display:none;gap:0;border:3px solid var(--ink);border-radius:13px;overflow:hidden;box-shadow:var(--shadow)}
+.board.haspass .ptabs{display:flex}
+.ptabs button{border:0;background:var(--card);padding:7px 13px;font-family:var(--display);font-weight:800;font-size:.95rem}
+.ptabs button.on{background:var(--yellow)}
+.board.haspass:not(.showpass) .tools{max-width:calc(100% - 250px)}
+.blank{display:inline-block;min-width:4.2em;text-align:center;border-bottom:2.5px solid var(--ink);font-weight:800;font-size:.85em;color:#5a6079;margin:0 .15em;padding:0 .3em;border-radius:6px 6px 0 0}
+.blank.word{min-width:0;border-bottom:0;color:inherit;font-size:1em}
+.blank.word u{font-weight:800;text-decoration-thickness:2.5px}
+.blank.word sup{font-size:.68em;color:#5a6079;margin-left:2px}
+.blank.cur{background:var(--yellow);color:var(--ink);outline:2.5px solid var(--ink)}
+.field textarea{font:inherit;font-size:1.05rem;width:min(560px,82vw);padding:8px 10px;border:3px solid var(--ink);border-radius:12px;background:#fff;color:var(--ink);resize:vertical}
+.field textarea:focus{outline:4px solid var(--yellow)}
+.field.col{flex-direction:column;align-items:flex-start}
 
 .answer{flex:none;border-top:3px solid var(--ink);background:var(--paper);padding:10px max(14px,env(safe-area-inset-right)) max(10px,env(safe-area-inset-bottom)) max(14px,env(safe-area-inset-left));max-height:62vh;overflow:auto}
 .ansrow{display:flex;flex-wrap:wrap;gap:10px 14px;align-items:center}
@@ -170,6 +189,9 @@ table.qt th{background:#f3ecd7}
 </style>
 <script src="data/maths/index.js" onerror="void 0"></script>
 <script src="data/science/index.js" onerror="void 0"></script>
+<script src="data/english/index.js" onerror="void 0"></script>
+<script src="data/chinese/index.js" onerror="void 0"></script>
+<script src="data/higher-chinese/index.js" onerror="void 0"></script>
 </head>
 <body>
 
@@ -204,6 +226,8 @@ table.qt th{background:#f3ecd7}
   <div class="grip" id="grip" title="Drag to resize"></div>
   <div class="board" id="board">
     <canvas id="cv"></canvas>
+    <div class="passage" id="passage"><div class="inner" id="passageInner"></div></div>
+    <div class="ptabs" id="ptabs"><button data-pt="pass" class="on">📖 Passage</button><button data-pt="pad">✏️ Scratch pad</button></div>
     <div class="tools" id="tools">
       <button data-tool="pen" class="on" title="Pen">✏️</button>
       <button data-tool="eraser" title="Eraser">🧽</button>
@@ -264,23 +288,31 @@ const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":
 function inline(s){
   return esc(s)
     .replace(/\{([^{}\/]+)\/([^{}\/]+)\}/g, '<span class="frac"><span>$1</span><span>$2</span></span>')
-    .replace(/\*\*(.+?)\*\*/g, "<b>$1</b>");
+    .replace(/\*\*(.+?)\*\*/g, "<b>$1</b>")
+    .replace(/\+\+(.+?)\+\+/g, "<u>$1</u>")
+    .replace(/__\((\d+)\)__/g, '<span class="blank" data-n="$1">($1)</span>')
+    .replace(/__\((\d+):\s*(.+?)\)__/g, '<span class="blank word" data-n="$1"><u>$2</u><sup>($1)</sup></span>');
 }
 function tableHTML(t){
   const cell = (c, tag) => { const o = typeof c === "object" ? c : {t:c};
     return `<${tag}${o.rowspan?` rowspan="${o.rowspan}"`:""}${o.colspan?` colspan="${o.colspan}"`:""}>${inline(o.t ?? "")}</${tag}>`; };
   return `<table class="qt">${t.header ? "<tr>"+t.header.map(c=>cell(c,"th")).join("")+"</tr>" : ""}${t.rows.map(r=>"<tr>"+r.map(c=>cell(c,"td")).join("")+"</tr>").join("")}</table>`;
 }
-function figHTML(im){
+function figHTML(im, plain){
   const src = PSLE.images[im.key];
-  return `<span class="fig" data-key="${esc(im.key)}">${src ? `<img src="${src}" alt="${esc(im.alt)}">` : `<span class="ph">Loading picture…</span>`}
-    <button class="btn small" data-pin="${esc(im.key)}">✏️ Draw on it</button></span>`;
+  return `<span class="fig" data-key="${esc(im.key)}" data-alt="${esc(im.alt)}">${src ? `<img src="${src}" alt="${esc(im.alt)}">` : `<span class="ph">Loading picture…</span>`}
+    ${plain ? "" : `<button class="btn small" data-pin="${esc(im.key)}">✏️ Draw on it</button>`}</span>`;
 }
-function rich(text, q, used){
+function groupHTML(g){
+  const used = new Set();
+  return rich(g.text, g, used, true) + (g.tables||[]).filter(t => !used.has(t.id)).map(tableHTML).join("") +
+    (g.images||[]).filter(i => !used.has(i.id)).map(i => figHTML(i, true)).join("");
+}
+function rich(text, q, used, plain){
   return String(text||"").split("\n").map(line => {
     const m = line.trim().match(/^\[\[([a-z]+\d+)\]\]$/);
     if (m) {
-      const im = (q.images||[]).find(i => i.id === m[1]); if (im) { used.add(im.id); return figHTML(im); }
+      const im = (q.images||[]).find(i => i.id === m[1]); if (im) { used.add(im.id); return figHTML(im, plain); }
       const tb = (q.tables||[]).find(t => t.id === m[1]); if (tb) { used.add(tb.id); return tableHTML(tb); }
       return "";
     }
@@ -345,6 +377,8 @@ function exprEqual(a, b){
   return true;
 }
 const termCount = s => (tidy(s).replace(/\s+/g,"").match(/\d*\.?\d+|[a-z]/g)||[]).length;
+const normText = s => tidy(s).replace(/[’‘]/g,"'").replace(/\((?:i{1,3}|iv|v|[a-d]|\d)\)/g," ").replace(/[.,;!?'"()“”，。！？、；：「」《》]/g,"").replace(/\s+/g," ").trim();
+const hasCJK = s => /[\u3400-\u9fff]/.test(String(s));
 /* returns "right" | "wrong" | "self" | {nudge:"message"} */
 function checkPart(part, input){
   const a = part.answer, raw = String(input ?? "");
@@ -385,7 +419,7 @@ function checkPart(part, input){
       return "wrong";
     }
     case "text": {
-      const norm = s => tidy(s).replace(/\((?:i{1,3}|iv|v|[a-d]|\d)\)/g," ").replace(/[.,;!?'"()]/g,"").replace(/\s+/g," ").trim();
+      const norm = normText;
       const u = norm(raw); if (!u) return "wrong";
       const list = [a.value, ...(a.accept||[])].map(norm);
       return list.includes(u) || list.map(x=>x.replace(/ /g,"")).includes(u.replace(/ /g,"")) ? "right" : "wrong";
@@ -484,7 +518,7 @@ function openTopic(topicId){
   };
 }
 $("#topicModal").addEventListener("click", e => { if (e.target.id === "topicModal") e.currentTarget.classList.remove("on"); });
-$("#btnRandom").onclick = () => startSession({mode:"random", label:"Random mix", pool: lib().questions.map(q => q.id)});
+$("#btnRandom").onclick = () => startSession({mode:"random", label:"Random mix", pool: lib().questions.filter(q => q.topic !== "writing").map(q => q.id)});
 $("#btnMistakes").onclick = () => startSession({mode:"mistakes", label:"Mistake book", pool: mistakeIds(subjectId)});
 $("#btnQuit").onclick = () => go("menu");
 $("#btnProgBack").onclick = () => go(prevScreen === "progress" ? "home" : prevScreen);
@@ -510,26 +544,49 @@ function pickNext(){
   for (let i = 0; i < cand.length; i++) { roll -= w[i]; if (roll <= 0) return cand[i]; }
   return cand[cand.length-1];
 }
+function groupOf(q){ return q.group ? (PSLE.subjects[q.subject].groups||{})[q.group] : null; }
 function nextQuestion(){
-  const id = pickNext();
+  let id;
+  if (session.queue && session.queue.length) id = session.queue.shift();
+  else {
+    id = pickNext(); session.gpos = null;
+    const q0 = id && qById[id];
+    if (q0 && q0.group && session.mode !== "mistakes") {
+      const mates = session.pool.filter(x => qById[x].group === q0.group).sort((a,b) => qById[a].number - qById[b].number);
+      if (mates.length > 1) { session.queue = mates; session.gpos = {i:0, n:mates.length}; id = session.queue.shift(); }
+    }
+  }
   if (!id) { toast("Mistake book is empty. Great work!"); go("menu"); return; }
+  if (session.gpos) session.gpos.i++;
   cur = qById[id]; session.seen.add(id);
+  $("#play").lang = /chinese/.test(cur.subject) ? "zh-Hans" : "en";
   const L = lib(), t = L.topics.find(x => x.id === cur.topic);
   $("#playTitle").textContent = session.label;
   $("#qmeta").innerHTML = `<span class="chip yellow">${t ? esc(t.name) : ""}</span>
-    <span class="chip">${cur.marks} mark${cur.marks>1?"s":""}</span>${S.mist[cur.id]?'<span class="chip red">📕 retry</span>':""}
+    <span class="chip">${cur.marks} mark${cur.marks>1?"s":""}</span>${session.gpos?`<span class="chip">📖 ${session.gpos.i} of ${session.gpos.n}</span>`:""}${S.mist[cur.id]?'<span class="chip red">📕 retry</span>':""}
     <span class="cite">${esc(cur.cite)}</span>`;
   $("#qtext").innerHTML = questionHTML(cur);
-  $("#qpanel").scrollTop = 0; $("#qpanel").style.maxHeight = cur.subject === "science" ? "58vh" : ""; $("#qpanel").style.height = "";
+  $("#qpanel").scrollTop = 0; $("#qpanel").style.maxHeight = cur.subject !== "maths" ? "58vh" : ""; $("#qpanel").style.height = "";
   Board.reset();
+  const g = groupOf(cur), board = $("#board"), pi = $("#passageInner");
+  board.classList.toggle("haspass", !!g);
+  if (g) {
+    if (pi.dataset.g !== cur.group) { pi.dataset.g = cur.group; pi.innerHTML = groupHTML(g); $("#passage").scrollTop = 0; }
+    setPassTab("pass");
+    let hit = null; $$(".blank", pi).forEach(b => { const on = +b.dataset.n === cur.number; b.classList.toggle("cur", on); if (on && !hit) hit = b; });
+    if (hit) { const pr = $("#passage").getBoundingClientRect(), r = hit.getBoundingClientRect(); if (r.top < pr.top + 60 || r.bottom > pr.bottom - 30) $("#passage").scrollTop += r.top - pr.top - pr.height/3; }
+  } else { pi.dataset.g = ""; pi.innerHTML = ""; board.classList.remove("showpass"); }
   renderAnswerBar();
-  if (cur.images) loadImages(cur.subject, cur.topic).then(() => {
+  if (cur.images || (g && g.images)) loadImages(cur.subject, cur.topic).then(() => {
     if (!cur || cur.id !== id) return;
-    $$("#qtext .fig").forEach(f => { const src = PSLE.images[f.dataset.key], ph = $(".ph", f);
-      if (src && ph) { const im = cur.images.find(i => i.key === f.dataset.key); ph.outerHTML = `<img src="${src}" alt="${esc(im.alt)}">`; }
+    $$("#play .fig").forEach(f => { const src = PSLE.images[f.dataset.key], ph = $(".ph", f);
+      if (src && ph) ph.outerHTML = `<img src="${src}" alt="${esc(f.dataset.alt)}">`;
       else if (ph) ph.textContent = "Picture not found"; });
   });
 }
+function setPassTab(t){ $("#board").classList.toggle("showpass", t === "pass"); $$("#ptabs button").forEach(b => b.classList.toggle("on", b.dataset.pt === t)); if (t !== "pass") Board.resize(); }
+$("#ptabs").addEventListener("click", e => { const b = e.target.closest("[data-pt]"); if (b) setPassTab(b.dataset.pt); });
+$("#passage").addEventListener("click", e => { if (e.target.tagName === "IMG") { $("#lightbox img").src = e.target.src; $("#lightbox").classList.add("on"); } });
 $("#qtext").addEventListener("click", e => {
   const pin = e.target.closest("[data-pin]");
   if (pin) { const src = PSLE.images[pin.dataset.pin]; if (src) Board.addImage(src); return; }
@@ -546,12 +603,14 @@ function renderAnswerBar(){
   } else {
     q.parts.forEach((p, i) => {
       const a = p.answer, lab = p.label ? `(${esc(p.label)})` : "Answer";
+      const langSubj = q.subject !== "maths" && q.subject !== "science";
+      if (a.type === "self" && langSubj) { h += `<label class="field col">${lab} <textarea data-part="${i}" rows="${q.topic==="writing"?6:2}" autocomplete="off" spellcheck="false" placeholder="${q.topic==="writing"?"Plan on the scratch pad, then write here or on paper":"Type your answer, or write it on the scratch pad"}"></textarea></label>`; return; }
       if (a.type === "self") { h += `<label class="field">${lab} <input data-part="${i}" class="wide" autocomplete="off" placeholder="Write on the canvas or type here"></label>`; return; }
       const wide = a.type === "text" || a.type === "expression" || a.type === "sum";
       const numeric = a.type === "number" || a.type === "fraction";
       h += `<label class="field">${lab} ${a.unit && a.unitPos==="before" ? esc(a.unit) : ""}
         <input data-part="${i}" class="${wide?"wide":""}" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" ${numeric?'inputmode="text"':""}
-          placeholder="${a.type==="fraction"?"e.g. 1 2/3":a.type==="ratio"?"e.g. 2:3":a.type==="sum"?"e.g. 10, 20":""}">
+          placeholder="${a.type==="fraction"?"e.g. 1 2/3":a.type==="ratio"?"e.g. 2:3":a.type==="sum"?"e.g. 10, 20":a.type==="text"&&hasCJK(a.value)?"打字，或写在草稿板上":""}">
         ${a.unit && a.unitPos!=="before" ? inline(a.unit) : ""}</label>`;
     });
   }
@@ -567,6 +626,7 @@ $("#answer").addEventListener("click", e => {
   if (e.target.id === "btnCheck") doCheck(false);
   if (e.target.id === "btnGiveUp") doCheck(true);
   if (e.target.id === "btnNext") nextQuestion();
+  if (e.target.id === "btnFeedback") copyFeedback();
   const sm = e.target.closest("[data-self]");
   if (sm) { pending.results[+sm.dataset.self] = sm.dataset.val; drawResult(); }
 });
@@ -579,9 +639,13 @@ function doCheck(giveUp){
     const p = q.parts[i];
     let val = q.format === "mcq" ? mcqPick : ($(`#answer [data-part="${i}"]`)||{}).value;
     inputs.push(val);
-    if (p.answer.type === "self") { results.push("self"); continue; }
+    const blank = val === null || val === undefined || String(val).trim() === "";
+    if (p.answer.type === "self") {
+      const u = blank ? "" : normText(val);
+      results.push(u && [p.answer.value, ...(p.answer.accept||[])].some(v => normText(v) === u) ? "right" : "self"); continue; }
     if (giveUp) { results.push("wrong"); continue; }
-    if (val === null || val === undefined || String(val).trim() === "") {
+    if (blank && p.answer.type === "text" && hasCJK(p.answer.value)) { results.push("self"); continue; } // handwritten on the pad
+    if (blank) {
       toast(q.format === "mcq" ? "Tap an option first." : "Type an answer for every part, or tap “Show answer”."); return;
     }
     const r = checkPart(p, val);
@@ -609,19 +673,31 @@ function drawResult(){
       ${(() => { const t = answerText(q, p), long = t.length > 48; return long ? `</div><div class="anslong"><b>${a.type==="self"?"Model answer":"Answer"}:</b> ${inline(t).replace(/\n/g,"<br>")}</div><div>` : `<span>${a.type==="self"?"Model answer":"Answer"}: <span class="ansbig">${inline(t)}</span></span></div><div>`; })()}</div>`;
     const steps = `<ol>${p.explanation.map(s => `<li>${inline(s)}</li>`).join("")}</ol>`;
     h += r === "right" && a.type !== "self" ? `<details><summary>See the working</summary>${steps}</details>` : steps;
-    if (a.type === "self" && !pending.done) h += `<div class="selfmark"><button class="btn mint small" data-self="${i}" data-val="right">👍 I got it right</button>
-      <button class="btn small" data-self="${i}" data-val="wrong">👎 I got it wrong</button></div>`;
+    if (q.topic === "writing") h += `<div class="selfmark"><button class="btn small" id="btnFeedback">📋 Copy a feedback request</button><span class="note">Paste it into Claude or give it to a parent to get comments on your writing.</span></div>`;
+    if (r === "self" && !pending.done) h += `<div class="selfmark"><button class="btn mint small" data-self="${i}" data-val="right">👍 ${q.topic==="writing"?"I covered the checklist":"I got it right"}</button>
+      <button class="btn small" data-self="${i}" data-val="wrong">👎 ${q.topic==="writing"?"I missed some points":"I got it wrong"}</button></div>`;
     h += "</div>";
   });
   $("#answer").innerHTML = h + "</div>"; $("#answer").scrollTop = 0;
 }
 const pick = a => a[Math.floor(Math.random()*a.length)];
+function copyFeedback(){
+  const q = pending.q, mine = (pending.inputs[0]||"").trim(), plain = s => String(s||"").replace(/\[\[[a-z]+\d+\]\]/g,"[picture]").replace(/\*\*|\+\+/g,"");
+  const zh = /chinese/.test(q.subject);
+  const text = `Please mark this ${zh ? "PSLE Chinese composition (作文)" : "PSLE English writing task"} by a Primary 6 pupil.\n\n` +
+    `TASK (${q.cite}):\n${plain(q.stem)}\n${q.parts.map(p => plain(p.prompt)).join("\n")}\n\n` +
+    `PUPIL'S WRITING:\n${mine || "[Attach a photo of the handwritten work here]"}\n\n` +
+    `Give: (1) a mark for content and a mark for language using the PSLE bands, (2) three things done well, (3) the three most useful improvements with a corrected example of each, (4) every spelling, grammar or punctuation error. Write for a 12-year-old, kindly and plainly.` + (zh ? " Reply in Simplified Chinese, with a short English summary for the parent." : "");
+  const done = () => toast("Copied. Paste it into Claude or a message to a parent.");
+  const fallback = () => { const t = document.createElement("textarea"); t.value = text; document.body.appendChild(t); t.select(); try { document.execCommand("copy"); done(); } catch(e) { toast("Could not copy on this device."); } t.remove(); };
+  if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(text).then(done, fallback); else fallback();
+}
 function finalize(){
   const {q, results} = pending; pending.done = true;
   const allRight = results.every(r => r === "right");
   const before = levelOf(S.xp);
   let xp = 0;
-  q.parts.forEach((p, i) => { if (results[i] === "right") xp += 10 * (p.marks || (q.parts.length === 1 ? q.marks : 1)); });
+  q.parts.forEach((p, i) => { if (results[i] === "right") xp += q.topic === "writing" ? 30 : 10 * (p.marks || (q.parts.length === 1 ? q.marks : 1)); });
   if (allRight) { S.streak++; S.best = Math.max(S.best, S.streak); xp += Math.min(10, 2*(S.streak-1)); } else S.streak = 0;
   const rec = S.q[q.id] || (S.q[q.id] = {a:0, c:0});
   rec.a++; if (allRight) rec.c++; rec.ok = allRight; rec.last = today();

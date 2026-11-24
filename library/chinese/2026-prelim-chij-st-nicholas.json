@@ -1,0 +1,1711 @@
+{
+ "paper": {
+  "id": "2026-prelim-chij-st-nicholas",
+  "subject": "chinese",
+  "year": 2026,
+  "exam": "Prelim",
+  "school": "CHIJ St Nicholas",
+  "schoolFull": "CHIJ St Nicholas Girls' School (Primary)",
+  "file": "PSLE-2026-P6-papers/Chinese/P6-Chinese-Prelim-2026-St-Nicholas-Paper.pdf",
+  "coordDpi": 100
+ },
+ "groups": [
+  {
+   "id": "g1",
+   "text": "根据短文的内容和上下文的意思，从括号中选出适当的词语。\n\n[[img1]]",
+   "images": [
+    {
+     "id": "img1",
+     "alt": "短文：小云跟奶奶学种花，前两次因为种得太深和太心急而失败，第三次才成功，明白了做事要用对方法、努力付出并耐心等待。短文里有 Q16 到 Q20 五个括号，每个括号有四个词语。",
+     "page": 8,
+     "box": [
+      82,
+      186,
+      742,
+      774
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g2",
+   "text": "根据短文的内容和上下文的意思，选出最适当的答案。\n\n[[img1]]",
+   "images": [
+    {
+     "id": "img1",
+     "alt": "短文：马丽去医院面试的路上救了一名昏倒的女孩，错过了面试。院长知道后请她再来面试，并让她成为医院的医生。",
+     "page": 9,
+     "box": [
+      84,
+      198,
+      742,
+      782
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g3",
+   "text": "根据上下文的意思，从表中选出适当的短语或短句，然后把代表它们的数字填写在括号里。\n\n[[img1]]",
+   "images": [
+    {
+     "id": "img1",
+     "alt": "上面的格子是编号 1 到 9 的九个短语或短句（第 9 句的最后一个字在扫描中被切掉了一部分：“希望收到文具的同学能好好珍惜这些”）。下面是伟明和小丽谈学校“大手牵小手”献爱心活动的对话，对话里有 Q26 到 Q29 四个空格。",
+     "page": 12,
+     "box": [
+      86,
+      226,
+      770,
+      922
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g4",
+   "text": "根据短文和上下文的意思，回答下列问题。\n\n[[img1]]",
+   "images": [
+    {
+     "id": "img1",
+     "alt": "海报：武术班招生啦！介绍武术俱乐部两个月的武术课程，有日期、地点、初级班和高级班的招生对象、上课时间和学费，前 10 位报名者可获赠小礼物，还有报名网站和询问电话。",
+     "page": 13,
+     "box": [
+      84,
+      182,
+      738,
+      1064
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g5",
+   "text": "根据短文和上下文的意思，回答下列问题。\n\n[[img1]]",
+   "images": [
+    {
+     "id": "img1",
+     "alt": "短文：杰克在学校成绩不好，母亲鼓励他，发现他对设计有兴趣后让他去上设计课。多年后杰克成为出色的设计师，实现了梦想。",
+     "page": 15,
+     "box": [
+      84,
+      144,
+      742,
+      892
+     ]
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "section": "p2",
+   "number": 1,
+   "page": 5,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "pinyin",
+   "subtypes": [
+    "pinyin"
+   ],
+   "stem": "请选出画线词语的汉语拼音。\n尤金是新加坡++著名++的作家。",
+   "options": [
+    "zù mín",
+    "zù míng",
+    "zhù mín",
+    "zhù míng"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 4
+     },
+     "explanation": [
+      "“著”是翘舌音 zhù，不是平舌音 zù。",
+      "“名”是后鼻音 míng，不是前鼻音 mín。",
+      "“著名”读 zhù míng，答案是（4）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "4",
+    "solvedAnswer": "4",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 2,
+   "page": 5,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "pinyin",
+   "subtypes": [
+    "pinyin"
+   ],
+   "stem": "请选出画线词语的汉语拼音。\n每逢过年，牛车水都充满了浓浓的春节++气氛++。",
+   "options": [
+    "cì fēn",
+    "cì fèn",
+    "qì fēn",
+    "qì fèn"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 3
+     },
+     "explanation": [
+      "“气”的声母是 q，读 qì，不是 cì。",
+      "“氛”读第一声 fēn，不是第四声 fèn。",
+      "“气氛”读 qì fēn，答案是（3）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "3",
+    "solvedAnswer": "3",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 3,
+   "page": 5,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "vocabulary",
+   "subtypes": [
+    "word-choice"
+   ],
+   "stem": "从所提供的选项中选出正确的答案。\n奶奶在食堂______了一个摊位卖豆花水。",
+   "options": [
+    "组",
+    "租",
+    "祖",
+    "阻"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 2
+     },
+     "explanation": [
+      "“租”是付钱借用别人的地方或东西，“租摊位”就是付租金用这个摊位做生意。",
+      "“组”是小组的组，“祖”是祖父的祖，“阻”是阻止的阻，样子很像，但意思不对。",
+      "答案是（2）租。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "2",
+    "solvedAnswer": "2",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 4,
+   "page": 5,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "vocabulary",
+   "subtypes": [
+    "word-choice"
+   ],
+   "stem": "从所提供的选项中选出正确的答案。\n店内的______售员热情地向顾客介绍商品。",
+   "options": [
+    "稍",
+    "消",
+    "销",
+    "悄"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 3
+     },
+     "explanation": [
+      "“销售”的意思是卖东西，“销售员”就是卖东西的人。",
+      "“销”是金字旁；“消”是消失的消，读音一样，但意思是不见了。",
+      "答案是（3）销。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "3",
+    "solvedAnswer": "3",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 5,
+   "page": 6,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "vocabulary",
+   "subtypes": [
+    "word-choice"
+   ],
+   "stem": "从所提供的选项中选出正确的答案。\n考试快到了，老师______我们要复习功课。",
+   "options": [
+    "教导",
+    "命令",
+    "请求",
+    "提醒"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 4
+     },
+     "explanation": [
+      "“提醒”是怕别人忘记，特地告诉他。考试快到了，老师怕我们忘记复习，所以提醒我们。",
+      "“命令”是上级一定要下级照着做，语气太重；“请求”是求别人帮忙，老师不会请求学生。",
+      "答案是（4）提醒。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "4",
+    "solvedAnswer": "4",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 6,
+   "page": 6,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "vocabulary",
+   "subtypes": [
+    "word-choice"
+   ],
+   "stem": "从所提供的选项中选出正确的答案。\n花木兰在战场上英勇杀敌，______自己的国家。",
+   "options": [
+    "保管",
+    "保持",
+    "保卫",
+    "保证"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 3
+     },
+     "explanation": [
+      "“保卫”是保护国家、家园，不让敌人侵犯，常说“保卫国家”。",
+      "“保管”是看管东西，“保持”是让情况不改变（保持安静），“保证”是答应一定做到。",
+      "答案是（3）保卫。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "3",
+    "solvedAnswer": "3",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 7,
+   "page": 6,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "vocabulary",
+   "subtypes": [
+    "word-meaning"
+   ],
+   "stem": "从所提供的选项中选出正确的答案。\n我++打败++所有的对手，取得了冠军。",
+   "options": [
+    "赢了对手",
+    "赶走对手",
+    "推倒对手",
+    "攻打对手"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 1
+     },
+     "explanation": [
+      "“打败”在这里的意思是在比赛中胜过对方，也就是赢了对方。",
+      "句子后面说“取得了冠军”，所以是赢了所有的对手。",
+      "“攻打对手”只是去打，不一定赢。答案是（1）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "1",
+    "solvedAnswer": "1",
+    "status": "verified",
+    "note": "The dotted underline under 打败 is faint in the scan; the options (…对手) confirm that 打败 is the word being asked about."
+   }
+  },
+  {
+   "section": "p2",
+   "number": 8,
+   "page": 6,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "vocabulary",
+   "subtypes": [
+    "word-meaning",
+    "idioms"
+   ],
+   "stem": "从所提供的选项中选出正确的答案。\n听了哥哥的解释后，我++恍然大悟++，发现我错怪了他。",
+   "options": [
+    "突然醒来",
+    "突然明白",
+    "突然猜中",
+    "突然想起"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 2
+     },
+     "explanation": [
+      "“恍然大悟”的意思是一下子明白过来。“悟”就是明白。",
+      "听了解释以后才知道自己错怪了哥哥，所以是突然明白。",
+      "“突然想起”是记起以前的事，不是明白道理。答案是（2）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "2",
+    "solvedAnswer": "2",
+    "status": "verified",
+    "note": "The dotted underline under 恍然大悟 is faint and has pencil marks over it; the four options (突然…) confirm the underlined word."
+   }
+  },
+  {
+   "section": "p2",
+   "number": 9,
+   "page": 6,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "sentences",
+   "subtypes": [
+    "connectors"
+   ],
+   "stem": "从所提供的选项中选出正确的答案。\n______明天是否下雨，我们______会去探望外婆。",
+   "options": [
+    "如果……就",
+    "不管……都",
+    "除了……还",
+    "就算……也"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 2
+     },
+     "explanation": [
+      "“是否下雨”有两种情况：下雨或不下雨。两种情况结果都一样，要用“不管……都”。",
+      "“就算……也”后面只能跟一种情况（就算下雨，也会去），不能跟“是否”。",
+      "答案是（2）不管……都。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "2",
+    "solvedAnswer": "2",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 10,
+   "page": 6,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "sentences",
+   "subtypes": [
+    "connectors"
+   ],
+   "stem": "从所提供的选项中选出正确的答案。\n______我们有时间，______去老人院做义工。",
+   "options": [
+    "与其……不如",
+    "除非……不然",
+    "尽管……还是",
+    "反正……不如"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 4
+     },
+     "explanation": [
+      "“反正”表示情况已经确定：我们有时间。“不如”用来提出建议：去老人院做义工。",
+      "“与其……不如”是在两件事里选后一件，可是“我们有时间”不是一件可以选的事。",
+      "答案是（4）反正……不如。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "4",
+    "solvedAnswer": "4",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 11,
+   "page": 7,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "sentences",
+   "subtypes": [
+    "sentence-completion"
+   ],
+   "stem": "从所提供的选项中选出正确的答案。\n一开始我对新学校感到陌生，______。",
+   "options": [
+    "总是忘记完成作业",
+    "后来就慢慢熟悉了",
+    "认识了很多新朋友",
+    "时不时被老师批评"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 2
+     },
+     "explanation": [
+      "“一开始”后面常常接“后来”，说明情况有了改变。",
+      "“陌生”的反义词是“熟悉”：一开始陌生，后来慢慢熟悉了。",
+      "（3）认识新朋友和“感到陌生”接不上，中间少了“后来”。答案是（2）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "2",
+    "solvedAnswer": "2",
+    "status": "verified",
+    "note": "The comma after 陌生 is covered by a pencil mark in the scan; a comma is assumed."
+   }
+  },
+  {
+   "section": "p2",
+   "number": 12,
+   "page": 7,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "sentences",
+   "subtypes": [
+    "sentence-completion",
+    "idioms"
+   ],
+   "stem": "从所提供的选项中选出正确的答案。\n______，才把钢琴搬上楼。",
+   "options": [
+    "搬家工人不费吹灰之力",
+    "同学们浪费了很多体力",
+    "我和妹妹花费不少日子",
+    "爸爸费了九牛二虎之力"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 4
+     },
+     "explanation": [
+      "“才”表示事情很不容易做到，前面要说花了很大的力气。",
+      "“九牛二虎之力”比喻很大的力气，和“才把钢琴搬上楼”配得上。",
+      "“不费吹灰之力”是非常容易，后面不能用“才”。答案是（4）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "4",
+    "solvedAnswer": "4",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 13,
+   "page": 7,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "sentences",
+   "subtypes": [
+    "sentence-usage"
+   ],
+   "stem": "以下哪个句子是正确的？",
+   "options": [
+    "爸爸点点头++表达++同意大家的看法。",
+    "老师++表达++他是个乐于助人的孩子。",
+    "我们在比赛中有非常出色的++表达++。",
+    "我写了一首歌++表达++对祖国的热爱。"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 4
+     },
+     "explanation": [
+      "“表达”是用话、文字或作品把心里的想法和感情说出来。",
+      "（4）用一首歌说出对祖国的热爱，用得对。",
+      "（1）应该用“表示”，（2）应该用“称赞”，（3）应该用“表现”。",
+      "答案是（4）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "4",
+    "solvedAnswer": "4",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 14,
+   "page": 7,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "sentences",
+   "subtypes": [
+    "sentence-usage",
+    "idioms"
+   ],
+   "stem": "以下哪个句子是正确的？",
+   "options": [
+    "放工回家之后，妈妈++津津有味++地准备晚餐。",
+    "一大早，校工阿姨就++津津有味++地打扫课室。",
+    "华文课上，我们++津津有味++地听老师讲故事。",
+    "考试时，同学们++津津有味++地回答每道问题。"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 3
+     },
+     "explanation": [
+      "“津津有味”形容吃东西很香，或者看书、听故事很有兴趣。",
+      "（3）听故事听得很有兴趣，用得对。",
+      "准备晚餐、打扫课室、回答问题是做事，不能说“津津有味”，可以用“认真”。",
+      "答案是（3）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "3",
+    "solvedAnswer": "3",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 15,
+   "page": 7,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "sentences",
+   "subtypes": [
+    "sentence-usage"
+   ],
+   "stem": "以下哪个句子是正确的？",
+   "options": [
+    "我们有问题时，老师都会++贴心++地为我们解答。",
+    "我需要更加++贴心++，才不会犯这种粗心的错误。",
+    "看到爷爷冷得发抖，我++贴心++地为他披上外套。",
+    "妹妹会++贴心++爸爸妈妈，体谅他们工作的辛苦。"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 3
+     },
+     "explanation": [
+      "“贴心”形容一个人很会关心别人，知道别人需要什么。",
+      "（3）看到爷爷冷，就为他披上外套，是很贴心的做法。",
+      "（1）应该用“耐心”，（2）应该用“细心”，（4）“贴心”后面不能直接跟人，应该用“关心”。",
+      "答案是（3）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "3",
+    "solvedAnswer": "3",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 16,
+   "page": 8,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "cloze",
+   "subtypes": [
+    "word-choice"
+   ],
+   "group": "g1",
+   "stem": "Q16 的答案是：",
+   "options": [
+    "乐趣",
+    "有趣",
+    "兴趣",
+    "风趣"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 2
+     },
+     "explanation": [
+      "空格前面是“觉得十分”，后面要填形容词。“觉得十分有趣”就是觉得很有意思。",
+      "“乐趣”和“兴趣”是名词，不能说“十分乐趣”；“风趣”形容人说话幽默。",
+      "答案是（2）有趣。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "2",
+    "solvedAnswer": "2",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 17,
+   "page": 8,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "cloze",
+   "subtypes": [
+    "word-choice"
+   ],
+   "group": "g1",
+   "stem": "Q17 的答案是：",
+   "options": [
+    "反应",
+    "声音",
+    "影响",
+    "动静"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 4
+     },
+     "explanation": [
+      "“一点动静都没有”是固定说法，意思是什么变化都没有——种子没有发芽。",
+      "“反应”是受到刺激以后的回应，种子发芽不说“反应”。",
+      "答案是（4）动静。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "4",
+    "solvedAnswer": "4",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 18,
+   "page": 8,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "cloze",
+   "subtypes": [
+    "word-choice"
+   ],
+   "group": "g1",
+   "stem": "Q18 的答案是：",
+   "options": [
+    "制作",
+    "尝试",
+    "练习",
+    "坚持"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 2
+     },
+     "explanation": [
+      "第一次种花失败了，小云决定“再试一次”。“尝试”就是试着做。",
+      "“坚持”是不停地做下去，不能说“再坚持一次”种花。",
+      "答案是（2）尝试。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "2",
+    "solvedAnswer": "2",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 19,
+   "page": 8,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "cloze",
+   "subtypes": [
+    "word-choice"
+   ],
+   "group": "g1",
+   "stem": "Q19 的答案是：",
+   "options": [
+    "努力",
+    "详细",
+    "小心",
+    "勇敢"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 3
+     },
+     "explanation": [
+      "前两次因为种得太深、太心急而失败，这次小云要很注意，所以是“小心地种下”。",
+      "“详细”形容内容很多很清楚（详细的计划），不能形容种种子的动作。",
+      "答案是（3）小心。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "3",
+    "solvedAnswer": "3",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 20,
+   "page": 8,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "cloze",
+   "subtypes": [
+    "word-choice"
+   ],
+   "group": "g1",
+   "stem": "Q20 的答案是：",
+   "options": [
+    "耐心",
+    "专心",
+    "细心",
+    "热心"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 1
+     },
+     "explanation": [
+      "上文说小云第二次“太心急”，第三次“慢慢等待”才成功。不着急地等，就是“耐心等待”。",
+      "“细心”是做事仔细，“专心”是集中注意力，都不和“等待”搭配。",
+      "答案是（1）耐心。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "1",
+    "solvedAnswer": "1",
+    "status": "needs-review",
+    "note": "Faint pencil dot above option 1 (the answer) inside the Q20 bracket in the passage crop. "
+   }
+  },
+  {
+   "section": "p2",
+   "number": 21,
+   "page": 10,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "comprehension-mcq",
+   "subtypes": [
+    "factual"
+   ],
+   "group": "g2",
+   "stem": "马丽在去面试的路上发生了什么事情？",
+   "options": [
+    "她接到院长的电话。",
+    "她看见女孩昏倒了。",
+    "她的脸色变得苍白。",
+    "她遇见医院的医生。"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 2
+     },
+     "explanation": [
+      "找到第一段：“半路上，马丽碰见一名突然昏倒的女孩”。",
+      "接到院长的电话是几天后的事；脸色发白的是女孩，不是马丽。",
+      "答案是（2）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "2",
+    "solvedAnswer": "2",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 22,
+   "page": 10,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "comprehension-mcq",
+   "subtypes": [
+    "factual"
+   ],
+   "group": "g2",
+   "stem": "马丽如何帮助女孩？",
+   "options": [
+    "想办法让女孩不再发烧。",
+    "第一时间送女孩去医院。",
+    "请刚好经过的医生帮忙。",
+    "把女孩移到阴凉的地方。"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 4
+     },
+     "explanation": [
+      "找到第一段最后一句：马丽“把女孩移到较阴凉的地方，并一直替她扇风”。",
+      "医生是自己“马上上前帮忙”的，不是马丽请来的；马丽也没有送女孩去医院。",
+      "答案是（4）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "4",
+    "solvedAnswer": "4",
+    "status": "needs-review",
+    "note": "Answer agrees with the key (4). Flagged only because the scanned passage has a handwritten 'Q22' written between the lines, right under the sentence that gives this answer (把女孩移到较阴凉的地方); it sits inside the passage crop and cannot be cropped out, so it points the child to the answer."
+   }
+  },
+  {
+   "section": "p2",
+   "number": 23,
+   "page": 10,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "comprehension-mcq",
+   "subtypes": [
+    "cause-and-effect"
+   ],
+   "group": "g2",
+   "stem": "马丽没有后悔帮女孩，因为",
+   "options": [
+    "救人比参加面试更重要。",
+    "那名医生最后认出了她。",
+    "展示医术的机会很难得。",
+    "她有第二次面试的机会。"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 1
+     },
+     "explanation": [
+      "找到第二段最后：“但是她并不后悔。她认为救人比面试重要。”",
+      "第二次面试是几天后才知道的，她不后悔的时候还不知道。",
+      "答案是（1）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "1",
+    "solvedAnswer": "1",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 24,
+   "page": 10,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "comprehension-mcq",
+   "subtypes": [
+    "inference"
+   ],
+   "group": "g2",
+   "stem": "以下哪一项++不是++院长让马丽再参加面试的原因？",
+   "options": [
+    "因为马丽非常希望到医院面试当医生。",
+    "因为失去马丽这样的医生会非常可惜。",
+    "因为马丽为了救人而错失第一次面试。",
+    "因为马丽拥有作为医生最重要的品德。"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 1
+     },
+     "explanation": [
+      "注意题目问的是“不是”原因的一项。",
+      "院长说：他听说了马丽救人的事（3），她具备了医生最重要的品德（4），失去这样的医生会非常可惜（2）。",
+      "院长没有说是因为马丽很想来面试。答案是（1）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "1",
+    "solvedAnswer": "1",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 25,
+   "page": 10,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "comprehension-mcq",
+   "subtypes": [
+    "main-idea"
+   ],
+   "group": "g2",
+   "stem": "这个故事告诉我们什么道理？",
+   "options": [
+    "发烧时一定要到阴凉的地方去。",
+    "善良的心和责任感都非常重要。",
+    "要把遇到的好人好事都说出来。",
+    "救人后要确保对方没事才离开。"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 2
+     },
+     "explanation": [
+      "道理常常在故事最后。院长说：“一名医生最重要的不是医术，而是拥有一颗善良的心和强烈的责任感。”",
+      "马丽因为善良和有责任感，最后得到了工作。",
+      "（1）和（4）只是故事里的小事，不是整个故事要说的道理。答案是（2）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "2",
+    "solvedAnswer": "2",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 26,
+   "page": 12,
+   "format": "short",
+   "marks": 2,
+   "topic": "dialogue",
+   "subtypes": [
+    "dialogue-completion"
+   ],
+   "group": "g3",
+   "stem": "Q26 的答案是：（填写数字 1 到 9）",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "6",
+      "accept": [
+       "我昨天在学校网站上看到活动通知",
+       "6 我昨天在学校网站上看到活动通知"
+      ]
+     },
+     "explanation": [
+      "伟明问“你有没有看到……活动通知？”，小丽回答“有啊！”，后面要说她在哪里看到。",
+      "选 6：我昨天在学校网站上看到活动通知。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "6",
+    "solvedAnswer": "6",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 27,
+   "page": 12,
+   "format": "short",
+   "marks": 2,
+   "topic": "dialogue",
+   "subtypes": [
+    "dialogue-completion"
+   ],
+   "group": "g3",
+   "stem": "Q27 的答案是：（填写数字 1 到 9）",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "1",
+      "accept": [
+       "这项活动很有意义",
+       "1 这项活动很有意义"
+      ]
+     },
+     "explanation": [
+      "伟明说活动是为了帮助有需要的儿童。小丽接着说“我们应该积极参加”，前面要先说她对活动的看法。",
+      "帮助别人是有意义的事，所以选 1：这项活动很有意义。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "1",
+    "solvedAnswer": "1",
+    "status": "verified",
+    "note": "A handwritten tick after item 1 in the word bank is inside the crop; it shows only that item 1 is used somewhere, not which blank."
+   }
+  },
+  {
+   "section": "p2",
+   "number": 28,
+   "page": 12,
+   "format": "short",
+   "marks": 2,
+   "topic": "dialogue",
+   "subtypes": [
+    "dialogue-completion"
+   ],
+   "group": "g3",
+   "stem": "Q28 的答案是：（填写数字 1 到 9）",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "8",
+      "accept": [
+       "我打算把家里一些新的文具捐出来",
+       "8 我打算把家里一些新的文具捐出来"
+      ]
+     },
+     "explanation": [
+      "小丽问“你会怎么帮助他们呢？”，伟明要回答他的做法。活动收集的是文具用品。",
+      "小丽接着称赞“这样既不会浪费资源，也能帮助别人”——家里没用的新文具捐出来，就不会浪费。",
+      "选 8：我打算把家里一些新的文具捐出来。（2 说的是旧课本，不是文具，而且前面没有人说过要捐，不能用“也”。）"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "8",
+    "solvedAnswer": "8",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 29,
+   "page": 12,
+   "format": "short",
+   "marks": 2,
+   "topic": "dialogue",
+   "subtypes": [
+    "dialogue-completion"
+   ],
+   "group": "g3",
+   "stem": "Q29 的答案是：（填写数字 1 到 9）",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "5",
+      "accept": [
+       "如果大家都愿意献出一份爱心",
+       "5 如果大家都愿意献出一份爱心"
+      ]
+     },
+     "explanation": [
+      "空格后面是“就能帮助更多有需要的儿童”。“如果……就……”是一对关联词。",
+      "伟明希望更多同学参加，小丽同意，所以选 5：如果大家都愿意献出一份爱心。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "5",
+    "solvedAnswer": "5",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 30,
+   "page": 14,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "functional-text",
+   "subtypes": [
+    "purpose-and-audience"
+   ],
+   "group": "g4",
+   "stem": "这则海报的主要目的是什么？",
+   "options": [
+    "通知所有的家长上课的详情。",
+    "教导学生更好的与他人合作。",
+    "请儿童和家长一起锻炼身体。",
+    "吸引家长替孩子报名武术班。"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 4
+     },
+     "explanation": [
+      "标题是“武术班招生啦！”，第一句是“想让你的孩子更健康吗？欢迎参加武术班！”",
+      "“招生”就是请人来报名，海报是写给家长看的。",
+      "上课详情只是海报的一部分内容，不是主要目的。答案是（4）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "4",
+    "solvedAnswer": "4",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 31,
+   "page": 14,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "functional-text",
+   "subtypes": [
+    "factual"
+   ],
+   "group": "g4",
+   "stem": "以下哪一项有关活动的内容是正确的？",
+   "options": [
+    "武术初级班的学费会比高级班便宜。",
+    "每个报名的学生都可以获得小礼物。",
+    "只要报名的学生一定能参加武术班。",
+    "没学过武术的学生得在星期天上课。"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 1
+     },
+     "explanation": [
+      "看表格：初级班学费 640 元，高级班 720 元，初级班比较便宜，（1）对。",
+      "（2）只有前 10 位报名者有礼物；（3）招生人数有限，不一定能参加；（4）没学过武术的上初级班，是每周六上课。",
+      "答案是（1）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "1",
+    "solvedAnswer": "1",
+    "status": "verified",
+    "note": "In option (3) the first two characters 只要 are struck through with pencil in the scan but are still readable."
+   }
+  },
+  {
+   "section": "p2",
+   "number": 32,
+   "page": 14,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "functional-text",
+   "subtypes": [
+    "factual"
+   ],
+   "group": "g4",
+   "stem": "如果家长有疑问，应该怎么做？",
+   "options": [
+    "仔细阅读海报上面的内容。",
+    "可上武术俱乐部网站查看。",
+    "到武术俱乐部课室问老师。",
+    "打电话向李珍珍女士询问。"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 4
+     },
+     "explanation": [
+      "找到海报最后一段：“如果你有疑问，可拨打 61234567 向办公室的李珍珍女士询问。”",
+      "“拨打”就是打电话。网站是用来报名的，不是用来问问题的。",
+      "答案是（4）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "4",
+    "solvedAnswer": "4",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 33,
+   "page": 14,
+   "format": "structured",
+   "marks": 4,
+   "topic": "functional-text",
+   "subtypes": [
+    "message-writing"
+   ],
+   "group": "g4",
+   "stem": "假如你是丽文，看了这则海报后，从没学过武术的你希望学武术，想请妈妈帮你报名参加。请写一则短信给妈妈，告诉她武术班的详情和报名方式。\n\n短信的开头是：\n妈妈，我希望到武术俱乐部的武术班学习。我想报名参加……\n（请接着写下去。）",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "妈妈，我希望到武术俱乐部的武术班学习。我想报名参加初级班。课程从8月22日至10月25日，每周六上午10时至11时30分，在武术俱乐部七楼课室上课。学费是640元，共8节课。由于名额有限，请您尽早上网 www.wushujulebu.com.sg 替我报名。"
+     },
+     "explanation": [
+      "内容 2 分，表达 2 分，一共 4 分。",
+      "先选对班级：丽文从没学过武术，所以要报名参加“初级班”。",
+      "武术班的详情：在海报里找初级班的日期（8月22日至10月25日）、上课时间（每周六上午10点至11点30分）、地点（武术俱乐部七楼课室）和学费（640元，8节课）。",
+      "报名方式：在海报最后一段找——尽早上网 www.wushujulebu.com.sg 报名。",
+      "不要抄高级班的资料（每周日、720元）。",
+      "表达：接着“我想报名参加……”写下去，句子要通顺、完整，对妈妈要有礼貌（用“请您”），不要写错字。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "范文：妈妈，我希望到武术俱乐部的武术班学习。我想报名参加初级班。课程从8月22日至10月25日，每周六上午10时至11时30分，在武术俱乐部七楼课室上课。学费是640元，共8节课。由于名额有限，请您尽早上网 www.wushujulebu.com.sg 替我报名。",
+    "solvedAnswer": "agrees with key",
+    "status": "verified",
+    "note": "The message box in the question booklet is not cropped: its only content is the opening, which is transcribed in the stem. Mark split (内容 2, 表达 2) is from the answer booklet. Part of the key's model answer is under the watermark (日 in 22日, 课室上课, the web address); these were read around the watermark and match the poster."
+   }
+  },
+  {
+   "section": "p2",
+   "number": 34,
+   "page": 16,
+   "format": "short",
+   "marks": 2,
+   "topic": "comprehension-open",
+   "subtypes": [
+    "vocabulary-in-context"
+   ],
+   "group": "g5",
+   "stem": "文中表示“认真地做事，非常努力”的词语是：______。",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "勤奋"
+     },
+     "explanation": [
+      "要找一个意思是“做事认真、很努力”的词语。",
+      "第五段：“杰克勤奋地工作，表现很优秀”。",
+      "答案是“勤奋”。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "勤奋",
+    "solvedAnswer": "勤奋",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 35,
+   "page": 16,
+   "format": "short",
+   "marks": 2,
+   "topic": "comprehension-open",
+   "subtypes": [
+    "vocabulary-in-context"
+   ],
+   "group": "g5",
+   "stem": "文中表示“通过言语或行动让人充满信心”的词语是：______。",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "鼓励"
+     },
+     "explanation": [
+      "要找一个意思是“说话或做事让别人有信心”的词语。",
+      "第五段：“他非常感激母亲当年给他的鼓励”，后面还有“母亲鼓励我，让我重新找回信心”。",
+      "答案是“鼓励”。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "鼓励",
+    "solvedAnswer": "鼓励",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 36,
+   "page": 16,
+   "format": "structured",
+   "marks": 3,
+   "topic": "comprehension-open",
+   "subtypes": [
+    "factual",
+    "cause-and-effect"
+   ],
+   "group": "g5",
+   "stem": "",
+   "parts": [
+    {
+     "label": "a",
+     "prompt": "杰克在学校遇到了什么困难？",
+     "marks": 2,
+     "answer": {
+      "type": "self",
+      "value": "杰克在课堂上总是无法回答老师的问题，成绩也一直不理想。",
+      "accept": [
+       "杰克在课堂上总是无法回答老师的问题，而且他的理解能力较差。"
+      ]
+     },
+     "explanation": [
+      "有两点，各 1 分，都要写。",
+      "答案在第一段第一句：“杰克在课堂上总是无法回答老师的问题，成绩也一直不理想”。",
+      "第二点也可以写第二段老师说的“理解能力较差”。"
+     ]
+    },
+    {
+     "label": "b",
+     "prompt": "这困难对他有什么影响？",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "他每天闷闷不乐，晚上还经常做恶梦。"
+     },
+     "explanation": [
+      "“因此”后面就是影响。第一段：“因此他每天闷闷不乐，晚上还经常做恶梦”。",
+      "两样都写出来：闷闷不乐，经常做恶梦。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "① 杰克在课堂上总是无法回答老师的问题。（1分）② 他的成绩一直不理想／理解能力较差。（1分）影响：他每天闷闷不乐，晚上还经常做噩梦。（1分）",
+    "solvedAnswer": "agrees with key",
+    "status": "verified",
+    "note": "The key writes 噩梦; the passage prints 恶梦, so the model answer uses the passage's 恶梦. Both spellings are correct. Parts of the key lines are under the watermark but readable."
+   }
+  },
+  {
+   "section": "p2",
+   "number": 37,
+   "page": 16,
+   "format": "structured",
+   "marks": 2,
+   "topic": "comprehension-open",
+   "subtypes": [
+    "cause-and-effect",
+    "inference"
+   ],
+   "group": "g5",
+   "stem": "母亲为什么决定亲自教导杰克？",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "因为老师告诉母亲杰克的理解能力较差，母亲担心他无法取得好成绩，想亲自帮助他提高学习成绩。"
+     },
+     "explanation": [
+      "有两点，各 1 分。",
+      "第一点在第二段：老师告诉母亲“杰克的理解能力较差，恐怕无法取得好成绩”。",
+      "第二点要自己想一想：母亲听后很伤心，她担心杰克，所以想亲自帮助他提高成绩（第三段：“都无法提高学习成绩”说明母亲教他的目的）。",
+      "用“因为……”开头回答“为什么”。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "① 老师告诉母亲杰克的理解能力较差。（1分）② 母亲担心他无法取得好成绩，想亲自帮助他提高学习成绩。（1分）",
+    "solvedAnswer": "agrees with key",
+    "status": "verified",
+    "note": "The first few characters of both key lines (老师告诉母, 母亲) are blacked out by the watermark; they are clear from the remaining strokes and the passage."
+   }
+  },
+  {
+   "section": "p2",
+   "number": 38,
+   "page": 16,
+   "format": "structured",
+   "marks": 4,
+   "topic": "comprehension-open",
+   "subtypes": [
+    "factual",
+    "inference"
+   ],
+   "group": "g5",
+   "stem": "",
+   "parts": [
+    {
+     "label": "a",
+     "prompt": "母亲是怎样帮助杰克实现梦想的？",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "母亲发现杰克对设计有兴趣，一直想成为一名杰出的设计师，便让他去上设计课。"
+     },
+     "explanation": [
+      "答案在第三段最后一句：母亲发现杰克对设计有兴趣，“便让他去上设计课”。",
+      "要写出母亲做了什么：让他去上设计课。"
+     ]
+    },
+    {
+     "label": "b",
+     "prompt": "从哪里可以看出杰克实现了梦想？",
+     "marks": 3,
+     "answer": {
+      "type": "self",
+      "value": "很多人前去面试，但艺术品公司只请了杰克一位设计师。杰克勤奋地工作，表现很优秀。他还在多次塑像设计比赛中获得冠军。"
+     },
+     "explanation": [
+      "3 分要写三点，在第四段和第五段找。",
+      "第一点（第四段）：很多人去面试，公司只请了杰克一位设计师。",
+      "第二点（第五段）：杰克勤奋地工作，表现很优秀。",
+      "第三点（第五段）：他在多次塑像设计比赛中获得冠军。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "帮助：母亲发现杰克对设计有兴趣、想成为设计师，便让他去上设计课。（1分）证据①：艺术品公司在许多面试者中只聘请了杰克担任设计师。（1分）证据②：杰克工作勤奋，表现很优秀。（1分）证据③：他在多次雕塑设计比赛中获得冠军。（1分）",
+    "solvedAnswer": "agrees with key",
+    "status": "verified",
+    "note": "The key says 雕塑设计比赛; the passage prints 塑像设计比赛, so the model answer uses the passage's wording."
+   }
+  },
+  {
+   "section": "p2",
+   "number": 39,
+   "page": 16,
+   "format": "structured",
+   "marks": 4,
+   "topic": "comprehension-open",
+   "subtypes": [
+    "character-and-feelings",
+    "opinion"
+   ],
+   "group": "g5",
+   "stem": "你认为母亲是一个怎样的人？请举文中的例子加以说明。",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "我认为母亲是一位关爱孩子、善于鼓励并懂得因材施教的人。杰克因成绩差而说自己太笨时，她没有否定他，反而鼓励他重拾信心；发现他喜欢设计后，她让他上设计课，帮助他发挥长处。"
+     },
+     "explanation": [
+      "判断 2 分，例子 2 分。",
+      "先说母亲是怎样的人，例如：关爱孩子、善于鼓励孩子、有耐心、懂得按孩子的长处来教（因材施教）。",
+      "再用短文里的事来证明。第三段：杰克说“我太笨了”，母亲说“孩子，你并不笨！”，鼓励他；后来发现他对设计有兴趣，就让他去上设计课。",
+      "只写“母亲是好人”太笼统；只写例子没有判断，也拿不到满分。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "判断：母亲是一位关爱孩子、善于鼓励并懂得因材施教的人。（2分）例证：杰克因成绩差而自卑时，她没有否定他，反而鼓励他重拾信心；发现他喜欢设计后，她让他上设计课，帮助他发挥长处。（2分）",
+    "solvedAnswer": "agrees with key",
+    "status": "verified",
+    "note": "The end of the key's first line (教的人) is under the watermark; 因材施教的人 is read from the visible strokes and context."
+   }
+  },
+  {
+   "section": "p2",
+   "number": 40,
+   "page": 16,
+   "format": "structured",
+   "marks": 5,
+   "topic": "comprehension-open",
+   "subtypes": [
+    "main-idea",
+    "opinion"
+   ],
+   "group": "g5",
+   "stem": "",
+   "parts": [
+    {
+     "label": "a",
+     "prompt": "你从这篇文章中明白了什么道理？",
+     "marks": 2,
+     "answer": {
+      "type": "self",
+      "value": "我明白了每个人都有自己的长处和短处，不应只因一方面表现不好就否定自己。只要了解自己，找到适合自己的方向并坚持努力，就能取得成功。"
+     },
+     "explanation": [
+      "有两点，各 1 分。",
+      "道理在最后一段：“每个人都有自己的长处，只要了解自己，找到适合自己的方向，并坚持努力，就能取得成功。”",
+      "第一点：每个人都有长处，不要因为一方面做不好就否定自己。第二点：了解自己，找到适合的方向，坚持努力，就能成功。"
+     ]
+    },
+    {
+     "label": "b",
+     "prompt": "试举一个例子说明你如何把这个道理应用在生活中。",
+     "marks": 3,
+     "answer": {
+      "type": "self",
+      "value": "（开放式题目，没有固定答案。）示范：例如，我的数学成绩不理想，但我很喜欢画画。我不会因此否定自己，而会参加美术班、虚心请教老师并每天坚持练习，努力提升绘画技巧，争取在比赛中取得好成绩。"
+     },
+     "explanation": [
+      "例子 3 分，要包括三样：具体的情况、符合道理的行动、持续努力或希望得到的成果。",
+      "具体的情况：说清楚自己哪方面不好、哪方面是长处，例如“数学成绩不理想，但很喜欢画画”。",
+      "行动：怎样发挥长处，例如参加美术班、请教老师。",
+      "持续努力和成果：每天坚持练习，争取在比赛中取得好成绩。",
+      "例子要写自己的生活，不要再抄杰克的故事。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "道理①：每个人都有自己的长处和短处，不应只因一方面表现不好就否定自己。（1分）道理②：只要了解自己、找到适合的方向并坚持努力，就能取得成功。（1分）例子：例如，我的数学成绩不理想，但我很喜欢画画。我不会因此否定自己，而会参加美术班、虚心请教老师并每天坚持练习，努力提升绘画技巧，争取在比赛中取得好成绩。（3分）评分：例子须包括具体处境、符合道理的行动，以及持续努力／预期成果。",
+    "solvedAnswer": "agrees with key",
+    "status": "verified",
+    "note": "Part (b) is open-ended; the sample is the key's own example. Several words of the key are under the watermark (短处, 找到适合的, 不理想, 虚心请教) and were read from the visible strokes and context."
+   }
+  },
+  {
+   "section": "p1",
+   "number": 1,
+   "page": 2,
+   "format": "structured",
+   "marks": 40,
+   "topic": "writing",
+   "subtypes": [
+    "topic-composition"
+   ],
+   "stem": "下列两题，只需选做一题，字数在 100 以上。\n\n第一题：我终于战胜了自己\n\n在作文时，你可以参考下面的提示：\n• 这是一件什么事\n• 这件事是怎么发生的\n• 你有什么感受\n• 你从这件事中学到了什么",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "作文没有固定答案。请对照下面的要点检查自己的作文。"
+     },
+     "explanation": [
+      "审题：重点是“战胜了自己”——要写自己克服了心里的一个弱点，例如害怕、紧张、懒惰、怕失败、想放弃。“终于”说明这件事不容易，中间要有挣扎。",
+      "开头：直接点出自己的弱点，例如“我从小就害怕上台说话”，或者从最紧张的那一刻写起。",
+      "经过：写清楚是什么事、怎么发生的。先写自己怎样害怕、想退缩，再写是谁或什么事让自己决定试一试，然后写自己怎样一步一步做到。要多写心理活动（心怦怦直跳、手心冒汗、对自己说“我可以的”）。",
+      "结尾：写做到以后的感受（松了一口气、心里像吃了蜜一样甜），再写学到的道理，例如只要勇敢面对，就没有克服不了的困难。",
+      "好词好句：忐忑不安、心惊胆战、鼓起勇气、咬紧牙关、坚持不懈、如释重负；“世上无难事，只怕有心人。”",
+      "检查：四个提示都写到了吗？字数在 100 以上吗？有没有错别字？"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "（作文题，没有答案）",
+    "solvedAnswer": "（作文题）",
+    "status": "verified",
+    "note": "Composition task; the key has no model answer. Marks: Paper 1 is out of 40 and the pupil chooses one of the two tasks."
+   }
+  },
+  {
+   "section": "p1",
+   "number": 2,
+   "page": 3,
+   "format": "structured",
+   "marks": 40,
+   "topic": "writing",
+   "subtypes": [
+    "picture-composition"
+   ],
+   "stem": "下列两题，只需选做一题。\n\n第二题：仔细看下列的图，根据图意，完成一篇短文。字数需在 100 以上。在作文时，你可以参考所提供的词语。\n[[img1]]\n参考词语：背着书包　人行道　骑脚踏车　撞　受伤　逃走　阻止　惭愧",
+   "images": [
+    {
+     "id": "img1",
+     "alt": "六幅图。①两个男生背着书包走出校门。②人行道上，一个骑脚踏车的男生撞倒了一个小女孩，两个男生在旁边看见了。③小女孩倒在地上，骑车的男生想骑走，两个男生追上去。④一个男生张开双手拦住骑车的男生，另一个男生在后面。⑤一个男生蹲下来安慰坐在地上哭的小女孩，另一个男生叉着腰对低着头的骑车男生说话。⑥问号，要自己想结局。",
+     "page": 3,
+     "box": [
+      98,
+      206,
+      752,
+      546
+     ]
+    }
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "作文没有固定答案。请对照下面的要点检查自己的作文。"
+     },
+     "explanation": [
+      "审题：六幅图要全部写到。故事是：放学路上，两个男生看见骑脚踏车的人撞倒小女孩后想逃走，他们阻止了他并帮助小女孩。第六幅是问号，要自己想一个合理的结局。",
+      "开头（图一）：写时间、地点、人物，例如放学后，“我”和同学背着书包走出校门。可以给人物取名字。",
+      "经过（图二到图五）：一个男生在人行道上骑脚踏车骑得很快，撞倒了小女孩；他不但没有停下来，还想逃走；“我”冲上前张开双手阻止他；同学扶起受伤的小女孩，安慰她；我们告诉骑车的男生他做错了什么，他低下头，很惭愧。要写人物的动作、说的话和心情。",
+      "结尾（图六）：自己想结局，例如骑车的男生向小女孩道歉，我们一起送她回家或去看医生，她的父母感谢我们。最后写感想：做错事要勇敢承担，看到别人有困难要伸出援手，在人行道上骑车要小心。",
+      "好词好句：飞快、横冲直撞、说时迟那时快、二话不说、挺身而出、面红耳赤、惭愧地低下头、知错能改、助人为快乐之本。",
+      "检查：参考词语用上了吗？六幅图都写到了吗？字数在 100 以上吗？"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "（作文题，没有答案）",
+    "solvedAnswer": "（作文题）",
+    "status": "verified",
+    "note": "Composition task; the key has no model answer. The eight helping words are transcribed in the stem; the crop holds only the six pictures."
+   }
+  }
+ ]
+}

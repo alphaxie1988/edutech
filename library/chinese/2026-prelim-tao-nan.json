@@ -1,0 +1,1604 @@
+{
+ "paper": {
+  "id": "2026-prelim-tao-nan",
+  "subject": "chinese",
+  "year": 2026,
+  "exam": "Prelim",
+  "school": "Tao Nan",
+  "schoolFull": "Tao Nan School",
+  "file": "PSLE-2026-P6-papers/Chinese/P6-Chinese-Prelim-2026-Tao-Nan-Paper.pdf",
+  "coordDpi": 100
+ },
+ "groups": [
+  {
+   "id": "g1",
+   "text": "根据短文的内容和上下文的意思，从括号中选出适当的词语。\n\n[[img1]]",
+   "images": [
+    {
+     "id": "img1",
+     "alt": "短文：老师教同学折纸飞机，康康试了两次不成功就不想折了。老师鼓励他多试几次，他的纸飞机终于越飞越远。短文里有 Q16 到 Q20 五个括号，每个括号有四个词语。",
+     "page": 5,
+     "box": [
+      105,
+      175,
+      725,
+      655
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g2",
+   "text": "根据短文的内容和上下文的意思，选出适当的答案。\n\n[[img1]]",
+   "images": [
+    {
+     "id": "img1",
+     "alt": "短文：作者喜欢打篮球。一次比赛，观众没有欢迎他的球队，他上半场打得很差。教练告诉他不应该受掌声影响，下半场他专心打球，最后赢了比赛。",
+     "page": 6,
+     "box": [
+      105,
+      222,
+      722,
+      900
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g3",
+   "text": "根据上下文的意思，从表中选出适当的短语或短句，然后把代表它们的数字填写在括号里。\n\n[[img1]]",
+   "images": [
+    {
+     "id": "img1",
+     "alt": "上面的格子是编号 1 到 8 的八个短语或短句：1 我很喜欢上网聊天；2 我在家过得很充实；3 手机是我们的好伙伴；4 什么事都要妈妈帮忙；5 在家不能随时使用手机；6 我的手机必须交给父母保管；7 我们都应该控制用手机的时间；8 花太多时间在手机上不但容易分心。下面是文丽和美芳谈在家使用手机的对话，对话里有 Q26 到 Q29 四个空格。",
+     "page": 9,
+     "box": [
+      108,
+      252,
+      734,
+      926
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g4",
+   "text": "根据短文和上下文的意思，回答问题，然后把答案填写在作答簿上。\n\n[[img1]]",
+   "images": [
+    {
+     "id": "img1",
+     "alt": "通告：欢乐民众俱乐部的“马年大吉”新年庆祝会，有举办的目的、日期、时间、地点，前 50 名到场民众可领取马年娃娃，还有新春猜灯谜、写春联送福气、动手做一做、舞龙舞狮表演、年味小吃摊五个活动的内容，以及查询详情的方法。",
+     "page": 10,
+     "box": [
+      100,
+      210,
+      734,
+      1020
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g5",
+   "text": "根据短文和上下文的意思，回答问题，然后把答案填写在作答簿上。\n\n[[img1]]",
+   "images": [
+    {
+     "id": "img1",
+     "alt": "短文：林爷爷摆了一个修伞摊，生意不好，家乐觉得他在做没意义的事。一位妇女拿来父亲留给她的旧伞修理，修好后要给林爷爷五十元，林爷爷只收两元。家乐明白了林爷爷的工作的意义。",
+     "page": 12,
+     "box": [
+      112,
+      208,
+      734,
+      972
+     ]
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "section": "p2",
+   "number": 1,
+   "page": 2,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "pinyin",
+   "subtypes": [
+    "pinyin"
+   ],
+   "stem": "请选出画线词语的汉语拼音。\n兔子看见老虎，++迅速++地跑进树林里。",
+   "options": [
+    "xùn sù",
+    "xùn shù",
+    "shùn sù",
+    "shùn shù"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 1
+     },
+     "explanation": [
+      "“迅”的声母是 x，读 xùn，不是翘舌音 shùn。",
+      "“速”是平舌音 sù，不是翘舌音 shù。",
+      "“迅速”读 xùn sù，答案是（1）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "1",
+    "solvedAnswer": "1",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 2,
+   "page": 2,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "pinyin",
+   "subtypes": [
+    "pinyin"
+   ],
+   "stem": "请选出画线词语的汉语拼音。\n小云的舞蹈表演非常++精彩++，同学们看了都拍手叫好。",
+   "options": [
+    "jīn cái",
+    "jīn chái",
+    "jīng cǎi",
+    "jīng chǎi"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 3
+     },
+     "explanation": [
+      "“精”是后鼻音 jīng，不是前鼻音 jīn。",
+      "“彩”是平舌音，读第三声 cǎi，不是翘舌音 chǎi。",
+      "“精彩”读 jīng cǎi，答案是（3）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "3",
+    "solvedAnswer": "3",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 3,
+   "page": 2,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "vocabulary",
+   "subtypes": [
+    "word-choice"
+   ],
+   "stem": "从所提供的选项中选出正确的答案。\n昨晚发生的地______，并没有对村民造成严重伤害。",
+   "options": [
+    "震",
+    "雷",
+    "雾",
+    "露"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 1
+     },
+     "explanation": [
+      "“地震”是地面突然震动的自然灾害，可能会让人受伤，所以句子说“并没有造成严重伤害”。",
+      "“雷、雾、露”都是雨字头，样子很像，但是“地雷、地雾、地露”放在句子里都说不通。",
+      "答案是（1）震。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "1",
+    "solvedAnswer": "1",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 4,
+   "page": 2,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "vocabulary",
+   "subtypes": [
+    "word-choice"
+   ],
+   "stem": "从所提供的选项中选出正确的答案。\n老师看到同学们争先恐后地上校车，便上前维持______序。",
+   "options": [
+    "智",
+    "质",
+    "志",
+    "秩"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 4
+     },
+     "explanation": [
+      "“秩序”的意思是有条理、不混乱的情况。“维持秩序”是固定搭配。",
+      "“智、质、志”读音和“秩”一样，但是不能和“序”组成词语。",
+      "答案是（4）秩。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "4",
+    "solvedAnswer": "4",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 5,
+   "page": 3,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "vocabulary",
+   "subtypes": [
+    "word-choice"
+   ],
+   "stem": "从所提供的选项中选出正确的答案。\n听了外婆______的那段往事，我不禁流下了眼泪。",
+   "options": [
+    "介绍",
+    "讲述",
+    "吩咐",
+    "讨论"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 2
+     },
+     "explanation": [
+      "“讲述”的意思是把事情或道理讲出来。“讲述往事”是正确的搭配。",
+      "“介绍”用在人或事物上（介绍朋友、介绍新书），不说“介绍往事”；“吩咐”是叫别人做事；“讨论”要几个人一起谈。",
+      "答案是（2）讲述。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "2",
+    "solvedAnswer": "2",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 6,
+   "page": 3,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "vocabulary",
+   "subtypes": [
+    "word-choice"
+   ],
+   "stem": "从所提供的选项中选出正确的答案。\n丽美在科学课上______虫子的特点，并把自己的发现写下来。",
+   "options": [
+    "测试",
+    "检查",
+    "考虑",
+    "观察"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 4
+     },
+     "explanation": [
+      "“观察”的意思是仔细地看。要知道虫子的特点，就要仔细地看它，然后才有“发现”。",
+      "“检查”是为了找出问题或毛病（检查作业、检查身体），不是为了找特点。",
+      "答案是（4）观察。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "4",
+    "solvedAnswer": "4",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 7,
+   "page": 3,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "vocabulary",
+   "subtypes": [
+    "word-meaning"
+   ],
+   "stem": "从所提供的选项中选出正确的答案。\n看到家伟获得第一名，我心里有些++妒忌++。",
+   "options": [
+    "因自己不如别人而难过",
+    "因别人表现差而讨厌他",
+    "因他人犯错而感到不满",
+    "因对方比自己好而恨他"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 4
+     },
+     "explanation": [
+      "“妒忌”的意思是看到别人比自己好，心里不舒服，甚至怨恨他。",
+      "家伟获得第一名，是他比“我”好，不是他表现差，也不是他犯错，所以（2）（3）不对。",
+      "（1）只是自己难过，没有对别人不满的意思。答案是（4）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "4",
+    "solvedAnswer": "4",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 8,
+   "page": 3,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "vocabulary",
+   "subtypes": [
+    "word-meaning"
+   ],
+   "stem": "从所提供的选项中选出正确的答案。\n奶奶总是++唠叨++，要我尽快完成作业。",
+   "options": [
+    "不慌不忙地说",
+    "认认真真地说",
+    "没完没了地说",
+    "吞吞吐吐地说"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 3
+     },
+     "explanation": [
+      "“唠叨”的意思是说话啰唆，同样的话说个不停。",
+      "句子里有“总是”，说明奶奶一次又一次地说，就是“没完没了地说”。",
+      "“吞吞吐吐”是有话不敢直说，意思不对。答案是（3）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "3",
+    "solvedAnswer": "3",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 9,
+   "page": 3,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "sentences",
+   "subtypes": [
+    "connectors"
+   ],
+   "stem": "从所提供的选项中选出正确的答案。\n运动______能锻炼身体，______能放松心情。",
+   "options": [
+    "除了……也",
+    "只有……才",
+    "不管……都",
+    "要是……就"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 1
+     },
+     "explanation": [
+      "句子说运动有两个好处：锻炼身体和放松心情。第二个好处是加上去的，用“除了……也……”。",
+      "“只有……才……”表示条件，“不管……都……”表示什么情况都一样，“要是……就……”表示假设，放进去都说不通。",
+      "答案是（1）除了……也。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "1",
+    "solvedAnswer": "1",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 10,
+   "page": 3,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "sentences",
+   "subtypes": [
+    "connectors"
+   ],
+   "stem": "从所提供的选项中选出正确的答案。\n______大家互相合作，______活动进行得很顺利。",
+   "options": [
+    "不仅……而且",
+    "一边……一边",
+    "因为……所以",
+    "尽管……还是"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 3
+     },
+     "explanation": [
+      "“大家互相合作”是原因，“活动进行得很顺利”是结果，要用表示因果的“因为……所以……”。",
+      "“尽管……还是……”表示转折，可是合作和顺利并不相反。",
+      "答案是（3）因为……所以。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "3",
+    "solvedAnswer": "3",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 11,
+   "page": 4,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "sentences",
+   "subtypes": [
+    "sentence-completion"
+   ],
+   "stem": "从所提供的选项中选出正确的答案。\n小文听到这个坏消息，____________。",
+   "options": [
+    "立刻冲去食堂",
+    "脸上的笑容消失了",
+    "想起了自己难忘的童年",
+    "希望那些同学会被老师批评"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 2
+     },
+     "explanation": [
+      "听到“坏消息”，人会马上变得不开心，所以“脸上的笑容消失了”最合理。",
+      "（1）（3）（4）和听到坏消息没有直接的关系，句子里也没有提到食堂、童年或“那些同学”。",
+      "答案是（2）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "2",
+    "solvedAnswer": "2",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 12,
+   "page": 4,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "sentences",
+   "subtypes": [
+    "sentence-completion"
+   ],
+   "stem": "从所提供的选项中选出正确的答案。\n____________，今天感到十分疲倦。",
+   "options": [
+    "乐乐打算以后早睡早起",
+    "乐乐睡醒后去公园跑步",
+    "乐乐连续几晚没有睡好",
+    "乐乐睡前喝了一杯牛奶"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 3
+     },
+     "explanation": [
+      "后半句是结果：今天十分疲倦。前半句要说出疲倦的原因。",
+      "“连续几晚没有睡好”，所以今天很累，前后意思连得上。",
+      "（1）是以后的打算，不是今天疲倦的原因；睡前喝牛奶会睡得更好。答案是（3）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "3",
+    "solvedAnswer": "3",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 13,
+   "page": 4,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "sentences",
+   "subtypes": [
+    "sentence-usage"
+   ],
+   "stem": "以下哪一个句子是正确的？",
+   "options": [
+    "妈妈++促进++我的健康，要我每天早睡早起。",
+    "超市在++促进++期间，所有的物品都打八折。",
+    "图书馆++促进++的儿童故事书，小朋友们都很喜欢。",
+    "为了++促进++同学之间的感情，老师鼓励大家多交流。"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 4
+     },
+     "explanation": [
+      "“促进”的意思是推动事情向好的方面发展，常说“促进感情、促进交流、促进发展”。",
+      "（4）“促进同学之间的感情”用得对。",
+      "（1）应该用“为了”或“关心”，（2）应该用“促销”，（3）应该用“引进”或“推荐”。",
+      "答案是（4）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "4",
+    "solvedAnswer": "4",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 14,
+   "page": 4,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "sentences",
+   "subtypes": [
+    "sentence-usage"
+   ],
+   "stem": "以下哪一个句子是正确的？",
+   "options": [
+    "这道汤营养++丰富++，我们全家人都爱喝。",
+    "孩子们要有++丰富++的睡眠，才有精神上课。",
+    "爸爸劝告哥哥，一定要在光线++丰富++的地方看书。",
+    "陈伯伯每个周末都会去做义工，日子过得很++丰富++。"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 1
+     },
+     "explanation": [
+      "“丰富”的意思是种类多、数量大，常说“营养丰富、内容丰富、经验丰富”。",
+      "（1）“营养丰富”用得对。",
+      "（2）（3）应该用“充足”（充足的睡眠、光线充足），（4）应该用“充实”（日子过得很充实）。",
+      "答案是（1）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "1",
+    "solvedAnswer": "1",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 15,
+   "page": 4,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "sentences",
+   "subtypes": [
+    "sentence-usage",
+    "idioms"
+   ],
+   "stem": "以下哪一个句子是正确的？",
+   "options": [
+    "小组活动时，同学们++恍然大悟++地提出自己的意见。",
+    "听了林阿姨的解释后，明华和欢欢顿时++恍然大悟++。",
+    "事情都已经发生了，你现在才后悔已经++恍然大悟++了。",
+    "姐姐提议去海边野餐，我和妹妹++恍然大悟++地表示赞同。"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 2
+     },
+     "explanation": [
+      "“恍然大悟”的意思是一下子明白过来。前面要有让人明白的原因。",
+      "（2）听了解释以后一下子明白了，用得对。",
+      "（1）应该用“踊跃”或“纷纷”，（3）应该用“来不及”，（4）应该用“兴高采烈”或“异口同声”。",
+      "答案是（2）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "2",
+    "solvedAnswer": "2",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 16,
+   "page": 5,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "cloze",
+   "subtypes": [
+    "word-choice",
+    "idioms"
+   ],
+   "group": "g1",
+   "stem": "Q16 的答案是：",
+   "options": [
+    "闷闷不乐",
+    "津津有味",
+    "左思右想",
+    "胸有成竹"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 1
+     },
+     "explanation": [
+      "康康怎么折都不成功，“不耐烦地把纸弄成一团”，说明他心情不好。",
+      "“闷闷不乐”的意思是心里不高兴。他不高兴地坐在一旁。",
+      "“胸有成竹”是做事以前已经很有把握，和他不成功的情况相反。答案是（1）闷闷不乐。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "1",
+    "solvedAnswer": "1",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 17,
+   "page": 5,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "cloze",
+   "subtypes": [
+    "word-choice"
+   ],
+   "group": "g1",
+   "stem": "Q17 的答案是：",
+   "options": [
+    "失望",
+    "拒绝",
+    "怀疑",
+    "担心"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 2
+     },
+     "explanation": [
+      "老师说“你再试一次吧？”，康康“摇了摇头”。摇头表示不要、不肯。",
+      "“拒绝”的意思是不接受别人的要求或建议。",
+      "“失望”是心情，但摇头是对老师的建议作出回答，所以用“拒绝”。答案是（2）拒绝。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "2",
+    "solvedAnswer": "2",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 18,
+   "page": 5,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "cloze",
+   "subtypes": [
+    "word-choice"
+   ],
+   "group": "g1",
+   "stem": "Q18 的答案是：",
+   "options": [
+    "请求",
+    "计划",
+    "按照",
+    "遵守"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 3
+     },
+     "explanation": [
+      "空格后面是“老师的方法，一步一步地折”。“按照……的方法”是固定搭配，意思是跟着这个方法去做。",
+      "“遵守”用在规则、纪律上（遵守校规），不说“遵守方法”。",
+      "答案是（3）按照。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "3",
+    "solvedAnswer": "3",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 19,
+   "page": 5,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "cloze",
+   "subtypes": [
+    "word-choice"
+   ],
+   "group": "g1",
+   "stem": "Q19 的答案是：",
+   "options": [
+    "继续",
+    "接着",
+    "连忙",
+    "不断"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 4
+     },
+     "explanation": [
+      "后面说“一次、两次……渐渐地”，说明他试了很多很多次，没有停下来。",
+      "“不断”的意思是一直不停。“开始不断尝试”说得通。",
+      "“继续”是接着做原来的事，前面已经有“开始”，“开始继续”说不通。答案是（4）不断。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "4",
+    "solvedAnswer": "4",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 20,
+   "page": 5,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "cloze",
+   "subtypes": [
+    "word-choice"
+   ],
+   "group": "g1",
+   "stem": "Q20 的答案是：",
+   "options": [
+    "放弃",
+    "对抗",
+    "解决",
+    "改变"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 1
+     },
+     "explanation": [
+      "后面一句说：每当遇到困难，他都会对自己说“再试一次”。这就是不放弃。",
+      "“不再轻易放弃”的意思是不会很容易就停下来不做。",
+      "“解决、改变”后面要有东西（解决问题、改变方法），不能单独放在这里。答案是（1）放弃。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "1",
+    "solvedAnswer": "1",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 21,
+   "page": 7,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "comprehension-mcq",
+   "subtypes": [
+    "factual"
+   ],
+   "group": "g2",
+   "stem": "作者在什么情况下会更积极地打篮球？",
+   "options": [
+    "他传球成功时。",
+    "他在赛场上奔跑时。",
+    "他看到队友投篮得分时。",
+    "他听到观众的掌声和欢呼声时。"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 4
+     },
+     "explanation": [
+      "找到第一段第二句：“每当听到从观众席上传来掌声和欢呼声，我就会特别兴奋，便更积极地传球、投篮。”",
+      "“每当……就……”告诉我们是在听到掌声和欢呼声的时候。",
+      "在球场上奔跑是他喜欢的感觉，不是让他更积极的原因。答案是（4）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "4",
+    "solvedAnswer": "4",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 22,
+   "page": 7,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "comprehension-mcq",
+   "subtypes": [
+    "inference",
+    "cause-and-effect"
+   ],
+   "group": "g2",
+   "stem": "作者的球队进场时，观众席上为什么静悄悄的？",
+   "options": [
+    "因为作者和队员迟到了。",
+    "因为观众不欢迎这一支球队。",
+    "因为观众觉得比赛还没有开始。",
+    "因为大家没看到作者的球队入场。"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 2
+     },
+     "explanation": [
+      "第二段说：观众“没有人起身欢迎我们”，“看着我们，却好像什么也没看见似的”。",
+      "可是另一支球队入场时，所有观众都站起来鼓掌。两种态度一比，就知道观众支持的是另一队，不欢迎作者的球队。",
+      "差点迟到的是另一支球队；观众是“看着我们”的，不是没看到。答案是（2）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "2",
+    "solvedAnswer": "2",
+    "status": "verified",
+    "note": "There is a small pencil cross printed next to option (1) in the scan; it is a pupil's mark on a wrong option and is not part of the question."
+   }
+  },
+  {
+   "section": "p2",
+   "number": 23,
+   "page": 7,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "comprehension-mcq",
+   "subtypes": [
+    "factual"
+   ],
+   "group": "g2",
+   "stem": "从哪里可以看出观众的反应影响了作者的表现？",
+   "options": [
+    "作者在比赛中特别沉默。",
+    "作者不愿意传球给队友。",
+    "作者投篮一直没有进球。",
+    "作者整场比赛都没打好。"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 3
+     },
+     "explanation": [
+      "第三段说：“连我平时最厉害的投篮也一次又一次地失败。”这就是投篮一直没有进球。",
+      "作者是“没接住”队友传来的球，不是不愿意传球；“沉默”是中场休息时回答教练以前的事。",
+      "他只是上半场打得不好，下半场打得很好，所以不是“整场”。答案是（3）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "3",
+    "solvedAnswer": "3",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 24,
+   "page": 7,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "comprehension-mcq",
+   "subtypes": [
+    "factual",
+    "inference"
+   ],
+   "group": "g2",
+   "stem": "以下哪一个句子是**不正确**的？",
+   "options": [
+    "作者平时投篮常常进球。",
+    "观众能阻止球员获得冠军。",
+    "观众对两支球队的态度完全不同。",
+    "教练认为能得到观众的掌声是好事。"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 2
+     },
+     "explanation": [
+      "注意题目问的是“不正确”的句子。",
+      "教练说：“观众可以不支持你，但是他们不能阻止你获得冠军！”所以（2）和短文的意思相反。",
+      "（1）投篮是作者“平时最厉害的”；（3）第三段第一句；（4）教练说“能得到观众的掌声是一件好事”。这三句都是对的。答案是（2）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "2",
+    "solvedAnswer": "2",
+    "status": "verified",
+    "note": "The word 不正确 is not bold or underlined on the paper; bold was added here so the child does not miss the negative."
+   }
+  },
+  {
+   "section": "p2",
+   "number": 25,
+   "page": 7,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "comprehension-mcq",
+   "subtypes": [
+    "main-idea"
+   ],
+   "group": "g2",
+   "stem": "通过这次比赛，作者明白了______",
+   "options": [
+    "与他人合作最重要。",
+    "打篮球需要一位好教练。",
+    "篮球教练需要有神奇的魔力。",
+    "要获得冠军就不能受他人影响。"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 4
+     },
+     "explanation": [
+      "教练告诉作者：没有掌声也不应该受到影响，观众不能阻止你获得冠军。",
+      "下半场作者“只想着打好篮球，完全不管周围发生了什么事”，结果赢了比赛。",
+      "所以他明白的道理是：要专心做好自己的事，不受别人影响。“神奇的魔力”只是形容教练的话很有用。答案是（4）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "4",
+    "solvedAnswer": "4",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 26,
+   "page": 9,
+   "format": "short",
+   "marks": 2,
+   "topic": "dialogue",
+   "subtypes": [
+    "dialogue-completion"
+   ],
+   "group": "g3",
+   "stem": "Q26 的答案是：（填写数字 1 到 8）",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "6",
+      "accept": [
+       "我的手机必须交给父母保管",
+       "6 我的手机必须交给父母保管"
+      ]
+     },
+     "explanation": [
+      "美芳说回家后不能发短信，空格要说出原因；后面是“只有晚餐后才能使用一个小时”。",
+      "后来文丽问“你的父母什么时候才会让你自己保管手机呢？”，说明美芳说过手机是由父母保管的。",
+      "所以选 6：我的手机必须交给父母保管。（5 的意思也接近，但 5 要留给 Q27。）"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "6",
+    "solvedAnswer": "6",
+    "status": "verified",
+    "note": "The dialogue has a misprint: the line “还好啊，我已经习惯了。” is labelled 文丽 on the paper but is clearly spoken by 美芳. The crop shows it as printed."
+   }
+  },
+  {
+   "section": "p2",
+   "number": 27,
+   "page": 9,
+   "format": "short",
+   "marks": 2,
+   "topic": "dialogue",
+   "subtypes": [
+    "dialogue-completion"
+   ],
+   "group": "g3",
+   "stem": "Q27 的答案是：（填写数字 1 到 8）",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "5",
+      "accept": [
+       "在家不能随时使用手机",
+       "5 在家不能随时使用手机"
+      ]
+     },
+     "explanation": [
+      "这句是文丽说的。她听了美芳的话，觉得“这样也太不方便了”。",
+      "“这样”指的是美芳的情况：在家不能想用手机就用手机。",
+      "所以选 5：在家不能随时使用手机。（6“我的手机必须交给父母保管”不是文丽的情况，她的父母从来不管。）"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "5",
+    "solvedAnswer": "5",
+    "status": "verified",
+    "note": "The dialogue has a misprint: the line “还好啊，我已经习惯了。” is labelled 文丽 on the paper but is clearly spoken by 美芳. The crop shows it as printed."
+   }
+  },
+  {
+   "section": "p2",
+   "number": 28,
+   "page": 9,
+   "format": "short",
+   "marks": 2,
+   "topic": "dialogue",
+   "subtypes": [
+    "dialogue-completion"
+   ],
+   "group": "g3",
+   "stem": "Q28 的答案是：（填写数字 1 到 8）",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "2",
+      "accept": [
+       "我在家过得很充实",
+       "2 我在家过得很充实"
+      ]
+     },
+     "explanation": [
+      "文丽问“不能用手机的时候不会很闷吗？”，美芳回答“怎么会呢？”，意思是不会闷。",
+      "空格后面说她常常阅读故事书、弹钢琴，还和妹妹一起玩，说明她在家有很多事情做。",
+      "所以选 2：我在家过得很充实。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "2",
+    "solvedAnswer": "2",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 29,
+   "page": 9,
+   "format": "short",
+   "marks": 2,
+   "topic": "dialogue",
+   "subtypes": [
+    "dialogue-completion"
+   ],
+   "group": "g3",
+   "stem": "Q29 的答案是：（填写数字 1 到 8）",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "8",
+      "accept": [
+       "花太多时间在手机上不但容易分心",
+       "8 花太多时间在手机上不但容易分心"
+      ]
+     },
+     "explanation": [
+      "空格后面是“而且会影响视力”。“而且”前面要有“不但”。",
+      "八个选项里只有 8 有“不但”，说的也是用手机太久的坏处。",
+      "所以选 8：花太多时间在手机上不但容易分心。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "8",
+    "solvedAnswer": "8",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 30,
+   "page": 11,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "functional-text",
+   "subtypes": [
+    "purpose-and-audience"
+   ],
+   "group": "g4",
+   "stem": "举办这个活动的主要目的是______",
+   "options": [
+    "让居民了解华族传统文化。",
+    "鼓励居民一起制作新年手工。",
+    "给居民尝一尝新年美食的机会。",
+    "邀请居民感受节日的快乐气氛。"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 1
+     },
+     "explanation": [
+      "目的通常写在通告的开头。第一句是：“为了让居民了解华族传统文化，一起欢庆新年……”",
+      "“为了”后面就是举办的目的。",
+      "做手工和吃小吃只是其中两个活动；“感受节日的快乐气氛”是请大家来参加时说的话，不是主要目的。答案是（1）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "1",
+    "solvedAnswer": "1",
+    "status": "needs-review",
+    "note": "The scanned copy has highlighter marks over parts of the notice (they show as grey smudges in the crop), and one of them covers the sentence that answers this question, so the crop gives the answer away. The answer itself agrees with the key. Replace the crop from a clean copy if one is available. The table header row in the notice is also smudged; it reads 活动名称 / 活动内容."
+   }
+  },
+  {
+   "section": "p2",
+   "number": 31,
+   "page": 11,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "functional-text",
+   "subtypes": [
+    "factual",
+    "inference"
+   ],
+   "group": "g4",
+   "stem": "居民应该怎么做才能得到马年娃娃？",
+   "options": [
+    "上网报名。",
+    "提早到达广场。",
+    "拨电给林小姐。",
+    "去现场找张大伟老师。"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 2
+     },
+     "explanation": [
+      "看通告里星形图案里的字：“每日前 50 名到场的民众可免费领取马年娃娃！”",
+      "只有最早到的 50 个人才有，所以要提早到欢乐民众俱乐部广场。",
+      "上网和拨电给林小姐是为了知道更多详情；张大伟老师是写春联的。答案是（2）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "2",
+    "solvedAnswer": "2",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 32,
+   "page": 11,
+   "format": "mcq",
+   "marks": 2,
+   "topic": "functional-text",
+   "subtypes": [
+    "factual"
+   ],
+   "group": "g4",
+   "stem": "今年的新年庆祝活动会有什么特别活动？",
+   "options": [
+    "居民可以拍到各式各样的灯笼。",
+    "活动当天居民能观赏舞狮表演。",
+    "参加猜灯谜的居民会获得礼品。",
+    "书法家亲自到场为居民写春联。"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 4
+     },
+     "explanation": [
+      "找“今年特别”：第一段说“为了让活动更热闹，我们今年特别邀请了书法家为居民现场写春联，送福气”。",
+      "“特别邀请”说明这是今年的特别活动。",
+      "灯笼、舞狮和猜灯谜通告里都有，但是没有说是“特别”安排的；猜灯谜也要猜对才有礼品。答案是（4）。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "4",
+    "solvedAnswer": "4",
+    "status": "needs-review",
+    "note": "The scanned copy has highlighter marks over parts of the notice (they show as grey smudges in the crop), and one of them covers the sentence that answers this question, so the crop gives the answer away. The answer itself agrees with the key. Replace the crop from a clean copy if one is available."
+   }
+  },
+  {
+   "section": "p2",
+   "number": 33,
+   "page": 11,
+   "format": "structured",
+   "marks": 4,
+   "topic": "functional-text",
+   "subtypes": [
+    "message-writing"
+   ],
+   "group": "g4",
+   "stem": "如果你是小云，你知道你的好朋友乐文喜欢做手工，请写一则短信给她，建议她参加新年庆祝会的其中一项活动，并告诉她参加这项活动的注意事项。\n\n短信的开头是：\n乐文，我们家附近的欢乐民众俱乐部将举办“马年大吉”新年庆祝会，我知道你喜欢做手工，你可以参加……\n（请接着写下去。）",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "乐文，我们家附近的欢乐民众俱乐部将举办“马年大吉”新年庆祝会，我知道你喜欢做手工，你可以参加“动手做一做”活动，制作新春贺卡。如果你要参加这个活动，需要付两元材料费。如果你有兴趣，记得到时去参加哦！"
+     },
+     "explanation": [
+      "这一题 4 分，要看内容，也要看语文。答案里要有三个要点。",
+      "要点一：乐文喜欢做手工。这一点开头已经写了。",
+      "要点二（建议的活动）：在表格里找和手工有关的活动——“动手做一做”，内容是制作新春贺卡。活动名称和内容都要写。",
+      "要点三（注意事项）：表格里这个活动后面的括号——需付两元材料费。",
+      "语文：接着“你可以参加……”写下去，句子要通顺、完整，不要写错字。最后可以加一句“记得到时去参加哦！”。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "乐文：我们家附近的欢乐民众俱乐部将举办“马年大吉”新年庆祝会，我知道你喜欢做手工①，你可以参加“动手做一做”活动 制作新春贺卡的活动②。如果你要参加这个活动，需要付两元材料费③。如果你有兴趣，记得到时去参加哦！",
+    "solvedAnswer": "agrees with key",
+    "status": "needs-review",
+    "note": "The scanned copy has highlighter marks over parts of the notice (they show as grey smudges in the crop), and one of them covers the sentence that answers this question, so the crop gives the answer away. The answer itself agrees with the key. Replace the crop from a clean copy if one is available. Other notes: the message box is not cropped because its only content is the opening, which is transcribed in the stem (wording from the question booklet; the answer booklet prints the same opening without the ellipsis). The key marks three content points (①②③) but does not print how the 4 marks are split between content and language."
+   }
+  },
+  {
+   "section": "p2",
+   "number": 34,
+   "page": 13,
+   "format": "short",
+   "marks": 2,
+   "topic": "comprehension-open",
+   "subtypes": [
+    "vocabulary-in-context"
+   ],
+   "group": "g5",
+   "stem": "文中形容“急急忙忙的样子”的词语是______。",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "匆匆"
+     },
+     "explanation": [
+      "要找一个意思是“很急、很赶”的词语。",
+      "第三段：“一位中年妇女匆匆地走来”。",
+      "答案是“匆匆”。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "匆匆",
+    "solvedAnswer": "匆匆",
+    "status": "needs-review",
+    "note": "The scanned copy has highlighter marks over parts of the passage (they show as grey smudges in the crop), and one of them covers the sentence that answers this question, so the crop gives the answer away. The answer itself agrees with the key. Replace the crop from a clean copy if one is available."
+   }
+  },
+  {
+   "section": "p2",
+   "number": 35,
+   "page": 13,
+   "format": "short",
+   "marks": 2,
+   "topic": "comprehension-open",
+   "subtypes": [
+    "vocabulary-in-context"
+   ],
+   "group": "g5",
+   "stem": "文中形容“用言语表示感谢”的词语是______。",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "道谢"
+     },
+     "explanation": [
+      "要找一个意思是“说谢谢”的词语。",
+      "第四段：她“连声向林爷爷道谢”。",
+      "答案是“道谢”。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "道谢",
+    "solvedAnswer": "道谢",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 36,
+   "page": 13,
+   "format": "structured",
+   "marks": 3,
+   "topic": "comprehension-open",
+   "subtypes": [
+    "cause-and-effect",
+    "factual"
+   ],
+   "group": "g5",
+   "stem": "为什么林爷爷的生意并不好？",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "雨伞坏了，大多数人会选择扔掉买把新的，很少有人会特意拿来修理，因此林爷爷的修伞摊生意并不好。"
+     },
+     "explanation": [
+      "答案在第一段。“因此”前面就是生意不好的原因。",
+      "要写出两点：雨伞坏了，大多数人会扔掉买把新的；很少有人会拿雨伞来修理。",
+      "最后用“因此林爷爷的生意并不好”把话说完整。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "雨伞坏了，大多数人会选择扔掉买把新的，很少有人会特意拿来修理，因此林爷爷的修伞摊生意并不好。",
+    "solvedAnswer": "agrees with key",
+    "status": "needs-review",
+    "note": "The scanned copy has highlighter marks over parts of the passage (they show as grey smudges in the crop), and one of them covers the sentence that answers this question, so the crop gives the answer away. The answer itself agrees with the key. Replace the crop from a clean copy if one is available."
+   }
+  },
+  {
+   "section": "p2",
+   "number": 37,
+   "page": 13,
+   "format": "structured",
+   "marks": 3,
+   "topic": "comprehension-open",
+   "subtypes": [
+    "factual",
+    "cause-and-effect"
+   ],
+   "group": "g5",
+   "stem": "",
+   "parts": [
+    {
+     "label": "a",
+     "prompt": "家乐一开始对林爷爷的工作有什么看法？",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "家乐觉得林爷爷在做一件没意义的事。"
+     },
+     "explanation": [
+      "答案在第二段：“家乐总觉得他在做一件没意义的事。”",
+      "回答时要把“他”换成“林爷爷”，说清楚是谁。指代不清楚会被扣分。"
+     ]
+    },
+    {
+     "label": "b",
+     "prompt": "他会这么认为的原因是什么？",
+     "marks": 2,
+     "answer": {
+      "type": "self",
+      "value": "家乐认为林爷爷花那么多时间修旧雨伞，赚得又不多，是不值得的。"
+     },
+     "explanation": [
+      "原因在家乐问林爷爷的话里：“您花这么多时间修这些旧雨伞，赚得又不多，值得吗？”",
+      "要写出两点：花很多时间修旧雨伞；赚得又不多。所以他认为不值得。",
+      "不能照抄家乐说的话，要用自己的话转述：把“您”改成“林爷爷”，把问句改成“是不值得的”。没有转述会被扣分。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "家乐觉得林爷爷在做一件没意义的事。家乐认为老爷爷花那么多时间修旧雨伞，赚得又不多，是不值得的。（指代不清楚，扣 0.5 分；没有转述，扣 0.5 分）",
+    "solvedAnswer": "agrees with key",
+    "status": "verified",
+    "note": "The question paper prints the second half as “他会这么认为的原因是什么？”; the key re-words it as “为什么他会这么认为？”. The key's model answer says 老爷爷; 林爷爷 is used in the model answer here."
+   }
+  },
+  {
+   "section": "p2",
+   "number": 38,
+   "page": 13,
+   "format": "structured",
+   "marks": 4,
+   "topic": "comprehension-open",
+   "subtypes": [
+    "inference",
+    "factual"
+   ],
+   "group": "g5",
+   "stem": "文中的那把黑伞对中年妇女重要吗？为什么？",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "这把伞对她很重要。这把伞是她已去世的父亲留给她的唯一纪念，每当下雨撑起这把伞，她就觉得父亲还在身边陪伴着她，为她遮风挡雨。"
+     },
+     "explanation": [
+      "先表明立场：这把伞对她很重要。没有写立场，整题没有分数。只写“重要。”两个字也会被扣分，要写完整的句子。",
+      "原因在第四段“原来”后面，有两点。",
+      "第一点：这把伞是她已去世的父亲留给她的唯一纪念。",
+      "第二点：每当下雨撑起这把伞，她就觉得父亲还在身边陪伴着她，为她遮风挡雨。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "这把伞对她很重要。这把伞是她已去世的父亲留给她的唯一纪念，每当下雨撑起这把伞，她就觉得父亲还在身边陪伴着她，为她遮风挡雨。（没有立场，整题 0 分；第一问只回答“重要。”，扣 0.5 分）",
+    "solvedAnswer": "agrees with key",
+    "status": "needs-review",
+    "note": "The scanned copy has highlighter marks over parts of the passage (they show as grey smudges in the crop), and one of them covers the sentence that answers this question, so the crop gives the answer away. The answer itself agrees with the key. Replace the crop from a clean copy if one is available. The highlighter also blots out three characters in paragraph 4 of the crop: after “原来，” the words are 这把伞 (confirmed by the key's answer)."
+   }
+  },
+  {
+   "section": "p2",
+   "number": 39,
+   "page": 13,
+   "format": "structured",
+   "marks": 4,
+   "topic": "comprehension-open",
+   "subtypes": [
+    "inference",
+    "character-and-feelings"
+   ],
+   "group": "g5",
+   "stem": "“家乐听了，脸上一阵阵发烫”这句话说明了什么？",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "这说明了家乐知道自己错了，感到很惭愧。他原本以为这把伞只是没用的“废物”，但原来林爷爷修好的不只是一把雨伞，更是妇女对爸爸的回忆。",
+      "accept": [
+       "这说明了家乐感到很惭愧。他原本以为这把伞只是没用的“废物”，但原来林爷爷修好的不只是一把雨伞，更是妇女对爸爸的回忆。"
+      ]
+     },
+     "explanation": [
+      "“脸上发烫”是不好意思、惭愧的时候才会有的感觉。先写出家乐的感受：知道自己错了／很惭愧／很内疚／不好意思／难为情。",
+      "再写出他为什么惭愧，答案在最后一段。",
+      "他原本的想法：以为这把伞只是没用的“废物”。",
+      "他现在明白的事：林爷爷修好的不只是一把雨伞，更是那位妇女对爸爸的回忆。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "这说明了家乐知道自己错了／很惭愧／很内疚／不好意思／难为情。他原本以为这把伞只是没用的“废物”，但原来林爷爷修好的不只是一把雨伞，更是妇女对爸爸的回忆。",
+    "solvedAnswer": "agrees with key",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "p2",
+   "number": 40,
+   "page": 13,
+   "format": "structured",
+   "marks": 4,
+   "topic": "comprehension-open",
+   "subtypes": [
+    "character-and-feelings",
+    "opinion"
+   ],
+   "group": "g5",
+   "stem": "你认为文中的林爷爷是个怎样的人？你是怎么知道的？",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "林爷爷是一个不贪心的人。修好妇女的雨伞后，妇女给了他五十元，但他只收两块钱。",
+      "accept": [
+       "林爷爷是一个不贪财的人。修好妇女的雨伞后，妇女给了他五十元，但他只收两块钱。",
+       "林爷爷是一个热爱工作的人。虽然生意不好，赚的钱也不多，但林爷爷依然愿意花很多时间来修伞。",
+       "林爷爷是一个敬业乐业的人。虽然生意不好，赚的钱也不多，但林爷爷依然愿意花很多时间来修伞。"
+      ]
+     },
+     "explanation": [
+      "这一题要写两样东西：林爷爷的品质，和短文里能证明这个品质的例子。只写品质，没有例子或者例子写错，是 0 分。",
+      "可以写“不贪心／不贪财”。例子在第四段：修好妇女的雨伞后，妇女给了他五十元，但他只收两块钱。例子要把起因、经过、结果写清楚。",
+      "也可以写“热爱工作／敬业乐业”。例子在第一、二段：虽然生意不好，赚的钱也不多，但林爷爷依然愿意花很多时间来修伞。",
+      "注意：写“善良、热心、有爱心、好人、心地好、乐于助人、好心”是不给分的，因为这些品质和短文里的例子对不上。",
+      "写两个品质和两个例子也可以，只要例子和品质相符。"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "林爷爷是一个不贪心／不贪财的人。【修好妇女的雨伞后，妇女给了他五十元，但他只收两块钱。】→【起因+经过+结果】 或 林爷爷是一个热爱工作／敬业乐业的人。虽然生意不好，赚的钱也不多，但林爷爷依然愿意花很多时间来修伞。（单写品质，没有例子／例子写错，0 分。善良／热心／有爱心／好人／心地好／乐于助人／好心，0 分。写两个品质+两个例子，例子符合品质，照评。）",
+    "solvedAnswer": "agrees with key",
+    "status": "needs-review",
+    "note": "The scanned copy has highlighter marks over parts of the passage (they show as grey smudges in the crop), and one of them covers the sentence that answers this question, so the crop gives the answer away. The answer itself agrees with the key. Replace the crop from a clean copy if one is available. Also worth knowing: the key gives 0 marks for general answers such as 善良, 热心, 有爱心 or 乐于助人; only 不贪心／不贪财 or 热爱工作／敬业乐业, each with its matching example, are accepted."
+   }
+  }
+ ]
+}

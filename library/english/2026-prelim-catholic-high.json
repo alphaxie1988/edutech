@@ -1,0 +1,3040 @@
+{
+ "paper": {
+  "id": "2026-prelim-catholic-high",
+  "subject": "english",
+  "year": 2026,
+  "exam": "Prelim",
+  "school": "Catholic High",
+  "schoolFull": "Catholic High School",
+  "file": "PSLE-2026-P6-papers/English/P6-English-Prelim-2026-Catholic-High-Paper.pdf",
+  "coordDpi": 100
+ },
+ "groups": [
+  {
+   "id": "g1",
+   "text": "For each question from 16 to 20, choose the word closest in meaning to the underlined word(s).\n\nWe know what number to call for an emergency. Many of us __(16: assume)__ that when we call an emergency number, help will arrive quickly, no matter where we are in the world.\nHowever in Kenya, there are more than 50 numbers for emergency services. Finding an emergency crew can be a __(17: potentially)__ lengthy process there. The ambulance may take two to three hours to arrive. To solve this problem, a mobile app called Flare __(18: compiles)__ all the available information on ambulances onto a single platform. Users of the app can choose the most appropriate services based on where the vehicle is as well as the __(19: expertise)__ of the crew.\nIt also uses real-time traffic data to help ambulances __(20: navigate)__ through the city's traffic jams. Since the use of the app, ambulance response time has gone down significantly.\nAdapted from: https://www.bbc.com/news/business-42064067"
+  },
+  {
+   "id": "g2",
+   "text": "Study the webpage (Text 1) and the interview (Text 2) and answer questions 21 to 25.\n\n++Text 1++\nThe text below shows a webpage from a wildlife website.\n[[img1]]\n++Text 2++\nThe excerpt below is taken from an interview with Park Officer, Ms Hazel Yoon.\n[[table1]]",
+   "images": [
+    {
+     "id": "img1",
+     "page": 12,
+     "box": [
+      60,
+      238,
+      726,
+      1046
+     ],
+     "alt": "Webpage at www.wildlifecare.sg. Header: WILDLIFE CARE, with menu links Home, About Us, Wildlife Tips (underlined), Contact Us. Picture of a monitor lizard and an otter beside the heading: Keep Wildlife Wild. Enjoy watching them, but do not feed them. Left box, 'Why we should not feed wildlife', with four icons and points: Animals may stop searching for their own food. Animals may approach people, expecting to be fed. Human food is not suitable for wildlife and can make them ill. Leftover food attracts pests such as rats. Right box, 'What you should do', with three icons and points: Watch animals from a safe distance. Throw rubbish into bins. Let wildlife find its own food. Below the boxes is a picture of monkeys, a tortoise, squirrels and a bird. Banner at the bottom: A little care goes a long way. Keep our wildlife healthy and truly wild!"
+    }
+   ],
+   "tables": [
+    {
+     "id": "table1",
+     "rows": [
+      [
+       "**Interviewer:**",
+       "Why is it important for visitors to behave responsibly when they see wildlife?"
+      ],
+      [
+       "**Ms Hazel Yoon:**",
+       "Singapore's parks and nature reserves are home to many wild animals. Seeing them can be an exciting experience, but visitors should remember that these animals are not pets. We should enjoy observing them without disturbing their natural behaviour."
+      ],
+      [
+       "**Interviewer:**",
+       "Could you tell us what can happen if people interact with wildlife in the wrong way?"
+      ],
+      [
+       "**Ms Hazel Yoon:**",
+       "When animals become used to being around people, they may come too close to visitors or search bags and picnic areas for food. This can lead to unsafe situations for both people and wildlife. Wild animals are healthiest when they continue to look for food in their natural environment instead of relying on humans to feed them."
+      ],
+      [
+       "**Interviewer:**",
+       "What should visitors do when they come across wildlife?"
+      ],
+      [
+       "**Ms Hazel Yoon:**",
+       "Observe the animals quietly from a safe distance and avoid touching or feeding them. If an animal appears injured or behaves in an unusual manner, report it to the relevant authorities so that trained officers can help."
+      ],
+      [
+       "**Interviewer:**",
+       "What message would you like visitors to remember?"
+      ],
+      [
+       "**Ms Hazel Yoon:**",
+       "Every visitor has a part to play in protecting nature. By respecting wildlife and leaving animals undisturbed, we can help to keep our parks safe and enjoyable for everyone."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g3",
+   "text": "There are 10 blanks, numbered 26 to 35, in the passage below. From the list of words given, choose the most suitable word for each blank. Write its letter (A to Q) in the blank. The letters (I) and (O) have been omitted in order to avoid confusion during marking.\n**EACH WORD CAN BE USED ONLY ONCE.**\n[[table1]]\n\nReading is often seen as a hobby, but research suggests it may also support better health and a longer life. People who read regularly tend __(26)__ experience less stress and enjoy stronger mental mental well-being. When reading, the brain slows down and is more engaged. The calming effect created from reading, similar to relaxation exercises, __(27)__ what helps our body manage stress more effectively.\nReading also plays an important role __(28)__ keeping the brain active. As readers follow a story, they __(29)__ to remember details, understand new ideas, and imagine situations. Over time, reading helps the brain stay flexible and sharp, __(30)__ as people grow older.\nIn addition, reading helps readers understand their emotions and see situations __(31)__ different perspectives. __(32)__ improves empathy and social understanding. Since loneliness is linked to poor health, staying mentally and emotionally grounded __(33)__ reading widely can be beneficial.\nExperts say that one does not need to read for __(34)__ extended amount of time for reading to be helpful. Spending a short time each day reading books is enough to support brain health. __(35)__ through printed books or audiobooks, reading remains a simple habit that offers lasting benefits. Let's pick up a book and start reading now!\nAdapted from https://www.nationalgeographic.com/health/article/reading-longevity-brain-health",
+   "tables": [
+    {
+     "id": "table1",
+     "rows": [
+      [
+       "(A) a",
+       "(D) by",
+       "(G) from",
+       "(K) in",
+       "(N) to"
+      ],
+      [
+       "(B) an",
+       "(E) even",
+       "(H) had",
+       "(L) is",
+       "(P) whether"
+      ],
+      [
+       "(C) are",
+       "(F) for",
+       "(J) have",
+       "(M) this",
+       "(Q) with"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g4",
+   "text": "Each of the underlined words contains either a spelling or grammatical error. Write the correct word in each of the boxes.\n\nLily dreaded visiting her grandmother's house every Sunday. While her cousins played video games, her grandmother always insisted that Lily __(36: helping)__ in the kitchen, learning traditional recipes that seemed completely __(37: irellevant)__.\n\"Why do I need to learn this old-fashioned cooking?\" Lily complained. Her grandmother smiled patiently. \"__(38: This recipes)__ carry our family's history, dear. Each ingredient __(39: telling)__ a story about our ancestors.\" Lily rolled her eyes and participated rather __(40: rilaktantly)__, following instructions without __(41: genuwin)__ interest.\nYears later, Lily went overseas to study in the university. She felt incredibly homesick. The cafeteria food tasted __(42: blanned)__ compared to her family's meals. Feeling particularly __(43: nostaljik)__, Lily decided to recreate her grandmother's dumpling recipe. __(44: Until)__ Lily tasted the dumplings, tears filled her eyes. They carried the __(45: warm)__ of home and love. She immediately called her grandmother. \"Grandma, I finally understand. Thank you for teaching me our family's treasures.\""
+  },
+  {
+   "id": "g5",
+   "text": "Fill in each blank with a suitable word.\n\nSingapore is a small island with limited land space. In the 1970s, as air travel became more popular worldwide, Singapore faced a serious problem. The country __(46)__ a bigger airport to handle more planes and passengers, but where __(47)__ they build it?\nIn the late 1970s, the demand __(48)__ air travel around the world rose dramatically as more people __(49)__ by air for business and holidays. As a result, the former Singapore International Airport at Paya Lebar struggled to __(50)__ up with the increase in traffic volume. However, expanding the airport would sacrifice precious land space and create noise pollution over residential areas.\nThe alternative solution was to build a completely new airport in Changi. __(51)__ an airport would be located away from the city centre and planes would fly over water __(52)__ of over residential areas. In __(53)__ to the earlier benefits mentioned, there was also the possibility of future expansion by reclaiming land from the sea.\nBuilding Changi Airport was a mammoth undertaking. The airport was planned to be at least five times __(54)__ than the airport at Paya Lebar. To __(55)__ the new airport, existing land had to be cleared and new land had to be reclaimed from the sea. Given the scale of the project, the construction process encountered countless difficulties. __(56)__ being fraught with challenges, the project still finished ahead of schedule.\nMoving an entire airport is very complex so the move from Paya Lebar to Changi was carefully planned. The hard work paid __(57)__ as the move to Changi Airport happened in just one night with the last flight leaving Paya Lebar in the evening of 30 June 1981.\nChangi Airport __(58)__ operating on 1 July 1981 with the arrival of Singapore Airlines flight SQ101 from Kuala Lumpur, marking the beginning of a new era for Singapore aviation. __(59)__ then, Changi Airport has expanded significantly, from one terminal to four, with a fifth terminal expected soon.\nToday, Changi Airport stands as one of the world's most admired airports. This proves that with foresight and perseverance, even the most difficult challenges can be __(60)__. These values continue to guide Singapore's aviation industry till today.\nAdapted from https://www.airporthistory.org/blue-concourse/singapore-changi-airport-turns-40"
+  },
+  {
+   "id": "g6",
+   "text": "Read the passage and answer questions 66 to 75.\n\n**1** Maya pushed open the heavy wooden door and stepped into the library. The paint on the towering bookshelves had flaked away in places, exposing the dark wood beneath. Cobwebs occupied the forgotten corners of the high ceiling as golden sunlight streamed through the tall windows. \"This place is seriously old,\" whispered her younger brother, Sam, his voice echoing in the vast silence. \"Welcome to the Seaside Library,\" Mrs Chen, the elderly librarian, smiled.\n**2** Stumbling across this forgotten library while exploring the older part of town during the school holidays, Maya could not wait to share her find with Sam. Unlike the clean and smooth tables in the school library, the wooden tables here bore countless scratches and stains from decades past. There were no computers humming here – just the peaceful stillness of a place that had once been well-loved and well-used.\n**3** Maya paused in front of a huge wooden cabinet with hundreds of tiny drawers. Looking at Maya's look of confusion, Mrs Chen chuckled. Mrs Chen slid one open and pulled out a small handwritten card. \"This is a card catalogue. Each card tells you where to find a book on the shelves,\" Mrs Chen explained gently. \"Before computers, this was how everyone searched for books – drawer by drawer, card by card.\" Maya tried to imagine doing this every single day, instead of simply typing into a search engine on the screen, like how she would at her school library.\n**4** \"It's a little empty for a beautiful place like this,\" Maya sighed in disappointment, looking around. \"We don't get many visitors these days since information can be found easily on the internet.\" Mrs Chen's eyes grew wistful. \"But there's something magical about holding a real book. You don't just hold the book, you share the memories, emotions and traces of the people who held it before.\"\n**5** Maya smiled politely, unsure of what she meant. She reached for the nearest book, a worn poetry collection, and cracked it open. Inside the front cover, someone had written in faded ink: Eleanor, 1943. Maya ran her thumb over the looping handwriting and felt a warm sense of connection. Whoever Eleanor was, she had held this exact book and read these exact words. The internet had never once made Maya feel that.\n**6** Across the room, Sam found a collection of handwritten letters from local residents during World War II, carefully preserved in a glass case. He did not know any of them, had never heard their names before, and yet every word written by them felt heavy and real.\n**7** As the afternoon wore on, the siblings sat at different corners, turning brittle and yellowed pages slowly, each paper giving off a warm, faint smell. Maya found herself wondering about the people who had held this same book before her. Had they sat in this same quiet room, turning these same pages, feeling the same sense of peace? Maya finally understood what Mrs Chen meant earlier – the magic of holding a real book.\n**8** \"The council wants to close this library next month,\" Mrs Chen mentioned. \"They say it's too expensive to maintain, and not enough people use it.\" Maya's heart sank. The thought of all the treasures she found disappearing – Eleanor's name, the old maps, the wartime letters – made her feel like she was losing something that could never be replaced.\n**9** \"We'll be back tomorrow,\" Maya promised. \"And we'll bring our friends too.\" Mrs Chen's face brightened with hope. \"That'd be wonderful, dear. Perhaps there's still a future for old places like this.\""
+  }
+ ],
+ "questions": [
+  {
+   "section": "p1",
+   "number": 1,
+   "page": 2,
+   "format": "structured",
+   "marks": 14,
+   "topic": "writing",
+   "subtypes": [
+    "situational-writing"
+   ],
+   "stem": "Part 1: Situational Writing (14 marks)\nThe pictures below show Ricky and Julie discussing an idea during their school recess. Study the pictures carefully.\n[[img1]]\n++Your Task++\nImagine you are Ricky.\n**Write an email to your principal, Mdm Tan, to request for a reading corner to be set up.**\nYou are to refer to the pictures and information on page 1 for your article. The bullet point underlined below requires you to come up with your own information.\nIn your writing, include the following key information:\n- why you think a reading corner should be set up\n- where the reading corner can be set up\n- two ways you can contribute\n- how your schoolmates may contribute\n- ++another benefit of having the reading corner++\nYou may reorder the points. Remember to write in complete sentences.",
+   "images": [
+    {
+     "id": "img1",
+     "page": 2,
+     "box": [
+      86,
+      180,
+      714,
+      1075
+     ],
+     "alt": "Two comic panels showing Julie (a girl) and Ricky (a boy) from behind, standing outside the school LIBRARY. Through the library window two pupils can be seen reading at a table. On the right is a staircase. Panel 1. Julie: Ricky, there are no empty seats in the school library again! Ricky: It's getting harder for us to find a quiet, comfortable place to sit and read during recess. Hmm... Look over there, Julie. Don't you think the vacant space between the library and the staircase would be perfect for a reading corner? Julie: You're right! Panel 2. Ricky: I can provide an old bookshelf which is still in good condition. My parents have been thinking of giving it away. I can also design some posters to decorate the reading corner. Students can even donate their old books for others to read. Julie: Wow, those are great ideas! You should email our principal with your suggestion. Ricky: Thanks, Julie! I'll do that after checking with my parents."
+    }
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "There is no single model answer. Check your writing against the points below."
+     },
+     "explanation": [
+      "Purpose: to request (ask politely) that a reading corner be set up. State this clearly in the opening paragraph.",
+      "Audience: your principal, Mdm Tan. Context: you are Ricky, a pupil of the school, writing an email. Start with 'Dear Mdm Tan' and say who you are (name and class).",
+      "Point 1, why a reading corner should be set up: there are often no empty seats in the school library, and it is getting harder to find a quiet, comfortable place to sit and read during recess.",
+      "Point 2, where: in the vacant space between the library and the staircase.",
+      "Point 3, two ways you can contribute: provide an old bookshelf that is still in good condition (your parents were thinking of giving it away), and design some posters to decorate the reading corner.",
+      "Point 4, how schoolmates may contribute: they can donate their old books for others to read.",
+      "Point 5, another benefit (your own idea, and it must be different from point 1): for example, it will encourage more pupils to pick up the reading habit, or it lets pupils share and recycle books instead of throwing them away.",
+      "Format and tone: formal and polite, because you are writing to the principal. Write in the first person as Ricky ('I'), change the speech bubbles into your own complete sentences, thank Mdm Tan and say you hope she will consider your suggestion. End with 'Yours sincerely' or 'Regards' and your name, Ricky.",
+      "Language: 6 marks are for task fulfilment (all the points, purpose, audience, context) and 8 marks for language (grammar, spelling, punctuation, clear sentences)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "No answer key is provided for Paper 1.",
+    "solvedAnswer": "Checklist written from the task and the pictures.",
+    "status": "verified",
+    "note": "The task box says 'for your article' although the task is an email, and the page number in 'on page 1' has been altered by hand in the scan; both are transcribed as they appear. The pictures are the crop shown with the task."
+   }
+  },
+  {
+   "section": "p1",
+   "number": 2,
+   "page": 4,
+   "format": "structured",
+   "marks": 36,
+   "topic": "writing",
+   "subtypes": [
+    "continuous-writing"
+   ],
+   "stem": "Part 2: Continuous Writing (36 marks)\nWrite a composition of ++at least 150 words++ about **an apology**.\nThe pictures are provided to help you think about this topic.\nYour composition should be based on one or more of these pictures.\n[[img1]]\nConsider the following points when you plan your composition:\n- Why was an apology needed?\n- What happened in the end?\nYou may use the points in any order and include other relevant points as well.",
+   "images": [
+    {
+     "id": "img1",
+     "page": 4,
+     "box": [
+      458,
+      150,
+      718,
+      858
+     ],
+     "alt": "Three pictures, one above the other. Picture 1: a boy and a girl standing back to back with their arms folded, both frowning angrily. Picture 2: a child's drawing of a house with a sun, a cloud, a tree and a flower; part of the drawing is smudged and spoilt as if something has been spilt on it. Picture 3: a bowl lying on its side with noodles spilt out of it."
+    }
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "There is no single model answer. Check your writing against the points below."
+     },
+     "explanation": [
+      "Understand the topic: an apology is saying sorry for something wrong that was done. The apology must be the heart of the story, not a one-line ending. Decide who apologises, to whom, and for what.",
+      "Picture 1 (a boy and a girl standing back to back with arms folded, both scowling): two friends or siblings have quarrelled and neither wants to say sorry first. Who gives in, and what makes them do it?",
+      "Picture 2 (a child's drawing of a house, sun and tree, smudged and spoilt): someone ruined another person's artwork, perhaps by spilling water or paint on it, by accident or out of jealousy.",
+      "Picture 3 (a bowl tipped over with noodles spilt out): someone knocked over a bowl of noodles, perhaps on a classmate in the canteen, on a stranger at a hawker centre, or a meal that a parent had lovingly cooked.",
+      "Use at least one picture and answer both guiding points: why the apology was needed, and what happened in the end.",
+      "Story arc: a short opening that sets the scene; the incident (what went wrong); the feelings afterwards (guilt, anger, pride, fear of owning up); the turning point where the character decides to apologise; the apology itself, with the words spoken and how the other person reacts.",
+      "Make the apology sincere: show the struggle before it (sweaty palms, rehearsing the words, avoiding eye contact) and an action that goes with it (helping to redo the drawing, buying another bowl of noodles, cleaning up).",
+      "Ending: return to the topic. What did the character learn about apologising, for example that saying sorry takes courage, or that a sincere apology can mend a friendship?",
+      "Marks: 18 for content (relevant, well-developed ideas) and 18 for language and organisation (paragraphs, varied sentences, vocabulary, grammar, spelling, punctuation). Write well over 150 words."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "No answer key is provided for Paper 1.",
+    "solvedAnswer": "Planning checklist written from the topic and the pictures.",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 1,
+   "page": 8,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "grammar",
+   "subtypes": [
+    "question-tags"
+   ],
+   "stem": "She said that she would attend the rehearsal for the concert later, __________ she?",
+   "options": [
+    "did",
+    "didn't",
+    "would",
+    "wouldn't"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 2
+     },
+     "explanation": [
+      "Rule: a question tag checks the main clause of the sentence. A positive statement takes a negative tag, and the tag uses the helping verb of the main verb.",
+      "The main clause is 'She said'. The words 'that she would attend the rehearsal...' only tell us what she said.",
+      "'said' is the simple past with no helping verb, so the tag uses 'did'. The statement is positive, so the tag is negative: 'didn't she?'",
+      "'wouldn't' is tempting because 'would' is the nearest verb, but it belongs to the reported part, not the main clause. The answer is option (2)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "2",
+    "solvedAnswer": "2",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 2,
+   "page": 8,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "grammar",
+   "subtypes": [
+    "tenses"
+   ],
+   "stem": "Ronn wanted to attend the concert because his favourite singer Brono __________ there.",
+   "options": [
+    "performed",
+    "had performed",
+    "had been performing",
+    "would be performing"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 4
+     },
+     "explanation": [
+      "Think about the order of events. Ronn 'wanted to attend' the concert, so the concert had not happened yet. The performance was still in the future at that time.",
+      "Rule: to talk about the future as seen from a point in the past, change 'will' to 'would'. 'Brono will be performing' becomes 'Brono would be performing'.",
+      "'performed', 'had performed' and 'had been performing' all mean the performance was already over, so there would be nothing left to attend.",
+      "'...because his favourite singer Brono would be performing there.' The answer is option (4)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "4",
+    "solvedAnswer": "4",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 3,
+   "page": 8,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "grammar",
+   "subtypes": [
+    "connectors"
+   ],
+   "stem": "__________ her parents' tireless care, she recovered quickly from her illness.",
+   "options": [
+    "Owing to",
+    "In spite of",
+    "Aligned to",
+    "In addition to"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 1
+     },
+     "explanation": [
+      "Work out how the two halves are linked. Her parents' tireless care is the reason she recovered quickly. This is cause and effect.",
+      "'Owing to' means 'because of' and is followed by a noun phrase ('her parents' tireless care').",
+      "'In spite of' shows a contrast (she recovered even though something was against her), which does not fit because good care helps recovery. 'In addition to' only adds another item, and 'Aligned to' means 'in line with'.",
+      "'Owing to her parents' tireless care, she recovered quickly...' The answer is option (1)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "1",
+    "solvedAnswer": "1",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 4,
+   "page": 8,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "grammar",
+   "subtypes": [
+    "relative-pronouns"
+   ],
+   "stem": "The boy with __________ I shared my lunch is my best friend.",
+   "options": [
+    "who",
+    "which",
+    "whom",
+    "whose"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 3
+     },
+     "explanation": [
+      "The blank comes straight after the preposition 'with' and refers to a person, the one who 'is my best friend'.",
+      "Rule: after a preposition, use the object form 'whom' for a person: with whom, to whom, for whom. ('I shared my lunch with him' becomes 'with whom I shared my lunch'.)",
+      "'who' is the subject form and cannot follow a preposition. 'which' is for things and animals. 'whose' shows belonging and must be followed by a noun (whose lunch).",
+      "'The boy with whom I shared my lunch is my best friend.' The answer is option (3)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "3",
+    "solvedAnswer": "3",
+    "status": "verified",
+    "note": "The paper prints 'The box with ... I shared my lunch is my best friend', an obvious misprint for 'boy' (a box cannot be a best friend, and the key's answer 'whom' needs a person). The stem here reads 'boy' so that the question makes sense."
+   }
+  },
+  {
+   "section": "a",
+   "number": 5,
+   "page": 8,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "grammar",
+   "subtypes": [
+    "infinitives-and-gerunds"
+   ],
+   "stem": "After observing him __________ on the desk a few times, they realised that he was sending a coded message to someone in the room.",
+   "options": [
+    "tap",
+    "taps",
+    "tapped",
+    "had tapped"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 1
+     },
+     "explanation": [
+      "Rule: after a verb of the senses (see, hear, watch, observe, notice) + a person, use the base form of the verb for a completed action. Example: 'I watched him cross the road.'",
+      "Here the pattern is 'observing him ___'. The second verb does not take a tense or an 's', because 'him' is an object, not the subject of a new sentence.",
+      "'tapped' is tempting because the story is in the past, but 'observing him tapped' is wrong. 'taps' would need a subject ('he taps').",
+      "'After observing him tap on the desk a few times...' The answer is option (1)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "1",
+    "solvedAnswer": "1",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 6,
+   "page": 9,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "grammar",
+   "subtypes": [
+    "tenses",
+    "subject-verb-agreement"
+   ],
+   "stem": "Having received the teacher's approval, the prefect committee __________ ready to conduct the activity now.",
+   "options": [
+    "is",
+    "was",
+    "will be",
+    "would be"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 1
+     },
+     "explanation": [
+      "The time clue is 'now'. It tells us the sentence is about the present moment, so we need the simple present tense.",
+      "'The prefect committee' is one group, so it takes the singular verb 'is'.",
+      "'was' is past, and 'will be' is future; neither goes with 'now'. 'would be' is used for imagined situations.",
+      "'...the prefect committee is ready to conduct the activity now.' The answer is option (1)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "1",
+    "solvedAnswer": "1",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 7,
+   "page": 9,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "grammar",
+   "subtypes": [
+    "pronouns"
+   ],
+   "stem": "Other than Tom, Jerry and __________, no one else was there.",
+   "options": [
+    "I",
+    "me",
+    "mine",
+    "myself"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 2
+     },
+     "explanation": [
+      "'Other than' works like a preposition (like 'except' or 'apart from').",
+      "Rule: after a preposition, use the object pronoun: me, him, her, us, them. We say 'except me', not 'except I'.",
+      "Test it by dropping the other names: 'Other than me, no one else was there' sounds right; 'Other than I' does not. 'myself' is only used when 'I' is already the subject of the same clause (I hurt myself), and 'mine' shows belonging.",
+      "'Other than Tom, Jerry and me, no one else was there.' The answer is option (2)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "2",
+    "solvedAnswer": "2",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 8,
+   "page": 9,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "grammar",
+   "subtypes": [
+    "tenses"
+   ],
+   "stem": "We need to stop searching and rest. We __________ for more than twenty hours once the morning comes.",
+   "options": [
+    "will search",
+    "have searched",
+    "have been searching",
+    "will have been searching"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 4
+     },
+     "explanation": [
+      "Look at the time clues: 'for more than twenty hours' (a length of time) and 'once the morning comes' (a point in the future).",
+      "Rule: to say how long an action will have gone on by a certain time in the future, use the future perfect continuous: will have been + verb-ing.",
+      "'have been searching' is tempting because of 'for more than twenty hours', but it measures up to now, and the sentence measures up to the coming morning. 'will search' would mean the search only starts in the future.",
+      "'We will have been searching for more than twenty hours once the morning comes.' The answer is option (4)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "4",
+    "solvedAnswer": "4",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 9,
+   "page": 9,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "grammar",
+   "subtypes": [
+    "quantifiers"
+   ],
+   "stem": "Although there was __________ evidence to start with, the police managed to solve the case eventually.",
+   "options": [
+    "few",
+    "little",
+    "much",
+    "many"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 2
+     },
+     "explanation": [
+      "'Evidence' is an uncountable noun (we cannot say 'evidences'), and the verb is the singular 'was'. So 'few' and 'many', which go with countable plural nouns, are out.",
+      "'Although' signals a contrast: the police solved the case even though something made it hard. Having almost no evidence makes it hard.",
+      "'little' means 'hardly any' and goes with uncountable nouns. 'much' would mean there was a lot of evidence, which gives no contrast with solving the case.",
+      "'Although there was little evidence to start with...' The answer is option (2)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "2",
+    "solvedAnswer": "2",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 10,
+   "page": 9,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "grammar",
+   "subtypes": [
+    "prepositions"
+   ],
+   "stem": "The trouble __________ this storybook is that its language is too difficult to understand.",
+   "options": [
+    "of",
+    "in",
+    "with",
+    "about"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 3
+     },
+     "explanation": [
+      "Some nouns always go with a particular preposition. We say 'the trouble **with**' or 'the problem **with**' something to introduce what is wrong with it.",
+      "Example: 'The trouble with this plan is that it costs too much.'",
+      "'about' is tempting because we complain about things, but the fixed phrase is 'the trouble with'. 'The trouble of' means the effort of doing something (the trouble of cooking).",
+      "'The trouble with this storybook is that its language is too difficult...' The answer is option (3)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "3",
+    "solvedAnswer": "3",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 11,
+   "page": 10,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "vocabulary",
+   "subtypes": [
+    "word-meaning"
+   ],
+   "stem": "After discussing the matter for over an hour, the judges voted __________ to disqualify the participant.",
+   "options": [
+    "mutually",
+    "intuitively",
+    "concurrently",
+    "unanimously"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 4
+     },
+     "explanation": [
+      "Clue: several judges 'voted' after a long discussion. We need a word that describes how a group votes.",
+      "'unanimously' means with every person agreeing. 'Voted unanimously' is a common pairing: all the judges voted the same way.",
+      "'mutually' is tempting because it is about two sides sharing a feeling (they mutually agreed), but it is not used with 'voted'. 'concurrently' means at the same time, and 'intuitively' means by instinct, without thinking it through, which does not fit an hour of discussion.",
+      "The answer is option (4), unanimously."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "4",
+    "solvedAnswer": "4",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 12,
+   "page": 10,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "vocabulary",
+   "subtypes": [
+    "word-meaning"
+   ],
+   "stem": "After insisting for hours that he had not broken the vase, Ryan finally __________ that he had knocked it over while chasing the cat.",
+   "options": [
+    "denied",
+    "conceded",
+    "questioned",
+    "surrendered"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 2
+     },
+     "explanation": [
+      "Clues: 'After insisting for hours that he had not' and 'finally'. Ryan changed from saying no to owning up.",
+      "'conceded' means admitted, often unwillingly, that something is true.",
+      "'denied' is the opposite; he had been denying it for hours. 'surrendered' is tempting because it means gave up, but we surrender to someone; we do not 'surrender that' something happened.",
+      "The answer is option (2), conceded."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "2",
+    "solvedAnswer": "2",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 13,
+   "page": 10,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "vocabulary",
+   "subtypes": [
+    "word-meaning"
+   ],
+   "stem": "Corruption is often __________ in countries where laws are not strictly enforced.",
+   "options": [
+    "rampant",
+    "bountiful",
+    "stringent",
+    "infamous"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 1
+     },
+     "explanation": [
+      "Clue: where laws are not strictly enforced, a bad thing like corruption will spread unchecked.",
+      "'rampant' describes something bad that is spreading everywhere and is out of control.",
+      "'bountiful' also means plentiful, but it is used for good things (a bountiful harvest). 'stringent' means very strict and describes rules, and 'infamous' means well known for something bad, which describes a person or place rather than how common something is.",
+      "The answer is option (1), rampant."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "1",
+    "solvedAnswer": "1",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 14,
+   "page": 10,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "vocabulary",
+   "subtypes": [
+    "phrasal-verbs"
+   ],
+   "stem": "The discipline master quickly __________ the fight between Eddie and Dylon before anyone got injured.",
+   "options": [
+    "broke up",
+    "broke off",
+    "broke down",
+    "broke away"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 1
+     },
+     "explanation": [
+      "Clue: he acted 'before anyone got injured', so he stopped the fight.",
+      "'break up a fight' means to stop it by separating the people.",
+      "'broke off' means ended something suddenly, such as talks or an engagement, or snapped a piece off. 'broke down' means stopped working or started crying. 'broke away' means escaped from someone's hold.",
+      "The answer is option (1), broke up."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "1",
+    "solvedAnswer": "1",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 15,
+   "page": 10,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "vocabulary",
+   "subtypes": [
+    "word-meaning"
+   ],
+   "stem": "After the competition, the players from every team showed __________ by gathering together to sing at the closing ceremony.",
+   "options": [
+    "solidarity",
+    "tolerance",
+    "alignment",
+    "consensus"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 1
+     },
+     "explanation": [
+      "Clue: players from every team, who had just been rivals, gathered and sang together. They were showing that they stood together as one.",
+      "'solidarity' means unity and support among people who share a feeling or purpose.",
+      "'consensus' is tempting, but it means a general agreement reached about a decision. 'tolerance' means putting up with people who are different, which is weaker than standing together. 'alignment' means being arranged in a line or in agreement with a plan.",
+      "The answer is option (1), solidarity."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "1",
+    "solvedAnswer": "1",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 16,
+   "page": 11,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "vocabulary-cloze",
+   "subtypes": [
+    "word-meaning"
+   ],
+   "group": "g1",
+   "stem": "Choose the word closest in meaning to ++assume++.",
+   "options": [
+    "infer",
+    "deem",
+    "reason",
+    "believe"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 4
+     },
+     "explanation": [
+      "To 'assume' is to accept that something is true without checking or having proof.",
+      "In the passage, many people simply take it for granted that help will come quickly when they call an emergency number. They 'believe' it.",
+      "'infer' is tempting, but it means to work something out from clues or evidence, which is the opposite of taking it for granted. 'deem' means to judge something to be (deem it necessary), and 'reason' means to think something through step by step.",
+      "The answer is option (4), believe."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "4",
+    "solvedAnswer": "4",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 17,
+   "page": 11,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "vocabulary-cloze",
+   "subtypes": [
+    "word-meaning"
+   ],
+   "group": "g1",
+   "stem": "Choose the word closest in meaning to ++potentially++.",
+   "options": [
+    "possibly",
+    "certainly",
+    "apparently",
+    "figuratively"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 1
+     },
+     "explanation": [
+      "'potentially' means something could happen or could be true, but it is not sure.",
+      "Finding a crew 'can be a potentially lengthy process': it may take long, and the next sentence says the ambulance 'may take' two to three hours. 'possibly' matches.",
+      "'certainly' is too strong, because it means it is always lengthy. 'apparently' means 'as it seems' or 'as I have heard', and 'figuratively' means not in the real, exact sense.",
+      "The answer is option (1), possibly."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "1",
+    "solvedAnswer": "1",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 18,
+   "page": 11,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "vocabulary-cloze",
+   "subtypes": [
+    "word-meaning"
+   ],
+   "group": "g1",
+   "stem": "Choose the word closest in meaning to ++compiles++.",
+   "options": [
+    "collates",
+    "connects",
+    "constructs",
+    "concentrates"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 1
+     },
+     "explanation": [
+      "To 'compile' is to collect information from different places and put it together.",
+      "The app 'compiles all the available information on ambulances onto a single platform'. 'collates' means gathers pieces of information and arranges them together, so it matches.",
+      "'connects' is tempting because an app links people to ambulances, but the word here is about gathering information, not joining things. 'constructs' means builds, and 'concentrates' means focuses or gathers in one small area.",
+      "The answer is option (1), collates."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "1",
+    "solvedAnswer": "1",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 19,
+   "page": 11,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "vocabulary-cloze",
+   "subtypes": [
+    "word-meaning"
+   ],
+   "group": "g1",
+   "stem": "Choose the word closest in meaning to ++expertise++.",
+   "options": [
+    "talent",
+    "reputation",
+    "knowledge",
+    "accomplishment"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 3
+     },
+     "explanation": [
+      "'expertise' is the special skill and knowledge a person has in a particular field, gained through training and experience.",
+      "Users choose a service based on 'the expertise of the crew', that is, what the ambulance crew knows how to treat. 'knowledge' is the closest.",
+      "'talent' is tempting, but talent is a natural gift you are born with, while expertise is learnt. 'reputation' is what others think of you, and 'accomplishment' is something you have achieved.",
+      "The answer is option (3), knowledge."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "3",
+    "solvedAnswer": "3",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 20,
+   "page": 11,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "vocabulary-cloze",
+   "subtypes": [
+    "word-meaning"
+   ],
+   "group": "g1",
+   "stem": "Choose the word closest in meaning to ++navigate++.",
+   "options": [
+    "muddle",
+    "meander",
+    "manipulate",
+    "manoeuvre"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 4
+     },
+     "explanation": [
+      "To 'navigate' is to find a way through a difficult place skilfully.",
+      "The app helps ambulances 'navigate through the city's traffic jams'. 'manoeuvre' means to move skilfully and carefully around obstacles, so it matches.",
+      "'meander' is tempting because it also describes moving along a route, but it means to wander slowly with no hurry, which is the opposite of what an ambulance does. 'muddle' means to mix up or confuse, and 'manipulate' means to control or handle something, often unfairly.",
+      "The answer is option (4), manoeuvre."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "4",
+    "solvedAnswer": "4",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 21,
+   "page": 15,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "visual-text",
+   "subtypes": [
+    "purpose-and-audience"
+   ],
+   "group": "g2",
+   "stem": "What is the main purpose of the webpage?",
+   "options": [
+    "to teach people how to feed wildlife",
+    "to encourage people to keep wildlife as pets",
+    "to explain where wildlife can be found in Singapore",
+    "to explain why people should refrain from feeding wildlife"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 4
+     },
+     "explanation": [
+      "Look at the heading and the biggest boxes of the webpage (Text 1).",
+      "The heading says 'Enjoy watching them, but do not feed them', and the main box is titled 'Why we should not feed wildlife', with four reasons.",
+      "'refrain from' means to stop yourself from doing something, so option (4) says the same thing as the webpage. Options (1) and (2) are the opposite of its message, and the webpage does not say where wildlife can be found.",
+      "The answer is option (4)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "4",
+    "solvedAnswer": "4",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 22,
+   "page": 15,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "visual-text",
+   "subtypes": [
+    "inference",
+    "purpose-and-audience"
+   ],
+   "group": "g2",
+   "stem": "The webpage shows images of a variety of wildlife to __________.",
+   "options": [
+    "show the fauna of Singapore's parks",
+    "show which animals are the friendliest to visitors",
+    "help readers decide which animals they should avoid",
+    "remind readers that the advice applies to many kinds of wildlife"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 4
+     },
+     "explanation": [
+      "Ask why the designer drew so many different animals: a monitor lizard, an otter, monkeys, a tortoise, squirrels and a bird.",
+      "The webpage's message is 'do not feed them'. Showing many kinds of animals tells readers that 'them' means all wildlife, not just one animal such as monkeys.",
+      "Option (1) is tempting because the pictures do show animals found here, but the webpage never mentions parks, and showing animals is not its aim; its aim is the advice. Nothing on the webpage says which animals are friendly or which to avoid.",
+      "The answer is option (4)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "4",
+    "solvedAnswer": "4",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 23,
+   "page": 15,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "visual-text",
+   "subtypes": [
+    "factual"
+   ],
+   "group": "g2",
+   "stem": "According to the webpage, what may happen if people feed wildlife?\nA. Wildlife may help reduce pests such as rats.\nB. Animals may stop searching for their own food.\nC. Wildlife may become unwell from eating food from humans.",
+   "options": [
+    "A and B",
+    "A and C",
+    "B and C",
+    "A, B and C"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 3
+     },
+     "explanation": [
+      "Check each statement against the box 'Why we should not feed wildlife' in Text 1.",
+      "B is true: 'Animals may stop searching for their own food.' C is true: 'Human food is not suitable for wildlife and can make them ill' ('ill' means unwell).",
+      "A is false: the webpage says 'Leftover food attracts pests such as rats', so feeding brings more pests, not fewer.",
+      "Only B and C are correct. The answer is option (3)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "3",
+    "solvedAnswer": "3",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 24,
+   "page": 15,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "visual-text",
+   "subtypes": [
+    "factual"
+   ],
+   "group": "g2",
+   "stem": "According to Ms Hazel Yoon's advice in Text 2, visitors should __________.",
+   "options": [
+    "bring suitable food for wild animals",
+    "tend to injured animals themselves",
+    "move closer only if the animals seem friendly",
+    "report any odd animal behaviour to authorities"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 4
+     },
+     "explanation": [
+      "Find Ms Yoon's answer to 'What should visitors do when they come across wildlife?' in Text 2.",
+      "She says: 'If an animal appears injured or behaves in an unusual manner, report it to the relevant authorities so that trained officers can help.' 'Odd' means the same as 'unusual'.",
+      "(1) and (3) go against 'Observe the animals quietly from a safe distance and avoid touching or feeding them.' (2) is wrong because trained officers, not visitors, should help injured animals.",
+      "The answer is option (4)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "4",
+    "solvedAnswer": "4",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 25,
+   "page": 15,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "visual-text",
+   "subtypes": [
+    "factual",
+    "inference"
+   ],
+   "group": "g2",
+   "stem": "Which idea is found in both Text 1 and Text 2?",
+   "options": [
+    "Wildlife will attack people if they are injured.",
+    "Throwing rubbish into bins keeps parks clean.",
+    "Wildlife should be allowed to find their own food.",
+    "Visitors should report all wildlife sightings to the authorities."
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 3
+     },
+     "explanation": [
+      "The idea must appear in the webpage and in the interview.",
+      "Text 1: 'Let wildlife find its own food.' Text 2: 'Wild animals are healthiest when they continue to look for food in their natural environment instead of relying on humans to feed them.' Both say the same thing.",
+      "(2) is tempting, but only Text 1 mentions rubbish bins. (4) is wrong because Text 2 says to report only injured animals or unusual behaviour, not every sighting, and Text 1 does not mention reporting. Neither text says wildlife will attack people.",
+      "The answer is option (3)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "3",
+    "solvedAnswer": "3",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 26,
+   "page": 20,
+   "format": "short",
+   "marks": 1,
+   "topic": "grammar-cloze",
+   "subtypes": [
+    "infinitives-and-gerunds"
+   ],
+   "group": "g3",
+   "stem": "Choose the most suitable word for blank (26). (Type its letter, A to Q.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "N",
+      "accept": [
+       "n",
+       "to"
+      ]
+     },
+     "explanation": [
+      "Look at the verb before the blank: 'tend'. After the blank is a base verb, 'experience'.",
+      "Rule: 'tend' is followed by to + base verb (tend to forget, tend to be late). It means 'usually do'.",
+      "'People who read regularly tend to experience less stress.'",
+      "The answer is (N) to."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "N",
+    "solvedAnswer": "N (to)",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 27,
+   "page": 20,
+   "format": "short",
+   "marks": 1,
+   "topic": "grammar-cloze",
+   "subtypes": [
+    "verb-forms",
+    "subject-verb-agreement"
+   ],
+   "group": "g3",
+   "stem": "Choose the most suitable word for blank (27). (Type its letter, A to Q.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "L",
+      "accept": [
+       "l",
+       "is"
+      ]
+     },
+     "explanation": [
+      "Find the subject of the sentence: 'The calming effect created from reading'. The words between the commas ('similar to relaxation exercises') only add information.",
+      "The sentence has no main verb yet, so the blank must be a verb: 'The calming effect ... ___ what helps our body'.",
+      "'effect' is singular and the passage is in the present tense, so we need 'is', not 'are'.",
+      "The answer is (L) is."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "L",
+    "solvedAnswer": "L (is)",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 28,
+   "page": 20,
+   "format": "short",
+   "marks": 1,
+   "topic": "grammar-cloze",
+   "subtypes": [
+    "prepositions"
+   ],
+   "group": "g3",
+   "stem": "Choose the most suitable word for blank (28). (Type its letter, A to Q.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "K",
+      "accept": [
+       "k",
+       "in"
+      ]
+     },
+     "explanation": [
+      "This is a fixed phrase: to play a role (or a part) **in** something.",
+      "After a preposition, the verb takes -ing, which matches 'keeping' after the blank.",
+      "'Reading also plays an important role in keeping the brain active.'",
+      "The answer is (K) in."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "K",
+    "solvedAnswer": "K (in)",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 29,
+   "page": 20,
+   "format": "short",
+   "marks": 1,
+   "topic": "grammar-cloze",
+   "subtypes": [
+    "verb-forms",
+    "modals"
+   ],
+   "group": "g3",
+   "stem": "Choose the most suitable word for blank (29). (Type its letter, A to Q.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "J",
+      "accept": [
+       "j",
+       "have"
+      ]
+     },
+     "explanation": [
+      "After the blank comes 'to remember'. 'have to' + base verb means 'must' or 'need to'.",
+      "The subject is 'they' (plural) and the passage is in the present tense, so we use 'have', not 'had'.",
+      "'As readers follow a story, they have to remember details...'",
+      "'had' is tempting because it also fits before 'to', but it is past tense and the passage states general facts in the present. The answer is (J) have."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "J",
+    "solvedAnswer": "J (have)",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 30,
+   "page": 20,
+   "format": "short",
+   "marks": 1,
+   "topic": "grammar-cloze",
+   "subtypes": [
+    "connectors"
+   ],
+   "group": "g3",
+   "stem": "Choose the most suitable word for blank (30). (Type its letter, A to Q.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "E",
+      "accept": [
+       "e",
+       "even"
+      ]
+     },
+     "explanation": [
+      "The sentence says reading keeps the brain flexible and sharp, and then adds something surprising: this is true ___ as people grow older, when the brain usually slows down.",
+      "'even' is used to stress something unexpected. 'even as' means 'at the very time that'.",
+      "'...reading helps the brain stay flexible and sharp, even as people grow older.'",
+      "The answer is (E) even."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "E",
+    "solvedAnswer": "E (even)",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 31,
+   "page": 20,
+   "format": "short",
+   "marks": 1,
+   "topic": "grammar-cloze",
+   "subtypes": [
+    "prepositions"
+   ],
+   "group": "g3",
+   "stem": "Choose the most suitable word for blank (31). (Type its letter, A to Q.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "G",
+      "accept": [
+       "g",
+       "from"
+      ]
+     },
+     "explanation": [
+      "This is a fixed phrase: to see something **from** a perspective, or from a point of view.",
+      "A perspective is the place you look from, so the preposition is 'from'.",
+      "'...see situations from different perspectives.'",
+      "The answer is (G) from."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "G",
+    "solvedAnswer": "G (from)",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 32,
+   "page": 20,
+   "format": "short",
+   "marks": 1,
+   "topic": "grammar-cloze",
+   "subtypes": [
+    "pronouns"
+   ],
+   "group": "g3",
+   "stem": "Choose the most suitable word for blank (32). (Type its letter, A to Q.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "M",
+      "accept": [
+       "m",
+       "this"
+      ]
+     },
+     "explanation": [
+      "The blank is the subject of a new sentence, and the verb 'improves' is singular.",
+      "We need a singular word that points back to the whole idea in the sentence before (understanding emotions and seeing situations from different perspectives). 'This' does that job.",
+      "'This improves empathy and social understanding.'",
+      "The answer is (M) this."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "M",
+    "solvedAnswer": "M (this)",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 33,
+   "page": 20,
+   "format": "short",
+   "marks": 1,
+   "topic": "grammar-cloze",
+   "subtypes": [
+    "prepositions"
+   ],
+   "group": "g3",
+   "stem": "Choose the most suitable word for blank (33). (Type its letter, A to Q.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "D",
+      "accept": [
+       "d",
+       "by"
+      ]
+     },
+     "explanation": [
+      "The blank shows the way or method of 'staying mentally and emotionally grounded': how is it done? By reading widely.",
+      "Rule: by + verb-ing tells us how something is done (He learnt by practising).",
+      "'...staying mentally and emotionally grounded by reading widely can be beneficial.'",
+      "'with' is tempting, but 'with' is followed by a tool or a thing (with a pen), not by an action. The answer is (D) by."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "D",
+    "solvedAnswer": "D (by)",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 34,
+   "page": 20,
+   "format": "short",
+   "marks": 1,
+   "topic": "grammar-cloze",
+   "subtypes": [
+    "articles-and-determiners"
+   ],
+   "group": "g3",
+   "stem": "Choose the most suitable word for blank (34). (Type its letter, A to Q.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "B",
+      "accept": [
+       "b",
+       "an"
+      ]
+     },
+     "explanation": [
+      "'amount' is a singular countable noun, so it needs an article in front of 'extended amount of time'.",
+      "The next word, 'extended', begins with a vowel sound, so we use 'an', not 'a'.",
+      "'...one does not need to read for an extended amount of time...'",
+      "The answer is (B) an."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "B",
+    "solvedAnswer": "B (an)",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 35,
+   "page": 20,
+   "format": "short",
+   "marks": 1,
+   "topic": "grammar-cloze",
+   "subtypes": [
+    "connectors"
+   ],
+   "group": "g3",
+   "stem": "Choose the most suitable word for blank (35). (Type its letter, A to Q.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "P",
+      "accept": [
+       "p",
+       "whether"
+      ]
+     },
+     "explanation": [
+      "After the blank there are two choices joined by 'or': 'through printed books **or** audiobooks'.",
+      "Rule: whether ... or ... means 'it does not matter which of the two'.",
+      "'Whether through printed books or audiobooks, reading remains a simple habit...'",
+      "The answer is (P) whether."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "P",
+    "solvedAnswer": "P (whether)",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 36,
+   "page": 21,
+   "format": "short",
+   "marks": 1,
+   "topic": "editing",
+   "subtypes": [
+    "grammar"
+   ],
+   "group": "g4",
+   "stem": "Write the correct word for (36) ++helping++.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "help"
+     },
+     "explanation": [
+      "This is a grammar error. The pattern is 'insisted that Lily ___'.",
+      "Rule: after verbs that give an order or strong request (insist, demand, suggest, recommend) + that + person, use the base form of the verb, with no -s, -ed or -ing: 'She insisted that he go.' 'They demanded that she apologise.'",
+      "'helping' cannot stand alone as the verb of the clause; it would need 'was' in front.",
+      "The correct word is 'help': 'her grandmother always insisted that Lily help in the kitchen'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "help",
+    "solvedAnswer": "help",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 37,
+   "page": 21,
+   "format": "short",
+   "marks": 1,
+   "topic": "editing",
+   "subtypes": [
+    "spelling"
+   ],
+   "group": "g4",
+   "stem": "Write the correct word for (37) ++irellevant++.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "irrelevant"
+     },
+     "explanation": [
+      "This is a spelling error.",
+      "The word is made of the prefix ir- (meaning 'not') + relevant. Keep both r's: ir + relevant = irrelevant.",
+      "There is only one 'l': rel-e-vant.",
+      "The correct word is 'irrelevant', which means not connected or not useful to the matter."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "irrelevant",
+    "solvedAnswer": "irrelevant",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 38,
+   "page": 21,
+   "format": "short",
+   "marks": 1,
+   "topic": "editing",
+   "subtypes": [
+    "grammar"
+   ],
+   "group": "g4",
+   "stem": "Write the correct word for (38) ++This recipes++. (Only one of the two underlined words is wrong. Type the corrected word.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "These",
+      "accept": [
+       "these recipes"
+      ]
+     },
+     "explanation": [
+      "This is a grammar error. 'recipes' is plural, and the verb 'carry' is plural too.",
+      "Rule: 'this' goes with one thing (this recipe); 'these' goes with more than one (these recipes).",
+      "So 'This' must change to 'These'. The noun 'recipes' is already correct.",
+      "The correct word is 'These': 'These recipes carry our family's history'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "These",
+    "solvedAnswer": "These",
+    "status": "verified",
+    "note": "In the paper the underline runs under both words, 'This recipes'; only 'This' is wrong. The key gives 'These'; 'These recipes' is also accepted."
+   }
+  },
+  {
+   "section": "b",
+   "number": 39,
+   "page": 21,
+   "format": "short",
+   "marks": 1,
+   "topic": "editing",
+   "subtypes": [
+    "grammar"
+   ],
+   "group": "g4",
+   "stem": "Write the correct word for (39) ++telling++.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "tells"
+     },
+     "explanation": [
+      "This is a grammar error. The sentence 'Each ingredient ___ a story' needs a proper verb, and 'telling' alone is not one (it would need 'is').",
+      "Grandmother is stating a general truth, so use the simple present tense.",
+      "Rule: 'each' + singular noun takes a singular verb, so add -s: 'Each ingredient tells'.",
+      "The correct word is 'tells'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "tells",
+    "solvedAnswer": "tells",
+    "status": "verified",
+    "note": "In the scan the word 'Each' at the end of the line above is also underlined, but it has no answer box and is correct; only 'telling' belongs to box 39. 'Each' is shown without underlining here."
+   }
+  },
+  {
+   "section": "b",
+   "number": 40,
+   "page": 21,
+   "format": "short",
+   "marks": 1,
+   "topic": "editing",
+   "subtypes": [
+    "spelling"
+   ],
+   "group": "g4",
+   "stem": "Write the correct word for (40) ++rilaktantly++.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "reluctantly"
+     },
+     "explanation": [
+      "This is a spelling error. Sound it out: re-luc-tant-ly.",
+      "The word comes from 'reluctant' (unwilling). It starts with 're', has 'luc' in the middle with a 'c', not a 'k', and ends with -tant + ly.",
+      "The clue 'Lily rolled her eyes' shows she joined in unwillingly.",
+      "The correct word is 'reluctantly'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "reluctantly",
+    "solvedAnswer": "reluctantly",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 41,
+   "page": 21,
+   "format": "short",
+   "marks": 1,
+   "topic": "editing",
+   "subtypes": [
+    "spelling"
+   ],
+   "group": "g4",
+   "stem": "Write the correct word for (41) ++genuwin++.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "genuine"
+     },
+     "explanation": [
+      "This is a spelling error. The word sounds like 'jen-yoo-in' but is spelt g-e-n-u-i-n-e.",
+      "There is no 'w', and it ends with a silent 'e', like 'engine' and 'imagine'.",
+      "'genuine interest' means real, sincere interest.",
+      "The correct word is 'genuine'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "genuine",
+    "solvedAnswer": "genuine",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 42,
+   "page": 21,
+   "format": "short",
+   "marks": 1,
+   "topic": "editing",
+   "subtypes": [
+    "spelling"
+   ],
+   "group": "g4",
+   "stem": "Write the correct word for (42) ++blanned++.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "bland"
+     },
+     "explanation": [
+      "This is a spelling error. The word is an adjective describing how the food tasted, not a verb, so it does not end in -ed.",
+      "It is spelt as it sounds: b-l-a-n-d, with one 'n'.",
+      "'bland' means having little taste or flavour.",
+      "The correct word is 'bland'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "bland",
+    "solvedAnswer": "bland",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 43,
+   "page": 21,
+   "format": "short",
+   "marks": 1,
+   "topic": "editing",
+   "subtypes": [
+    "spelling"
+   ],
+   "group": "g4",
+   "stem": "Write the correct word for (43) ++nostaljik++.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "nostalgic"
+     },
+     "explanation": [
+      "This is a spelling error. The word comes from 'nostalgia', which is spelt with a 'g' (nos-tal-gia).",
+      "The ending is -ic, as in 'magic' and 'allergic', not -ik.",
+      "'nostalgic' means longing for happy times in the past.",
+      "The correct word is 'nostalgic'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "nostalgic",
+    "solvedAnswer": "nostalgic",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 44,
+   "page": 21,
+   "format": "short",
+   "marks": 1,
+   "topic": "editing",
+   "subtypes": [
+    "grammar"
+   ],
+   "group": "g4",
+   "stem": "Write the correct word for (44) ++Until++.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "When",
+      "accept": [
+       "as",
+       "once",
+       "after"
+      ]
+     },
+     "explanation": [
+      "This is a grammar error: the wrong connector is used.",
+      "'Until' means 'up to the time that', which would mean the tears stopped when she tasted the dumplings. The story means the opposite: the tears came at the moment she tasted them.",
+      "For two things that happen at the same moment, use 'When'.",
+      "The correct word is 'When': 'When Lily tasted the dumplings, tears filled her eyes.'"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "When",
+    "solvedAnswer": "when",
+    "status": "verified",
+    "note": "The key gives 'When'. 'As', 'Once' and 'After' also make a correct sentence with the same meaning and are accepted here; a school marker may accept only 'When'."
+   }
+  },
+  {
+   "section": "b",
+   "number": 45,
+   "page": 21,
+   "format": "short",
+   "marks": 1,
+   "topic": "editing",
+   "subtypes": [
+    "grammar"
+   ],
+   "group": "g4",
+   "stem": "Write the correct word for (45) ++warm++.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "warmth"
+     },
+     "explanation": [
+      "This is a grammar error: the wrong word form is used.",
+      "After 'the' and before 'of', we need a noun: 'the ___ of home and love'. 'warm' is an adjective.",
+      "The noun form of 'warm' is 'warmth' (like strong and strength, deep and depth).",
+      "The correct word is 'warmth'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "warmth",
+    "solvedAnswer": "warmth",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 46,
+   "page": 22,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "contextual-vocabulary",
+    "verb-forms"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (46) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "needed",
+      "accept": [
+       "required"
+      ]
+     },
+     "explanation": [
+      "Read the sentence before: Singapore 'faced a serious problem' as air travel became more popular.",
+      "The problem was that the old airport was not big enough, so the country had to have 'a bigger airport to handle more planes and passengers'.",
+      "The passage is in the past tense ('faced', 'became'), so the verb is 'needed', not 'needs'.",
+      "The answer is 'needed'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "needed",
+    "solvedAnswer": "needed",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 47,
+   "page": 22,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "verb-forms",
+    "modals"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (47) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "could",
+      "accept": [
+       "would",
+       "should"
+      ]
+     },
+     "explanation": [
+      "This is a question with the word order where + helping verb + they + base verb: 'where ___ they build it?'",
+      "'build' is in its base form, so the blank must be a modal verb. The story is in the past, so use a past form.",
+      "Singapore has 'limited land space', so the question is about where it was possible to build: 'where could they build it?'",
+      "The answer is 'could'. ('would' and 'should' also fit.)"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "could",
+    "solvedAnswer": "could",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 48,
+   "page": 22,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "prepositions"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (48) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "for"
+     },
+     "explanation": [
+      "The noun 'demand' takes the preposition 'for': the demand **for** something.",
+      "Examples: the demand for electric cars, the demand for water.",
+      "'the demand for air travel around the world rose dramatically'.",
+      "The answer is 'for'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "for",
+    "solvedAnswer": "for",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 49,
+   "page": 22,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "contextual-vocabulary",
+    "verb-forms"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (49) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "travelled",
+      "accept": [
+       "traveled",
+       "journeyed"
+      ]
+     },
+     "explanation": [
+      "The blank is a verb for what 'more people' did 'by air for business and holidays'.",
+      "We 'travel by air', 'travel by bus', and so on. The clause is in the past tense like 'rose', so add -ed.",
+      "In British spelling the 'l' is doubled: travelled.",
+      "The answer is 'travelled'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "travelled",
+    "solvedAnswer": "travelled",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 50,
+   "page": 22,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "phrasal-verbs"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (50) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "keep",
+      "accept": [
+       "catch"
+      ]
+     },
+     "explanation": [
+      "Look at the words around the blank: 'struggled to ___ up with the increase in traffic volume'.",
+      "'keep up with' means to manage to go as fast as something that is growing or moving quickly.",
+      "After 'to' the verb stays in its base form.",
+      "The answer is 'keep': the old airport could not keep up with the growing number of flights."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "keep",
+    "solvedAnswer": "keep",
+    "status": "verified",
+    "note": "'catch' (catch up with) is also accepted here because it fits the grammar and nearly the same meaning; the key gives only 'keep'."
+   }
+  },
+  {
+   "section": "b",
+   "number": 51,
+   "page": 22,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "articles-and-determiners"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (51) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "Such"
+     },
+     "explanation": [
+      "After the blank is 'an airport'. Only a few words can come before 'a' or 'an' + noun: such, what, quite, many.",
+      "'Such an airport' means 'an airport like the one just mentioned', the new airport in Changi from the sentence before.",
+      "It begins the sentence, so it takes a capital letter.",
+      "The answer is 'Such'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "such",
+    "solvedAnswer": "Such",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 52,
+   "page": 22,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "connectors"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (52) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "instead"
+     },
+     "explanation": [
+      "Two places are compared: planes would fly 'over water' and not 'over residential areas'.",
+      "The word after the blank is 'of'. 'instead of' means 'in place of'.",
+      "'planes would fly over water instead of over residential areas', so there would be less noise for people living nearby.",
+      "The answer is 'instead'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "instead",
+    "solvedAnswer": "instead",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 53,
+   "page": 22,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "connectors"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (53) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "addition"
+     },
+     "explanation": [
+      "The sentence gives one more benefit ('there was also the possibility of future expansion') on top of 'the earlier benefits mentioned'. The word 'also' is a clue.",
+      "The fixed phrase 'In addition to' means 'as well as' or 'besides'.",
+      "'In addition to the earlier benefits mentioned, there was also...'",
+      "The answer is 'addition'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "addition",
+    "solvedAnswer": "addition",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 54,
+   "page": 22,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "contextual-vocabulary"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (54) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "bigger",
+      "accept": [
+       "larger"
+      ]
+     },
+     "explanation": [
+      "The word 'than' after the blank tells us this is a comparison, so we need a comparative adjective ending in -er.",
+      "'five times ___ than the airport at Paya Lebar' compares size. The first paragraph already spoke of 'a bigger airport'.",
+      "'bigger' (or 'larger') fits.",
+      "The answer is 'bigger'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "bigger",
+    "solvedAnswer": "bigger / larger",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 55,
+   "page": 22,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "contextual-vocabulary"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (55) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "build",
+      "accept": [
+       "construct"
+      ]
+     },
+     "explanation": [
+      "'To ___ the new airport, existing land had to be cleared and new land had to be reclaimed.' Clearing and reclaiming land are steps taken in order to put up the airport.",
+      "The paragraph begins with 'Building Changi Airport', which gives the word away.",
+      "After 'To' the verb is in its base form: build.",
+      "The answer is 'build' ('construct' is also right)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "build",
+    "solvedAnswer": "build",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 56,
+   "page": 22,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "connectors"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (56) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "Despite"
+     },
+     "explanation": [
+      "The two halves contrast: the project was 'fraught with challenges' (full of problems), yet it 'still finished ahead of schedule'. The word 'still' is a clue.",
+      "The blank is followed by a verb-ing ('being'), so we need 'Despite', which takes a noun or verb-ing. 'Although' would need a subject and verb (Although it was fraught...).",
+      "'In spite of' means the same but is three words, and only one word is allowed.",
+      "The answer is 'Despite'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "Despite",
+    "solvedAnswer": "Despite",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 57,
+   "page": 22,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "phrasal-verbs"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (57) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "off"
+     },
+     "explanation": [
+      "'The hard work paid ___' is a phrasal verb. 'pay off' means to bring good results after a lot of effort.",
+      "The proof of success follows: 'the move to Changi Airport happened in just one night'.",
+      "'The hard work paid off.'",
+      "The answer is 'off'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "off",
+    "solvedAnswer": "off",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 58,
+   "page": 22,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "contextual-vocabulary",
+    "verb-forms"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (58) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "started",
+      "accept": [
+       "began",
+       "commenced"
+      ]
+     },
+     "explanation": [
+      "The sentence gives the first day of the new airport: 'on 1 July 1981 with the arrival of' its first flight, 'marking the beginning of a new era'.",
+      "The blank is followed by a verb-ing ('operating'), and 'start' or 'begin' can be followed by -ing.",
+      "It happened in the past, so use the past tense: started or began.",
+      "The answer is 'started'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "started",
+    "solvedAnswer": "started / began",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 59,
+   "page": 22,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "connectors"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (59) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "Since"
+     },
+     "explanation": [
+      "Look at the tense of the verb that follows: 'has expanded' (present perfect), which describes something from a past time up to now.",
+      "'Since then' means 'from that time until now', and it goes with the present perfect.",
+      "'Since then, Changi Airport has expanded significantly, from one terminal to four.'",
+      "The answer is 'Since'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "Since",
+    "solvedAnswer": "Since",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 60,
+   "page": 22,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "contextual-vocabulary",
+    "verb-forms"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (60) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "overcome",
+      "accept": [
+       "surmounted",
+       "conquered"
+      ]
+     },
+     "explanation": [
+      "What can be done to 'even the most difficult challenges' with 'foresight and perseverance'? They can be beaten or dealt with successfully.",
+      "The word that pairs with 'challenges' and 'difficulties' is 'overcome'.",
+      "After 'can be' we need the past participle (passive voice). The past participle of 'overcome' is 'overcome' (overcome, overcame, overcome), not 'overcame'.",
+      "The answer is 'overcome'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "overcome",
+    "solvedAnswer": "overcome",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 61,
+   "page": 23,
+   "format": "structured",
+   "marks": 2,
+   "topic": "synthesis",
+   "subtypes": [
+    "no-sooner-than",
+    "inversion"
+   ],
+   "stem": "As soon as the dog bit the stranger, its owner apologised profusely.\nNo sooner ____________________.\n(Rewrite as one sentence using the word(s) given. The meaning must stay the same.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "No sooner had the dog bitten the stranger than its owner apologised profusely.",
+      "accept": [
+       "No sooner had the dog bitten the stranger than its owner apologized profusely."
+      ]
+     },
+     "explanation": [
+      "'No sooner ... than ...' means the second action happened immediately after the first, just like 'as soon as'.",
+      "When a sentence starts with 'No sooner', the helping verb comes before the subject (inversion): No sooner **had** the dog ..., not 'No sooner the dog had'.",
+      "The first action goes into the past perfect: had + past participle. The past participle of 'bite' is 'bitten' (bite, bit, bitten), not 'bit'.",
+      "Join the second action with 'than' (not 'then' or 'when') and keep it in the simple past: 'than its owner apologised profusely'. Drop 'As soon as'.",
+      "Answer: No sooner had the dog bitten the stranger than its owner apologised profusely."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "No sooner had the dog bitten the stranger than its owner apologized profusely.",
+    "solvedAnswer": "No sooner had the dog bitten the stranger than its owner apologised profusely.",
+    "status": "verified",
+    "note": "The key spells 'apologized' with a z; the question paper uses 'apologised', which is kept in the model answer. Both spellings are accepted."
+   }
+  },
+  {
+   "section": "b",
+   "number": 62,
+   "page": 23,
+   "format": "structured",
+   "marks": 2,
+   "topic": "synthesis",
+   "subtypes": [
+    "passive-voice"
+   ],
+   "stem": "The wind blew the papers all over the classroom.\nThe papers ____________________.\n(Rewrite as one sentence using the word(s) given. The meaning must stay the same.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "The papers were blown all over the classroom by the wind.",
+      "accept": [
+       "The papers were blown by the wind all over the classroom."
+      ]
+     },
+     "explanation": [
+      "The sentence now starts with the thing that received the action ('The papers'), so it must be in the passive voice: be + past participle + by + doer.",
+      "Tense stays the same: 'blew' is simple past, and 'papers' is plural, so the verb 'be' is 'were'.",
+      "The past participle of 'blow' is 'blown' (blow, blew, blown), not 'blew' or 'blowed'.",
+      "Put the doer at the end with 'by': 'by the wind'.",
+      "Answer: The papers were blown all over the classroom by the wind."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "The papers were blown all over the classroom by the wind.",
+    "solvedAnswer": "The papers were blown all over the classroom by the wind.",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 63,
+   "page": 23,
+   "format": "structured",
+   "marks": 2,
+   "topic": "synthesis",
+   "subtypes": [
+    "noun-form",
+    "preposition-gerund"
+   ],
+   "stem": "She considered the offer carefully for a few days before accepting it.\nAfter a few days of ____________________.\n(Rewrite as one sentence using the word(s) given. The meaning must stay the same.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "After a few days of careful consideration, she accepted the offer.",
+      "accept": [
+       "After a few days of careful consideration of the offer, she accepted it.",
+       "After a few days of considering the offer carefully, she accepted it.",
+       "After a few days of carefully considering the offer, she accepted it."
+      ]
+     },
+     "explanation": [
+      "'of' is a preposition, so it must be followed by a noun (or a verb-ing), not by 'she considered'.",
+      "Change the verb 'considered' to its noun form 'consideration'. The adverb 'carefully' described the verb, so it becomes the adjective 'careful' to describe the noun: 'careful consideration'.",
+      "The order of events flips: 'before accepting it' becomes the main clause 'she accepted the offer', in the simple past. Say 'the offer' so that it is clear what she accepted.",
+      "Put a comma after the opening phrase.",
+      "Answer: After a few days of careful consideration, she accepted the offer. (Also correct: After a few days of considering the offer carefully, she accepted it.)"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "After a few days of careful consideration, she accepted the offer.",
+    "solvedAnswer": "After a few days of careful consideration, she accepted the offer.",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 64,
+   "page": 23,
+   "format": "structured",
+   "marks": 2,
+   "topic": "synthesis",
+   "subtypes": [
+    "reported-speech"
+   ],
+   "stem": "\"Did you seek Mrs Tan's help in this matter?\" my mother asked me.\nMy mother asked me ____________________.\n(Rewrite as one sentence using the word(s) given. The meaning must stay the same.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "My mother asked me if I had sought Mrs Tan's help in that matter.",
+      "accept": [
+       "My mother asked me whether I had sought Mrs Tan's help in that matter."
+      ]
+     },
+     "explanation": [
+      "This is direct speech changed to reported speech. A yes/no question is reported with 'if' or 'whether', uses statement word order, has no 'did', and ends with a full stop.",
+      "Tense moves one step back: simple past 'Did you seek' becomes past perfect 'had sought'. The past participle of 'seek' is 'sought' (seek, sought, sought).",
+      "Pronouns change to fit the speaker: 'you' is the person telling the story, so it becomes 'I'.",
+      "Pointing words move further away: 'this matter' becomes 'that matter'.",
+      "Answer: My mother asked me if I had sought Mrs Tan's help in that matter."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "My mother asked me if I had sought Mrs Tan's help in that matter.",
+    "solvedAnswer": "My mother asked me if (or whether) I had sought Mrs Tan's help in that matter.",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 65,
+   "page": 23,
+   "format": "structured",
+   "marks": 2,
+   "topic": "synthesis",
+   "subtypes": [
+    "inversion",
+    "preposition-gerund"
+   ],
+   "stem": "You can succeed if you work hard and stay disciplined.\nOnly by ____________________.\n(Rewrite as one sentence using the word(s) given. The meaning must stay the same.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "Only by working hard and staying disciplined can you succeed."
+     },
+     "explanation": [
+      "'by' is a preposition, so the verbs after it take -ing: 'working hard and staying disciplined'. Change both verbs, and drop 'if you'.",
+      "When a sentence starts with 'Only by ...', the helping verb comes before the subject in the main clause (inversion): '**can you** succeed', not 'you can succeed'.",
+      "No comma is needed before 'can', and the sentence ends with a full stop, not a question mark, even though the word order looks like a question.",
+      "Answer: Only by working hard and staying disciplined can you succeed."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "Only by working hard and staying disciplined can you succeed.",
+    "solvedAnswer": "Only by working hard and staying disciplined can you succeed.",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 66,
+   "page": 24,
+   "format": "structured",
+   "marks": 2,
+   "topic": "comprehension",
+   "subtypes": [
+    "factual",
+    "inference"
+   ],
+   "group": "g6",
+   "stem": "Based on the first paragraph, what tells you that the library is \"seriously old\" (line 4, paragraph 1)?",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "The paint on the towering bookshelves had flaked away in places, exposing the dark wood beneath, and cobwebs occupied the forgotten corners of the high ceiling."
+     },
+     "explanation": [
+      "The question is worth 2 marks, so give two pieces of evidence from paragraph 1, the sentences just before Sam says 'This place is seriously old'.",
+      "Evidence 1: 'The paint on the towering bookshelves had flaked away in places, exposing the dark wood beneath.' Paint only peels off after many years.",
+      "Evidence 2: 'Cobwebs occupied the forgotten corners of the high ceiling.' Cobwebs show the corners had been left untouched for a long time.",
+      "Do not use the scratched tables; they are in paragraph 2, and the question says 'based on the first paragraph'. The heavy wooden door, sunlight and tall windows do not show age."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "The paint on the towering bookshelves had flaked away in places, exposing the dark wood beneath. Cobwebs occupied the forgotten corners of the high ceiling.",
+    "solvedAnswer": "The paint on the bookshelves had flaked away, and there were cobwebs in the corners of the ceiling. Agrees with key.",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 67,
+   "page": 24,
+   "format": "structured",
+   "marks": 2,
+   "topic": "comprehension",
+   "subtypes": [
+    "factual"
+   ],
+   "group": "g6",
+   "stem": "With evidence from lines 7-18 (paragraphs 2 and 3), state a difference between Maya's school library and the Seaside Library.\n(Write one answer for each library. The two answers must be about the same thing.)",
+   "parts": [
+    {
+     "label": "a",
+     "prompt": "Maya's school library",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "The tables in Maya's school library were clean and smooth."
+     },
+     "explanation": [
+      "Find a sentence in paragraph 2 that compares the two libraries. The word 'Unlike' signals a difference: 'Unlike the clean and smooth tables in the school library, the wooden tables here bore countless scratches and stains from decades past.'",
+      "For the school library, write the first half: its tables were clean and smooth.",
+      "Another correct pair from paragraph 3: at the school library Maya searched for books by typing into a search engine on a computer screen. Whichever point you choose, your Seaside Library answer must match it."
+     ]
+    },
+    {
+     "label": "b",
+     "prompt": "Seaside Library",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "The wooden tables in the Seaside Library bore countless scratches and stains from decades past."
+     },
+     "explanation": [
+      "This is the other half of the same comparison: 'the wooden tables here bore countless scratches and stains from decades past'. 'here' means the Seaside Library.",
+      "The two answers must be about the same thing (tables with tables), so that they show a difference.",
+      "If you wrote about searching for books in (a), the matching answer is: the Seaside Library had no computers, and books were searched for with a card catalogue, drawer by drawer and card by card."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "Maya's school library: The tables were clean and smooth. Seaside Library: The wooden tables bore countless scratches and stains from decades past.",
+    "solvedAnswer": "School library: clean and smooth tables. Seaside Library: tables with countless scratches and stains. Agrees with key.",
+    "status": "verified",
+    "note": "The key gives only the difference about the tables. The difference about how books are searched for (search engine on a computer at school; card catalogue at the Seaside Library) is also supported by lines 7-18 and is given in the explanation as another answer a marker should accept."
+   }
+  },
+  {
+   "section": "b",
+   "number": 68,
+   "page": 24,
+   "format": "structured",
+   "marks": 1,
+   "topic": "comprehension",
+   "subtypes": [
+    "factual",
+    "cause-and-effect"
+   ],
+   "group": "g6",
+   "stem": "According to Mrs Chen, what made the Seaside Library less popular?",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "Information could be found easily on the internet, so fewer people needed to visit the library."
+     },
+     "explanation": [
+      "Find what Mrs Chen says about visitors in paragraph 4: 'We don't get many visitors these days since information can be found easily on the internet.'",
+      "'don't get many visitors' means the same as 'less popular', and 'since' introduces the reason.",
+      "The marker looks for: information can be found easily on the internet. Do not write that the library was old or empty; that is not the reason Mrs Chen gives."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "Information could be found easily on the internet.",
+    "solvedAnswer": "Information can now be found easily on the internet. Agrees with key.",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 69,
+   "page": 24,
+   "format": "structured",
+   "marks": 1,
+   "topic": "comprehension",
+   "subtypes": [
+    "evidence-phrase",
+    "character-and-feelings"
+   ],
+   "group": "g6",
+   "stem": "From the fourth paragraph, pick out a three-word phrase that tells us that Mrs Chen was saddened that fewer people visited the Seaside Library nowadays.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "eyes grew wistful",
+      "accept": [
+       "mrs chen's eyes grew wistful",
+       "mrs chens eyes grew wistful"
+      ]
+     },
+     "explanation": [
+      "Look in paragraph 4 right after Mrs Chen says 'We don't get many visitors these days'.",
+      "The next sentence is 'Mrs Chen's eyes grew wistful.' 'wistful' means sad and longing for something from the past.",
+      "The question asks for exactly three words, so copy only 'eyes grew wistful'. Copy the words exactly; do not change or add any.",
+      "'sighed in disappointment' is also three words about a sad feeling, but it describes Maya, not Mrs Chen."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "Mrs Chen's eyes grew wistful.",
+    "solvedAnswer": "eyes grew wistful",
+    "status": "verified",
+    "note": "The key writes the whole sentence 'Mrs Chen's eyes grew wistful', which is five words. The three-word phrase the question asks for is 'eyes grew wistful'; the key's full sentence is also accepted when typed."
+   }
+  },
+  {
+   "section": "b",
+   "number": 70,
+   "page": 25,
+   "format": "structured",
+   "marks": 3,
+   "topic": "comprehension",
+   "subtypes": [
+    "referencing"
+   ],
+   "group": "g6",
+   "stem": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right.",
+   "parts": [
+    {
+     "label": "a",
+     "prompt": "one (line 13, paragraph 3)",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "one of the tiny drawers (of the huge wooden cabinet)"
+     },
+     "explanation": [
+      "Read the sentences around line 13: 'a huge wooden cabinet with hundreds of tiny drawers ... Mrs Chen slid one open and pulled out a small handwritten card.'",
+      "'one' stands for a noun mentioned just before. What can be slid open? A drawer.",
+      "The marker looks for: a tiny drawer, or one of the tiny drawers. Do not write 'the cabinet' or 'a card'."
+     ]
+    },
+    {
+     "label": "b",
+     "prompt": "this (line 17, paragraph 3)",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "searching for books using the card catalogue, drawer by drawer and card by card"
+     },
+     "explanation": [
+      "Read line 17 with the sentence before it: 'this was how everyone searched for books – drawer by drawer, card by card.\" Maya tried to imagine doing this every single day'.",
+      "'doing this' points back to the action just described: searching for books drawer by drawer, card by card.",
+      "The marker looks for the action of searching for books by going through the drawers and cards. Do not write 'typing into a search engine'; that is what she does 'instead'."
+     ]
+    },
+    {
+     "label": "c",
+     "prompt": "them (line 30, paragraph 6)",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "the local residents who wrote the letters during World War II"
+     },
+     "explanation": [
+      "Read line 30 with the sentence before it: 'Sam found a collection of handwritten letters from local residents during World War II ... He did not know any of them, had never heard their names before'.",
+      "'them' are people, because they have names and they wrote the words. So 'them' are the local residents who wrote the letters, not the letters themselves.",
+      "The marker looks for: the local residents (who wrote the letters during World War II)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "(a) one: a tiny drawer. (b) this: searching for books drawer by drawer, card by card. (c) them: the local residents who wrote the letters during World War II.",
+    "solvedAnswer": "(a) one of the tiny drawers; (b) searching for books drawer by drawer, card by card; (c) the local residents who wrote the wartime letters. Agrees with key.",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 71,
+   "page": 25,
+   "format": "structured",
+   "marks": 3,
+   "topic": "comprehension",
+   "subtypes": [
+    "true-false-with-reason"
+   ],
+   "group": "g6",
+   "stem": "Based on lines 7-31 (paragraphs 2 to 6), state whether each statement in the table below is true or false, then give one reason why you think so.",
+   "parts": [
+    {
+     "label": "a",
+     "prompt": "Maya had planned to visit the Seaside Library during the school holidays. (Write True or False, then your reason.)",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "False. Maya stumbled across the library while exploring the older part of town, so she had not planned to visit it."
+     },
+     "explanation": [
+      "Find how Maya first came to the library, at the start of paragraph 2: 'Stumbling across this forgotten library while exploring the older part of town during the school holidays'.",
+      "To 'stumble across' something is to find it by chance. That is the opposite of planning.",
+      "The marker looks for: False, with the reason that she stumbled across (or upon) the library while exploring the older part of town. Both the True/False and the reason must be right to get the mark."
+     ]
+    },
+    {
+     "label": "b",
+     "prompt": "Maya knew what the huge wooden cabinet was for. (Write True or False, then your reason.)",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "False. Maya had a look of confusion when she paused in front of the cabinet, and Mrs Chen had to explain that it was a card catalogue."
+     },
+     "explanation": [
+      "Find the cabinet in paragraph 3: 'Maya paused in front of a huge wooden cabinet with hundreds of tiny drawers. Looking at Maya's look of confusion, Mrs Chen chuckled.'",
+      "A 'look of confusion' shows that she did not know what it was for. Mrs Chen then had to explain: 'This is a card catalogue.'",
+      "The marker looks for: False, with the evidence of Maya's look of confusion (or that Mrs Chen had to explain it to her)."
+     ]
+    },
+    {
+     "label": "c",
+     "prompt": "The collection of handwritten letters that Sam found was well protected. (Write True or False, then your reason.)",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "True. The letters were carefully preserved in a glass case."
+     },
+     "explanation": [
+      "Find the letters in paragraph 6: 'a collection of handwritten letters from local residents during World War II, carefully preserved in a glass case'.",
+      "'carefully preserved' means kept safe from damage, and a glass case keeps hands and dust away. That matches 'well protected'.",
+      "The marker looks for: True, with the reason that they were carefully preserved in a glass case."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "(a) False – Maya stumbled upon the library while exploring the older part of town. (b) False – Maya's look of confusion. (c) True – The letters were carefully preserved in a glass case.",
+    "solvedAnswer": "(a) False: she stumbled across it while exploring. (b) False: she had a look of confusion. (c) True: carefully preserved in a glass case. Agrees with key.",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 72,
+   "page": 26,
+   "format": "structured",
+   "marks": 2,
+   "topic": "comprehension",
+   "subtypes": [
+    "inference"
+   ],
+   "group": "g6",
+   "stem": "What was the \"magic of holding a real book\" (line 36, paragraph 7)? Explain clearly how Maya's experience in the Seaside Library helped her understand that.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "The magic of holding a real book was that one does not just hold the book but shares the memories, emotions and traces of the people who held it before. Maya understood this when she held the old books in the library and found herself wondering about the people who had held the same book before her, and she felt a warm sense of connection to them, such as when she saw Eleanor's name written in 1943."
+     },
+     "explanation": [
+      "There are two questions here, 1 mark each: what the 'magic' was, and how Maya's experience made her understand it.",
+      "What the magic was: go back to Mrs Chen's words in paragraph 4: 'You don't just hold the book, you share the memories, emotions and traces of the people who held it before.'",
+      "How Maya came to understand: in paragraph 7 she 'found herself wondering about the people who had held this same book before her'. In paragraph 5 she found 'Eleanor, 1943' in a book and 'felt a warm sense of connection'. She was now sharing in the traces of earlier readers herself.",
+      "The marker looks for: sharing the memories, emotions and traces of people who held the book before (1 mark); Maya wondered about, or felt connected to, the people who had held the book before her (1 mark)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "Holding a real book allowed one to share the memories, emotions and traces of people who held it before. Maya wondered about the people who had held the book before her.",
+    "solvedAnswer": "The magic is sharing the memories, emotions and traces of earlier readers; Maya felt this herself when she wondered about (and felt connected to) the people who had held the book before her. Agrees with key.",
+    "status": "verified",
+    "note": "The end of the key's second sentence is partly under the watermark; the visible words read 'the people who had held the book before her'."
+   }
+  },
+  {
+   "section": "b",
+   "number": 73,
+   "page": 26,
+   "format": "structured",
+   "marks": 2,
+   "topic": "comprehension",
+   "subtypes": [
+    "factual",
+    "cause-and-effect"
+   ],
+   "group": "g6",
+   "stem": "Complete the diagram. The top box says \"Why the Seaside Library was closing\", and two arrows lead from it to two empty boxes, (a) and (b).\n(Write one reason in each box.)",
+   "parts": [
+    {
+     "label": "a",
+     "prompt": "Reason (a)",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "It was too expensive to maintain."
+     },
+     "explanation": [
+      "Find where the closing is mentioned, in paragraph 8: 'The council wants to close this library next month ... They say it's too expensive to maintain, and not enough people use it.'",
+      "The council gives two reasons joined by 'and'. The first is the cost: it was too expensive to maintain (to keep in good condition).",
+      "The two reasons can be written in either box."
+     ]
+    },
+    {
+     "label": "b",
+     "prompt": "Reason (b)",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "Not enough people used it."
+     },
+     "explanation": [
+      "The second reason in the same sentence: 'not enough people use it'.",
+      "This matches what Mrs Chen said earlier: 'We don't get many visitors these days.'",
+      "Write the two reasons in separate boxes; do not put both in one box."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "(a) It was too expensive to maintain. (b) Not enough people used it.",
+    "solvedAnswer": "(a) Too expensive to maintain. (b) Not enough people used it. Agrees with key.",
+    "status": "verified",
+    "note": "The paper shows this question as a diagram with two empty boxes; it is described in words in the stem instead of being cropped."
+   }
+  },
+  {
+   "section": "b",
+   "number": 74,
+   "page": 26,
+   "format": "structured",
+   "marks": 2,
+   "topic": "comprehension",
+   "subtypes": [
+    "cause-and-effect",
+    "character-and-feelings"
+   ],
+   "group": "g6",
+   "stem": "Based on lines 37-43 (paragraphs 8 and 9), explain clearly what caused Maya's heart to sink.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "Mrs Chen told Maya that the council wanted to close the library the following month. Maya's heart sank because the thought of all the treasures she had found there, such as Eleanor's name, the old maps and the wartime letters, disappearing made her feel that she was losing something that could never be replaced."
+     },
+     "explanation": [
+      "'Maya's heart sank' means she suddenly felt very sad and dismayed. Look at what comes just before and just after those words in paragraph 8.",
+      "Before (what she heard): 'The council wants to close this library next month.'",
+      "After (why it upset her): 'The thought of all the treasures she found disappearing ... made her feel like she was losing something that could never be replaced.'",
+      "'Explain clearly' for 2 marks needs both: the library was going to be closed (1 mark), and she feared its treasures, which could never be replaced, would disappear (1 mark)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "The council planned to close the library, so Maya feared that its irreplaceable treasures and history would disappear forever.",
+    "solvedAnswer": "She learnt that the council wanted to close the library, and she felt she would lose treasures that could never be replaced. Agrees with key.",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 75,
+   "page": 26,
+   "format": "structured",
+   "marks": 2,
+   "topic": "comprehension",
+   "subtypes": [
+    "inference",
+    "cause-and-effect"
+   ],
+   "group": "g6",
+   "stem": "Explain clearly why Mrs Chen said, \"Perhaps there's still a future for old places like this\" (lines 42-43, paragraph 9).",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "Maya had promised to come back the next day and to bring her friends too. This gave Mrs Chen hope that more people would visit and use the library, so that it might not have to close."
+     },
+     "explanation": [
+      "Look at what happened just before Mrs Chen spoke: '\"We'll be back tomorrow,\" Maya promised. \"And we'll bring our friends too.\" Mrs Chen's face brightened with hope.'",
+      "Link this to why the library was closing: 'not enough people use it'. If Maya, Sam and their friends came, there would be more visitors.",
+      "So 'a future for old places like this' means the library might be able to stay open.",
+      "The marker looks for: Maya promised to return with her friends (1 mark), so Mrs Chen hoped more visitors would use the library and it could remain open (1 mark)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "Maya promised to return with her friends, so Mrs Chen hoped that more visitors would use the library and give it a chance to remain open.",
+    "solvedAnswer": "Maya's promise to return with friends made Mrs Chen hope that more people would use the library and it might stay open. Agrees with key.",
+    "status": "verified"
+   }
+  }
+ ]
+}

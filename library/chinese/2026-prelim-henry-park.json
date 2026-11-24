@@ -1,0 +1,1606 @@
+{
+  "paper": {
+    "id": "2026-prelim-henry-park",
+    "subject": "chinese",
+    "year": 2026,
+    "exam": "Prelim",
+    "school": "Henry Park",
+    "schoolFull": "Henry Park Primary School",
+    "file": "PSLE-2026-P6-papers/Chinese/P6-Chinese-Prelim-2026-Henry-Park-Paper.pdf",
+    "coordDpi": 100
+  },
+  "groups": [
+    {
+      "id": "g1",
+      "text": "根据短文的内容和上下文的意思，从括号中选出适当的词语。\n\n[[img1]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "短文：“我”从小挑食，体能比同学差。妈妈改变了家里的饮食安排，“我”也开始晨跑、参加羽毛球队、早睡，半年后变得更健康。短文里有 Q16 到 Q20 五个括号，每个括号有四个词语。",
+          "page": 6,
+          "box": [
+            114,
+            254,
+            706,
+            798
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "text": "根据短文的内容和上下文的意思，选出适当的答案。\n\n[[img1]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "短文：班上养了小仓鼠球球，同学们太“热情”吓到了它。“我”打开箱子想让球球出来跑，结果球球躲进书架底下。老师没有骂“我”，还教“我”什么是真正的爱。",
+          "page": 7,
+          "box": [
+            100,
+            255,
+            730,
+            920
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "text": "根据上下文的意思，从表中选出最适当的短语或短句，然后把代表它们的数字填写在作答簿上相应的格子里。\n\n[[img1]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "上面的格子是编号 1 到 8 的八个短语或短句：1 也可以减少争吵，2 这里的环境恶劣，3 我们需要团结起来，4 我们可以主动打招呼，5 并且积极地和邻居交流，6 最近邻居们都互不来往，7 珍惜这美好的居住环境，8 还能认识住在周围的邻居。下面是王阿姨和小李谈邻居关系的对话，对话里有 Q26 到 Q29 四个空格。",
+          "page": 9,
+          "box": [
+            121,
+            303,
+            724,
+            1010
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "text": "根据短文的内容和上下文的意思，回答问题，然后把答案填写在作答簿上。\n\n[[img1]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "通告：爱心领养中心举办“给它一个家，给你一份爱”领养活动，写明活动时间、贴心配套（给领养者的优待）、注意事项和领养方法。",
+          "page": 10,
+          "box": [
+            84,
+            258,
+            734,
+            1030
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g5",
+      "text": "根据短文的内容和上下文的意思，回答问题，然后把答案填写在作答簿上。\n\n[[img1]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "短文：小兔子欢欢不喜欢总要她重写作业的新老师山羊先生。山羊先生告诉她自己小时候的事，还送她一本旧字典，欢欢终于明白老师严格是为了让她成长。",
+          "page": 12,
+          "box": [
+            108,
+            236,
+            738,
+            912
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "section": "p2",
+      "number": 1,
+      "page": 2,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "pinyin",
+      "subtypes": [
+        "pinyin"
+      ],
+      "stem": "请选出画线词语的汉语拼音。\n大家对他助人为乐的行为连声++称赞++。",
+      "options": [
+        "chēn zān",
+        "chēn zàn",
+        "chēng zàn",
+        "chēng zān"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "“称”是后鼻音 chēng，不是前鼻音 chēn。",
+            "“赞”读第四声 zàn，不是第一声 zān。",
+            "“称赞”读 chēng zàn，答案是（3）。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 2,
+      "page": 2,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "pinyin",
+      "subtypes": [
+        "pinyin"
+      ],
+      "stem": "请选出画线词语的汉语拼音。\n我们不应该++妒忌++别人的才能。",
+      "options": [
+        "dù jì",
+        "dù jí",
+        "tù jí",
+        "tù jì"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 1
+          },
+          "explanation": [
+            "“妒”的声母是 d，读 dù，不是 tù。",
+            "“忌”读第四声 jì，不是第二声 jí。",
+            "“妒忌”读 dù jì，答案是（1）。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "1",
+        "solvedAnswer": "1",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 3,
+      "page": 2,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "vocabulary",
+      "subtypes": [
+        "word-choice"
+      ],
+      "stem": "从所提供的选项中选出正确的答案。\n马上要______业了，同学们都舍不得和朋友分开。",
+      "options": [
+        "闭",
+        "币",
+        "必",
+        "毕"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 4
+          },
+          "explanation": [
+            "“毕业”的意思是在学校学习期满，完成学业。同学们要分开，是因为要毕业了。",
+            "“闭”是“关闭”的闭，“币”是“钱币”的币，“必”是“必须”的必，读音一样，但意思不对。",
+            "答案是（4）毕。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 4,
+      "page": 3,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "vocabulary",
+      "subtypes": [
+        "word-choice"
+      ],
+      "stem": "从所提供的选项中选出正确的答案。\n这本新书在上个月出______了。",
+      "options": [
+        "版",
+        "贩",
+        "板",
+        "饭"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 1
+          },
+          "explanation": [
+            "“出版”的意思是把书印出来，让大家可以买到。",
+            "“板”是“木板、黑板”的板，样子和读音都很像，但是和书没有关系；“贩”是“小贩”的贩。",
+            "答案是（1）版。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "1",
+        "solvedAnswer": "1",
+        "status": "verified",
+        "note": "The full stop at the end of the stem is missing in the scan and was added."
+      }
+    },
+    {
+      "section": "p2",
+      "number": 5,
+      "page": 3,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "vocabulary",
+      "subtypes": [
+        "word-choice"
+      ],
+      "stem": "从所提供的选项中选出正确的答案。\n他画的小猫很______，就像要从画纸跳出来一样。",
+      "options": [
+        "整齐",
+        "生动",
+        "巧妙",
+        "清楚"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "“生动”的意思是像活的一样，很有活力。“就像要从画纸跳出来一样”说明小猫画得像真的。",
+            "“清楚”只是说看得明白，不能表示“像活的一样”。",
+            "答案是（2）生动。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 6,
+      "page": 3,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "vocabulary",
+      "subtypes": [
+        "word-choice"
+      ],
+      "stem": "从所提供的选项中选出正确的答案。\n食物都需要经过______，才能安全食用。",
+      "options": [
+        "检验",
+        "搅拌",
+        "保温",
+        "调味"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 1
+          },
+          "explanation": [
+            "“检验”的意思是检查、化验，看看合不合格。食物检验合格了，才可以“安全食用”。",
+            "“搅拌”“保温”“调味”都是煮食物时做的事，和吃得安不安全没有关系。",
+            "答案是（1）检验。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "1",
+        "solvedAnswer": "1",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 7,
+      "page": 3,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "vocabulary",
+      "subtypes": [
+        "word-meaning"
+      ],
+      "stem": "从所提供的选项中选出正确的答案。\n一到过年，购物中心就会举办各种++促销++活动。",
+      "options": [
+        "售卖多种商品",
+        "推动商品销售",
+        "延长售卖时间",
+        "增加销售人员"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "“促”是促进、推动，“销”是销售。“促销”就是用打折、送礼物等方法，让商品卖得更多。",
+            "“售卖多种商品”只是说卖的东西种类多，没有“推动”的意思。",
+            "答案是（2）推动商品销售。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 8,
+      "page": 3,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "vocabulary",
+      "subtypes": [
+        "word-meaning"
+      ],
+      "stem": "从所提供的选项中选出正确的答案。\n如果你想成为读书会的会员，要先填写++申请++表格。",
+      "options": [
+        "上网报名",
+        "提出请求",
+        "找人查问",
+        "报告老师"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "“申请”的意思是向有关的人或机构说明理由，提出请求。",
+            "“上网报名”只是申请的其中一种方法，句子里是“填写表格”，不一定是上网。",
+            "答案是（2）提出请求。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 9,
+      "page": 4,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "sentences",
+      "subtypes": [
+        "word-choice"
+      ],
+      "stem": "从所提供的选项中选出正确的答案。\n他不努力还想发财，______在做白日梦。",
+      "options": [
+        "大约",
+        "明明",
+        "简直",
+        "竟然"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "“简直”表示完全是这样，有强调、夸张的语气。“简直在做白日梦”是说他的想法完全不可能实现。",
+            "“竟然”表示没想到；“明明”后面通常要有转折（明明……却……）；“大约”表示估计。",
+            "答案是（3）简直。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 10,
+      "page": 4,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "sentences",
+      "subtypes": [
+        "connectors"
+      ],
+      "stem": "从所提供的选项中选出正确的答案。\n他上课不专心，______在睡觉，______在讲话。",
+      "options": [
+        "首先……然后",
+        "即使……也要",
+        "一边……一边",
+        "不是……就是"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 4
+          },
+          "explanation": [
+            "“不是……就是……”表示两种情况里一定有一种。他上课的时候，有时睡觉，有时讲话，总之不专心。",
+            "“一边……一边……”表示两件事同时做，可是一个人不能一边睡觉一边讲话。",
+            "答案是（4）不是……就是。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 11,
+      "page": 4,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "sentences",
+      "subtypes": [
+        "sentence-completion"
+      ],
+      "stem": "从所提供的选项中选出正确的答案。\n我们原本要去野餐，____________。",
+      "options": [
+        "幸好公园景色宜人",
+        "可是下雨不能去了",
+        "全家人都开心极了",
+        "因为星期天不上学"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "“原本”的意思是本来打算这样做，后来情况改变了，所以后面要接一个转折。",
+            "“可是下雨不能去了”说出了改变的情况，和“原本”配合。",
+            "其他三个选项都没有说出计划改变了。答案是（2）。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 12,
+      "page": 4,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "sentences",
+      "subtypes": [
+        "sentence-completion"
+      ],
+      "stem": "从所提供的选项中选出正确的答案。\n____________，看是否能想出办法。",
+      "options": [
+        "只要大家一起努力",
+        "我们可以一起开会",
+        "如果每个人都思考",
+        "他们终于做出决定"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "“看是否能想出办法”是说试一试，看看能不能找到办法，所以前面要先说做一件什么事。",
+            "“我们可以一起开会”是一个完整的建议：先开会，再看能不能想出办法。",
+            "“只要……”要配“就”，“如果……”要配“就”，后面接“看是否能……”不通顺；已经“做出决定”就不必再想办法了。答案是（2）。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 13,
+      "page": 5,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "sentences",
+      "subtypes": [
+        "sentence-usage"
+      ],
+      "stem": "以下哪一个句子是正确的？",
+      "options": [
+        "良好的生活习惯可以++促进++身体健康。",
+        "妈妈每天早上都要++促进++我快点上学。",
+        "这间商店正举办一年一度的大++促进++。",
+        "小林这学期的成绩有了明显的++促进++。"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 1
+          },
+          "explanation": [
+            "“促进”是动词，意思是推动事情向好的方向发展，如：促进健康、促进了解。",
+            "（1）好习惯推动身体变得更健康，用得对。",
+            "（2）应该用“催促”，（3）应该用“促销”，（4）应该用“进步”。",
+            "答案是（1）。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "1",
+        "solvedAnswer": "1",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 14,
+      "page": 5,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "sentences",
+      "subtypes": [
+        "sentence-usage"
+      ],
+      "stem": "以下哪一个句子是正确的？",
+      "options": [
+        "明文总是喜欢++独特++地完成作业。",
+        "汉字书法是一门很++独特++的艺术。",
+        "今天早上，她++独特++准备了早餐。",
+        "弟弟非常++独特++，可以自己煮饭。"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "“独特”是形容词，意思是特别的、和别的不一样。",
+            "（2）说书法是一门和别的艺术不一样的艺术，用得对。",
+            "（1）应该用“独立”或“独自”，（3）应该用“特地”，（4）应该用“独立”。",
+            "答案是（2）。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 15,
+      "page": 5,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "sentences",
+      "subtypes": [
+        "sentence-usage"
+      ],
+      "stem": "以下哪一个句子是正确的？",
+      "options": [
+        "周末，奶奶非常++热心++地招呼客人吃饭。",
+        "运动会上，同学++热心++地为运动员加油。",
+        "一有空，妈妈就会++热心++地教弟弟写字。",
+        "有需要帮助的事，他都会++热心++地帮忙。"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 4
+          },
+          "explanation": [
+            "“热心”的意思是很愿意、很主动地去帮助别人或为大家做事。",
+            "（4）别人有需要，他主动帮忙，用得对。",
+            "（1）招呼客人应该用“热情”，（2）加油应该用“热烈”或“热情”，（3）教弟弟写字应该用“耐心”。",
+            "答案是（4）。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 16,
+      "page": 6,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "cloze",
+      "subtypes": [
+        "word-choice"
+      ],
+      "group": "g1",
+      "stem": "Q16 的答案是：",
+      "options": [
+        "禁止",
+        "阻拦",
+        "拒绝",
+        "收拾"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 1
+          },
+          "explanation": [
+            "空格后面是“了所有含糖饮料，改成用新鲜果汁代替”，意思是家里不准再喝含糖饮料了。",
+            "“禁止”是不准许做某件事。“阻拦”是拦住人不让他走或做事，“拒绝”是不接受别人的请求或东西，都不合适。",
+            "答案是（1）禁止。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "1",
+        "solvedAnswer": "1",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 17,
+      "page": 6,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "cloze",
+      "subtypes": [
+        "word-choice"
+      ],
+      "group": "g1",
+      "stem": "Q17 的答案是：",
+      "options": [
+        "力量",
+        "精神",
+        "意义",
+        "耐心"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "早上运动以后，上课时不会觉得累、想睡觉，这叫“有精神”。后面“做事情也更专心了”也说明他精神好。",
+            "“力量”是指力气，上课不需要很大的力气。",
+            "答案是（2）精神。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 18,
+      "page": 6,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "cloze",
+      "subtypes": [
+        "connectors"
+      ],
+      "group": "g1",
+      "stem": "Q18 的答案是：",
+      "options": [
+        "所以",
+        "此外",
+        "而且",
+        "然后"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "前一段讲饮食和晨跑，这一段另外再讲一件事：参加羽毛球队。后面有“还”字。",
+            "“此外”的意思是除了上面说的以外，可以放在一段的开头，后面用逗号。“而且”后面一般不加逗号，也不放在新一段的开头。",
+            "答案是（2）此外。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 19,
+      "page": 6,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "cloze",
+      "subtypes": [
+        "connectors"
+      ],
+      "group": "g1",
+      "stem": "Q19 的答案是：",
+      "options": [
+        "要是",
+        "只有",
+        "除了",
+        "或者"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "后面有“也”：“______坚持运动，睡眠也同样重要”。“除了……也……”表示两样都重要。",
+            "“要是”要配“就”，“只有”要配“才”，都接不上“也同样重要”。",
+            "答案是（3）除了。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 20,
+      "page": 6,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "cloze",
+      "subtypes": [
+        "word-choice"
+      ],
+      "group": "g1",
+      "stem": "Q20 的答案是：",
+      "options": [
+        "调节",
+        "消失",
+        "控制",
+        "减少"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 4
+          },
+          "explanation": [
+            "空格后面是“了五公斤”，有数量。可以说“减少了五公斤”。",
+            "“消失”是完全不见了，体重不会消失；“控制了五公斤”“调节了五公斤”都说不通。",
+            "答案是（4）减少。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 21,
+      "page": 8,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "comprehension-mcq",
+      "subtypes": [
+        "factual",
+        "inference"
+      ],
+      "group": "g2",
+      "stem": "从哪里可以看出大家对球球很“热情”？",
+      "options": [
+        "大家都特别喜欢球球。",
+        "大家都很想摸摸球球。",
+        "大家小心地对待球球。",
+        "大家都想让自己快乐。"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "找到第一段：“后来，大家变得很‘热情’，都试着伸手进箱子里要摸它。”",
+            "“热情”后面紧接着说的就是大家的做法：都想伸手摸球球。",
+            "“小心地对待”是“起初”的事，是在变得“热情”以前。答案是（2）。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 22,
+      "page": 8,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "comprehension-mcq",
+      "subtypes": [
+        "factual",
+        "cause-and-effect"
+      ],
+      "group": "g2",
+      "stem": "“我”为什么要打开箱子的盖？因为______",
+      "options": [
+        "“我”想喂球球吃东西。",
+        "“我”想扫球球的箱子。",
+        "“我”想让球球更快乐。",
+        "“我”想抓球球出来摸。"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "看第三段“我”心里想的话：“它会不会觉得闷？出来外面跑会不会更开心？”",
+            "“我”是想让球球出来跑一跑，更开心，才打开盖子的。",
+            "“我”当时在打扫课室，但不是要扫箱子；“我”已经“不再急着摸它”了。答案是（3）。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified",
+        "note": "The passage crop has a few faint pencil underlines from the scanned copy (under “想让它快乐”, “觉得闷？出来” and near “了解情况后”). They do not mark an option, but they sit near the evidence for Q22."
+      }
+    },
+    {
+      "section": "p2",
+      "number": 23,
+      "page": 8,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "comprehension-mcq",
+      "subtypes": [
+        "inference",
+        "cause-and-effect"
+      ],
+      "group": "g2",
+      "stem": "老师找到球球后，为什么没有骂“我”？因为______",
+      "options": [
+        "她认为“我”是在跟球球玩。",
+        "她看到“我”已经知道错了。",
+        "她已经把球球放回箱子里了。",
+        "她知道“我”没想伤害球球。"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 4
+          },
+          "explanation": [
+            "看第五段老师说的话：“老师知道你不是故意的……”",
+            "“不是故意的”就是说“我”并不是想伤害球球，所以老师没有骂“我”。",
+            "那时候“我”还不知道自己错在哪里，是听了老师的话才明白的，所以（2）不对。答案是（4）。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 24,
+      "page": 8,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "comprehension-mcq",
+      "subtypes": [
+        "character-and-feelings",
+        "inference"
+      ],
+      "group": "g2",
+      "stem": "文中“我红着脸，默默地点了点头”表现出“我”怎样的心情？",
+      "options": [
+        "悲伤",
+        "感动",
+        "羞愧",
+        "害怕"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "这句话在第六段。老师告诉“我”：“爱不是给它你想给的，而是给它它需要的。”",
+            "“我”明白自己做错了，吓到了球球，觉得不好意思，所以脸红、点头。这种心情是“羞愧”。",
+            "“害怕”是老师刚走进课室时的心情（吓得脸色苍白），不是这时候的。答案是（3）。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 25,
+      "page": 8,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "comprehension-mcq",
+      "subtypes": [
+        "character-and-feelings",
+        "inference"
+      ],
+      "group": "g2",
+      "stem": "文中的老师是一个怎样的人？",
+      "options": [
+        "严厉、有勇气",
+        "温柔、有智慧",
+        "冷静、有信心",
+        "幽默、有创意"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "老师没有骂“我”，而是“温柔地问我”，说明她很温柔。",
+            "她用一块饼干就把球球引出来，又用“喜欢和占有是两回事”“爱是给它它需要的”这些话让学生自己明白道理，说明她有智慧。",
+            "老师没有骂人，所以不是“严厉”。答案是（2）。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 26,
+      "page": 9,
+      "format": "short",
+      "marks": 2,
+      "topic": "dialogue",
+      "subtypes": [
+        "dialogue-completion"
+      ],
+      "group": "g3",
+      "stem": "Q26 的答案是：（填写数字 1 到 8）",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "6",
+            "accept": [
+              "最近邻居们都互不来往",
+              "6 最近邻居们都互不来往"
+            ]
+          },
+          "explanation": [
+            "王阿姨说很少看到大家聚在一起聊天，小李回答“是啊”，表示同意，接着要说差不多的情况。",
+            "空格后面是“大家下班回来都关着门”，说的是邻居之间没有来往。",
+            "所以选 6：最近邻居们都互不来往。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "6",
+        "solvedAnswer": "6",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 27,
+      "page": 9,
+      "format": "short",
+      "marks": 2,
+      "topic": "dialogue",
+      "subtypes": [
+        "dialogue-completion"
+      ],
+      "group": "g3",
+      "stem": "Q27 的答案是：（填写数字 1 到 8）",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "4",
+            "accept": [
+              "我们可以主动打招呼",
+              "4 我们可以主动打招呼"
+            ]
+          },
+          "explanation": [
+            "王阿姨问“我们该怎么改善呢？”，小李要说出一个办法。",
+            "后面是“慢慢地和邻居增进感情”，王阿姨还举例“在电梯里遇到邻居，可以微笑点头”，这是打招呼的例子。",
+            "所以选 4：我们可以主动打招呼。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 28,
+      "page": 9,
+      "format": "short",
+      "marks": 2,
+      "topic": "dialogue",
+      "subtypes": [
+        "dialogue-completion"
+      ],
+      "group": "g3",
+      "stem": "Q28 的答案是：（填写数字 1 到 8）",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "8",
+            "accept": [
+              "还能认识住在周围的邻居",
+              "8 还能认识住在周围的邻居"
+            ]
+          },
+          "explanation": [
+            "小李说多参加民众俱乐部的活动，可以“充实自己的生活”，空格是参加活动的另一个好处。",
+            "王阿姨接着说“就像我们俩一样，是因为一起参加义工活动而认识的”，说明空格讲的是“认识”邻居。",
+            "所以选 8：还能认识住在周围的邻居。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "8",
+        "solvedAnswer": "8",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 29,
+      "page": 9,
+      "format": "short",
+      "marks": 2,
+      "topic": "dialogue",
+      "subtypes": [
+        "dialogue-completion"
+      ],
+      "group": "g3",
+      "stem": "Q29 的答案是：（填写数字 1 到 8）",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "5",
+            "accept": [
+              "并且积极地和邻居交流",
+              "5 并且积极地和邻居交流"
+            ]
+          },
+          "explanation": [
+            "前面是“我们应该多参加社区活动”，空格要接着说还应该做什么，“并且”正好用来连接两件该做的事。",
+            "后面是“让邻居之间的关系越来越好”，多和邻居交流，关系才会越来越好。",
+            "所以选 5：并且积极地和邻居交流。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "5",
+        "solvedAnswer": "5",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 30,
+      "page": 11,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "functional-text",
+      "subtypes": [
+        "purpose-and-audience",
+        "main-idea"
+      ],
+      "group": "g4",
+      "stem": "这则通告主要是要告诉大家______。",
+      "options": [
+        "领养中心将赠送领养者新手礼包。",
+        "领养者可以领养流浪猫狗的时间。",
+        "领养中心将举办动物领养的活动。",
+        "领养者需上领养中心的网站查询。"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "通告的主要内容通常在开头。第一段说：爱心领养中心即将举办“给它一个家，给你一份爱”的领养活动。",
+            "礼包、时间、网站都只是活动里的一个小部分，不是“主要”要告诉大家的事。",
+            "答案是（3）。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 31,
+      "page": 11,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "functional-text",
+      "subtypes": [
+        "factual"
+      ],
+      "group": "g4",
+      "stem": "以下哪一项++不是++活动期间提供的优待？",
+      "options": [
+        "健康检查与去虫。",
+        "已经打了预防针。",
+        "终身免费宠物保险。",
+        "三个月的兽医服务。"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "看“贴心配套”：动物已经过健康检查、去虫并打了预防针；领养后有三个月的免费行为指导和兽医服务。",
+            "关于保险，通告写的是“购买终身宠物保险将享有八折的折扣”。八折是要付钱的，不是免费。",
+            "所以“终身免费宠物保险”不是通告里的优待。答案是（3）。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 32,
+      "page": 11,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "functional-text",
+      "subtypes": [
+        "factual",
+        "inference"
+      ],
+      "group": "g4",
+      "stem": "以下哪一句话是++不++正确的？",
+      "options": [
+        "领养后可获得三个月免费行为指导。",
+        "可上网查看可领养动物的基本信息。",
+        "爱心领养中心在全岛共有八家分店。",
+        "领养者只能在2026年7月领养宠物。"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 4
+          },
+          "explanation": [
+            "（1）（2）（3）都可以在通告里找到：三个月的免费宠物行为指导、上网站查看宠物的照片和基本信息、全岛共有 8 家分店。",
+            "看“注意”那一行：“活动结束之后领养动物不再享有优待。”这说明 7 月以后还是可以领养，只是没有优待。",
+            "所以“只能在2026年7月领养”是不正确的。答案是（4）。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 33,
+      "page": 11,
+      "format": "structured",
+      "marks": 4,
+      "topic": "functional-text",
+      "subtypes": [
+        "message-writing"
+      ],
+      "group": "g4",
+      "stem": "如果你是李丽，你想鼓励家人一起参加爱心领养中心的领养活动。请你写一张便条告诉妈妈你想参加这个活动的原因，并说明要如何领养宠物。\n\n便条的开头是：\n亲爱的妈妈：\n我很喜欢小动物，一直想要领养一只。刚好爱心领养中心将举办“给它一个家，给你一份爱”领养活动，我想和你一起参加，因为……\n（请接着写下去。便条最后已经印好：李丽　6月21日　上午9点）",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "self",
+            "value": "亲爱的妈妈：\n我很喜欢小动物，一直想要领养一只。刚好爱心领养中心将举办“给它一个家，给你一份爱”领养活动，我想和你一起参加，因为我想给流浪的猫狗一个温暖的家。我们可以先上爱心领养中心的网站查看宠物的照片和基本信息，通过网站预约后，再前往中心完成领养手续。\n李丽\n6月21日\n上午9点"
+          },
+          "explanation": [
+            "一共 4 分，要写两个内容点，句子也要通顺、没有错字。（试卷上没有印出内容和语文各占几分，一般是内容 2 分、语文 2 分。）",
+            "内容第一点（想参加的原因）：从通告第一段找——活动是“为了给流浪的猫狗找个家”，所以可以写“我想给流浪的猫狗一个温暖的家”。也可以加上活动期间领养有优待（新手礼包、三个月免费行为指导和兽医服务）。",
+            "内容第二点（如何领养）：从通告最后一段找——先上中心的网站查看宠物的照片和基本信息，通过网站预约后，才前往中心完成领养手续。“网站预约”和“前往中心完成手续”都要写。",
+            "语文：接着“因为……”写下去，句子要完整；便条的称呼、署名和日期已经印好，不用再写。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "亲爱的妈妈：我很喜欢小动物，也想给流浪动物一个温暖的家，所以想和你一起参加领养活动。我们可以先上爱心领养中心的网站查看宠物的照片和基本信息，通过网站预约后，再前往中心完成领养手续。李丽",
+        "solvedAnswer": "agrees with key",
+        "status": "verified",
+        "note": "The note frame is not cropped: its content (opening, signature, date and time) is transcribed in the stem. The key rewrites the opening in its own words; the model answer here continues from the printed opening instead. The answer booklet prints only “4分”, with no 内容/语文 split."
+      }
+    },
+    {
+      "section": "p2",
+      "number": 34,
+      "page": 13,
+      "format": "short",
+      "marks": 2,
+      "topic": "comprehension-open",
+      "subtypes": [
+        "vocabulary-in-context"
+      ],
+      "group": "g5",
+      "stem": "文中表示“指出缺点和错误使其改正”的词语是：______。",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "批评"
+          },
+          "explanation": [
+            "要找一个意思是“说出别人的缺点和错误，要他改过来”的词语。",
+            "第三段山羊先生说：“他也总批评我，要我改正错误。”",
+            "答案是“批评”。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "批评",
+        "solvedAnswer": "批评",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 35,
+      "page": 13,
+      "format": "short",
+      "marks": 2,
+      "topic": "comprehension-open",
+      "subtypes": [
+        "vocabulary-in-context"
+      ],
+      "group": "g5",
+      "stem": "文中表示“心里不甘，觉得不公平”的词语是：______。",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "不服气"
+          },
+          "explanation": [
+            "要找一个意思是“心里不甘愿，觉得这样对自己不公平”的词语。",
+            "第一段：“欢欢心里不服气：我明明写得很认真，为什么老师总是不满意？”",
+            "答案是“不服气”。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "不服气",
+        "solvedAnswer": "不服气",
+        "status": "verified",
+        "note": "The watermark covers the end of this key answer; “不服气” is readable and the same word appears in the key for Q36."
+      }
+    },
+    {
+      "section": "p2",
+      "number": 36,
+      "page": 13,
+      "format": "structured",
+      "marks": 3,
+      "topic": "comprehension-open",
+      "subtypes": [
+        "cause-and-effect",
+        "factual"
+      ],
+      "group": "g5",
+      "stem": "欢欢为什么不喜欢山羊先生？",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "self",
+            "value": "因为山羊先生总在欢欢的作业本上画红圈圈，圈出错别字，还在旁边写着“重写”。欢欢认为自己明明写得很认真，老师却总是不满意，所以她心里不服气。"
+          },
+          "explanation": [
+            "答案在第一段，“因为”后面就是原因。",
+            "要写出老师做的事：总在作业本上画红圈圈、圈出错别字、还写“重写”。",
+            "还要写出欢欢的想法：她觉得自己明明写得很认真，老师却总是不满意，心里不服气。",
+            "只写“老师要她重写”是不完整的，拿不到满分。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "山羊先生总在欢欢的作业本上画红圈，圈出错别字，还在旁边写“重写”。欢欢认为自己已经写得很认真，老师却总是不满意，让她心里不服气。",
+        "solvedAnswer": "agrees with key",
+        "status": "verified",
+        "note": "The first two paragraphs of the passage crop have scan damage and pencil strokes (the 一 of “一天” is missing, and a line runs through “欢欢心里不服气：我明明写得很认真，为什么老师总是不满意？”). The text is still readable. A few key characters under the watermark (欢欢的, 她) were read from context."
+      }
+    },
+    {
+      "section": "p2",
+      "number": 37,
+      "page": 13,
+      "format": "structured",
+      "marks": 3,
+      "topic": "comprehension-open",
+      "subtypes": [
+        "inference",
+        "factual"
+      ],
+      "group": "g5",
+      "stem": "从哪里可以看出山羊先生的老师很有责任感？",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "self",
+            "value": "山羊先生小时候有一次生病了，好一段时间没去上课，他的老师冒着大雨到他家给他补课。"
+          },
+          "explanation": [
+            "注意题目问的是“山羊先生的老师”，不是山羊先生自己。",
+            "答案在第五段山羊先生说的话里：“有一次我生病了，好一段时间没去上课，他冒着大雨飞到我家给我补课。”",
+            "要写出三点：山羊先生生病很久没上课、老师冒着大雨、到他家给他补课。",
+            "回答时要把“我”改成“山羊先生”，把“他”改成“他的老师”。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "山羊先生小时候生病、好一段时间没去上课时，他的老师冒着大雨到他家给他补课。",
+        "solvedAnswer": "agrees with key",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 38,
+      "page": 13,
+      "format": "structured",
+      "marks": 4,
+      "topic": "comprehension-open",
+      "subtypes": [
+        "factual",
+        "inference"
+      ],
+      "group": "g5",
+      "stem": "",
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "山羊先生送给欢欢什么样的礼物？",
+          "marks": 2,
+          "answer": {
+            "type": "self",
+            "value": "山羊先生送给欢欢一本旧字典。字典里写满了密密麻麻的小字，都是山羊先生自己的笔记，里面还有山羊先生为欢欢圈出的她常写错的字。"
+          },
+          "explanation": [
+            "答案在第六段。",
+            "题目问“什么样的”礼物，所以不能只写“字典”，还要写出字典的样子：是一本旧字典，里面写满了密密麻麻的笔记，还圈出了欢欢常写错的字。"
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "得到礼物后，欢欢明白了什么？",
+          "marks": 2,
+          "answer": {
+            "type": "self",
+            "value": "欢欢明白了真正的老师不是只会夸人。山羊先生对她严格，指出她的错误，是因为关心她，为了帮助她真正成长。"
+          },
+          "explanation": [
+            "第六段最后说欢欢“恍然大悟”，就是突然明白了。她明白的道理写在最后一段。",
+            "最后一段：“真正的老师，不是只会夸人。严格，才能让人真正成长。”",
+            "要写出两点：真正的老师不是只会夸人；老师严格是为了帮助学生成长（是关心学生）。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "山羊先生送给欢欢一本旧字典。字典里写满了他老师的评语，也圈出了他常写错的字。欢欢明白真正的老师不是只会夸人；老师严格批改、指出错误，是为了帮助学生真正成长。",
+        "solvedAnswer": "(a) 一本旧字典，里面写满了山羊先生自己的笔记，还有山羊先生为欢欢圈出的她常写错的字。(b) agrees with key",
+        "status": "needs-review",
+        "note": "Part (a): the key says the dictionary is full of 他老师的评语 and has 他常写错的字 circled. The passage says “都是山羊先生自己的笔记” and “山羊先生为欢欢圈出她常写错的字”. The model answer follows the passage, not the key. Part (b) agrees with the key. The two questions are printed on one line with separate marks (2 + 2), so they are parts a and b."
+      }
+    },
+    {
+      "section": "p2",
+      "number": 39,
+      "page": 13,
+      "format": "structured",
+      "marks": 4,
+      "topic": "comprehension-open",
+      "subtypes": [
+        "factual",
+        "cause-and-effect"
+      ],
+      "group": "g5",
+      "stem": "",
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "欢欢收到礼物后，山羊先生批改欢欢的作业有什么改变？",
+          "marks": 2,
+          "answer": {
+            "type": "self",
+            "value": "山羊先生在欢欢作业本上画的红圈圈越来越少，有时还会画上一个小笑脸。"
+          },
+          "explanation": [
+            "答案在第七段第二句：“山羊先生的红圈圈越来越少，有时还会画上一个小笑脸。”",
+            "两点都要写：红圈圈越来越少；有时还画小笑脸。"
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "为什么会有这样的变化？",
+          "marks": 2,
+          "answer": {
+            "type": "self",
+            "value": "因为欢欢从那以后写作业更认真了，不会的字就查字典。"
+          },
+          "explanation": [
+            "原因在同一段的第一句：“从那以后，欢欢写作业更认真了，不会的字就查字典。”",
+            "欢欢更认真、会查字典，错别字少了，所以老师画的红圈圈也少了。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "山羊先生在欢欢作业本上画的红圈越来越少，有时还会画上一个小笑脸。因为欢欢从那以后写作业更认真了，不会的字就查字典。",
+        "solvedAnswer": "agrees with key",
+        "status": "verified",
+        "note": "The passage crop has a pencil underline under “圈越来越少，有” (paragraph 7), which is where the answer to part (a) is found. It cannot be cropped out. The two questions are printed on one line with separate marks (2 + 2), so they are parts a and b."
+      }
+    },
+    {
+      "section": "p2",
+      "number": 40,
+      "page": 13,
+      "format": "structured",
+      "marks": 4,
+      "topic": "comprehension-open",
+      "subtypes": [
+        "opinion"
+      ],
+      "group": "g5",
+      "stem": "你同意“严格，才能让人真正成长”这句话吗？请在你的生活中举例说明。",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "self",
+            "value": "我同意。有一次我学习游泳，教练严格要求我反复练习换气和划水。开始时我觉得很辛苦，但在教练不断纠正和督促下，我改正了动作，最后学会了游泳，也变得更有毅力。因此，适当的严格能帮助人发现错误、不断进步，真正成长。"
+          },
+          "explanation": [
+            "这是看法题。先清楚地说“我同意”或“我不同意”。",
+            "题目要求“在你的生活中举例”，所以一定要写一件自己生活里的事（学游泳、学钢琴、练字、做功课等），不能只抄短文里欢欢的事。",
+            "例子要写清楚：谁对你严格、怎样严格、你后来有什么进步。",
+            "最后用一句话回到题目：所以严格能帮助人改正错误、真正成长。",
+            "只写“同意”而没有例子，或者例子和“严格”没有关系，都拿不到满分。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "我同意。有一次我学习游泳，教练严格要求我反复练习换气和划水。开始时我觉得很辛苦，但在教练不断纠正和督促下，我改正了动作，最后学会了游泳，也变得更有毅力。因此，适当的严格能帮助人发现错误、不断进步，真正成长。",
+        "solvedAnswer": "agrees with key",
+        "status": "verified",
+        "note": "The key gives one sample answer (agree, with a swimming example); any clear position with a fitting example from the child's own life is acceptable. The watermark covers the last few characters of the key; “不断进步，真正成长” is read partly from context."
+      }
+    }
+  ]
+}

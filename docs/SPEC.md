@@ -1,7 +1,7 @@
 # PSLE Quest — Requirement Spec (v0.1 draft)
 
 Gamified practice app built from the past-year papers in this repo.
-Status: built. Maths 1,035 playable questions (20 held back), Science 584 playable (28 held back). Date: 2026-11-24.
+Status: built. Playable questions (held back): Maths 1,035 (20), Science 584 (28), English 1,062 (6), Chinese 394 (16), Higher Chinese 136 (8). Date: 2026-11-24.
 
 ## 1. Goal and scope
 
@@ -122,6 +122,15 @@ Same record format and pipeline as maths, with these differences:
 - Sections are Booklet A (multiple choice, auto-marked) and Booklet B (open-ended).
 - Topics follow the MOE themes: Diversity, Cycles, Systems, Interactions, Energy, split into 14 topics (see `library/taxonomy.json`). Question-type tags name the concept tested, such as "food web" or "series and parallel".
 - Booklet B answers are written explanations, which cannot be auto-marked reliably. The child writes or types the answer, taps "Show answer", compares with the model answer and key ideas, then marks each part right or wrong. One-word, letter or number answers are still auto-marked.
+
+### 3.7 English, Chinese and Higher Chinese (added 2026-11-24)
+
+- Scope: Paper 2 (language use and comprehension) of every prelim paper, plus Paper 1 writing tasks where the PDF has them. Listening and oral are out of scope (no audio; cannot be marked).
+- **Passage groups:** questions that share a passage, poster, dialogue or cloze text point to one shared group. The app shows the passage in the area normally used by the canvas, with a Passage / Scratch pad switch, and plays the group's questions in order. The blank or word the current question is about is highlighted.
+- English passages are transcribed text. Chinese passages are image crops of the scan, so no character can be mistyped; Chinese questions and options are transcribed.
+- Marking: multiple choice, word-bank letters, editing corrections and cloze words are auto-marked (cloze accepts the key's word plus clearly correct alternatives). Synthesis, open-ended comprehension and message writing are self-marked against the model answer; a typed answer identical to the model answer is marked right automatically. Chinese character answers may be typed, or written on the scratch pad and self-marked.
+- Writing: each task shows the prompt and pictures, a planning space, and a checklist written for that task. No automatic grading. "Copy a feedback request" puts the task, the child's typed writing and a marking request on the clipboard for pasting into Claude or sending to a parent. Writing tasks are left out of Random mix and give a flat 30 XP.
+- Not built yet: phrase-bank flashcards (好词好句), parent rubric scoring with history, timed mode.
 
 The exact file format and the step-by-step extraction procedure are in `docs/LIBRARY_FORMAT.md`.
 

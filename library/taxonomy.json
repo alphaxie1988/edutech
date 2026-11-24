@@ -181,5 +181,160 @@
       "magnets-attract-and-repel": "magnetic-poles",
       "attraction-and-repulsion": "magnetic-poles"
     }
+  },
+  "english": {
+    "name": "English",
+    "sections": {
+      "p1": "Paper 1",
+      "a": "Paper 2 Booklet A",
+      "b": "Paper 2 Booklet B"
+    },
+    "topics": [
+      {
+        "id": "grammar",
+        "name": "Grammar",
+        "icon": "🔧"
+      },
+      {
+        "id": "vocabulary",
+        "name": "Vocabulary",
+        "icon": "📖"
+      },
+      {
+        "id": "vocabulary-cloze",
+        "name": "Vocabulary in Context",
+        "icon": "🔍"
+      },
+      {
+        "id": "visual-text",
+        "name": "Visual Text Comprehension",
+        "icon": "🖼️"
+      },
+      {
+        "id": "grammar-cloze",
+        "name": "Grammar Cloze",
+        "icon": "🧩"
+      },
+      {
+        "id": "editing",
+        "name": "Editing: Spelling and Grammar",
+        "icon": "✂️"
+      },
+      {
+        "id": "comprehension-cloze",
+        "name": "Comprehension Cloze",
+        "icon": "🕳️"
+      },
+      {
+        "id": "synthesis",
+        "name": "Synthesis and Transformation",
+        "icon": "🔀"
+      },
+      {
+        "id": "comprehension",
+        "name": "Comprehension (Open-ended)",
+        "icon": "📰"
+      },
+      {
+        "id": "writing",
+        "name": "Writing",
+        "icon": "✍️"
+      }
+    ],
+    "subtypeAliases": {
+      "none-all": "none-of",
+      "all-none": "none-of",
+      "word-form": "noun-form"
+    }
+  },
+  "chinese": {
+    "name": "Chinese",
+    "sections": {
+      "p1": "Paper 1",
+      "p2": "Paper 2"
+    },
+    "topics": [
+      {
+        "id": "pinyin",
+        "name": "汉语拼音 Hanyu Pinyin",
+        "icon": "🔤"
+      },
+      {
+        "id": "vocabulary",
+        "name": "词语 Vocabulary",
+        "icon": "📖"
+      },
+      {
+        "id": "sentences",
+        "name": "语法与句子 Grammar and Sentences",
+        "icon": "🔧"
+      },
+      {
+        "id": "cloze",
+        "name": "短文填空 Cloze Passage",
+        "icon": "🧩"
+      },
+      {
+        "id": "comprehension-mcq",
+        "name": "阅读理解一 Comprehension (MCQ)",
+        "icon": "📰"
+      },
+      {
+        "id": "dialogue",
+        "name": "完成对话 Complete the Dialogue",
+        "icon": "💬"
+      },
+      {
+        "id": "functional-text",
+        "name": "实用文 Notices and Messages",
+        "icon": "📋"
+      },
+      {
+        "id": "comprehension-open",
+        "name": "阅读理解二 Comprehension (Open-ended)",
+        "icon": "📝"
+      },
+      {
+        "id": "writing",
+        "name": "作文 Composition",
+        "icon": "✍️"
+      }
+    ],
+    "subtypeAliases": {}
+  },
+  "higher-chinese": {
+    "name": "Higher Chinese",
+    "sections": {
+      "p1": "Paper 1",
+      "p2": "Paper 2"
+    },
+    "topics": [
+      {
+        "id": "cloze",
+        "name": "选词填空 Word Cloze",
+        "icon": "🧩"
+      },
+      {
+        "id": "error-correction",
+        "name": "改正错别字 Correct the Wrong Character",
+        "icon": "✂️"
+      },
+      {
+        "id": "language-use",
+        "name": "语文应用 Other Language Use",
+        "icon": "🔧"
+      },
+      {
+        "id": "comprehension",
+        "name": "阅读理解 Comprehension",
+        "icon": "📰"
+      },
+      {
+        "id": "writing",
+        "name": "作文 Composition",
+        "icon": "✍️"
+      }
+    ],
+    "subtypeAliases": {}
   }
 }

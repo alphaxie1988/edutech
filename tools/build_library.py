@@ -52,9 +52,46 @@ def validate(doc, path):
         npages = len(d)
         scale = paper.get("coordDpi", 100) / 72
         page_w, page_h = d[0].rect.width * scale, d[0].rect.height * scale
+    def check_images(tag, images, ids):
+        for im in images:
+            ids.add(im.get("id"))
+            box = im.get("box", [])
+            if not im.get("alt"):
+                errs.append(f"{tag}: image {im.get('id')} needs alt text")
+            if not (isinstance(im.get("page"), int) and (not npages or 1 <= im["page"] <= npages)):
+                errs.append(f"{tag}: image {im.get('id')} page out of range")
+            if len(box) != 4 or not (0 <= box[0] < box[2] and 0 <= box[1] < box[3]):
+                errs.append(f"{tag}: image {im.get('id')} box must be [x0, y0, x1, y1]")
+            elif npages and not im.get("rotate") and (box[2] > page_w + 2 or box[3] > page_h + 2):
+                errs.append(f"{tag}: image {im.get('id')} box is outside the page ({page_w:.0f} x {page_h:.0f})")
+            elif (box[2] - box[0]) < 30 or (box[3] - box[1]) < 20:
+                warns.append(f"{tag}: image {im.get('id')} is very small")
+
+    groups, group_topic = {}, {}
+    for g in doc.get("groups", []):
+        tag = f"group {g.get('id')}"
+        if not any(q.get("group") == g.get("id") for q in doc.get("questions", [])):
+            warns.append(f"{tag}: no question uses this group")
+        if not g.get("id") or g["id"] in groups:
+            errs.append(f"{tag}: missing or duplicate group id")
+        groups[g.get("id")] = g
+        if not isinstance(g.get("text"), str) or not g["text"].strip():
+            errs.append(f"{tag}: text missing (use a [[img1]] marker when the passage is an image)")
+        ids = set()
+        check_images(tag, g.get("images", []), ids)
+        for t in g.get("tables", []):
+            ids.add(t.get("id"))
+        for m in MARKER.findall(g.get("text") or ""):
+            if m not in ids:
+                errs.append(f"{tag}: marker [[{m}]] has no matching image/table")
     seen = set()
     for q in doc.get("questions", []):
         tag = f"{q.get('section')} Q{q.get('number')}"
+        if q.get("group") is not None:
+            if q["group"] not in groups:
+                errs.append(f"{tag}: group '{q['group']}' is not defined in the paper's groups")
+            elif group_topic.setdefault(q["group"], q.get("topic")) != q.get("topic"):
+                errs.append(f"{tag}: every question in group {q['group']} must have the same topic")
         key = (q.get("section"), q.get("number"))
         if key in seen:
             errs.append(f"{tag}: duplicate section/number")
@@ -118,19 +155,7 @@ def validate(doc, path):
             if not isinstance(exp, list) or not exp or not all(isinstance(s, str) and s.strip() for s in exp):
                 errs.append(f"{tag}{p.get('label','')}: explanation must be a non-empty list of steps")
         ids = set()
-        for im in q.get("images", []):
-            ids.add(im.get("id"))
-            box = im.get("box", [])
-            if not im.get("alt"):
-                errs.append(f"{tag}: image {im.get('id')} needs alt text")
-            if not (isinstance(im.get("page"), int) and (not npages or 1 <= im["page"] <= npages)):
-                errs.append(f"{tag}: image {im.get('id')} page out of range")
-            if len(box) != 4 or not (0 <= box[0] < box[2] and 0 <= box[1] < box[3]):
-                errs.append(f"{tag}: image {im.get('id')} box must be [x0, y0, x1, y1]")
-            elif npages and (box[2] > page_w + 2 or box[3] > page_h + 2):
-                errs.append(f"{tag}: image {im.get('id')} box is outside the page ({page_w:.0f} x {page_h:.0f})")
-            elif (box[2] - box[0]) < 30 or (box[3] - box[1]) < 20:
-                warns.append(f"{tag}: image {im.get('id')} is very small")
+        check_images(tag, q.get("images", []), ids)
         for t in q.get("tables", []):
             ids.add(t.get("id"))
             if not isinstance(t.get("rows"), list) or not t["rows"]:
@@ -175,7 +200,7 @@ def build():
             continue
         out_dir = os.path.join(ROOT, "data", subject)
         os.makedirs(out_dir, exist_ok=True)
-        questions, held, images_by_topic, papers = [], [], {}, []
+        questions, held, images_by_topic, papers, groups_out = [], [], {}, [], {}
         for path in files:
             doc = json.load(open(path, encoding="utf-8"))
             errs, warns = validate(doc, path)
@@ -190,8 +215,11 @@ def build():
             paper = doc["paper"]
             pdf_doc = pymupdf.open(os.path.join(ROOT, paper["file"]))
             n_ok = 0
+            gdefs = {g["id"]: g for g in doc.get("groups", [])}
+            # maths and science ids predate the other subjects and stay unprefixed
+            prefix = "" if subject in ("maths", "science") else subject + "-"
             for q in doc["questions"]:
-                qid = f"{paper['id']}-{q['section']}-q{q['number']}"
+                qid = f"{prefix}{paper['id']}-{q['section']}-q{q['number']}"
                 cite = citation(paper, tax, q)
                 if q["review"]["status"] != "verified":
                     held.append((cite, q["review"].get("note", ""), q["review"].get("keyAnswer", ""),
@@ -211,6 +239,23 @@ def build():
                         ans = part["answer"]
                         if ans["type"] == "number" and ans.get("unit") == "°":
                             ans.setdefault("tolerance", 1)
+                if q.get("group"):
+                    gkey = f"{prefix}{paper['id']}-{q['group']}"
+                    rec["group"] = gkey
+                    if gkey not in groups_out:
+                        g = gdefs[q["group"]]
+                        out = {"text": g["text"]}
+                        if g.get("tables"):
+                            out["tables"] = g["tables"]
+                        if g.get("images"):
+                            out["images"] = []
+                            for im in g["images"]:
+                                key = f"{gkey}-{im['id']}"
+                                png = crop_png(pdf_doc, im, paper.get("coordDpi", 100))
+                                images_by_topic.setdefault(q["topic"], {})[key] = (
+                                    "data:image/png;base64," + base64.b64encode(png).decode("ascii"))
+                                out["images"].append({"id": im["id"], "key": key, "alt": im["alt"]})
+                        groups_out[gkey] = out
                 if q.get("options"):
                     rec["options"] = q["options"]
                 if q.get("tables"):
@@ -229,7 +274,7 @@ def build():
                            "school": paper["school"], "count": n_ok})
             print(f"  {name}: {n_ok} playable, {len(doc['questions']) - n_ok} held back")
         payload = {"name": tax["name"], "sections": tax["sections"], "topics": tax["topics"],
-                   "papers": papers, "questions": questions}
+                   "papers": papers, "questions": questions, "groups": groups_out}
         with open(os.path.join(out_dir, "index.js"), "w", encoding="utf-8") as f:
             f.write("window.PSLE = window.PSLE || {subjects: {}, images: {}};\n")
             f.write(f"PSLE.subjects[{json.dumps(subject)}] = ")
@@ -282,6 +327,11 @@ def main():
         os.makedirs(out, exist_ok=True)
         paper = doc["paper"]
         pdf_doc = pymupdf.open(os.path.join(ROOT, paper["file"]))
+        for g in doc.get("groups", []):
+            for im in g.get("images", []):
+                p = os.path.join(out, f"group-{g['id']}-{im['id']}.png")
+                open(p, "wb").write(crop_png(pdf_doc, im, paper.get("coordDpi", 100)))
+                print(p)
         for q in doc["questions"]:
             for im in q.get("images", []):
                 p = os.path.join(out, f"{q['section']}-q{q['number']:02d}-{im['id']}.png")

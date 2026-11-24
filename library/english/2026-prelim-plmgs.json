@@ -1,0 +1,2977 @@
+{
+  "paper": {
+    "id": "2026-prelim-plmgs",
+    "subject": "english",
+    "year": 2026,
+    "exam": "Prelim",
+    "school": "PLMGS",
+    "schoolFull": "Paya Lebar Methodist Girls' School (Primary)",
+    "file": "PSLE-2026-P6-papers/English/P6-English-Prelim-2026-PLMGS-Paper.pdf",
+    "coordDpi": 100
+  },
+  "groups": [
+    {
+      "id": "g1",
+      "text": "For each question from 16 to 20, choose the word(s) closest in meaning to the underlined words.\n\nCaptain Colt, an explorer, was on his maiden voyage. He knew the __(16: quandary)__ he and his crew were in with no sight of land and their food supplies running low. Once, a man fell overboard and __(17: floundered)__ in the waters. Thankfully, he was rescued.\nWhen an island was spotted, they had to navigate through __(18: murky)__ waters with poor visibility in the night. Colt realised the __(19: alarming)__ effect the disease-borne mosquitoes had on his crew as they came down with high fevers. He __(20: revived)__ their hopes of survival by making the difficult decision to leave the island. The next morning, they set sail in search of a new land."
+    },
+    {
+      "id": "g2",
+      "text": "Study the poster (Text 1) and the extract from an online article (Text 2) and answer questions 21 to 25.\n\n++Text 1++\nThe text below shows a poster.\n[[img1]]\n++Text 2++\nThe extract below is taken from an online article.\nWearing the right shoes is important for every runner, whether they are experienced athletes or beginners. Good running shoes do more than keep the feet comfortable. They play a key role in helping runners perform well and in preventing injuries.\nFirstly, proper running shoes provide strong support and sufficient cushioning. When a runner's feet hit the ground, the shoes help to absorb the impact. This reduces pressure on the feet, ankles and knees, making running safer. It also lowers the risk of common injuries such as sprains, muscle strain and joint pain.\nIn addition, running shoes are designed to help the body move correctly. They improve balance and support smoother, more controlled movements while running. With better stability and posture, runners can run more efficiently and for longer periods without discomfort.\nIn conclusion, choosing the right pair of running shoes may seem like a simple decision, but it is an important one. The right shoes help runners enjoy their runs, improve their performance and protect their bodies from injury.",
+      "images": [
+        {
+          "id": "img1",
+          "page": 8,
+          "box": [
+            92,
+            186,
+            722,
+            1036
+          ],
+          "alt": "Poster with a picture of a running shoe tilted as if taking off, with feather-like wing lines rising from the heel. Text: Join us for the sales launch of the FALCON! DON'T RUN, FLY! Exclusively for Sports House members at the Vista City Outlet. 12 December at 10 a.m. $129.90 Members' Price. Only 100 pairs! No reservations for customers or online purchases. Six feature boxes: A) Lightweight: Makes running easier and faster. B) Cushioned Comfort: Keeps your feet protected and free from blisters. C) Grippy Soles: Helps you stay steady on any surface. D) Visibility: Reflective materials keep you visible in low light. E) Durability: Built to last through many kilometres. F) Support: Provides stability for injury-free running. Below the boxes: Visit www.sportshouse.sg for more information."
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "text": "There are 10 blanks, numbered 26 to 35, in the passage below. From the list of words given, choose the most suitable word for each blank. Write its letter (A to Q) in the blank. The letters (I) and (O) have been omitted to avoid confusion during marking.\n**EACH WORD CAN BE USED ONLY ONCE.**\n[[table1]]\n\nHave you ever felt that your home was warmer than the weather outside? A recent study has found that __(26)__ is true for many HDB flats in Singapore. Some homes trap more heat and become hotter __(27)__ the outdoor environment.\nOne main reason is poor airflow. In some homes, windows are kept closed for long periods, preventing fresh air from entering. Large pieces __(28)__ furniture and clutter can also block the movement of air; hence, trapping heat inside the flat. In addition, concrete walls and floors absorb heat during the day and slowly release __(29)__ at night, making homes feel warm even __(30)__ the sun has set.\nLiving in a hot home can be __(31)__ uncomfortable experience, making it difficult for us to sleep well or concentrate on our tasks. The elderly and families __(32)__ do not use air-conditioning often find it challenging to cope with the heat. __(33)__, there are several ways to cool down homes. We can open windows and remove clutter to improve airflow. Using fans wisely can __(34)__ help circulate cooler air around the room.\nAs Singapore's weather becomes warmer, keeping homes cool __(35)__ become increasingly important. By making these small changes, it can create a more comfortable living environment for us.\nAdapted from The Straits Times, \"How Heat Proof Is Your Home?\"",
+      "tables": [
+        {
+          "id": "table1",
+          "rows": [
+            [
+              "(A) a",
+              "(D) after",
+              "(G) it",
+              "(K) than",
+              "(N) which"
+            ],
+            [
+              "(B) an",
+              "(E) before",
+              "(H) of",
+              "(L) them",
+              "(P) who"
+            ],
+            [
+              "(C) also",
+              "(F) however",
+              "(J) to",
+              "(M) this",
+              "(Q) will"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "text": "Each of the underlined words contains either a spelling or grammatical error. Write the correct word in each of the boxes.\n\nScience is my favourite subject. When I was ten, I __(36: receeved)__ a book about Marie Curie and her story inspired me greatly.\nMarie Curie was born __(37: on)__ Poland on November 7, 1867. When she was young, she loved Science too. Sadly, girls were not __(38: aloudd)__ to study at the university in her hometown. However, she refused to give up. Instead, she moved to __(39: other)__ country to continue studying and __(40: persoo)__ her dream of becoming a scientist.\nWhat impressed me the most was her __(41: deturminasion)__, never giving up on her passion for Science. Her research helped improve X-rays, allowing doctors to take more __(42: accurately)__ pictures inside the human body. __(43: In)__ this day, she is the only person who had won Nobel Prizes in two different Sciences, proving that hard work and passion can lead to __(44: xtraordinery)__ achievements. Reading about Marie Curie reminds me that __(45: successes)__ does not come easily. I hope I can be just as resilient as her and continue chasing my dreams."
+    },
+    {
+      "id": "g5",
+      "text": "Fill in each blank with a suitable word.\n\n\"Checkmate!\" The game is over. In schools, community clubs and homes across Singapore, children and adults __(46)__ around chessboards to challenge each other to a friendly game of chess. Some play for fun, __(47)__ others train hard for competitions. Although the rules of the game are simple to learn, every game __(48)__ different, making chess a favourite pastime for people of all ages.\nChess is one of the world's oldest __(49)__, known for its strategy and challenge. However, no one knows exactly when or __(50)__ it began. Most historians believe that chess started in northwestern India around 600 A.D. The game was first called 'chaturanga', a Sanskrit __(51)__ that refers to the four parts of the ancient Indian army: soldiers, chariots, horsemen and elephants. __(52)__ later inspired the pieces used in modern chess. As the game __(53)__ to different parts of the world, its rules gradually changed and developed __(54)__ the modern chess we know today.\nToday, chess is more than just a game. Every move requires __(55)__ planning because one wrong decision can change the outcome. As players think several moves ahead, it teaches them to solve problems and __(56)__ calm under pressure. For __(57)__, chess helps to develop critical thinking skills, concentration and patience. For adults, it keeps the mind active and encourages mental agility. These valuable skills can be applied not __(58)__ on the chessboard, but also in everyday life.\nMost importantly, chess has a unique way of bringing people __(59)__. Children can enjoy a game of chess with both __(60)__ parents and grandparents. Through their shared love of the game, families can bond and enjoy spending time with one another.\nAdapted from Origins of Chess"
+    },
+    {
+      "id": "g6",
+      "text": "Read this passage below and answer questions 66 to 75.\n\n**1** \"Since this is such a beautiful day and it's Saturday,\" Jane said, reaching for the hairdryer, \"why don't we have a picnic at the nearby park?\"\n**2** As my sister and I planned our day, our large tuxedo cat, Gato, purred softly in my arms, gazing lazily at the view through our bedroom window.\n**3** When Jane turned on the hairdryer, Gato bolted in panic. In his hurry to escape, Gato's claws ripped the soft flesh on the underside of my lower left arm. Instinctively, I shoved Gato with all my strength and he landed with a thud, scurrying away almost immediately.\n**4** The cut was deep and bled profusely. After stopping the bleeding, we decided no stitches were required. Jane helped me treat and dress the wound while I insisted no amount of discomfort would interfere with our day's plans. Soon, I began searching for Gato.\n**5** \"Gato!\" I called several times, but there was no answer. The atmosphere in the house was heavy and I could not be certain of **whose guilt** I was reading. Finally, I found him huddling beneath the stairs, wide-eyed and trembling.\n**6** As I held Gato close, I felt his heart racing. Kissing him on the head, I whispered, \"It's alright. It was just an accident. I know you didn't mean to hurt me.\" I sat on the stairs holding and stroking him in my lap until he relaxed.\n**7** When he finally seemed to have gotten over it, I released him — and wondered, briefly, if I had done the same. I dashed to the store for some snacks and while waiting in line to pay, I met my neighbour who lived next door.\n**8** \"What happened to your arm?\" he asked, noting the bandage.\n**9** After I explained, he responded with a raised brow, \"Let me tell you one thing. If that had happened to me, it would be one dead cat! Accident or not!\"\n**10** I quickly left the store after paying, a sour taste in my mouth.\n**11** Several weeks later, the wound was completely healed. However, in its place was a prominent white curved scar — almost three inches in length. While many would wish for it to fade, I liked **the mark**.\n**12** I was reading in our room when Jane returned home from her piano lesson, throwing her bag down without a word. The moment she looked up and saw the book in my hand, the words flew out of her mouth.\n**13** \"I told you to use a bookmark! Why did you fold the pages? You know how much I love this book! This is exactly why I sometimes wonder if you even pay attention to anything I say! So much for being my sister.\"\n**14** I could feel the cutting words rising in my throat. However, the soft brushing of fur at my leg distracted me and I looked down. It was Gato, meowing nonchalantly, as if reminding me to remember. My right hand **traced the raised skin of the scar**.\n**15** The incident with Gato taught me that wounds seldom tell the whole story. His lashing out was **a reaction and not a malicious intent** — there is a difference between being the target and being the nearest thing at hand. People are not so different from animals in this way.\n**16** I took a slow breath and looked at Jane — **really looked at her** — and saw not anger but exhaustion behind her eyes. \"It's alright,\" I said softly. \"Do you want to talk about **it**?\"\n**17** A long silence passed before her shoulders dropped, as though something she had been carrying all day had finally been set down. \"I didn't mean what I said before. Everything had gone wrong during the piano lesson today and I've been feeling very stressed about the upcoming competition.\" Her eyes watered.\n**18** She walked over to me and took both my hands in hers. For a long moment she **simply held them and said nothing**. When she looked up, I knew I would never hold this incident against her.\nAdapted from The Scar by Kitty Chappell"
+    }
+  ],
+  "questions": [
+    {
+      "section": "a",
+      "number": 1,
+      "page": 2,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "grammar",
+      "subtypes": [
+        "prepositions"
+      ],
+      "stem": "Billy turned weak __________ the thought of speaking in front of his classmates for his 'Show and Tell'.",
+      "options": [
+        "at",
+        "on",
+        "with",
+        "over"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 1
+          },
+          "explanation": [
+            "'at the thought of' is a fixed phrase. It means 'when thinking about' something.",
+            "We use 'at' to show what causes a sudden feeling or reaction: shocked at the news, trembled at the sight of the dog, turned weak at the thought of speaking.",
+            "'with' is tempting because we say 'weak with fear' or 'weak with hunger', but there the word after 'with' is the feeling itself, not 'the thought of'.",
+            "The answer is option (1), at."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "1",
+        "solvedAnswer": "1",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 2,
+      "page": 2,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "grammar",
+      "subtypes": [
+        "quantifiers"
+      ],
+      "stem": "\"You may help yourself to all the food since there isn't __________ left on the table anyway,\" Mother told Sarah.",
+      "options": [
+        "any",
+        "little",
+        "much",
+        "many"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "'food' cannot be counted, and the verb is the singular 'isn't', so 'many' (for things we can count: many apples) is out.",
+            "In negative sentences we use 'much' with uncountable nouns: 'there isn't much left' means only a small amount is left. That is why Sarah may finish all of it.",
+            "'any' is tempting, but 'there isn't any left' means there is nothing at all on the table, so there would be no food for Sarah to help herself to.",
+            "'little' is not used after 'isn't' in this way (we say 'there is little left'). The answer is option (3), much."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 3,
+      "page": 2,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "grammar",
+      "subtypes": [
+        "connectors"
+      ],
+      "stem": "Patrick decided to go ahead with his trip __________ the weather forecast was unfavourable.",
+      "options": [
+        "as",
+        "until",
+        "because",
+        "although"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 4
+          },
+          "explanation": [
+            "Look at how the two halves are related. A bad weather forecast would normally make a person cancel a trip, but Patrick still went. The second half is a surprise, a contrast.",
+            "'although' joins two ideas that contrast: he went ahead although the forecast was bad.",
+            "'as' and 'because' give a reason, but a bad forecast is not a reason to go ahead. 'until' is about time.",
+            "The answer is option (4), although."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 4,
+      "page": 2,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "grammar",
+      "subtypes": [
+        "conditionals",
+        "tenses"
+      ],
+      "stem": "If I __________ that you were coming over, I would have rescheduled my appointment.",
+      "options": [
+        "know",
+        "knew",
+        "had known",
+        "have known"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "The main clause has 'would have rescheduled'. 'would have + past participle' talks about a past situation that did not happen.",
+            "Rule (third conditional): If + past perfect (had + past participle), ... would have + past participle.",
+            "So the 'if' part needs 'had known'. In real life the speaker did not know, and did not reschedule.",
+            "'knew' is tempting, but 'If I knew' pairs with 'I would reschedule' (an imagined present). The answer is option (3), had known."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 5,
+      "page": 3,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "grammar",
+      "subtypes": [
+        "pronouns"
+      ],
+      "stem": "\"Did you lock __________ out of the house again?\" Mrs Tan questioned her sons.",
+      "options": [
+        "himself",
+        "yourself",
+        "yourselves",
+        "themselves"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "When the doer and the receiver of an action are the same, we use a reflexive pronoun (-self or -selves) that matches the subject.",
+            "The subject is 'you'. Mrs Tan is speaking to 'her sons', which is more than one person, so 'you' is plural here.",
+            "The plural reflexive pronoun for 'you' is 'yourselves'. 'yourself' is for one person only.",
+            "'themselves' is tempting because of 'sons', but she is talking to them, not about them. The answer is option (3), yourselves."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 6,
+      "page": 3,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "grammar",
+      "subtypes": [
+        "relative-pronouns"
+      ],
+      "stem": "The professor __________ the principal introduced at the conference has won an international award.",
+      "options": [
+        "who",
+        "which",
+        "whom",
+        "whose"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "The blank starts a clause that tells us which professor. Inside that clause, 'the principal' is the subject (the doer) and the professor is the object: the principal introduced him.",
+            "Rule: use 'whom' when the person is the object of the clause, and 'who' when the person is the subject (the professor who spoke).",
+            "Test: the principal introduced 'him' (not 'he'), so we need 'whom'.",
+            "'which' is for things and 'whose' shows belonging. The answer is option (3), whom."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 7,
+      "page": 3,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "grammar",
+      "subtypes": [
+        "modals"
+      ],
+      "stem": "Everyone has submitted the project except Ryan. He __________ have forgotten the deadline.",
+      "options": [
+        "can",
+        "shall",
+        "could",
+        "should"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "The speaker does not know why Ryan has not submitted his project. He is making a guess about the past.",
+            "Rule: could / may / might + have + past participle shows that something possibly happened: 'He could have forgotten' means 'maybe he forgot'.",
+            "'should have forgotten' is tempting, but 'should have' means it was the right thing to do, and forgetting a deadline is not something a person ought to do.",
+            "'can have' and 'shall have' are not used to guess about the past. The answer is option (3), could."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 8,
+      "page": 3,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "grammar",
+      "subtypes": [
+        "question-tags"
+      ],
+      "stem": "\"They've left for Norway this morning, __________ they?\" Mariam asked.",
+      "options": [
+        "aren't",
+        "hadn't",
+        "weren't",
+        "haven't"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 4
+          },
+          "explanation": [
+            "Rule: a positive statement takes a negative question tag, and the tag repeats the helping verb of the statement.",
+            "\"They've left\" is short for 'They have left' (present perfect). The helping verb is 'have'.",
+            "So the tag is 'haven't they?'.",
+            "'hadn't' is tempting, but that would match \"They'd left\" (they had left). The answer is option (4), haven't."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 9,
+      "page": 3,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "grammar",
+      "subtypes": [
+        "infinitives-and-gerunds"
+      ],
+      "stem": "Dylan saw the Head Prefect __________ the latecomer's name into her notebook.",
+      "options": [
+        "write",
+        "wrote",
+        "writes",
+        "written"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 1
+          },
+          "explanation": [
+            "Rule: after verbs of the senses (see, hear, watch, feel, notice) + a person, use the base form of the verb (or the -ing form): 'I saw him run', 'She heard the baby cry'.",
+            "The first verb 'saw' already shows the past tense, so the second verb does not change.",
+            "'wrote' is tempting because the sentence is in the past, but only the first verb carries the tense.",
+            "'Dylan saw the Head Prefect write the latecomer's name.' The answer is option (1), write."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "1",
+        "solvedAnswer": "1",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 10,
+      "page": 4,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "grammar",
+      "subtypes": [
+        "subject-verb-agreement",
+        "tenses"
+      ],
+      "stem": "The group of researchers, together with their assistants, __________ several experiments since the beginning of the year.",
+      "options": [
+        "conduct",
+        "conducts",
+        "has conducted",
+        "have conducted"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "Tense: 'since the beginning of the year' tells us the action started in the past and continues up to now. That needs the present perfect (has/have + past participle), so 'conduct' and 'conducts' are out.",
+            "Agreement: find the real subject. It is 'The group', which is one group, so it is singular. 'of researchers' only describes the group.",
+            "The phrase between the commas, 'together with their assistants', is extra information and does not change the subject.",
+            "A singular subject takes 'has'. 'have conducted' is tempting because of the plural words 'researchers' and 'assistants'. The answer is option (3), has conducted."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 11,
+      "page": 4,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "vocabulary",
+      "subtypes": [
+        "word-meaning",
+        "collocation"
+      ],
+      "stem": "Mei Ling's interest in ballet began to __________ ever since her cousin introduced her to inline skating.",
+      "options": [
+        "drop",
+        "wane",
+        "plunge",
+        "plummet"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "Clue: 'began to' tells us the change was slow and gradual. She found a new hobby, so her interest in ballet slowly became weaker.",
+            "'wane' means to become gradually weaker or smaller. It is the usual word for interest, enthusiasm or popularity: 'her interest began to wane'.",
+            "'plunge' and 'plummet' mean to fall suddenly and steeply, and are used for prices, numbers or temperatures. They do not fit with a slow change.",
+            "'drop' is tempting, but it is used for amounts and levels rather than for a person's interest fading. The answer is option (2), wane."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 12,
+      "page": 4,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "vocabulary",
+      "subtypes": [
+        "word-meaning"
+      ],
+      "stem": "The __________ determination of the athletes had earned them great respect from the spectators.",
+      "options": [
+        "unthinking",
+        "underlying",
+        "unwavering",
+        "unassuming"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "Clue: the determination 'earned them great respect', so we need a word that praises how strong it was.",
+            "'unwavering' means steady and never weakening. To waver is to become unsure, so 'unwavering determination' never gives way.",
+            "'unassuming' is tempting because it is also praise, but it means modest and not showing off, and describes a person, not determination.",
+            "'unthinking' means careless, and 'underlying' means hidden beneath the surface. The answer is option (3), unwavering."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 13,
+      "page": 4,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "vocabulary",
+      "subtypes": [
+        "word-meaning"
+      ],
+      "stem": "The progress of the rescue mission at the site of the earthquake was __________ by the heavy downpour.",
+      "options": [
+        "inflicted",
+        "impeded",
+        "impaired",
+        "influenced"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "Clue: heavy rain makes rescue work harder, so the progress was slowed down or blocked.",
+            "'impede' means to slow down or get in the way of movement or progress. 'Progress was impeded' is a common pairing.",
+            "'impaired' is tempting, but it means weakened or damaged, and is used for abilities such as eyesight, hearing or judgement, not for progress.",
+            "'inflicted' is used for causing pain or damage to someone (inflict harm on), and 'influenced' is too weak. The answer is option (2), impeded."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 14,
+      "page": 5,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "vocabulary",
+      "subtypes": [
+        "word-meaning"
+      ],
+      "stem": "Chantal had the __________ to meet the members of the boy band as she had won the backstage pass in a lucky draw.",
+      "options": [
+        "right",
+        "privilege",
+        "advantage",
+        "entitlement"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "Clue: she got to meet the band only because she was lucky enough to win a backstage pass. Most fans do not get this chance.",
+            "A 'privilege' is a special chance or benefit that only a few people get.",
+            "'right' is tempting, but a right is something everyone is allowed to have, such as the right to go to school. 'entitlement' is also something a person is owed.",
+            "An 'advantage' is something that helps you do better than others, as in a race. The answer is option (2), privilege."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 15,
+      "page": 5,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "vocabulary",
+      "subtypes": [
+        "idioms"
+      ],
+      "stem": "I suggest you bury the __________ and be friends again with Rani since you value her friendship.",
+      "options": [
+        "mallet",
+        "dagger",
+        "hatchet",
+        "hammer"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "'bury the hatchet' is an idiom. It means to end a quarrel and make peace.",
+            "Clue: 'be friends again with Rani' shows the two had quarrelled and should now make up.",
+            "A hatchet is a small axe. Long ago, some Native American tribes buried their weapons in the ground to show that the fighting was over.",
+            "The other tools are not part of any such idiom. The answer is option (3), hatchet."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 16,
+      "page": 6,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "vocabulary-cloze",
+      "subtypes": [
+        "word-meaning"
+      ],
+      "group": "g1",
+      "stem": "Choose the word closest in meaning to ++quandary++.",
+      "options": [
+        "state",
+        "mess",
+        "dilemma",
+        "confusion"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "A 'quandary' is a difficult situation in which you do not know what to do.",
+            "Clues in the passage: 'no sight of land' and 'food supplies running low'. The captain had a hard problem with no easy choice.",
+            "'dilemma' means a situation where a difficult choice has to be made, which matches.",
+            "'confusion' is tempting, but it is about not understanding something. The captain understood the problem well; what he lacked was a good way out. The answer is option (3)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 17,
+      "page": 6,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "vocabulary-cloze",
+      "subtypes": [
+        "word-meaning"
+      ],
+      "group": "g1",
+      "stem": "Choose the word closest in meaning to ++floundered++.",
+      "options": [
+        "stirred",
+        "waded",
+        "splashed",
+        "struggled"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 4
+          },
+          "explanation": [
+            "To 'flounder' in water is to move about helplessly, struggling to stay afloat.",
+            "Clues: the man 'fell overboard' and 'Thankfully, he was rescued', so he was in danger and could not save himself.",
+            "'struggled' means tried very hard with great difficulty, which matches.",
+            "'splashed' is tempting because a struggling person splashes, but splashing can also be playful and does not show difficulty. 'waded' means walked through shallow water. The answer is option (4)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 18,
+      "page": 6,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "vocabulary-cloze",
+      "subtypes": [
+        "word-meaning"
+      ],
+      "group": "g1",
+      "stem": "Choose the word closest in meaning to ++murky++.",
+      "options": [
+        "sandy",
+        "cloudy",
+        "mouldy",
+        "shabby"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "'murky' water is dark and dirty, so that it is hard to see through.",
+            "Clue: 'with poor visibility in the night'. They could not see clearly.",
+            "'cloudy' can describe a liquid that is not clear, so it is the closest.",
+            "'mouldy' is tempting because it also sounds dirty, but it describes old food or damp things with mould growing on them. The answer is option (2)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 19,
+      "page": 7,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "vocabulary-cloze",
+      "subtypes": [
+        "word-meaning"
+      ],
+      "group": "g1",
+      "stem": "Choose the word closest in meaning to ++alarming++.",
+      "options": [
+        "hurting",
+        "shocking",
+        "wounding",
+        "damaging"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "'alarming' means causing sudden worry or fear.",
+            "The word describes how the effect made Colt feel when he saw his crew fall ill with high fevers. It was frightening enough for him to decide to leave the island.",
+            "'shocking' means causing a strong feeling of surprise and upset, which is the closest.",
+            "'damaging' is tempting because the disease did harm the crew, but 'alarming' is about the worry it causes, not the harm itself. The answer is option (2)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 20,
+      "page": 7,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "vocabulary-cloze",
+      "subtypes": [
+        "word-meaning"
+      ],
+      "group": "g1",
+      "stem": "Choose the word closest in meaning to ++revived++.",
+      "options": [
+        "replaced",
+        "renewed",
+        "reinstated",
+        "reinforced"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "To 'revive' something is to bring it back to life or make it strong again after it had faded.",
+            "The sick crew had been losing hope. Colt's decision to leave the island gave them hope again.",
+            "'renewed' means made fresh and strong again, which matches.",
+            "'reinforced' is tempting, but it means made something that is already there even stronger. Their hopes had been fading, so they needed to be brought back, not just strengthened. The answer is option (2)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 21,
+      "page": 10,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "visual-text",
+      "subtypes": [
+        "factual"
+      ],
+      "group": "g2",
+      "stem": "Which of the following is true about the launch?",
+      "options": [
+        "Reservations for the shoes can be made online.",
+        "Only a limited number of shoes will be available.",
+        "Anyone can purchase the shoes on 12 December.",
+        "Falcon shoes will be sold at all Sports House outlets."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "Check each statement against the poster (Text 1).",
+            "The poster says 'Only 100 pairs!' A fixed, small number means the supply is limited, so statement (2) is true.",
+            "(1) is false: 'No reservations for customers or online purchases.' (3) is false: the launch is 'Exclusively for Sports House members'. (4) is false: it is only 'at the Vista City Outlet'.",
+            "The answer is option (2)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 22,
+      "page": 10,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "visual-text",
+      "subtypes": [
+        "inference",
+        "purpose-and-audience"
+      ],
+      "group": "g2",
+      "stem": "Why is the shoe shown in this manner in the poster?",
+      "options": [
+        "to highlight a new design",
+        "to emphasise how light it is",
+        "to draw attention to its shape",
+        "to show how durable the sole is"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "Look at the picture: the shoe is tilted as if lifting off the ground, with feather-like wing lines rising from the heel.",
+            "Link it to the words around it: the shoe is called the FALCON (a fast bird) and the slogan is 'DON'T RUN, FLY!'",
+            "Something that can fly must be very light. The picture matches feature A, Lightweight: 'Makes running easier and faster'.",
+            "Nothing in the picture is about the sole lasting long, and the poster does not say the design or shape is new. The answer is option (2)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 23,
+      "page": 10,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "visual-text",
+      "subtypes": [
+        "inference"
+      ],
+      "group": "g2",
+      "stem": "Linda often experiences pain in her ankle and prefers to run in the evenings. Based on the information in Text 1, which features of the shoes would be most important for her?",
+      "options": [
+        "A and B",
+        "A and E",
+        "D and F",
+        "E and F"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "Pick out Linda's two needs: she has ankle pain, and she runs in the evenings.",
+            "Running in the evenings means low light. Feature D, Visibility: 'Reflective materials keep you visible in low light'.",
+            "Ankle pain means she must avoid hurting herself further. Feature F, Support: 'Provides stability for injury-free running'.",
+            "B (Cushioned Comfort) is tempting, but the poster says it keeps the feet free from blisters, not that it protects the ankle. The answer is option (3), D and F."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 24,
+      "page": 10,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "visual-text",
+      "subtypes": [
+        "purpose-and-audience"
+      ],
+      "group": "g2",
+      "stem": "What kind of poster is shown in Text 1?",
+      "options": [
+        "educational",
+        "promotional",
+        "motivational",
+        "informational"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "Ask what the poster wants the reader to do. It invites people to 'Join us for the sales launch' and gives a price, a date and a place to buy the shoes.",
+            "A poster that tries to get people to buy a product or attend a sale is promotional.",
+            "'informational' is tempting because the poster does give information, but the information is there to sell the shoes, with a catchy slogan and 'Only 100 pairs!' to create excitement.",
+            "It does not teach a topic (educational) or encourage people to keep going (motivational). The answer is option (2), promotional."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 25,
+      "page": 10,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "visual-text",
+      "subtypes": [
+        "purpose-and-audience",
+        "inference"
+      ],
+      "group": "g2",
+      "stem": "Both the descriptions for the shoe in Text 1 and the content of Text 2 __________.",
+      "options": [
+        "advertise the latest running shoes",
+        "offer tips on how to select running shoes",
+        "compare different features of running shoes",
+        "highlight the importance of quality running shoes"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 4
+          },
+          "explanation": [
+            "The answer must be true of both texts, so test each option against Text 1 and Text 2.",
+            "Text 1's feature boxes say what a good shoe does for the runner: makes running easier, protects the feet, gives 'stability for injury-free running'. Text 2 says good shoes 'play a key role in helping runners perform well and in preventing injuries'. Both show why good shoes matter.",
+            "(1) fits only Text 1; Text 2 is an article and does not advertise any shoe. (2) is tempting, but neither text tells the reader how to choose a pair. (3) is wrong because the features are listed, not compared.",
+            "The answer is option (4)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified",
+        "note": "The option number '2' inside the brackets of the second option is missing in the scan; the options are in the printed order (1) to (4)."
+      }
+    },
+    {
+      "section": "b",
+      "number": 26,
+      "page": 14,
+      "format": "short",
+      "marks": 1,
+      "topic": "grammar-cloze",
+      "subtypes": [
+        "pronouns",
+        "articles-and-determiners"
+      ],
+      "group": "g3",
+      "stem": "Choose the most suitable word for blank (26). (Type its letter, A to Q.)",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "M",
+            "accept": [
+              "m",
+              "this"
+            ]
+          },
+          "explanation": [
+            "The blank is the subject of 'is true'. It must point back to the idea in the question before it: a home feeling warmer than the weather outside.",
+            "'this' is used to point back to a whole idea that has just been mentioned.",
+            "'it' is tempting, but 'it' is needed for blank (29), and each word can be used only once. 'this' is also the better word for referring to a whole situation.",
+            "The answer is (M) this: 'A recent study has found that this is true for many HDB flats'."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "M",
+        "solvedAnswer": "M (this)",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 27,
+      "page": 14,
+      "format": "short",
+      "marks": 1,
+      "topic": "grammar-cloze",
+      "subtypes": [
+        "connectors"
+      ],
+      "group": "g3",
+      "stem": "Choose the most suitable word for blank (27). (Type its letter, A to Q.)",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "K",
+            "accept": [
+              "k",
+              "than"
+            ]
+          },
+          "explanation": [
+            "'hotter' is a comparative adjective (hot, hotter).",
+            "Rule: a comparative is followed by 'than' when two things are compared: hotter than, taller than.",
+            "Here the homes are compared with the outdoor environment. The first sentence has the same pattern: 'warmer than the weather outside'.",
+            "The answer is (K) than."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "K",
+        "solvedAnswer": "K (than)",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 28,
+      "page": 14,
+      "format": "short",
+      "marks": 1,
+      "topic": "grammar-cloze",
+      "subtypes": [
+        "prepositions"
+      ],
+      "group": "g3",
+      "stem": "Choose the most suitable word for blank (28). (Type its letter, A to Q.)",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "H",
+            "accept": [
+              "h",
+              "of"
+            ]
+          },
+          "explanation": [
+            "'pieces ___ furniture': 'furniture' cannot be counted, so we count it in pieces.",
+            "Rule: a piece of + uncountable noun: a piece of furniture, a piece of advice, large pieces of furniture.",
+            "The answer is (H) of."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "H",
+        "solvedAnswer": "H (of)",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 29,
+      "page": 14,
+      "format": "short",
+      "marks": 1,
+      "topic": "grammar-cloze",
+      "subtypes": [
+        "pronouns"
+      ],
+      "group": "g3",
+      "stem": "Choose the most suitable word for blank (29). (Type its letter, A to Q.)",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "G",
+            "accept": [
+              "g",
+              "it"
+            ]
+          },
+          "explanation": [
+            "'absorb heat during the day and slowly release ___ at night': the blank is the object of 'release'. What is released? The heat.",
+            "'heat' is uncountable and singular, so the pronoun is 'it'.",
+            "'them' is tempting because 'walls and floors' are plural, but the walls and floors are doing the releasing; they are not the thing released.",
+            "The answer is (G) it."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "G",
+        "solvedAnswer": "G (it)",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 30,
+      "page": 14,
+      "format": "short",
+      "marks": 1,
+      "topic": "grammar-cloze",
+      "subtypes": [
+        "connectors"
+      ],
+      "group": "g3",
+      "stem": "Choose the most suitable word for blank (30). (Type its letter, A to Q.)",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "D",
+            "accept": [
+              "d",
+              "after"
+            ]
+          },
+          "explanation": [
+            "'making homes feel warm even ___ the sun has set': we need a time word that joins the two clauses.",
+            "The walls release heat at night, which is later than sunset. The homes stay warm 'even after' the sun has gone down.",
+            "'before' would not make sense: it is no surprise that a home is warm before the sun sets, so 'even' would have no meaning.",
+            "The answer is (D) after."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "D",
+        "solvedAnswer": "D (after)",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 31,
+      "page": 14,
+      "format": "short",
+      "marks": 1,
+      "topic": "grammar-cloze",
+      "subtypes": [
+        "articles-and-determiners"
+      ],
+      "group": "g3",
+      "stem": "Choose the most suitable word for blank (31). (Type its letter, A to Q.)",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "B",
+            "accept": [
+              "b",
+              "an"
+            ]
+          },
+          "explanation": [
+            "'can be ___ uncomfortable experience': 'experience' is a singular countable noun, so it needs an article.",
+            "Rule: use 'an' before a vowel sound and 'a' before a consonant sound. The next word, 'uncomfortable', begins with the vowel sound 'uh'.",
+            "So we need 'an', not 'a'.",
+            "The answer is (B) an."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "B",
+        "solvedAnswer": "B (an)",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 32,
+      "page": 14,
+      "format": "short",
+      "marks": 1,
+      "topic": "grammar-cloze",
+      "subtypes": [
+        "pronouns"
+      ],
+      "group": "g3",
+      "stem": "Choose the most suitable word for blank (32). (Type its letter, A to Q.)",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "P",
+            "accept": [
+              "p",
+              "who"
+            ]
+          },
+          "explanation": [
+            "'The elderly and families ___ do not use air-conditioning often find it challenging': the blank starts a clause that tells us which people.",
+            "Rule: use the relative pronoun 'who' for people when they are the subject of the clause (they do not use air-conditioning).",
+            "'which' is for things and animals, so it does not fit 'the elderly and families'.",
+            "The answer is (P) who."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "P",
+        "solvedAnswer": "P (who)",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 33,
+      "page": 14,
+      "format": "short",
+      "marks": 1,
+      "topic": "grammar-cloze",
+      "subtypes": [
+        "connectors"
+      ],
+      "group": "g3",
+      "stem": "Choose the most suitable word for blank (33). (Type its letter, A to Q.)",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "F",
+            "accept": [
+              "f",
+              "however"
+            ]
+          },
+          "explanation": [
+            "The blank starts a sentence and is followed by a comma, so it is a linking word.",
+            "The sentence before is about a problem (it is hard to cope with the heat). This sentence gives good news (there are several ways to cool homes). The ideas contrast.",
+            "'However,' shows a contrast with the sentence before.",
+            "The answer is (F) however."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "F",
+        "solvedAnswer": "F (however)",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 34,
+      "page": 14,
+      "format": "short",
+      "marks": 1,
+      "topic": "grammar-cloze",
+      "subtypes": [
+        "connectors"
+      ],
+      "group": "g3",
+      "stem": "Choose the most suitable word for blank (34). (Type its letter, A to Q.)",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "C",
+            "accept": [
+              "c",
+              "also"
+            ]
+          },
+          "explanation": [
+            "'Using fans wisely can ___ help circulate cooler air': the sentence is complete without the blank, so we need an adverb that sits between 'can' and 'help'.",
+            "The sentence before gives one way to cool the home (open windows and remove clutter). This sentence adds another way.",
+            "'also' adds a point and goes after the helping verb: can also help.",
+            "The answer is (C) also."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "C",
+        "solvedAnswer": "C (also)",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 35,
+      "page": 14,
+      "format": "short",
+      "marks": 1,
+      "topic": "grammar-cloze",
+      "subtypes": [
+        "verb-forms"
+      ],
+      "group": "g3",
+      "stem": "Choose the most suitable word for blank (35). (Type its letter, A to Q.)",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "Q",
+            "accept": [
+              "q",
+              "will"
+            ]
+          },
+          "explanation": [
+            "'keeping homes cool ___ become increasingly important': the verb after the blank is the base form 'become', not 'becomes'.",
+            "A base form follows a helping verb such as will, can or must.",
+            "'As Singapore's weather becomes warmer' looks ahead to the future, so we use 'will': keeping homes cool will become increasingly important.",
+            "The answer is (Q) will."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "Q",
+        "solvedAnswer": "Q (will)",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 36,
+      "page": 15,
+      "format": "short",
+      "marks": 1,
+      "topic": "editing",
+      "subtypes": [
+        "spelling"
+      ],
+      "group": "g4",
+      "stem": "Write the correct word for (36) ++receeved++.",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "received"
+          },
+          "explanation": [
+            "This is a spelling error. The word means 'got' or 'was given'.",
+            "Rule: 'i before e, except after c'. After the letter c, the long 'ee' sound is spelt 'ei': receive, ceiling, deceive.",
+            "re-cei-ved: 'cei', not 'cee'.",
+            "The correct word is 'received'."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "received",
+        "solvedAnswer": "received",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 37,
+      "page": 15,
+      "format": "short",
+      "marks": 1,
+      "topic": "editing",
+      "subtypes": [
+        "grammar"
+      ],
+      "group": "g4",
+      "stem": "Write the correct word for (37) ++on++.",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "in"
+          },
+          "explanation": [
+            "This is a grammar error: the wrong preposition.",
+            "Rule: use 'in' for countries, cities and other large places (in Poland, in Singapore). Use 'on' for days and dates (on November 7).",
+            "The sentence has both: 'born in Poland on November 7, 1867'.",
+            "The correct word is 'in'."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "in",
+        "solvedAnswer": "in",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 38,
+      "page": 15,
+      "format": "short",
+      "marks": 1,
+      "topic": "editing",
+      "subtypes": [
+        "spelling"
+      ],
+      "group": "g4",
+      "stem": "Write the correct word for (38) ++aloudd++.",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "allowed"
+          },
+          "explanation": [
+            "This is a spelling error. The sentence means girls were not permitted to study at the university.",
+            "The word is 'allowed' (allow + ed), with double 'l' and 'ow'.",
+            "Do not mix it up with 'aloud', which sounds the same but means 'in a voice that can be heard' (read aloud).",
+            "The correct word is 'allowed'."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "allowed",
+        "solvedAnswer": "allowed",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 39,
+      "page": 15,
+      "format": "short",
+      "marks": 1,
+      "topic": "editing",
+      "subtypes": [
+        "grammar"
+      ],
+      "group": "g4",
+      "stem": "Write the correct word for (39) ++other++.",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "another"
+          },
+          "explanation": [
+            "This is a grammar error. 'country' is a singular countable noun, so it needs a determiner such as 'a' or 'another' in front of it.",
+            "Rule: another + singular noun (another country); other + plural noun (other countries).",
+            "'another' means one more, or a different one.",
+            "The correct word is 'another'."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "another",
+        "solvedAnswer": "another",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 40,
+      "page": 15,
+      "format": "short",
+      "marks": 1,
+      "topic": "editing",
+      "subtypes": [
+        "spelling"
+      ],
+      "group": "g4",
+      "stem": "Write the correct word for (40) ++persoo++.",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "pursue"
+          },
+          "explanation": [
+            "This is a spelling error. The word means to work hard to achieve something: to pursue a dream.",
+            "It is spelt p-u-r-s-u-e: 'pur', not 'per', and it ends in 'sue'.",
+            "It comes after 'to continue studying and ...', so it stays in the base form, like 'continue'.",
+            "The correct word is 'pursue'."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "pursue",
+        "solvedAnswer": "pursue",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 41,
+      "page": 15,
+      "format": "short",
+      "marks": 1,
+      "topic": "editing",
+      "subtypes": [
+        "spelling"
+      ],
+      "group": "g4",
+      "stem": "Write the correct word for (41) ++deturminasion++.",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "determination"
+          },
+          "explanation": [
+            "This is a spelling error. The word means the quality of not giving up.",
+            "Start from the verb 'determine' and add '-ation': de-ter-mi-na-tion.",
+            "It has 'ter', not 'tur', and the 'shun' sound at the end is spelt '-tion'.",
+            "The correct word is 'determination'."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "determination",
+        "solvedAnswer": "determination",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 42,
+      "page": 15,
+      "format": "short",
+      "marks": 1,
+      "topic": "editing",
+      "subtypes": [
+        "grammar"
+      ],
+      "group": "g4",
+      "stem": "Write the correct word for (42) ++accurately++.",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "accurate"
+          },
+          "explanation": [
+            "This is a grammar error: the wrong word form.",
+            "The word describes 'pictures', which is a noun. A word that describes a noun must be an adjective.",
+            "'accurately' is an adverb (it describes a verb: measure accurately). The adjective is 'accurate'.",
+            "'more accurate pictures'. The correct word is 'accurate'."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "accurate",
+        "solvedAnswer": "accurate",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 43,
+      "page": 15,
+      "format": "short",
+      "marks": 1,
+      "topic": "editing",
+      "subtypes": [
+        "grammar"
+      ],
+      "group": "g4",
+      "stem": "Write the correct word for (43) ++In++.",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "To"
+          },
+          "explanation": [
+            "This is a grammar error: the wrong preposition in a fixed phrase.",
+            "'To this day' means 'even now, after all this time'.",
+            "'In this day and age' is a different phrase that means 'in modern times', and it does not fit here.",
+            "The correct word is 'To'."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "To",
+        "solvedAnswer": "To",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 44,
+      "page": 15,
+      "format": "short",
+      "marks": 1,
+      "topic": "editing",
+      "subtypes": [
+        "spelling"
+      ],
+      "group": "g4",
+      "stem": "Write the correct word for (44) ++xtraordinery++.",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "extraordinary"
+          },
+          "explanation": [
+            "This is a spelling error. The word means very unusual and impressive.",
+            "It is made of two words joined together: extra + ordinary (beyond the ordinary).",
+            "So it starts with 'e' and ends in '-ary', like 'ordinary'.",
+            "The correct word is 'extraordinary'."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "extraordinary",
+        "solvedAnswer": "extraordinary",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 45,
+      "page": 15,
+      "format": "short",
+      "marks": 1,
+      "topic": "editing",
+      "subtypes": [
+        "grammar"
+      ],
+      "group": "g4",
+      "stem": "Write the correct word for (45) ++successes++.",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "success"
+          },
+          "explanation": [
+            "This is a grammar error. Look at the verb that follows: 'does not come'.",
+            "'does' is a singular verb, so the subject must be singular.",
+            "When we speak about success in general, it is an uncountable noun and has no plural ending.",
+            "'success does not come easily'. The correct word is 'success'."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "success",
+        "solvedAnswer": "success",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 46,
+      "page": 16,
+      "format": "short",
+      "marks": 1,
+      "topic": "comprehension-cloze",
+      "subtypes": [
+        "contextual-vocabulary",
+        "verb-forms"
+      ],
+      "group": "g5",
+      "stem": "Fill in blank (46) with a suitable word.",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "gather",
+            "accept": [
+              "sit",
+              "crowd"
+            ]
+          },
+          "explanation": [
+            "The blank is the verb for 'children and adults'. They do something 'around chessboards' in order to play each other.",
+            "'gather around' means to come together around something. 'sit around' and 'crowd around' also fit.",
+            "The subject is plural and the paragraph is in the present tense ('Some play for fun'), so use the base form: gather, not gathers or gathered.",
+            "The answer is 'gather'."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "sit / crowd / gather",
+        "solvedAnswer": "gather",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 47,
+      "page": 16,
+      "format": "short",
+      "marks": 1,
+      "topic": "comprehension-cloze",
+      "subtypes": [
+        "connectors"
+      ],
+      "group": "g5",
+      "stem": "Fill in blank (47) with a suitable word.",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "while",
+            "accept": [
+              "whereas"
+            ]
+          },
+          "explanation": [
+            "Two groups of players are compared in one sentence: 'Some play for fun' and 'others train hard for competitions'.",
+            "We need a connector that joins two clauses and shows a contrast between them.",
+            "'while' does this: Some play for fun, while others train hard.",
+            "The answer is 'while'."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "while",
+        "solvedAnswer": "while",
+        "status": "verified",
+        "note": "'whereas' has the same meaning and grammar as 'while' here and is added to the accepted answers; the key lists only 'while'."
+      }
+    },
+    {
+      "section": "b",
+      "number": 48,
+      "page": 16,
+      "format": "short",
+      "marks": 1,
+      "topic": "comprehension-cloze",
+      "subtypes": [
+        "verb-forms"
+      ],
+      "group": "g5",
+      "stem": "Fill in blank (48) with a suitable word.",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "is",
+            "accept": [
+              "seems",
+              "feels"
+            ]
+          },
+          "explanation": [
+            "'every game ___ different': the clause has no verb, so the blank is a linking verb.",
+            "'every game' is singular, and the sentence is in the present tense ('the rules ... are simple').",
+            "So we need 'is'. 'seems' and 'feels' are also accepted.",
+            "The answer is 'is'."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "is / seems / feels",
+        "solvedAnswer": "is",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 49,
+      "page": 16,
+      "format": "short",
+      "marks": 1,
+      "topic": "comprehension-cloze",
+      "subtypes": [
+        "contextual-vocabulary"
+      ],
+      "group": "g5",
+      "stem": "Fill in blank (49) with a suitable word.",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "games"
+          },
+          "explanation": [
+            "'one of the world's oldest ___': after 'one of the' we always use a plural noun (one of the tallest buildings).",
+            "What is chess? The passage calls it a 'game' several times.",
+            "So chess is one of the world's oldest games.",
+            "The answer is 'games' (plural)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "games",
+        "solvedAnswer": "games",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 50,
+      "page": 16,
+      "format": "short",
+      "marks": 1,
+      "topic": "comprehension-cloze",
+      "subtypes": [
+        "connectors"
+      ],
+      "group": "g5",
+      "stem": "Fill in blank (50) with a suitable word.",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "where",
+            "accept": [
+              "how"
+            ]
+          },
+          "explanation": [
+            "'no one knows exactly when or ___ it began': the blank is a question word paired with 'when'.",
+            "The next sentence answers both: 'chess started in northwestern India (where) around 600 A.D. (when)'.",
+            "So the pair is 'when or where'.",
+            "The answer is 'where'."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "where",
+        "solvedAnswer": "where",
+        "status": "verified",
+        "note": "'how' also completes the sentence sensibly ('when or how it began') and is added to the accepted answers; the key lists only 'where', which fits the next sentence best."
+      }
+    },
+    {
+      "section": "b",
+      "number": 51,
+      "page": 16,
+      "format": "short",
+      "marks": 1,
+      "topic": "comprehension-cloze",
+      "subtypes": [
+        "contextual-vocabulary"
+      ],
+      "group": "g5",
+      "stem": "Fill in blank (51) with a suitable word.",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "word",
+            "accept": [
+              "term"
+            ]
+          },
+          "explanation": [
+            "'chaturanga', a Sanskrit ___ that refers to the four parts of the ancient Indian army': the blank says what 'chaturanga' is.",
+            "Sanskrit is an ancient Indian language, and 'chaturanga' is in quotation marks because it is a word from that language.",
+            "A word 'refers to' something, so 'a Sanskrit word' fits. 'term' means the same.",
+            "The answer is 'word'."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "word / term",
+        "solvedAnswer": "word",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 52,
+      "page": 16,
+      "format": "short",
+      "marks": 1,
+      "topic": "comprehension-cloze",
+      "subtypes": [
+        "pronouns"
+      ],
+      "group": "g5",
+      "stem": "Fill in blank (52) with a suitable word.",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "These",
+            "accept": [
+              "they"
+            ]
+          },
+          "explanation": [
+            "The blank is the subject of 'later inspired the pieces used in modern chess'.",
+            "What inspired the chess pieces? The four parts of the army just listed: soldiers, chariots, horsemen and elephants.",
+            "We need a plural word that points back to them: 'These' or 'They'.",
+            "The answer is 'These'. Begin with a capital letter because it starts the sentence."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "They / these",
+        "solvedAnswer": "These",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 53,
+      "page": 16,
+      "format": "short",
+      "marks": 1,
+      "topic": "comprehension-cloze",
+      "subtypes": [
+        "contextual-vocabulary",
+        "verb-forms"
+      ],
+      "group": "g5",
+      "stem": "Fill in blank (53) with a suitable word.",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "spread",
+            "accept": [
+              "travelled",
+              "traveled",
+              "moved"
+            ]
+          },
+          "explanation": [
+            "'As the game ___ to different parts of the world': the game started in India and reached other countries.",
+            "'spread to' means to reach more and more places.",
+            "The rest of the sentence is in the past tense ('its rules gradually changed'). The past tense of 'spread' is also 'spread'. 'travelled' is accepted too.",
+            "The answer is 'spread'."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "spread / travelled",
+        "solvedAnswer": "spread",
+        "status": "verified",
+        "note": "'moved' (moved to different parts of the world) and the spelling 'traveled' are added to the accepted answers."
+      }
+    },
+    {
+      "section": "b",
+      "number": 54,
+      "page": 16,
+      "format": "short",
+      "marks": 1,
+      "topic": "comprehension-cloze",
+      "subtypes": [
+        "prepositions"
+      ],
+      "group": "g5",
+      "stem": "Fill in blank (54) with a suitable word.",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "into"
+          },
+          "explanation": [
+            "'its rules gradually changed and developed ___ the modern chess we know today'.",
+            "'develop into' means to slowly change and become something else: A caterpillar develops into a butterfly.",
+            "The old game became modern chess.",
+            "The answer is 'into'."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "into",
+        "solvedAnswer": "into",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 55,
+      "page": 16,
+      "format": "short",
+      "marks": 1,
+      "topic": "comprehension-cloze",
+      "subtypes": [
+        "contextual-vocabulary"
+      ],
+      "group": "g5",
+      "stem": "Fill in blank (55) with a suitable word.",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "meticulous",
+            "accept": [
+              "careful",
+              "thorough"
+            ]
+          },
+          "explanation": [
+            "'Every move requires ___ planning because one wrong decision can change the outcome.'",
+            "If one mistake can change the result, the planning must be done with great care. We need an adjective that describes such planning.",
+            "'meticulous' means very careful and paying attention to every detail. 'careful' has the same meaning and also fits.",
+            "The answer is 'meticulous'."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "meticulous",
+        "solvedAnswer": "careful",
+        "status": "verified",
+        "note": "The key gives only 'meticulous'. 'careful' (the solved answer) and 'thorough' carry the same meaning and fit the sentence, so they are added to the accepted answers. A school marker may be stricter."
+      }
+    },
+    {
+      "section": "b",
+      "number": 56,
+      "page": 16,
+      "format": "short",
+      "marks": 1,
+      "topic": "comprehension-cloze",
+      "subtypes": [
+        "contextual-vocabulary",
+        "verb-forms"
+      ],
+      "group": "g5",
+      "stem": "Fill in blank (56) with a suitable word.",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "remain",
+            "accept": [
+              "stay",
+              "keep"
+            ]
+          },
+          "explanation": [
+            "'it teaches them to solve problems and ___ calm under pressure': the blank is a verb joined by 'and' to 'solve', so it is in the base form too.",
+            "The verb is followed by the adjective 'calm'. 'remain calm' and 'stay calm' mean to continue to be calm.",
+            "Do not write 'be' if you can think of a more exact word; 'remain' shows that the player keeps calm even when things get tense.",
+            "The answer is 'remain'."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "remain / stay",
+        "solvedAnswer": "remain",
+        "status": "verified",
+        "note": "'keep' (keep calm under pressure) is a standard expression with the same meaning and is added to the accepted answers."
+      }
+    },
+    {
+      "section": "b",
+      "number": 57,
+      "page": 16,
+      "format": "short",
+      "marks": 1,
+      "topic": "comprehension-cloze",
+      "subtypes": [
+        "contextual-vocabulary"
+      ],
+      "group": "g5",
+      "stem": "Fill in blank (57) with a suitable word.",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "children",
+            "accept": [
+              "youths",
+              "kids"
+            ]
+          },
+          "explanation": [
+            "Look at the next sentence: 'For adults, it keeps the mind active'. The two sentences are a pair: 'For ___, chess helps ...' and 'For adults, ...'.",
+            "The first paragraph names the two groups of players: 'children and adults'.",
+            "So the blank is the other group: children.",
+            "The answer is 'children'."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "children / youths",
+        "solvedAnswer": "children",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 58,
+      "page": 16,
+      "format": "short",
+      "marks": 1,
+      "topic": "comprehension-cloze",
+      "subtypes": [
+        "connectors"
+      ],
+      "group": "g5",
+      "stem": "Fill in blank (58) with a suitable word.",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "only",
+            "accept": [
+              "just"
+            ]
+          },
+          "explanation": [
+            "Look for the partner words later in the sentence: 'not ___ on the chessboard, but also in everyday life'.",
+            "'not only ... but also ...' is a fixed pair used to add a second point.",
+            "'not just ... but also' is accepted too.",
+            "The answer is 'only'."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "only / just",
+        "solvedAnswer": "only",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 59,
+      "page": 16,
+      "format": "short",
+      "marks": 1,
+      "topic": "comprehension-cloze",
+      "subtypes": [
+        "contextual-vocabulary"
+      ],
+      "group": "g5",
+      "stem": "Fill in blank (59) with a suitable word.",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "together",
+            "accept": [
+              "closer"
+            ]
+          },
+          "explanation": [
+            "'chess has a unique way of bringing people ___.'",
+            "The rest of the paragraph explains: children play with parents and grandparents, and 'families can bond'.",
+            "'bring people together' is a set phrase that means to help people become close.",
+            "The answer is 'together'."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "together",
+        "solvedAnswer": "together",
+        "status": "verified",
+        "note": "'closer' (bringing people closer) has the same meaning and is added to the accepted answers; the key lists only 'together'."
+      }
+    },
+    {
+      "section": "b",
+      "number": 60,
+      "page": 16,
+      "format": "short",
+      "marks": 1,
+      "topic": "comprehension-cloze",
+      "subtypes": [
+        "pronouns"
+      ],
+      "group": "g5",
+      "stem": "Fill in blank (60) with a suitable word.",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "their"
+          },
+          "explanation": [
+            "'Children can enjoy a game of chess with both ___ parents and grandparents.'",
+            "The blank comes before the nouns 'parents and grandparents' and shows whose they are. They belong to the children.",
+            "'Children' is plural, so the possessive word is 'their'.",
+            "The answer is 'their'. Spell it t-h-e-i-r (not 'there')."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "their",
+        "solvedAnswer": "their",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 61,
+      "page": 17,
+      "format": "structured",
+      "marks": 2,
+      "topic": "synthesis",
+      "subtypes": [
+        "passive-voice"
+      ],
+      "stem": "The house had been cleaned by Tom before the guests arrived.\nTom ____________________.\n(Rewrite as one sentence using the word(s) given. The meaning must stay the same.)",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "self",
+            "value": "Tom had cleaned the house before the guests arrived."
+          },
+          "explanation": [
+            "The given sentence is in the passive voice: the house (receiver) + had been cleaned + by Tom (doer). Starting with 'Tom' changes it to the active voice.",
+            "Active pattern: doer + verb + receiver. Tom + had cleaned + the house.",
+            "Keep the same tense. 'had been cleaned' is past perfect passive, so the active verb is 'had cleaned' (not 'cleaned' or 'has cleaned').",
+            "Keep the rest unchanged. Answer: Tom had cleaned the house before the guests arrived."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "Tom had cleaned the house before the guests arrived.",
+        "solvedAnswer": "Tom had cleaned the house before the guests arrived.",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 62,
+      "page": 17,
+      "format": "structured",
+      "marks": 2,
+      "topic": "synthesis",
+      "subtypes": [
+        "reported-speech"
+      ],
+      "stem": "\"What time did you take the bus yesterday?\" Mother asked me.\nMother asked me ____________________.\n(Rewrite as one sentence using the word(s) given. The meaning must stay the same.)",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "self",
+            "value": "Mother asked me what time I had taken the bus the previous day.",
+            "accept": [
+              "Mother asked me what time I had taken the bus the day before."
+            ]
+          },
+          "explanation": [
+            "This changes a direct question into reported speech. Four things change.",
+            "Word order: a reported question is no longer a question. Drop 'did' and use statement order (subject, then verb): 'what time I ...', with a full stop and no question mark.",
+            "Pronoun and tense: 'you' becomes 'I' because Mother was speaking to me. The past simple 'did ... take' moves one step back to the past perfect 'had taken'.",
+            "Time word: 'yesterday' becomes 'the previous day' or 'the day before'.",
+            "Answer: Mother asked me what time I had taken the bus the previous day."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "Mother asked me what time I had taken the bus the previous day.",
+        "solvedAnswer": "Mother asked me what time I had taken the bus the previous day.",
+        "status": "verified",
+        "note": "'the day before' is the standard alternative to 'the previous day' and is added to the accepted answers."
+      }
+    },
+    {
+      "section": "b",
+      "number": 63,
+      "page": 17,
+      "format": "structured",
+      "marks": 2,
+      "topic": "synthesis",
+      "subtypes": [
+        "noun-form"
+      ],
+      "stem": "Upon seeing the cat chase the toy mouse, the child laughed.\nThe child laughed at ____________________.\n(Rewrite as one sentence using the word(s) given. The meaning must stay the same.)",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "self",
+            "value": "The child laughed at the sight of the cat chasing the toy mouse.",
+            "accept": [
+              "The child laughed at the sight of the toy mouse being chased by the cat."
+            ]
+          },
+          "explanation": [
+            "'at' is a preposition, so it must be followed by a noun. Change the verb 'seeing' into its noun: see → sight.",
+            "'Upon seeing' becomes 'at the sight of'.",
+            "'of' is also a preposition, so the verb after the cat takes the -ing form: 'the cat chasing the toy mouse' (not 'chase').",
+            "Answer: The child laughed at the sight of the cat chasing the toy mouse."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "The child laughed at the sight of the cat chasing the toy mouse. / The child laughed at the sight of the toy mouse being chased by the cat.",
+        "solvedAnswer": "The child laughed at the sight of the cat chasing the toy mouse.",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 64,
+      "page": 17,
+      "format": "structured",
+      "marks": 2,
+      "topic": "synthesis",
+      "subtypes": [
+        "noun-form"
+      ],
+      "stem": "He was curious about planets and galaxies. He read up on them.\n____________________ due to his ____________________.\n(Rewrite as one sentence using the word(s) given. The meaning must stay the same.)",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "self",
+            "value": "He read up on planets and galaxies due to his curiosity.",
+            "accept": [
+              "He read up on planets and galaxies due to his curiosity about them."
+            ]
+          },
+          "explanation": [
+            "'due to' means 'because of'. It is followed by a noun, so the result goes first and the cause goes after 'due to his'.",
+            "Result: He read up on them. Cause: He was curious.",
+            "Change the adjective 'curious' into its noun: curiosity. Watch the spelling: the 'u' is dropped (curious → curiosity, not 'curiousity').",
+            "Replace 'them' with 'planets and galaxies' so the reader knows what he read up on.",
+            "Answer: He read up on planets and galaxies due to his curiosity."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "He read up on planets and galaxies due to his curiosity.",
+        "solvedAnswer": "He read up on planets and galaxies due to his curiosity.",
+        "status": "verified",
+        "note": "Here the given words come in the middle of the answer line, not at the start. 'due to his curiosity about them' keeps the full meaning and is added to the accepted answers."
+      }
+    },
+    {
+      "section": "b",
+      "number": 65,
+      "page": 17,
+      "format": "structured",
+      "marks": 2,
+      "topic": "synthesis",
+      "subtypes": [
+        "noun-form"
+      ],
+      "stem": "She could not believe that she won the art competition.\nMuch to ____________________.\n(Rewrite as one sentence using the word(s) given. The meaning must stay the same.)",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "self",
+            "value": "Much to her disbelief, she won the art competition.",
+            "accept": [
+              "Much to her disbelief, she had won the art competition."
+            ]
+          },
+          "explanation": [
+            "'Much to her ...' is followed by a noun that names a feeling: much to her surprise, much to her delight.",
+            "Change 'could not believe' into a noun: believe → belief, and 'not' is carried by the prefix 'dis-': disbelief.",
+            "Use 'her' because the sentence is about 'she'. Put a comma after the opening phrase, then say what happened: she won the art competition.",
+            "Answer: Much to her disbelief, she won the art competition."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "Much to her disbelief, she won the art competition.",
+        "solvedAnswer": "Much to her disbelief, she won the art competition.",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 66,
+      "page": 18,
+      "format": "short",
+      "marks": 1,
+      "topic": "comprehension",
+      "subtypes": [
+        "evidence-phrase"
+      ],
+      "group": "g6",
+      "stem": "Which 4-word phrase from the fourth paragraph indicates that the wound was not serious?",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "no stitches were required"
+          },
+          "explanation": [
+            "Paragraph 4 begins 'The cut was deep and bled profusely', which sounds serious, so read on for the part that shows it was not.",
+            "'After stopping the bleeding, we decided no stitches were required.' A serious cut has to be stitched up by a doctor. This one did not need that.",
+            "Count exactly four words and copy them without changing anything: no (1) stitches (2) were (3) required (4).",
+            "The answer is 'no stitches were required'."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "no stitches were required",
+        "solvedAnswer": "no stitches were required",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 67,
+      "page": 18,
+      "format": "structured",
+      "marks": 1,
+      "topic": "comprehension",
+      "subtypes": [
+        "inference",
+        "referencing"
+      ],
+      "group": "g6",
+      "stem": "\"I could not be certain of **whose guilt** I was reading.\" (line 12, paragraph 5)\nWho are the two individuals that the writer is referring to?",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "self",
+            "value": "Gato and the writer.",
+            "accept": [
+              "Gato and the writer",
+              "The writer and Gato",
+              "the writer and Gato",
+              "Gato and herself",
+              "The writer herself and Gato"
+            ]
+          },
+          "explanation": [
+            "'whose guilt' means the writer could sense guilt in the house but was not sure who was feeling it. Ask who had done something to feel guilty about.",
+            "Gato had ripped the flesh on the writer's arm with his claws. The writer had 'shoved Gato with all my strength' so that he 'landed with a thud'. Each had hurt the other.",
+            "Jane only turned on the hairdryer and then helped to dress the wound, so she is not one of the two.",
+            "The marker looks for both names: Gato and the writer. Write 'the writer', not 'I'."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "Gato and the writer.",
+        "solvedAnswer": "The writer and Gato.",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 68,
+      "page": 18,
+      "format": "short",
+      "marks": 2,
+      "topic": "comprehension",
+      "subtypes": [
+        "vocabulary-in-context",
+        "character-and-feelings"
+      ],
+      "group": "g6",
+      "stem": "Pick out **two** words from lines 14-16 (paragraph 6) which show how Gato's mood had changed after the writer found him. Each word is found in a separate sentence.",
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "Before the writer found Gato",
+          "marks": 1,
+          "answer": {
+            "type": "text",
+            "value": "racing"
+          },
+          "explanation": [
+            "Look in the first sentence of paragraph 6: 'As I held Gato close, I felt his heart racing.'",
+            "A racing heart beats very fast. It shows Gato was still frightened and tense from what had happened before the writer found him.",
+            "Give one word only, copied exactly: 'racing'."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "After the writer found Gato",
+          "marks": 1,
+          "answer": {
+            "type": "text",
+            "value": "relaxed"
+          },
+          "explanation": [
+            "Look in the last sentence of paragraph 6: 'I sat on the stairs holding and stroking him in my lap until he relaxed.'",
+            "'relaxed' shows that he had calmed down after the writer comforted him.",
+            "The two words come from separate sentences, as the question says. The answer is 'relaxed'."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "Before ---- racing; After ----- relaxed",
+        "solvedAnswer": "racing; relaxed",
+        "status": "verified",
+        "note": "The words 'wide-eyed' and 'trembling' also show Gato's fear, but they are in line 13 (paragraph 5), outside the lines given."
+      }
+    },
+    {
+      "section": "b",
+      "number": 69,
+      "page": 18,
+      "format": "structured",
+      "marks": 2,
+      "topic": "comprehension",
+      "subtypes": [
+        "referencing"
+      ],
+      "group": "g6",
+      "stem": "Look at the table below. What do the word(s) in the left column refer to in the passage? Write your answers in the column on the right.",
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "the mark (line 26, paragraph 11)",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "The prominent white curved scar (on the writer's arm).",
+            "accept": [
+              "the scar",
+              "The scar",
+              "the prominent white curved scar",
+              "the scar on the writer's arm",
+              "the prominent white curved scar on the writer's arm",
+              "the writer's scar"
+            ]
+          },
+          "explanation": [
+            "A phrase like 'the mark' points back to something already mentioned. Read the sentences just before it.",
+            "'in its place was a prominent white curved scar — almost three inches in length. While many would wish for it to fade, I liked **the mark**.'",
+            "Test by replacing the words: 'I liked the scar.' It makes sense.",
+            "The answer is the prominent white curved scar. Do not write 'the wound': the wound had healed, and the mark is what was left behind."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "it (line 41, paragraph 16)",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "The true reason behind Jane's outburst (what was troubling or frustrating Jane)."
+          },
+          "explanation": [
+            "'\"It's alright,\" I said softly. \"Do you want to talk about **it**?\"' Here 'it' is not a noun in the sentence before; it is something the writer has just noticed.",
+            "She 'saw not anger but exhaustion behind her eyes'. She understood that something else was making Jane lash out.",
+            "So 'it' is whatever was really troubling Jane and had made her snap. We find out later: the piano lesson had gone wrong and she was stressed about the competition.",
+            "The marker looks for: the real reason for Jane's outburst, or what was troubling her. 'The book' or 'the folded pages' is not accepted."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) the prominent white curved scar / the scar. b) The true reason behind Jane's outburst / troubles frustration / why she was troubled.",
+        "solvedAnswer": "a) the scar on the writer's arm; b) whatever was troubling Jane and made her lash out. Agrees with key.",
+        "status": "verified",
+        "note": "The line number printed for (b) has been written over by hand in the scan and cannot be read. The bold word 'it' is in line 41 of the passage, so the prompt is given as line 41."
+      }
+    },
+    {
+      "section": "b",
+      "number": 70,
+      "page": 19,
+      "format": "short",
+      "marks": 1,
+      "topic": "comprehension",
+      "subtypes": [
+        "sequencing"
+      ],
+      "group": "g6",
+      "stem": "Write 1, 2 and 3 in the blanks below to indicate the order in which the events occurred in the story.\n___ Jane snapped at the writer.\n___ The writer's wound healed.\n___ The writer invited Jane to share her feelings.\n(Type the three numbers in the order of the statements above, for example 3, 2, 1.)",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "2, 1, 3",
+            "accept": [
+              "2,1,3",
+              "2 1 3",
+              "213"
+            ]
+          },
+          "explanation": [
+            "Find each event in the passage and note where it happens.",
+            "'Several weeks later, the wound was completely healed' (paragraph 11) comes first, so 'The writer's wound healed' is 1.",
+            "Then Jane came home and scolded the writer about the folded pages (paragraphs 12 and 13), so 'Jane snapped at the writer' is 2.",
+            "Last, the writer asked, 'Do you want to talk about it?' (paragraph 16), so 'The writer invited Jane to share her feelings' is 3.",
+            "Written in the order of the statements, the answer is 2, 1, 3."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2,1,3",
+        "solvedAnswer": "2, 1, 3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 71,
+      "page": 19,
+      "format": "structured",
+      "marks": 3,
+      "topic": "comprehension",
+      "subtypes": [
+        "true-false-with-reason"
+      ],
+      "group": "g6",
+      "stem": "Based on the passage, state whether each statement in the table below is true or false. Then give one reason to support your answer.",
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "The writer agreed with the neighbour's response.\n(Type True or False, then give one reason from the passage.)",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "False. After the writer heard the neighbour's response about a dead cat, she quickly left the store with a sour taste in her mouth."
+          },
+          "explanation": [
+            "The neighbour said, 'If that had happened to me, it would be one dead cat! Accident or not!' He would have punished the cat.",
+            "The writer's reaction: 'I quickly left the store after paying, a sour taste in my mouth.' A sour taste in the mouth means an unpleasant feeling. She disliked what he said.",
+            "She had also already forgiven Gato: 'It was just an accident. I know you didn't mean to hurt me.'",
+            "So the statement is False. The reason must be evidence from the passage: she left with a sour taste in her mouth."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "Jane was upset by her piano lesson.\n(Type True or False, then give one reason from the passage.)",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "True. Jane said that everything had gone wrong during her piano lesson (and she had been feeling very stressed about the upcoming competition)."
+          },
+          "explanation": [
+            "Paragraph 17: 'Everything had gone wrong during the piano lesson today and I've been feeling very stressed about the upcoming competition.'",
+            "There is an earlier hint too: she came home 'throwing her bag down without a word'.",
+            "So the statement is True, and the reason is Jane's own words about the piano lesson going wrong."
+          ]
+        },
+        {
+          "label": "c",
+          "prompt": "Jane was not remorseful after lashing out at the writer.\n(Type True or False, then give one reason from the passage.)",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "False. Jane said that she did not mean what she had said (and her eyes watered)."
+          },
+          "explanation": [
+            "'remorseful' means feeling sorry for something you have done. Watch the 'not' in the statement.",
+            "Paragraph 17: '\"I didn't mean what I said before.\"' and 'Her eyes watered.' Then she took both of the writer's hands in hers. These show she was sorry.",
+            "So Jane was remorseful, and the statement is False.",
+            "Reason: she said she did not mean what she had said."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "False --- After the writer heard the neighbour's response about a dead cat, she had a sour taste in her mouth. True --- Jane said that everything had gone wrong during her piano lesson. False --- Jane said that she did not mean what she had said.",
+        "solvedAnswer": "a) False (sour taste in her mouth); b) True (everything went wrong at the piano lesson); c) False (she said she did not mean it, her eyes watered). Agrees with key.",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 72,
+      "page": 19,
+      "format": "structured",
+      "marks": 2,
+      "topic": "comprehension",
+      "subtypes": [
+        "cause-and-effect",
+        "inference"
+      ],
+      "group": "g6",
+      "stem": "What were the two reasons why the writer says that Gato lashing out at her was \"a reaction and not a malicious intent\" in line 37 (paragraph 15)?\n**Gato lashed out at the writer because…**",
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "First reason:",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "He was frightened of the hairdryer's noise."
+          },
+          "explanation": [
+            "'a reaction' means Gato was responding to something. Go back to paragraph 3 to see what set him off.",
+            "'When Jane turned on the hairdryer, Gato bolted in panic.' The sudden noise scared him.",
+            "So the first reason is that he was frightened (in a panic) because of the hairdryer. He scratched out of fear, not out of anger at the writer."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "Second reason:",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "The writer was the nearest thing at hand."
+          },
+          "explanation": [
+            "'not a malicious intent' means he did not mean to harm her. The same sentence goes on: 'there is a difference between being the target and being the nearest thing at hand.'",
+            "The writer was not the target. Gato was in her arms, so she was simply the nearest thing when he rushed to escape: 'In his hurry to escape, Gato's claws ripped the soft flesh'.",
+            "So the second reason is that the writer happened to be the nearest thing at hand (she was holding him)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) He was frightened of the hairdryer's noise. b) The writer was the nearest thing at hand.",
+        "solvedAnswer": "a) He panicked at the hairdryer; b) the writer was just the nearest thing at hand, not his target. Agrees with key.",
+        "status": "verified",
+        "note": "On the paper the two answer boxes hang from the heading 'Gato lashed out at the writer because…'; the heading is kept in the stem and the boxes are parts (a) and (b)."
+      }
+    },
+    {
+      "section": "b",
+      "number": 73,
+      "page": 20,
+      "format": "structured",
+      "marks": 4,
+      "topic": "comprehension",
+      "subtypes": [
+        "inference",
+        "character-and-feelings"
+      ],
+      "group": "g6",
+      "stem": "Based on information from lines 33 to 48 (paragraphs 14 to 18), complete the following table.",
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "The writer: What was she trying to tell herself when she \"traced the raised skin of the scar\" (line 35, paragraph 14)?",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "She was trying to tell herself that Jane lashing out was a reaction and not a malicious intent (just like Gato's scratch)."
+          },
+          "explanation": [
+            "Just before this, the writer 'could feel the cutting words rising in my throat'. She was about to snap back at Jane. Then Gato appeared 'as if reminding me to remember', and she touched the scar.",
+            "The next paragraph says what the scar stood for: 'His lashing out was a reaction and not a malicious intent' and 'People are not so different from animals in this way.'",
+            "So she was reminding herself that Jane, like Gato, was only reacting to something and did not mean to hurt her.",
+            "The marker looks for: Jane's lashing out was a reaction, not meant to hurt (not a malicious intent)."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "The writer: When she traced her scar, what does her action tell us about how she felt?",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "She felt reflective (thoughtful / pensive / contemplative).",
+            "accept": [
+              "reflective",
+              "thoughtful",
+              "pensive",
+              "contemplative",
+              "She felt reflective",
+              "She felt thoughtful",
+              "She was reflective",
+              "She was thoughtful"
+            ]
+          },
+          "explanation": [
+            "Tracing a scar slowly with a finger is what a person does when thinking back on what happened.",
+            "She stopped herself from answering at once and thought about the lesson Gato had taught her.",
+            "The feeling word must fit someone who is thinking deeply: reflective, thoughtful, pensive or contemplative. 'Angry' or 'hurt' does not fit, because she chose not to let the cutting words out."
+          ]
+        },
+        {
+          "label": "c",
+          "prompt": "Jane: What was she trying to tell the writer when she held the writer's hands and said nothing in lines 46 to 47 (paragraph 18)?",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "She was trying to apologise to the writer (to say that she was sorry)."
+          },
+          "explanation": [
+            "Look at what happened just before: Jane said, 'I didn't mean what I said before', and 'Her eyes watered'.",
+            "Then she 'took both my hands in hers' and 'simply held them and said nothing'. She could not find the words, so she used the action instead.",
+            "Holding someone's hands after hurting them is a way of saying sorry.",
+            "The marker looks for: she was apologising for lashing out."
+          ]
+        },
+        {
+          "label": "d",
+          "prompt": "Jane: What does her action tell us about how she felt?",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "She felt guilty (remorseful / sorry).",
+            "accept": [
+              "guilty",
+              "remorseful",
+              "sorry",
+              "She felt guilty",
+              "She felt remorseful",
+              "She felt sorry",
+              "She was guilty",
+              "She was remorseful",
+              "apologetic",
+              "She felt apologetic"
+            ]
+          },
+          "explanation": [
+            "Jane had said hurtful things ('So much for being my sister') that she did not mean.",
+            "Her watering eyes and the long, silent holding of hands show she felt bad about what she had done.",
+            "The feeling word is guilty, remorseful or sorry."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) She was trying to tell herself that Jane lashing out was a reaction and not a malicious intent. b) Reflective / thoughtful / pensive / contemplative. c) She was trying to apologise to the writer. d) She felt guilty.",
+        "solvedAnswer": "a) That Jane, like Gato, was only reacting and did not mean to hurt her; b) thoughtful, reflective; c) that she was sorry; d) remorseful, guilty. Agrees with key.",
+        "status": "verified",
+        "note": "The first letters of each line of the key are under the watermark but the answers are readable. 'remorseful', 'sorry' and 'apologetic' are added as accepted wordings for (d)."
+      }
+    },
+    {
+      "section": "b",
+      "number": 74,
+      "page": 20,
+      "format": "structured",
+      "marks": 2,
+      "topic": "comprehension",
+      "subtypes": [
+        "inference"
+      ],
+      "group": "g6",
+      "stem": "Why did the writer \"really look\" at her sister in line 40 (paragraph 16)?",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "self",
+            "value": "The writer knew that Jane's outburst was not intentional, and she wanted to find out the real reason for her lashing out."
+          },
+          "explanation": [
+            "A 2-mark 'why' question needs two ideas.",
+            "Idea 1 (what she knew): the incident with Gato had taught her that 'wounds seldom tell the whole story' and that lashing out can be 'a reaction and not a malicious intent'. So she believed Jane did not really mean to hurt her.",
+            "Idea 2 (what she wanted): to 'really look' is to look carefully, beyond the angry words, to find the true cause. It worked: she 'saw not anger but exhaustion behind her eyes'.",
+            "The marker looks for: Jane's outburst was not intentional, and the writer wanted to find the real reason behind it."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "The writer knew that Jane's outburst was not intentional and she wanted to find out the real reason for her lashing out.",
+        "solvedAnswer": "She had learnt from Gato that lashing out is often a reaction, so she looked closely to find what was really behind Jane's outburst. Agrees with key.",
+        "status": "verified",
+        "note": "The first two words of each line of the key are partly under the watermark but readable."
+      }
+    },
+    {
+      "section": "b",
+      "number": 75,
+      "page": 20,
+      "format": "structured",
+      "marks": 2,
+      "topic": "comprehension",
+      "subtypes": [
+        "character-and-feelings",
+        "inference"
+      ],
+      "group": "g6",
+      "stem": "What is a character trait that best describes the writer? Support your answer with evidence from lines 36 to 48 (paragraphs 15 to 18).",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "self",
+            "value": "The writer is understanding. Even after Jane lashed out at her, she did not get angry. Instead, she told Jane softly that it was alright and invited her to share her feelings. This shows that she understood that Jane was feeling stressed."
+          },
+          "explanation": [
+            "This needs a trait (1 mark) and evidence from the lines given (1 mark).",
+            "Trait: a describing word for the kind of person she is, such as understanding, empathetic or forgiving. Do not give a passing feeling such as 'sad'.",
+            "Evidence: instead of snapping back, she took a slow breath, said softly, 'It's alright. Do you want to talk about it?', and at the end 'knew I would never hold this incident against her'.",
+            "Link the two: say what she did and what it shows about her. Evidence from outside lines 36 to 48 (such as forgiving Gato) does not count."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "The writer is understanding. Even after Jane lashed out at the writer, she did not get mad, instead, she invited Jane to share her feelings and comforted her. This shows that she understood that [Jane] was feeling stressed.",
+        "solvedAnswer": "Understanding / forgiving: she did not retort but asked softly if Jane wanted to talk about it, and would never hold the incident against her. Agrees with key.",
+        "status": "verified",
+        "note": "The key's last sentence drops the name ('she understood that was feeling stressed'); it is read as 'that Jane was feeling stressed'. 'Empathetic' or 'forgiving' with matching evidence should also be acceptable."
+      }
+    }
+  ]
+}

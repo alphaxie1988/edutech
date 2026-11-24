@@ -1,0 +1,1673 @@
+{
+  "paper": {
+    "id": "2026-prelim-nan-hua",
+    "subject": "chinese",
+    "year": 2026,
+    "exam": "Prelim",
+    "school": "Nan Hua",
+    "schoolFull": "Nan Hua Primary School",
+    "file": "PSLE-2026-P6-papers/Chinese/P6-Chinese-Prelim-2026-Nan-Hua-Paper.pdf",
+    "coordDpi": 100
+  },
+  "groups": [
+    {
+      "id": "g1",
+      "text": "根据短文的内容和上下文的意思，从括号中选出适当的词语。\n\n[[img1]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "短文：小兔想学画画，开始总是画不好，兔妈妈鼓励它相信自己、多练习，后来小兔在学校的画画比赛中获得冠军。短文里有 Q16 到 Q20 五个括号，每个括号有四个词语。",
+          "page": 8,
+          "box": [
+            100,
+            212,
+            705,
+            862
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "text": "根据短文的内容和上下文的意思，选出适当的答案。\n\n[[img1]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "短文：林爷爷小时候家里穷，不能学钢琴。六十岁时他被钢琴老师拒绝，就自己买钢琴每天练习，几年后参加钢琴比赛，得到一位著名钢琴家的称赞。",
+          "page": 9,
+          "box": [
+            100,
+            240,
+            728,
+            845
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "text": "根据上下文的意思，从表中选出适当的短语或短句，然后把代表它们的数字填写在作答簿上。\n\n[[img1]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "上面的格子是编号 1 到 8 的八个短语或短句。下面是小华和哥哥谈地铁上有人乱丢垃圾的对话，对话里有 Q26 到 Q29 四个空格。",
+          "page": 11,
+          "box": [
+            103,
+            246,
+            746,
+            975
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "text": "根据短文和上下文的意思，回答问题，然后把答案填写在作答簿上。\n\n[[img1]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "海报：“屋顶农场等你来！”介绍在屋顶种菜的好处，以及“屋顶种菜的秘密”讲座的日期、时间、地点、主讲人、活动内容和报名方法。",
+          "page": 12,
+          "box": [
+            122,
+            176,
+            738,
+            892
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g5",
+      "text": "根据短文和上下文的意思，回答问题，然后把答案填写在作答簿上。\n\n[[img1]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "短文：外婆带着“我们”种花生，花生成熟后全家人一边喝花生汤一边谈花生的好处，外婆教“我们”要像花生一样默默付出，做对别人有帮助的人。",
+          "page": 15,
+          "box": [
+            120,
+            172,
+            718,
+            908
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "section": "p1",
+      "number": 1,
+      "page": 1,
+      "format": "structured",
+      "marks": 40,
+      "topic": "writing",
+      "subtypes": [
+        "topic-composition"
+      ],
+      "stem": "命题作文（字数在 100 以上）\n\n题目：**这件事让我长大了**\n\n在作文时，你可以参考下面的提示：\n• 这件事发生在什么时候\n• 事情的经过是怎样的\n• 经过这件事，你有什么改变\n• 这件事让你有什么感受",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "self",
+            "value": "这道题没有固定答案。请对照下面的要点检查自己的作文。"
+          },
+          "explanation": [
+            "审题：重点是“长大”。这里的长大不是长高，而是变得懂事、独立、有责任感。要写一件事，并且写出自己前后的改变。",
+            "选材：可以写第一次独自照顾生病的家人、做错事后勇敢认错、比赛失败后学会坚持、帮忙做家务后体会到父母的辛苦等。",
+            "开头：交代时间、地点、人物，可以先写以前的自己（例如贪玩、依赖父母），为后面的改变做准备。",
+            "经过：按起因、经过、结果写清楚。多写当时的动作、对话和心里的想法，特别要写遇到困难时怎么想、怎么做。",
+            "结尾：写出这件事以后自己的改变和感受，点题——“这件事让我长大了”。",
+            "好词好句：懂事、体谅、独立、责任、恍然大悟、惭愧不已、从那以后；“经过这件事，我明白了……”"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "(no key: composition)",
+        "solvedAnswer": "planning checklist written",
+        "status": "verified",
+        "note": "The paper says to choose one of the two composition questions; 40 marks."
+      }
+    },
+    {
+      "section": "p1",
+      "number": 2,
+      "page": 2,
+      "format": "structured",
+      "marks": 40,
+      "topic": "writing",
+      "subtypes": [
+        "picture-composition"
+      ],
+      "stem": "看图作文（字数在 100 以上）\n\n仔细看下列的图，根据图意，完成一篇短文。在作文时，你可以参考所提供的词语。\n\n[[img1]]\n\n参考词语：促销、购物中心、零用钱、捡饮料瓶、拿去回收站、旧报纸、很晚回家、拿出礼物",
+      "images": [
+        {
+          "id": "img1",
+          "page": 2,
+          "box": [
+            146,
+            266,
+            702,
+            676
+          ],
+          "alt": "六幅图。图1：男孩在购物中心看到母亲节促销（Mother's Day Promo），标价 $10.00 的礼物，他的储蓄罐里只有 $8。图2：男孩在垃圾桶旁捡饮料瓶和旧报纸。图3：男孩在回收站（Cash-for-Trash Station）把饮料瓶和旧报纸交给工作人员，换到了钱。图4：晚上男孩很晚才回家，妈妈站在门口，很生气。图5：男孩拿出包好的礼物送给妈妈，妈妈还在指着他责备。图6：一个问号，要自己想结局。"
+        }
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "self",
+            "value": "这道题没有固定答案。请对照下面的要点检查自己的作文。"
+          },
+          "explanation": [
+            "审题：六幅图讲一个男孩想在母亲节送妈妈礼物，钱不够，就捡饮料瓶和旧报纸去回收站换钱，结果很晚回家被妈妈责备。第六幅图是问号，要自己写出合理的结局。",
+            "开头：交代时间（母亲节前）、地点（购物中心）、人物。写男孩看到促销的礼物要 10 元，可是零用钱只有 8 元，心里很着急。",
+            "经过：按图 2 到图 5 的顺序写。写他怎样想出办法，捡饮料瓶、收旧报纸，拿去回收站换钱；再写他很晚回家，妈妈又担心又生气；他拿出礼物。每幅图都要写到，加上人物的动作、对话和心情。",
+            "结尾（图 6）：例如妈妈知道原因后很感动，抱住他，也提醒他以后晚回家要先告诉家人；男孩明白了孝顺妈妈也不能让妈妈担心。",
+            "好词好句：灵机一动、满头大汗、心急如焚、又气又急、恍然大悟、热泪盈眶；“原来你是为了给我买礼物啊！”",
+            "记得用上参考词语：促销、购物中心、零用钱、捡饮料瓶、拿去回收站、旧报纸、很晚回家、拿出礼物。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "(no key: composition)",
+        "solvedAnswer": "planning checklist written",
+        "status": "verified",
+        "note": "The helping words printed under the pictures are transcribed in the stem, not included in the crop."
+      }
+    },
+    {
+      "section": "p2",
+      "number": 1,
+      "page": 4,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "pinyin",
+      "subtypes": [
+        "pinyin"
+      ],
+      "stem": "请选出画线词语的汉语拼音。\n我家楼下有一家店是++出租++漫画书的。",
+      "options": [
+        "cū zǔ",
+        "cū zhū",
+        "chū zū",
+        "chū zhǔ"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "“出”是翘舌音 chū，不是平舌音 cū。",
+            "“租”是平舌音，读第一声 zū，不是 zhū，也不是第三声。",
+            "“出租”读 chū zū，答案是（3）。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 2,
+      "page": 4,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "pinyin",
+      "subtypes": [
+        "pinyin"
+      ],
+      "stem": "请选出画线词语的汉语拼音。\n爸爸下班时遇到交通++堵塞++，很晚才回到家。",
+      "options": [
+        "dǔ sè",
+        "dǔ sāi",
+        "zǔ sè",
+        "zǔ sāi"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 1
+          },
+          "explanation": [
+            "“堵”的声母是 d，读 dǔ。zǔ 是“阻”的读音。",
+            "“塞”是多音字：在“堵塞、阻塞”里读 sè；在“塞车、瓶塞”里读 sāi。",
+            "“堵塞”读 dǔ sè，答案是（1）。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "1",
+        "solvedAnswer": "1",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 3,
+      "page": 4,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "vocabulary",
+      "subtypes": [
+        "word-choice"
+      ],
+      "stem": "从所提供的选项中选出正确的答案。\n下雨了，妹妹______起了一把小伞。",
+      "options": [
+        "称",
+        "撑",
+        "乘",
+        "诚"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "“撑伞”是把伞张开、举起来。“撑”是提手旁，和手的动作有关。",
+            "“称”是称重量、称赞的称；“乘”是乘车的乘；“诚”是诚实的诚。它们读音相近，但意思不对。",
+            "答案是（2）撑。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 4,
+      "page": 5,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "vocabulary",
+      "subtypes": [
+        "word-choice"
+      ],
+      "stem": "从所提供的选项中选出正确的答案。\n表演结束时，礼堂里响起了热______的掌声。",
+      "options": [
+        "烈",
+        "列",
+        "例",
+        "裂"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 1
+          },
+          "explanation": [
+            "“热烈”形容气氛、掌声很兴奋、很激动，“热烈的掌声”是固定搭配。",
+            "“烈”下面是四点底，和火有关。“列”是排列的列，“例”是例子的例，“裂”是裂开的裂。",
+            "答案是（1）烈。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "1",
+        "solvedAnswer": "1",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 5,
+      "page": 5,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "vocabulary",
+      "subtypes": [
+        "word-choice"
+      ],
+      "stem": "从所提供的选项中选出正确的答案。\n我对妈妈摇了摇头，______不想再吃东西了。",
+      "options": [
+        "告诉",
+        "宣布",
+        "表示",
+        "讲述"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "“我”没有说话，只是摇头。用动作或话语让别人明白自己的意思，叫“表示”。",
+            "“告诉”后面要有人（告诉妈妈）；“宣布”是正式地向大家说重要的事；“讲述”是把事情说出来。",
+            "答案是（3）表示。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 6,
+      "page": 5,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "vocabulary",
+      "subtypes": [
+        "word-choice"
+      ],
+      "stem": "从所提供的选项中选出正确的答案。\n看到桌上的奖杯，往事又在我的脑海里______。",
+      "options": [
+        "浮现",
+        "回忆",
+        "露出",
+        "显示"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 1
+          },
+          "explanation": [
+            "过去的事情又出现在脑子里，叫“浮现”。“在脑海里浮现”是固定搭配。",
+            "“回忆”是人去想过去的事，要说“我回忆起往事”，不能说“往事在脑海里回忆”。",
+            "答案是（1）浮现。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "1",
+        "solvedAnswer": "1",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 7,
+      "page": 5,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "vocabulary",
+      "subtypes": [
+        "word-meaning"
+      ],
+      "stem": "从所提供的选项中选出正确的答案。\n这件事很重要，我们必须++考虑++清楚。",
+      "options": [
+        "了解详细情况",
+        "仔细地想一想",
+        "做出最后决定",
+        "顺利完成任务"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "“考虑”的意思是认真地想，想清楚了再决定。",
+            "“做出最后决定”是考虑以后才做的事，不是“考虑”本身。",
+            "答案是（2）仔细地想一想。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 8,
+      "page": 5,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "vocabulary",
+      "subtypes": [
+        "word-meaning"
+      ],
+      "stem": "从所提供的选项中选出正确的答案。\n老师给的作业太多了，同学们纷纷++抱怨++。",
+      "options": [
+        "一直吵个不停",
+        "不客气地说出",
+        "说出心中不满",
+        "围在一起讨论"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "“抱怨”的意思是心里不满意，把不满说出来。",
+            "作业太多，同学们不高兴，所以说出不满。“吵个不停”只是声音大，没有“不满”的意思。",
+            "答案是（3）说出心中不满。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 9,
+      "page": 6,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "sentences",
+      "subtypes": [
+        "connectors"
+      ],
+      "stem": "从所提供的选项中选出正确的答案。\n______老板吩咐的工作，哥哥就会马上去做。",
+      "options": [
+        "只要",
+        "凡是",
+        "由于",
+        "如果"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "“凡是”的意思是“只要是……的，全部都……”，后面常接“就、都”。",
+            "句子说的是：所有老板吩咐的工作，哥哥都马上做。空格后面是“老板吩咐的工作”这个名词短语，要用“凡是”。",
+            "“只要、如果”后面要接一件事（只要老板吩咐，哥哥就……），不能直接接“……的工作”。",
+            "答案是（2）凡是。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 10,
+      "page": 6,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "sentences",
+      "subtypes": [
+        "connectors"
+      ],
+      "stem": "从所提供的选项中选出正确的答案。\n______想了很多办法，大家______无法帮他改掉坏习惯。",
+      "options": [
+        "不但……而且",
+        "不管……仍然",
+        "因为……所以",
+        "尽管……还是"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 4
+          },
+          "explanation": [
+            "想了很多办法，可是没有用，前后意思是转折，要用“尽管……还是……”。",
+            "“不管”后面要有“怎么、多少、什么”这类词（不管想了多少办法），这里没有，所以不能用。",
+            "答案是（4）尽管……还是。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 11,
+      "page": 6,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "sentences",
+      "subtypes": [
+        "sentence-completion"
+      ],
+      "stem": "从所提供的选项中选出正确的答案。\n____________，我们一家人都为他感到骄傲。",
+      "options": [
+        "如果弟弟真的做错了",
+        "如果弟弟明天去公园",
+        "弟弟捡到了一个钱包",
+        "弟弟在比赛中得了奖"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 4
+          },
+          "explanation": [
+            "“为他感到骄傲”说明弟弟做了一件很了不起的事。",
+            "做错事、去公园都不值得骄傲；只是“捡到钱包”，没有说交还失主，也谈不上骄傲。",
+            "答案是（4）弟弟在比赛中得了奖。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 12,
+      "page": 6,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "sentences",
+      "subtypes": [
+        "sentence-completion"
+      ],
+      "stem": "从所提供的选项中选出正确的答案。\n自从参加了学校的环保活动后，____________。",
+      "options": [
+        "姐姐每天都会买新衣服",
+        "哥哥每天都会读华文书",
+        "弟弟每次都会随手关灯",
+        "妹妹每次都会多做运动"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "前面说的是“环保活动”，后面的改变要和环保有关。",
+            "随手关灯可以节省用电，是环保的行为。买新衣服、读华文书、做运动都和环保没有关系。",
+            "答案是（3）弟弟每次都会随手关灯。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 13,
+      "page": 6,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "sentences",
+      "subtypes": [
+        "sentence-usage"
+      ],
+      "stem": "以下哪一个句子是正确的？",
+      "options": [
+        "家人一起吃晚餐，可以++促进++家庭和谐。",
+        "老师常常提醒我们多读书，++促进++知识。",
+        "读了作文后，老师指出了需要++促进++的地方。",
+        "小明借故事书给同学看，++促进++他们的友情。"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 1
+          },
+          "explanation": [
+            "“促进”的意思是推动事情向好的方向发展，常说“促进和谐、促进交流、促进发展”。",
+            "（1）一起吃晚餐让家庭更和谐，用得对。",
+            "（2）应该用“增加”知识；（3）应该用“改进”的地方；（4）小明和同学之间的友情应该说“增进我们的友情”，“他们”指谁也不清楚。",
+            "答案是（1）。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "1",
+        "solvedAnswer": "1",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 14,
+      "page": 7,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "sentences",
+      "subtypes": [
+        "sentence-usage",
+        "idioms"
+      ],
+      "stem": "以下哪一个句子是正确的？",
+      "options": [
+        "姐姐的歌声++五彩缤纷++，大家都听得十分入迷。",
+        "妈妈做的红烧肉++五彩缤纷++，让人看了就想吃。",
+        "毕业典礼那天，礼堂挂满了++五彩缤纷++的气球。",
+        "听到这个消息后，小文的心情变得++五彩缤纷++。"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "“五彩缤纷”形容颜色很多、很好看，只能用来形容看得见的、有许多颜色的东西。",
+            "（3）气球有各种颜色，用得对。",
+            "（1）歌声是听的，应该用“动听”；（2）红烧肉只有一种颜色；（4）心情没有颜色。",
+            "答案是（3）。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 15,
+      "page": 7,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "sentences",
+      "subtypes": [
+        "sentence-usage",
+        "idioms"
+      ],
+      "stem": "以下哪一个句子是正确的？",
+      "options": [
+        "电影真没意思，我看了一会儿++半途而废++。",
+        "妈妈常常教育我，做事不可以++半途而废++。",
+        "小明吃饭++半途而废++，就和朋友下楼踢球。",
+        "这支笔真是++半途而废++，写到一半就断了。"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "“半途而废”的意思是事情做到一半就放弃，不能坚持到底。它用在人做的、需要坚持的事情上。",
+            "（2）做事不可以半途而废，用得对。",
+            "（4）笔是东西，不是人；（1）不想看电影、（3）吃饭吃到一半，都不是需要坚持去完成的事，不用这个成语。",
+            "答案是（2）。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 16,
+      "page": 8,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "cloze",
+      "subtypes": [
+        "word-choice"
+      ],
+      "group": "g1",
+      "stem": "Q16 的答案是：",
+      "options": [
+        "热心",
+        "严格",
+        "勤奋",
+        "迅速"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "空格后面是“练习”。不怕辛苦、努力地练习，是“勤奋练习”。",
+            "“热心”是乐意帮助别人；“严格”是要求很高；“迅速”是很快，但学画画不是练得快就会成功。",
+            "答案是（3）勤奋。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 17,
+      "page": 8,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "cloze",
+      "subtypes": [
+        "word-choice"
+      ],
+      "group": "g1",
+      "stem": "Q17 的答案是：",
+      "options": [
+        "批评",
+        "担心",
+        "提醒",
+        "鼓励"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 1
+          },
+          "explanation": [
+            "注意句式“没有……而是……”：兔妈妈没有做一件事，而是笑着安慰小兔。",
+            "小兔画得不好看，一般人可能会责备它，可是兔妈妈没有“批评”它。",
+            "“鼓励”正是兔妈妈后来做的事，不能说“没有鼓励”。",
+            "答案是（1）批评。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "1",
+        "solvedAnswer": "1",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 18,
+      "page": 8,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "cloze",
+      "subtypes": [
+        "connectors"
+      ],
+      "group": "g1",
+      "stem": "Q18 的答案是：",
+      "options": [
+        "虽然",
+        "就算",
+        "而且",
+        "除了"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "后面有“也”：“______是大画家，也是一点一点练出来的”。能和“也”搭配的是“就算……也……”。",
+            "“虽然”要配“但是”，“除了”要配“还、都”。",
+            "答案是（2）就算。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 19,
+      "page": 8,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "cloze",
+      "subtypes": [
+        "word-choice"
+      ],
+      "group": "g1",
+      "stem": "Q19 的答案是：",
+      "options": [
+        "留下",
+        "增加",
+        "充满",
+        "取得"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "小兔发现自己越画越好，心里有了很多希望。“心里充满了希望”是固定搭配。",
+            "“增加”用在数量上；“取得”后面常接成绩、进步。",
+            "答案是（3）充满。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 20,
+      "page": 8,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "cloze",
+      "subtypes": [
+        "idioms"
+      ],
+      "group": "g1",
+      "stem": "Q20 的答案是：",
+      "options": [
+        "激动人心",
+        "恍然大悟",
+        "心满意足",
+        "喜出望外"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 4
+          },
+          "explanation": [
+            "小兔说“我居然成功了！”，“居然”表示没想到。遇到没想到的好事，非常高兴，叫“喜出望外”。",
+            "“激动人心”是形容事情让人激动，不是形容人的心情；“恍然大悟”是突然明白；“心满意足”是很满足，没有“意外”的意思。",
+            "答案是（4）喜出望外。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 21,
+      "page": 10,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "comprehension-mcq",
+      "subtypes": [
+        "factual",
+        "cause-and-effect"
+      ],
+      "group": "g2",
+      "stem": "林爷爷小时候为什么不能学钢琴？",
+      "options": [
+        "他年纪小，没有老师教他。",
+        "他家里很穷，付不起学费。",
+        "他太忙了，没有多余时间。",
+        "他吃不饱饭，要赚钱养家。"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "看第一段第二句：“他小时候家里很穷，连饭都吃不饱，更别说学钢琴了。”",
+            "原因是家里穷，没有钱学钢琴。",
+            "“赚钱养家”是他长大以后的事，不是小时候。答案是（2）。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 22,
+      "page": 10,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "comprehension-mcq",
+      "subtypes": [
+        "factual",
+        "cause-and-effect"
+      ],
+      "group": "g2",
+      "stem": "钢琴老师拒绝林爷爷的原因是什么？",
+      "options": [
+        "林爷爷学得太慢。",
+        "林爷爷很快就会放弃。",
+        "林爷爷弹的曲子不够好听。",
+        "林爷爷错过了学琴的最佳时期。"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 4
+          },
+          "explanation": [
+            "看第二段：很多老师说学钢琴的“黄金年龄”早已过去，也有老师觉得他太老了，手指太硬。",
+            "“黄金年龄”就是最好的时期。老师们觉得他年纪太大，错过了最好的学琴时间。",
+            "那时他还没开始学，所以不是“学得太慢”或“弹得不好听”。答案是（4）。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 23,
+      "page": 10,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "comprehension-mcq",
+      "subtypes": [
+        "factual"
+      ],
+      "group": "g2",
+      "stem": "林爷爷被拒绝后，他______",
+      "options": [
+        "难过地放弃学钢琴。",
+        "决定存钱学弹钢琴。",
+        "买了一架钢琴，每天练习。",
+        "站上舞台，参加钢琴比赛。"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "看第二段后面：他“却不想就这样放弃。他用自己存的钱买了一架钢琴，每天在家慢慢练习。”",
+            "钱是以前已经存好的，不是被拒绝后才决定存钱；参加比赛是几年后的事。",
+            "答案是（3）。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 24,
+      "page": 10,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "comprehension-mcq",
+      "subtypes": [
+        "factual"
+      ],
+      "group": "g2",
+      "stem": "钢琴家在公园见到林爷爷时，做了什么？",
+      "options": [
+        "他停下来听，还让他继续弹。",
+        "他被琴声感动，称赞林爷爷。",
+        "他表示愿意收林爷爷为学生。",
+        "他马上邀请林爷爷参加比赛。"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 1
+          },
+          "explanation": [
+            "看第三段：男人“停下脚步，静静听完后，微笑着对他说：‘您弹得非常好听，请继续。’”",
+            "他停下来听，又说“请继续”，就是让林爷爷继续弹。",
+            "他虽然称赞了林爷爷，但短文没有说他“被琴声感动”，所以（2）不对。答案是（1）。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "1",
+        "solvedAnswer": "1",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 25,
+      "page": 10,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "comprehension-mcq",
+      "subtypes": [
+        "main-idea"
+      ],
+      "group": "g2",
+      "stem": "这个故事告诉我们什么道理？",
+      "options": [
+        "学钢琴一定要从小开始。",
+        "有钱以后就能实现所有梦想。",
+        "只有得到名师指导，才可能成功。",
+        "不管年龄多大，都有可能实现梦想。"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 4
+          },
+          "explanation": [
+            "道理常常在最后一句：“梦想从不会因为年龄而迟到。”",
+            "林爷爷六十岁才开始学琴，没有老师教，靠自己坚持练习也成功了。所以（1）和（3）都和故事相反。",
+            "答案是（4）。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 26,
+      "page": 11,
+      "format": "short",
+      "marks": 2,
+      "topic": "dialogue",
+      "subtypes": [
+        "dialogue-completion"
+      ],
+      "group": "g3",
+      "stem": "Q26 的答案是：（填写数字 1 到 8）",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "4",
+            "accept": [
+              "什么事令你这么激动",
+              "4 什么事令你这么激动"
+            ]
+          },
+          "explanation": [
+            "空格后面是问号，所以要选一个问句。问句有 2 和 4。",
+            "小华说发生了一件令他非常生气的事，哥哥接着说“快点告诉我”，可见哥哥是在问是什么事。",
+            "所以选 4：什么事令你这么激动。（2“是不是又发脾气了”和“快点告诉我”接不上。）"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 27,
+      "page": 11,
+      "format": "short",
+      "marks": 2,
+      "topic": "dialogue",
+      "subtypes": [
+        "dialogue-completion"
+      ],
+      "group": "g3",
+      "stem": "Q27 的答案是：（填写数字 1 到 8）",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "6",
+            "accept": [
+              "遇到了非常没有公德心的人",
+              "6 遇到了非常没有公德心的人"
+            ]
+          },
+          "explanation": [
+            "空格后面小华问“你知道他做了什么吗？”，这里的“他”要在前面先提到。",
+            "所以空格里要说小华遇到了一个人，但还没说这个人做了什么。",
+            "所以选 6：遇到了非常没有公德心的人。（5“在地铁里乱画”已经说出做了什么，而且和后面的“乱扔垃圾”不合。）"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "6",
+        "solvedAnswer": "6",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 28,
+      "page": 11,
+      "format": "short",
+      "marks": 2,
+      "topic": "dialogue",
+      "subtypes": [
+        "dialogue-completion"
+      ],
+      "group": "g3",
+      "stem": "Q28 的答案是：（填写数字 1 到 8）",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "7",
+            "accept": [
+              "他把糖果的包装纸丢在地上",
+              "7 他把糖果的包装纸丢在地上"
+            ]
+          },
+          "explanation": [
+            "哥哥猜“难道他在地铁上乱扔垃圾？”，小华回答“就是啊”，说明猜对了。",
+            "空格要说出他怎样乱扔垃圾，后面接“然后想转头就走”。",
+            "所以选 7：他把糖果的包装纸丢在地上。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "7",
+        "solvedAnswer": "7",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 29,
+      "page": 11,
+      "format": "short",
+      "marks": 2,
+      "topic": "dialogue",
+      "subtypes": [
+        "dialogue-completion"
+      ],
+      "group": "g3",
+      "stem": "Q29 的答案是：（填写数字 1 到 8）",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "8",
+            "accept": [
+              "于是我便上前劝告他不要这样做",
+              "8 于是我便上前劝告他不要这样做"
+            ]
+          },
+          "explanation": [
+            "小华同意哥哥说的要保持地铁卫生，空格要说小华接着做了什么。",
+            "后面哥哥问“他有什么反应？”，小华说他把垃圾捡起来了，说明小华对那个人说了话。",
+            "所以选 8：于是我便上前劝告他不要这样做。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "8",
+        "solvedAnswer": "8",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 30,
+      "page": 13,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "functional-text",
+      "subtypes": [
+        "purpose-and-audience"
+      ],
+      "group": "g4",
+      "stem": "这个海报的主要目的是______。",
+      "options": [
+        "教导邻居们用旧瓶子制作花盆",
+        "邀请居民们参加屋顶农场讲座",
+        "说明屋顶农场可以带来的好处",
+        "告诉大家不同蔬菜的种植方法"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "看标题“屋顶农场等你来！”和这一句：“我们将要举办一个屋顶种菜的讲座活动，快来参加吧！”",
+            "海报写了讲座的日期、时间、地点和报名方法，目的是请居民来参加讲座。",
+            "种菜的好处只是用来吸引大家；做花盆和种植方法是讲座当天的内容，不是海报的主要目的。答案是（2）。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 31,
+      "page": 13,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "functional-text",
+      "subtypes": [
+        "factual"
+      ],
+      "group": "g4",
+      "stem": "如果你和家人想参加讲座，你们应该怎么做？",
+      "options": [
+        "打电话给王先生报名",
+        "在讲座当天直接去参加",
+        "拨打民众俱乐部电话报名",
+        "到民众俱乐部填写报名表格"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 4
+          },
+          "explanation": [
+            "看“如何报名参加讲座？”下面：“请在2026年10月10日前到欢乐民众俱乐部填写报名表格。”",
+            "电话 6789 1234 是“如有疑问”时才打的，不是用来报名的。王先生是主讲人。",
+            "答案是（4）。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 32,
+      "page": 13,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "functional-text",
+      "subtypes": [
+        "factual"
+      ],
+      "group": "g4",
+      "stem": "以下哪一项不是屋顶种菜的好处？",
+      "options": [
+        "能够加强邻居们之间的友好关系",
+        "可以用旧瓶子做成的花盆来种菜",
+        "屋顶充足的阳光更适合植物生长",
+        "居民们可以安心地吃健康的蔬菜"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "注意题目问的是“不是”。先在第一段找出三个好处：阳光充足，适合植物生长；蔬菜吃得健康又安心；邻居们可以一起劳动、分享快乐。",
+            "（3）（4）（1）正好是这三个好处。",
+            "用旧瓶子做花盆是讲座后的手工活动，不是屋顶种菜的好处。答案是（2）。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 33,
+      "page": 14,
+      "format": "structured",
+      "marks": 4,
+      "topic": "functional-text",
+      "subtypes": [
+        "message-writing"
+      ],
+      "group": "g4",
+      "stem": "如果你是志文，看到这张海报后，想起喜欢种菜的奶奶，于是你写了一则短信邀请奶奶一起参加这个活动，告诉奶奶活动的详情，以及你觉得她应该参加这个活动的一个原因。\n\n短信的开头是：\n奶奶，我知道您很喜欢种菜，想……\n（请接着写下去。）",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "self",
+            "value": "奶奶，我知道您很喜欢种菜，想邀请您一起参加一个屋顶种菜的讲座，这个讲座将于2026年11月1日，上午10点至11点30分，在欢乐民众俱乐部大讲堂举行。参加这个讲座您可以了解不同蔬菜的种植方法。希望您可以和我一起去。"
+          },
+          "explanation": [
+            "内容第一点（邀请和活动详情）：接着“想……”写“邀请您一起参加屋顶种菜的讲座”，再从海报中间的格子里找出日期（2026年11月1日）、时间（上午10点至11点30分）和地点（欢乐民众俱乐部大讲堂），三样都要写。",
+            "内容第二点（一个原因）：从海报里找一个适合奶奶的原因，例如可以了解不同蔬菜的种植方法。写用旧瓶子做花盆、可以得到免费小礼物也可以，但只需要写一个。",
+            "语文：对奶奶要用“您”；句子要通顺、完整，不要写错字。最后可以加一句“希望您可以和我一起去”。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "奶奶，我知道您很喜欢种菜，想邀请您一起参加一个屋顶种菜的讲座，这个讲座将于2026年11月1日，上午10点至11点30分，在欢乐民众俱乐部大讲堂举行。参加这个讲座您可以了解不同蔬菜的种植方法。希望您可以和我一起去。",
+        "solvedAnswer": "agrees with key",
+        "status": "verified",
+        "note": "The tablet picture is not cropped: its only content is the message opening, which is transcribed in the stem. Neither the paper nor the key prints a 内容/语文 mark split for the 4 marks, so none is given in the explanation."
+      }
+    },
+    {
+      "section": "p2",
+      "number": 34,
+      "page": 16,
+      "format": "short",
+      "marks": 2,
+      "topic": "comprehension-open",
+      "subtypes": [
+        "vocabulary-in-context"
+      ],
+      "group": "g5",
+      "stem": "文中表示“立刻”的词语是______。",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "马上"
+          },
+          "explanation": [
+            "要找一个意思是“很快、一点也不等”的词语。",
+            "第一段：外婆问要不要种花生，“我们马上答应了”。",
+            "答案是“马上”。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "马上",
+        "solvedAnswer": "马上",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 35,
+      "page": 16,
+      "format": "short",
+      "marks": 2,
+      "topic": "comprehension-open",
+      "subtypes": [
+        "vocabulary-in-context"
+      ],
+      "group": "g5",
+      "stem": "文中表示“值得珍惜”的词语是______。",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "可贵"
+          },
+          "explanation": [
+            "要找一个意思是“很宝贵、值得看重”的词语。",
+            "第六段外婆说：“花生的好处很多，有一样最可贵”。",
+            "答案是“可贵”。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "可贵",
+        "solvedAnswer": "可贵",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 36,
+      "page": 16,
+      "format": "structured",
+      "marks": 3,
+      "topic": "comprehension-open",
+      "subtypes": [
+        "inference",
+        "factual"
+      ],
+      "group": "g5",
+      "stem": "“我们”喜不喜欢种花生？从哪里可以看出？",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "self",
+            "value": "“我们”喜欢种花生。外婆问我们要不要种花生时，“我们”马上答应，而且“我们”每天放学回家，第一件事就是跑去看花生发芽了没有。过了几天，泥土里终于冒出了绿色的小苗，看到那些小小的叶子时，“我们”高兴得手舞足蹈。从以上几点可以看出“我们”喜欢种花生。"
+          },
+          "explanation": [
+            "先回答问题：“我们”喜欢种花生。",
+            "再从第一、二段找出证据：外婆一问，“我们”马上答应；每天放学回家第一件事就是跑去看花生发芽了没有；看到小苗和叶子时高兴得手舞足蹈。",
+            "证据要写完整，只写“喜欢”没有证据是拿不到满分的。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "“我们”喜欢种花生。外婆问我们要不要种花生时，“我们”马上答应，而且“我们”每天放学回家，第一件事就是跑去看花生发芽了没有。过了几天，泥土里终于冒出了绿色的小苗，看到那些小小的叶子时，“我们”高兴得手舞足蹈。从以上几点可以看出“我们”喜欢种花生。",
+        "solvedAnswer": "agrees with key",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 37,
+      "page": 16,
+      "format": "structured",
+      "marks": 4,
+      "topic": "comprehension-open",
+      "subtypes": [
+        "inference",
+        "cause-and-effect"
+      ],
+      "group": "g5",
+      "stem": "为什么外婆说“种花生和学习一样，都需要耐心”？",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "self",
+            "value": "因为“我们”看到花生苗慢慢长大，有些着急，总是问外婆什么时候花生才能长出来。外婆想让“我们”知道种花生要等花生慢慢长大，就像学习也要慢慢积累知识。",
+            "accept": [
+              "因为“我们”看到花生苗慢慢长大，有些着急，总是问外婆什么时候花生才能长出来。外婆想让“我们”知道种花生要等花生慢慢长大，就像学习也要一天天努力。"
+            ]
+          },
+          "explanation": [
+            "先在第三段找外婆说这句话的原因：“我们”有些着急，总是问外婆什么时候花生才能长出来。",
+            "再解释这句话的意思：花生要慢慢长大，不能急；学习也一样，要慢慢积累知识（或一天天努力），不能一下子就学会。",
+            "两部分都要写：“我们”着急的表现，以及种花生和学习相同的地方。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "因为“我们”看到花生苗慢慢长大，有些着急，总是问外婆什么时候花生才能长出来。外婆想让“我们”知道种花生要等花生慢慢长大，就像学习也要慢慢积累知识/一天天努力。",
+        "solvedAnswer": "agrees with key",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 38,
+      "page": 16,
+      "format": "structured",
+      "marks": 3,
+      "topic": "comprehension-open",
+      "subtypes": [
+        "character-and-feelings",
+        "cause-and-effect"
+      ],
+      "group": "g5",
+      "stem": "",
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "看到自己种出的花生时，“我们”有什么感受？",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "看到从土里拔出的花生时，“我们”都很吃惊。",
+            "accept": [
+              "“我们”都很吃惊。",
+              "“我们”感到很吃惊。",
+              "“我们”感到很惊讶。"
+            ]
+          },
+          "explanation": [
+            "看第四段：“我们”看见根下面挂着一串串花生时，“都瞪大了眼睛”。",
+            "瞪大眼睛表示很吃惊（惊讶）。"
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "为什么会有这样的感受？",
+          "marks": 2,
+          "answer": {
+            "type": "self",
+            "value": "因为“我们”以为花生是长在树上的，现在我们才知道花生是藏在土里的。"
+          },
+          "explanation": [
+            "接着看同一句：“原来花生不是长在树上的，而是藏在土里的。”",
+            "“原来”说明“我们”以前想错了。要写出两点：以前以为花生长在树上；现在才知道花生藏在土里。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "看到从土里拔出的花生时，“我们”都很吃惊，因为“我们”以为花生是长在树上的，现在我们才知道花生是藏在土里的。",
+        "solvedAnswer": "agrees with key",
+        "status": "verified",
+        "note": "The question paper gives this question 3 marks (1 + 2), and 3 marks makes Group B add up to the printed 22. The answer key reprints the question with different wording and “(2分)”; the question paper's wording and marks are used."
+      }
+    },
+    {
+      "section": "p2",
+      "number": 39,
+      "page": 16,
+      "format": "structured",
+      "marks": 4,
+      "topic": "comprehension-open",
+      "subtypes": [
+        "inference",
+        "main-idea"
+      ],
+      "group": "g5",
+      "stem": "外婆为什么要让“我们”向花生学习？",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "self",
+            "value": "因为外婆要让“我们”明白花生的果实埋在地里，虽然不容易被看到，却对人很有好处。外婆要让我们像花生一样，默默付出，做一个对别人有帮助的人，所以外婆要让“我们”向花生学习。"
+          },
+          "explanation": [
+            "答案在第六段外婆说的话里。",
+            "第一点：花生的特点——果实埋在地里，虽然不容易被看到，却对人很有好处。",
+            "第二点：外婆的希望——“我们”也像花生一样，默默付出，做一个对别人有帮助的人。",
+            "花生的特点和外婆的希望都要写。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "因为外婆要让“我们”明白花生的果实埋在地里，虽然不容易被看到，却对人很有好处。外婆要让我们像花生一样，默默付出，做一个对别人有帮助的人，所以外婆要让“我们”向花生学习。",
+        "solvedAnswer": "agrees with key",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 40,
+      "page": 16,
+      "format": "structured",
+      "marks": 4,
+      "topic": "comprehension-open",
+      "subtypes": [
+        "opinion"
+      ],
+      "group": "g5",
+      "stem": "你认为外婆教导“我们”的方法好吗？试加以说明。",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "self",
+            "value": "我认为外婆教导“我们”的方法很好，因为外婆通过带我们种花生，让我们明白花生虽然不容易被看到，却对人很有好处，并希望我们默默付出，做一个对别人有帮助的人，这让我们印象深刻。"
+          },
+          "explanation": [
+            "这是看法题。先说清楚自己的看法：“我认为外婆教导‘我们’的方法很好。”",
+            "再说外婆用的是什么方法：她不是只讲道理，而是带“我们”亲手种花生，再借花生来说道理。",
+            "然后说这个方法的好处：让“我们”明白要像花生一样默默付出，做对别人有帮助的人，而且印象深刻（最后一段说“外婆的话深深地印在我的心上”）。",
+            "只写“好”，没有用短文里的事来说明，是拿不到分数的。"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "我认为外婆教导“我们”的方法很好，因为外婆通过带我们种花生，让我们明白花生虽然不容易被看到，却对人很有好处，并希望我们默默付出，做一个对别人有帮助的人，这让我们印象深刻。",
+        "solvedAnswer": "agrees with key",
+        "status": "verified",
+        "note": "The key gives one model answer (the method is good). Other well-supported views may be accepted by a teacher."
+      }
+    }
+  ]
+}

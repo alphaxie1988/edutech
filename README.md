@@ -4,6 +4,11 @@ A gamified practice app built from P6 prelim papers. Open `index.html` in a brow
 
 - **Maths:** 1,035 questions from 23 prelim papers (2025 and 2026).
 - **Science:** 584 questions from 15 prelim papers (2025 and 2026).
+- **English:** 1,062 questions from 14 prelim papers, including 16 Paper 1 writing tasks.
+- **Chinese:** 394 questions from 10 prelim papers (2026), including 10 composition tasks.
+- **Higher Chinese:** 136 questions from 6 prelim papers (2026), including 6 composition tasks.
+
+Language questions that share a passage are played as a set: the passage fills the lower half of the screen (switch to the scratch pad with the tab at its top right) and the questions follow in order. Written answers are self-marked against the model answer. Writing tasks give a checklist and a "Copy a feedback request" button whose text can be pasted into Claude or sent to a parent. Listening and oral papers are not included.
 
 For private family use only. The questions and diagrams are the schools' copyright; do not publish this folder or host it publicly.
 

@@ -1,0 +1,3020 @@
+{
+ "paper": {
+  "id": "2026-prelim-henry-park",
+  "subject": "english",
+  "year": 2026,
+  "exam": "Prelim",
+  "school": "Henry Park",
+  "schoolFull": "Henry Park Primary School",
+  "file": "PSLE-2026-P6-papers/English/P6-English-Prelim-2026-Henry-Park-Paper.pdf",
+  "coordDpi": 100
+ },
+ "groups": [
+  {
+   "id": "g1",
+   "text": "For each question from 16 to 20, choose the word closest in meaning to the underlined word(s).\n\nProfessor Marlo was a well-known inventor. His workshop was a __(16: cluster)__ of tubes, levers and spinning wheels. Nobody quite knew what any of it did, but the old man was rarely seen without grease on his fingers and a grin on his face.\nOne morning, his assistant, Pip, looking __(17: dead on his feet)__, approached the workshop door and froze. Something was different. In the centre of the room sat an enormous machine, its fraying wires __(18: just barely)__ holding together. A faint hum filled the air.\n\"Professor, is that safe?\" Pip asked, __(19: reluctant)__ to step any closer.\nThe old man acknowledged that the machine was, perhaps, a little __(20: dangerous)__. \"But where's the fun if there's no risk?\" he chuckled, his eyes twinkling."
+  },
+  {
+   "id": "g2",
+   "text": "Study the poster (Text 1) and the extract from an interview (Text 2) and answer questions 21 to 25.\n\n++Text 1++\nThe text below shows a poster encouraging the public to act against scams.\n[[img1]]\n++Text 2++\nThe extract below is taken from an interview with a cyber wellness expert.\n**Interviewer: Thank you for joining us, Ms. Sarah Lee from SafeGuard Cyber Wellness. Can you tell us more about your experience running the \"I Can Act Against Scams\" event today?**\nMs. Sarah Lee: Absolutely! It has been an eye-opening journey. We worked closely with the Singapore Police Force and National Crime Prevention Council. They conducted the Young Anti-Scam Ambassador Workshop because we realised students are a crucial line of defence in protecting their families from the latest scam tactics.\n**Interviewer: What was the most impactful part of the workshop you attended?**\nMs. Sarah Lee: The role-playing sessions! We practised how to \"Sense, Check, and Act\". It is one thing to read about scams, but another to practise saying \"no\" to a suspicious request.\n**Interviewer: Is the campaign only for tech-savvy students?**\nMs. Sarah Lee: Without a doubt, no. The roadshow at the Community Hub is open to everyone. Whether you are a student or a senior citizen, there is something for everyone.\n**Interviewer: Any final advice for our readers?**\nMs. Sarah Lee: Always verify! If a deal looks too good to be true, it probably is. Don't be afraid to report suspicious numbers. Every report helps the authorities stay one step ahead of scammers. It's about the whole community staying vigilant.\n**Interviewer: Thanks, Ms. Lee. It sounds like a very meaningful event.**\nMs. Sarah Lee: It really is. We're already looking forward to our next roadshow!",
+   "images": [
+    {
+     "id": "img1",
+     "page": 12,
+     "box": [
+      85,
+      232,
+      700,
+      1035
+     ],
+     "alt": "Poster. Heading in large bold capitals: I CAN ACT AGAINST SCAMS! Slogan in italics: Together, We Can Be Scam-Smart! Jointly organised by: (three logos) Singapore Police Force, National Crime Prevention Council, SafeGuard. The 3-Step Guide. 1. SENSE the red flags (red flag icon): Be wary of unusual requests for money or personal details. 2. CHECK the facts (shield icon): Verify information through official sources or the ScamShield app. 3. ACT to report (magnifying glass icon): Tell a trusted adult and report suspicious numbers to the authorities. Boxed text: Defence Tip: Add the ScamShield App to your phone right now for a reliable defence against tricksters! Young Anti-Scam Ambassador Workshop. Date: 31 October 2026. Venue: Community Hub Main Hall. Activities: Role-playing, Digital Games, and Interactive Booths! (QR code) Don't Miss Out! Complete our Scam-Awareness Quiz via the QR code above for a chance to win in our Grand Lucky Draw!"
+    }
+   ]
+  },
+  {
+   "id": "g3",
+   "text": "There are 10 blanks, numbered 26 to 35, in the passage below. From the list of words given, choose the most suitable word for each blank. Write its letter (A to Q) in the blank. The letters (I) and (O) have been omitted to avoid confusion during marking.\n**EACH WORD CAN BE USED ONLY ONCE.**\n[[table1]]\n\nDolphins have long fascinated humans due to their intelligence and playfulness. Recent studies suggest that these marine mammals have distinct personalities, much like __(26)__ of humans. This natural connection often stems from stories of dolphins rescuing swimmers __(27)__ shark attacks. This is why there are now many researchers __(28)__ study these creatures, believing that their sociable nature is a survival mechanism. They live in pods and rely on one another to hunt. __(29)__, this close bond is not limited to their own species.\nDolphins often show curiosity towards humans, sometimes swimming __(30)__ oceans just to interact with boats. While it is tempting to treat them as pets, we must remember they are wild. We should admire them from afar __(31)__ avoid disrupting their natural habits. Efforts are being made to protect __(32)__ habitats from pollution and its harmful effects. __(33)__ we take action to keep the oceans clean, these magnificent creatures will face a decline in population. It is the responsibility __(34)__ everyone to ensure that dolphins continue to thrive. __(35)__ effort to protect the oceans will benefit the world's marine life. Preserving these intelligent animals and their environment is a legacy we must leave for future generations.\n**Adapted from:** Dolphins: Study finds humans share personality traits with dolphins, BBC",
+   "tables": [
+    {
+     "id": "table1",
+     "rows": [
+      [
+       "(A) across",
+       "(D) every",
+       "(G) in",
+       "(K) of",
+       "(N) those"
+      ],
+      [
+       "(B) and",
+       "(E) from",
+       "(H) into",
+       "(L) their",
+       "(P) unless"
+      ],
+      [
+       "(C) by",
+       "(F) however",
+       "(J) its",
+       "(M) them",
+       "(Q) who"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g4",
+   "text": "Each of the underlined words contains either a spelling or grammatical error. Write the correct word in each of the boxes.\n\nLast month, Dr Sarah Chen and her team of five scientists embarked on an exciting expedition to the Arctic. They wanted to __(36: conducts)__ a study on how climate change was affecting the polar bears and their habitat. The team packed warm clothing, scientific __(37: ekuipment)__ and enough food supplies for three weeks.\nThe __(38: tempreture)__ was −30°C when they arrived at the research station. The landscape was __(39: breadthtaking)__, with endless stretches of white snow and ice. Huge icebergs floated __(40: silence)__ in the dark blue ocean, creating a magnificent sight. On their first day, the scientists spotted a family of polar bears in the __(41: deestence)__. The mother bear was teaching her two cubs how to hunt for seals. Dr Chen carefully observed their __(42: behave)__ through her binoculars and recorded detailed notes. She noticed that the bears had to travel much __(43: far)__ than usual to find food because the ice was thinner as compared to previous years.\nThe team discovered that the ice was melting faster than expected. This __(44: worry)__ them because polar bears depend on the ice to hunt and survive.\nDespite the harsh conditions and freezing winds, the team completed their research __(45: successfuly)__. They gathered valuable information that would help scientists around the world better understand the effects of global warming on Arctic wildlife."
+  },
+  {
+   "id": "g5",
+   "text": "Fill in each blank with a suitable word.\n\nDeep in the forests of California stand some of the most magnificent trees on Earth – the giant sequoias. These ancient giants can __(46)__ for over 3,000 years and grow to __(47)__ of more than 80 metres.\nWhat makes these trees truly special is their incredible __(48)__ to survive forest fires. While most trees would be destroyed by flames, giant sequoias have developed thick, fire-resistant bark that can be up to 60 centimetres thick. This natural armour __(49)__ the tree's living tissue from heat damage.\nSurprisingly, giant sequoias actually depend __(50)__ forest fires to reproduce. The intense heat from fires causes their cones to open and __(51)__ thousands of tiny seeds. The fire also wipes __(52)__ competing plants and creates the perfect soil conditions for new sequoia seedlings to grow.\nThese remarkable trees have a unique root system that spreads horizontally instead of growing __(53)__ underground. Although the roots extend only about two metres down, they can spread over 30 metres __(54)__ all directions. This wide network helps the massive trees stay upright __(55)__ storms and strong winds.\nGiant sequoias grow incredibly slowly, adding only about one centimetre to their diameter each year. However, they __(56)__ stop growing throughout their entire lifespan. Some of the largest specimens __(57)__ as much as 2,000 tonnes – equivalent to about 400 elephants!\nScientists believe __(58)__ climate change must be slowed down because it poses a serious __(59)__ to these ancient giants. Higher temperatures and changing rainfall patterns could make it __(60)__ for young sequoias to survive. Conservation efforts are now underway to protect these magnificent trees for future generations."
+  },
+  {
+   "id": "g6",
+   "text": "Read the passage and answer questions 66 to 75.\n\n**1** Kenji Sato would never forget the night a police officer knocked on their door after midnight. His mother hurried to open it and found the police officer standing outside with his grandfather, Aoto. \"I found him wandering near the highway,\" the officer explained kindly. \"He seemed a little lost.\" Kenji's mother thanked the officer and gently guided her father back to bed. Kenji watched worriedly as his grandfather, tired and confused, shuffled down the hallway.\n**2** Aoto suffered from Alzheimer's disease. The illness often caused him to forget where he was or what time it was. Sometimes, in the middle of the night, he would quietly get out of bed and start wandering around the house.\n**3** That night had frightened the whole family. Somehow, Aoto had left the house and walked all the way towards the busy highway nearby. The next morning, Kenji noticed how exhausted his mother looked. She had been caring for her father every day, and many nights she forced herself to stay awake, listening carefully in case he tried to leave his bed again. \"If I fall asleep,\" she said tiredly, \"he might wander off.\" Kenji nodded sympathetically at his mother's struggles. There had to be a way to help her.\n**4** Ever since he was little, Kenji loved visiting his parents' laboratory. This greatly influenced his love for science and technology. Many hours were spent **there**, experimenting with small gadgets. Now he began to wonder if technology could solve his family's problem.\n**5** One evening, while checking on his grandfather, Kenji noticed something important. His grandfather slowly swung his legs over the side of the bed. A moment later, his feet pressed against the floor. Suddenly, an idea formed in Kenji's mind. If a device could detect that footstep, it could warn someone immediately. The moment his grandfather stood up, a signal could be sent to a phone, alerting the caregiver before he wandered away.\n**6** Excited by his idea, Kenji began researching how sensors worked. He quickly found that turning his idea into reality was not easy. He needed a sensor that was small and comfortable enough to wear. It took a long time to find the perfect one. Then, there was another uphill battle - he had to create a system that could send a wireless signal to a smartphone. The signal sometimes did not reach the phone even when the sensor was working fine. Some days, Kenji's father would find him poring over his notes, shoulders slumped. \"Stuck again?\" **he** would ask. Hardly glancing up, his brows furrowed, Kenji would reply, \"Not for long.\" He refused to give up.\n**7** After many months of experimenting, Kenji finally created a working **prototype**. To his father, it looked just like a regular sock. What he did not know was that it was a sock with a pressure sensor attached to the bottom. His father tried it on and was amazed at how comfortable it felt. Kenji beamed. \"That's because the sensor is so thin!\" When his father suggested for him to try attaching the sensor to other pieces of clothing, Kenji took his idea seriously.\n**8** That night, Kenji tested the invention. He helped Aoto put on the sock at bedtime. Each time Aoto stepped out of bed, the phone received a message. For the first time in a long while, his mother could rest more peacefully at night.\n**9** Caregivers from other families and many elderly care centres approached Kenji to make his special socks for their family members or patients. He happily did so. Afterwards, some caregivers told him that some of the elderly did not like wearing socks to sleep. Kenji thanked them for their feedback. Even though Kenji later received several awards for his invention, he continued to improve it. He was happy that his small idea had made a big impact on many people's lives."
+  }
+ ],
+ "questions": [
+  {
+   "section": "p1",
+   "number": 1,
+   "page": 2,
+   "format": "structured",
+   "marks": 14,
+   "topic": "writing",
+   "subtypes": [
+    "situational-writing"
+   ],
+   "stem": "**Part 1: Situational Writing (14 marks)**\nThe pictures below show Vincent, Siti and Meera having a conversation. Study the pictures carefully.\n[[img1]]\n**Your Task**\nImagine you are Vincent.\n**Write an email to your teacher, Miss Hanisah, to propose the community service project that you and your classmates have discussed.**\nYou are to refer to the pictures and information above for your email. The bullet point underlined below requires you to come up with your own information.\n\nIn your email, include the following key information:\n• the name of the community service project\n• what your class will make and its purpose\n• the art materials required\n• the date by which you hope to get the materials\n• ++one value your class hope to learn from this project++\n\nYou may reorder the points. Remember to write in complete sentences.\n(Write your email on paper or type it, then check it against the points given.)",
+   "images": [
+    {
+     "id": "img1",
+     "page": 2,
+     "box": [
+      100,
+      255,
+      695,
+      948
+     ],
+     "alt": "Six speech bubbles in two rows of pictures showing three pupils talking in a library. Vincent: 'Siti, as part of our community service, shall we fold 1,000 paper cranes to cheer up the patients at Greyway Hospital?' Siti: 'Great idea, Vincent! We can call it 'Project Paper Crane' or 'Fold a Crane. Bring a Smile!'' Meera: 'I like your second suggestion, Siti. We can use recycled coloured paper and some nylon string to hang the paper cranes.' Vincent: 'I'll email Miss Hanisah to propose this as our community service project and tell her that we need to collect the materials by 15 July 2026.' Siti: 'No, we must collect all the materials by 10 July 2026 so that we will have enough time to fold the cranes.' Meera: 'You should also explain why our class is doing this as our community service project and what values we hope to learn from it.'"
+    }
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "There is no single model answer. Check your writing against the points below."
+     },
+     "explanation": [
+      "Purpose: to propose the class community service project to your teacher (and so ask for her approval and support). Say this in your opening sentence.",
+      "Audience: Miss Hanisah, your teacher. Write as Vincent ('I', 'my classmates and I', 'our class'). Context: your class has to do a community service project.",
+      "Point 1, the name of the project: 'Fold a Crane. Bring a Smile!' Meera says she likes Siti's **second** suggestion, so 'Project Paper Crane' is wrong.",
+      "Point 2, what the class will make and its purpose: fold 1,000 paper cranes to cheer up the patients at Greyway Hospital. Give both the number and the purpose.",
+      "Point 3, the art materials required: recycled coloured paper and some nylon string (to hang the paper cranes).",
+      "Point 4, the date by which you hope to get the materials: 10 July 2026. Vincent first said 15 July, but Siti corrected him, so 15 July is wrong.",
+      "Point 5, one value your class hopes to learn: this is your own idea. Name one value that fits and link it to the project, for example compassion or empathy (caring for people who are ill), teamwork (folding 1,000 cranes together) or perseverance.",
+      "Format and tone: a greeting ('Dear Miss Hanisah,'), a polite and respectful tone because you are writing to a teacher, complete sentences (no bullet points or short forms like 'pls'), a polite closing line such as 'I hope you will approve our proposal. Thank you.' and a sign-off ('Yours sincerely, Vincent' or 'Regards, Vincent').",
+      "Marks: 14 in total. In the PSLE format, 6 marks are for task fulfilment (all the points, the purpose, audience and context) and 8 marks are for language (grammar, spelling, punctuation and clear sentences). Do not copy the speech bubbles word for word; change 'we' and 'you' so that the sentences make sense in an email."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "No key provided for Paper 1.",
+    "solvedAnswer": "Content points worked out from the pictures: name 'Fold a Crane. Bring a Smile!'; 1,000 paper cranes to cheer up patients at Greyway Hospital; recycled coloured paper and nylon string; 10 July 2026; one value of the pupil's own.",
+    "status": "verified",
+    "note": "The answer key has no Paper 1 section; the checklist is worked out from the task. In Siti's second speech bubble the right edge of the date is clipped in the scan ('1C July 2026'); it is read as 10 July 2026, the only reading that fits (it must be earlier than 15 July to give 'enough time to fold the cranes'). The task box says 'on page 1'; this is changed to 'above' because the pictures are shown with the task. The mark split of 6 + 8 is the standard PSLE one; the paper prints only the total of 14."
+   }
+  },
+  {
+   "section": "p1",
+   "number": 2,
+   "page": 3,
+   "format": "structured",
+   "marks": 36,
+   "topic": "writing",
+   "subtypes": [
+    "continuous-writing"
+   ],
+   "stem": "**Part 2: Continuous Writing (36 marks)**\nWrite a composition of ++at least 150 words++ about **learning to respect others.**\nThe pictures are provided to help you think about the topic.\nYour composition should be based on one or more of these pictures.\n[[img1]]\nConsider the following points when you plan your composition:\n• What happened when the character(s) did not show respect?\n• How was respect shown after that?\n\nYou may use the points in any order and include other relevant points as well.\n(Write your composition on paper or type it, then check it against the points given.)",
+   "images": [
+    {
+     "id": "img1",
+     "page": 3,
+     "box": [
+      475,
+      190,
+      705,
+      838
+     ],
+     "alt": "Three pictures, one above the other. Picture 1: a loudspeaker blasting loud music, with music notes and jagged lightning-shaped sound marks around it. Picture 2: a handheld game console with a badly cracked screen and broken bits lying under it. Picture 3: two boys; one is angry, shouting with clenched fists, and the other looks sorry and embarrassed, scratching his head."
+    }
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "There is no single model answer. Check your writing against the points below."
+     },
+     "explanation": [
+      "Understand the topic: 'learning to respect others' has two halves. Someone must first fail to show respect, and then **learn** to show it. A story where the character is respectful from the start does not fit. Respect can be for other people's peace and quiet, their belongings, their feelings or their opinions.",
+      "Picture 1 (loudspeaker blasting music): not respecting others' need for quiet, for example playing loud music late at night while a neighbour's baby sleeps, a sibling studies for an examination, or an elderly neighbour is ill.",
+      "Picture 2 (game console with a cracked screen): not respecting other people's belongings, for example taking a brother's or friend's console without asking and handling it roughly until it breaks.",
+      "Picture 3 (an angry boy and a sorry-looking boy): not respecting someone's feelings, or the quarrel that follows a disrespectful act. It can also be the turning point where the character sees how upset the other person is.",
+      "Use at least one picture and make it important to the story, not just mentioned in passing. You may combine them: a boy borrows his friend's console without permission (Picture 2) and the friend confronts him (Picture 3).",
+      "Plan a story arc. Beginning: who the character is and the careless attitude ('It's only a game. He won't mind.'). Build-up: the disrespectful act. Climax: the consequence (the cracked screen, the angry neighbour, the broken friendship). Turning point: the character realises how the other person feels, often with the help of a parent or teacher. Resolution: respect is shown in action, for example apologising sincerely, paying for the repair with saved pocket money, asking permission from then on, or turning the volume down.",
+      "Answer both guiding questions: what happened when the character did not show respect, and how respect was shown after that. The second one is easy to rush; give it a full paragraph.",
+      "Show feelings and thoughts, not only events: the other person's anger or hurt, and the main character's guilt ('My cheeks burned. I could not look him in the eye.'). Use some dialogue, but keep it short.",
+      "End by returning to the topic: what the character learnt about respect and how he or she behaves differently now. Avoid ending with only 'I learnt my lesson.'",
+      "Marks: 36 in total. In the PSLE format, 18 marks are for content (a clear, well-developed story that fits the topic) and 18 marks are for language and organisation (paragraphs, sentence variety, vocabulary, grammar, spelling and punctuation). Write well over 150 words; a developed story usually needs 350 words or more."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "No key provided for Paper 1.",
+    "solvedAnswer": "Planning checklist written for the topic 'learning to respect others'.",
+    "status": "verified",
+    "note": "The answer key has no Paper 1 section. In the PDF the continuous writing page (PDF page 3) is bound before the situational writing task box (PDF page 4). The mark split of 18 + 18 is the standard PSLE one; the paper prints only the total of 36."
+   }
+  },
+  {
+   "section": "a",
+   "number": 1,
+   "page": 7,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "grammar",
+   "subtypes": [
+    "subject-verb-agreement"
+   ],
+   "stem": "For each question from 1 to 10, choose the answer that best fits in the sentence(s).\nThe class monitor, together with a group of students, __________ very excited about the upcoming National Day celebration.",
+   "options": [
+    "is",
+    "are",
+    "were",
+    "have been"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 1
+     },
+     "explanation": [
+      "Find the real subject. Words added with 'together with', 'as well as' or 'along with' are extra information between commas; they do not change the subject.",
+      "Cover the part between the commas: 'The class monitor ___ very excited'. The subject is one person, so the verb must be singular.",
+      "'are', 'were' and 'have been' are all plural forms. They are tempting because 'a group of students' sits right before the blank.",
+      "'The class monitor ... is very excited.' The answer is option (1)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "1",
+    "solvedAnswer": "1",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 2,
+   "page": 7,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "grammar",
+   "subtypes": [
+    "connectors"
+   ],
+   "stem": "For each question from 1 to 10, choose the answer that best fits in the sentence(s).\n__________ the difficult questions in the paper, Ahmad managed to complete the test on time.",
+   "options": [
+    "Due to",
+    "Instead of",
+    "In spite of",
+    "Because of"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 3
+     },
+     "explanation": [
+      "Look at how the two ideas are related. Difficult questions would normally slow a person down, yet Ahmad finished on time. The result is unexpected, so we need a connector of contrast.",
+      "'In spite of' (like 'Despite') is followed by a noun phrase and shows that something happened even though there was an obstacle.",
+      "'Due to' and 'Because of' give a reason, but difficult questions are not the reason he finished on time. 'Instead of' means in place of something.",
+      "The answer is option (3), In spite of."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "3",
+    "solvedAnswer": "3",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 3,
+   "page": 7,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "grammar",
+   "subtypes": [
+    "tenses",
+    "subject-verb-agreement"
+   ],
+   "stem": "For each question from 1 to 10, choose the answer that best fits in the sentence(s).\nDue to the heavy downpour, the furniture __________ damp since last night.",
+   "options": [
+    "is",
+    "are",
+    "has been",
+    "have been"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 3
+     },
+     "explanation": [
+      "Clue 1: 'since last night'. 'Since' + a point in time tells us the situation started in the past and is still true now. That needs the present perfect tense (has/have + past participle), so 'is' and 'are' are out.",
+      "Clue 2: 'furniture' is an uncountable noun. It is always singular, even when it means many chairs and tables, so it takes 'has', not 'have'.",
+      "'the furniture has been damp since last night.' The answer is option (3)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "3",
+    "solvedAnswer": "3",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 4,
+   "page": 7,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "grammar",
+   "subtypes": [
+    "question-tags"
+   ],
+   "stem": "For each question from 1 to 10, choose the answer that best fits in the sentence(s).\n\"Let's work together for this project, __________?\" Lydia proposed.",
+   "options": [
+    "shall we",
+    "may we",
+    "can we",
+    "will we"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 1
+     },
+     "explanation": [
+      "This is a question tag. Most tags repeat the helping verb of the sentence, but there are a few fixed ones to memorise.",
+      "Rule: a suggestion that begins with 'Let's' (let us) always takes the tag 'shall we?'.",
+      "Compare: an order such as 'Close the door' takes 'will you?'. 'will we' is tempting but is not used after 'Let's'.",
+      "\"Let's work together for this project, shall we?\" The answer is option (1)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "1",
+    "solvedAnswer": "1",
+    "status": "verified",
+    "note": "The key's digit for Q4 is partly under the watermark; a 1 is visible, which matches the solved answer."
+   }
+  },
+  {
+   "section": "a",
+   "number": 5,
+   "page": 7,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "grammar",
+   "subtypes": [
+    "question-tags"
+   ],
+   "stem": "For each question from 1 to 10, choose the answer that best fits in the sentence(s).\nThere's been a decrease in the amount of food wastage, __________?",
+   "options": [
+    "is there",
+    "isn't there",
+    "has there",
+    "hasn't there"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 4
+     },
+     "explanation": [
+      "First work out what 'There's' stands for. It is followed by 'been', a past participle, so it is 'There **has** been', not 'There is been'.",
+      "Rule for question tags: use the same helping verb, and switch positive to negative (or negative to positive). The sentence is positive ('has been'), so the tag is negative: 'hasn't'.",
+      "The tag keeps 'there' as its subject. 'isn't there' is the trap for anyone who reads 'There's' as 'There is'.",
+      "'There's been a decrease ..., hasn't there?' The answer is option (4)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "4",
+    "solvedAnswer": "4",
+    "status": "verified",
+    "note": "The key's digit for Q5 is partly under the watermark; a 4 is visible, which matches the solved answer."
+   }
+  },
+  {
+   "section": "a",
+   "number": 6,
+   "page": 8,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "grammar",
+   "subtypes": [
+    "pronouns"
+   ],
+   "stem": "For each question from 1 to 10, choose the answer that best fits in the sentence(s).\nPlease keep this secret between you and __________.",
+   "options": [
+    "I",
+    "me",
+    "mine",
+    "myself"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 2
+     },
+     "explanation": [
+      "'between' is a preposition. Rule: a pronoun that follows a preposition must be in the object form (me, him, her, us, them).",
+      "Test with another preposition: we say 'for me' and 'with me', never 'for I'. So it is 'between you and me'.",
+      "'I' is the subject form and is the most common mistake here because 'you and I' sounds polite. 'myself' is only used when the subject is also 'I' ('I hurt myself'). 'mine' shows ownership.",
+      "The answer is option (2), me."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "2",
+    "solvedAnswer": "2",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 7,
+   "page": 8,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "grammar",
+   "subtypes": [
+    "tenses"
+   ],
+   "stem": "For each question from 1 to 10, choose the answer that best fits in the sentence(s).\nBy the time I got to school this morning, Candice __________ waiting there for me for 30 minutes.",
+   "options": [
+    "was",
+    "had been",
+    "has been",
+    "have been"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 2
+     },
+     "explanation": [
+      "There are two past events: Candice started waiting, and later I got to school. 'By the time' + simple past ('got') tells us the other action began earlier and went on up to that moment.",
+      "Rule: for an action that continued up to a point in the past, with a length of time ('for 30 minutes'), use the past perfect continuous: had been + verb-ing.",
+      "'was waiting' cannot go with 'for 30 minutes' in this pattern. 'has been' and 'have been' connect to the present, but the whole sentence is about this morning, which is over.",
+      "'Candice had been waiting there for me for 30 minutes.' The answer is option (2)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "2",
+    "solvedAnswer": "2",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 8,
+   "page": 8,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "grammar",
+   "subtypes": [
+    "subject-verb-agreement"
+   ],
+   "stem": "For each question from 1 to 10, choose the answer that best fits in the sentence(s).\nNeither Jeremy nor his teammates __________ to school every morning.",
+   "options": [
+    "walk",
+    "walks",
+    "has walked",
+    "have walked"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 1
+     },
+     "explanation": [
+      "Clue 1: 'every morning' describes a habit, so the verb is in the simple present tense. That rules out 'has walked' and 'have walked'.",
+      "Clue 2: with 'neither ... nor' (and 'either ... or'), the verb agrees with the subject nearest to it.",
+      "The nearest subject is 'his teammates', which is plural, so the verb has no 's': 'walk'.",
+      "'Neither Jeremy nor his teammates walk to school every morning.' The answer is option (1)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "1",
+    "solvedAnswer": "1",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 9,
+   "page": 8,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "grammar",
+   "subtypes": [
+    "conditionals"
+   ],
+   "stem": "For each question from 1 to 10, choose the answer that best fits in the sentence(s).\nHad I known about the traffic jam, I __________ a different route.",
+   "options": [
+    "will take",
+    "would take",
+    "will have taken",
+    "would have taken"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 4
+     },
+     "explanation": [
+      "'Had I known' is another way of saying 'If I had known'. The 'if' is dropped and 'had' moves to the front.",
+      "This is a conditional about the past that did not happen: I did not know, so I did not take a different route.",
+      "Rule: If + had + past participle, ... would have + past participle.",
+      "'would take' is tempting, but it goes with 'If I knew' (an imagined present). 'Had I known ..., I would have taken a different route.' The answer is option (4)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "4",
+    "solvedAnswer": "4",
+    "status": "verified",
+    "note": "The key's digit for Q9 is partly under the watermark; a 4 is visible, which matches the solved answer."
+   }
+  },
+  {
+   "section": "a",
+   "number": 10,
+   "page": 8,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "grammar",
+   "subtypes": [
+    "participle-phrase"
+   ],
+   "stem": "For each question from 1 to 10, choose the answer that best fits in the sentence(s).\n__________ the good news, my entire family celebrated with joy.",
+   "options": [
+    "Receive",
+    "Received",
+    "To receive",
+    "Having received"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 4
+     },
+     "explanation": [
+      "The first part of the sentence has no subject of its own. It is a participle phrase that shares the subject of the main clause: 'my entire family'.",
+      "Two actions happened one after the other: first the family received the news, then they celebrated. Rule: use 'Having + past participle' for the earlier action done by the same subject.",
+      "'Received the good news' would be passive and would mean the family was received. 'To receive' shows purpose, and 'Receive' is a bare verb that cannot start the phrase.",
+      "'Having received the good news, my entire family celebrated with joy.' The answer is option (4)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "4",
+    "solvedAnswer": "4",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 11,
+   "page": 9,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "vocabulary",
+   "subtypes": [
+    "phrasal-verbs"
+   ],
+   "stem": "For each question from 11 to 15, choose the answer that best fits in the sentence(s).\nThe teacher __________ the students' artwork on the wall.",
+   "options": [
+    "put up",
+    "set aside",
+    "turn down",
+    "brought about"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 1
+     },
+     "explanation": [
+      "Clue: 'artwork on the wall'. We need a phrasal verb that means to fix something on a wall so that people can see it.",
+      "'put up' means to display or hang something (put up a poster, a notice, a picture).",
+      "'set aside' means to keep something for later use. 'turn down' means to reject or to lower the volume. 'brought about' means caused something to happen.",
+      "The answer is option (1), put up."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "1",
+    "solvedAnswer": "1",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 12,
+   "page": 9,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "vocabulary",
+   "subtypes": [
+    "word-meaning"
+   ],
+   "stem": "For each question from 11 to 15, choose the answer that best fits in the sentence(s).\nHe __________ disobeyed the rules, knowing that his actions would have serious consequences.",
+   "options": [
+    "blindly",
+    "wilfully",
+    "impulsively",
+    "unwittingly"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 2
+     },
+     "explanation": [
+      "Clue: 'knowing that his actions would have serious consequences'. He was fully aware and still chose to break the rules.",
+      "'wilfully' means deliberately, on purpose, even though you know it is wrong.",
+      "'unwittingly' is the opposite: without knowing or realising. 'impulsively' means suddenly, without thinking first, and 'blindly' means without thinking or questioning; neither fits someone who knew the consequences.",
+      "The answer is option (2), wilfully."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "2",
+    "solvedAnswer": "2",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 13,
+   "page": 9,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "vocabulary",
+   "subtypes": [
+    "idioms"
+   ],
+   "stem": "For each question from 11 to 15, choose the answer that best fits in the sentence(s).\nBeing a kind-hearted girl, Matilda would offer to help anyone __________.",
+   "options": [
+    "jump the gun",
+    "cut to the chase",
+    "at the drop of a hat",
+    "once in a blue moon"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 3
+     },
+     "explanation": [
+      "Clue: 'kind-hearted'. A kind-hearted girl helps readily, without needing to be asked twice.",
+      "'at the drop of a hat' means immediately, without hesitating.",
+      "'once in a blue moon' means very rarely, which is the opposite of what a kind girl would do. 'jump the gun' means to act too soon, and 'cut to the chase' means to get to the main point; these are verb phrases and do not fit after 'help anyone'.",
+      "The answer is option (3), at the drop of a hat."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "3",
+    "solvedAnswer": "3",
+    "status": "verified",
+    "note": "The key's digit for Q13 is partly under the watermark; the visible strokes are a 3, which matches the solved answer."
+   }
+  },
+  {
+   "section": "a",
+   "number": 14,
+   "page": 9,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "vocabulary",
+   "subtypes": [
+    "word-meaning"
+   ],
+   "stem": "For each question from 11 to 15, choose the answer that best fits in the sentence(s).\nThe residents were __________ when they saw that their house was completely burnt down by the fire, leaving them homeless.",
+   "options": [
+    "dejected",
+    "disturbed",
+    "devastated",
+    "disappointed"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 3
+     },
+     "explanation": [
+      "Clues: 'completely burnt down' and 'leaving them homeless'. This is a terrible loss, so we need the strongest word for sadness and shock.",
+      "'devastated' means extremely upset and shocked, as if your world has been destroyed.",
+      "'dejected' (low in spirits) and 'disappointed' (sad because a hope was not met) are far too mild for losing a home. 'disturbed' means worried or unsettled.",
+      "The answer is option (3), devastated."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "3",
+    "solvedAnswer": "3",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 15,
+   "page": 9,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "vocabulary",
+   "subtypes": [
+    "word-meaning",
+    "collocation"
+   ],
+   "stem": "For each question from 11 to 15, choose the answer that best fits in the sentence(s).\nThe torrential rain began to __________ to a light drizzle by evening.",
+   "options": [
+    "lessen",
+    "reduce",
+    "subside",
+    "decrease"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 3
+     },
+     "explanation": [
+      "All four words have something to do with becoming less, so think about which one is normally used for weather.",
+      "'subside' means to become calmer or less violent. It is the word used for storms, rain, floods, winds, pain and anger: 'the storm subsided'.",
+      "'reduce' needs a doer and an object (you reduce something). 'decrease' and 'lessen' are used for amounts and numbers going down, not for heavy rain calming into a drizzle.",
+      "'The torrential rain began to subside to a light drizzle.' The answer is option (3)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "3",
+    "solvedAnswer": "3",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 16,
+   "page": 10,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "vocabulary-cloze",
+   "subtypes": [
+    "word-meaning"
+   ],
+   "group": "g1",
+   "stem": "Choose the word closest in meaning to ++cluster++.",
+   "options": [
+    "unit",
+    "section",
+    "display",
+    "collection"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 4
+     },
+     "explanation": [
+      "A 'cluster' is a group of things close together.",
+      "The workshop was a cluster 'of tubes, levers and spinning wheels': many different things gathered in one place.",
+      "'collection' means a group of things gathered together, which matches. 'display' is tempting, but a display is arranged for people to look at, and nobody even knew what these things did.",
+      "The answer is option (4), collection."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "4",
+    "solvedAnswer": "4",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 17,
+   "page": 10,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "vocabulary-cloze",
+   "subtypes": [
+    "word-meaning",
+    "idioms"
+   ],
+   "group": "g1",
+   "stem": "Choose the word closest in meaning to ++dead on his feet++.",
+   "options": [
+    "wary",
+    "clumsy",
+    "deprived",
+    "exhausted"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 4
+     },
+     "explanation": [
+      "'dead on his feet' is an idiom. It describes someone so tired that he can hardly stay standing.",
+      "'exhausted' means extremely tired, which matches.",
+      "'wary' (careful because of possible danger) is tempting because Pip froze at the door, but that happened after he was described as dead on his feet. 'deprived' means lacking something needed.",
+      "The answer is option (4), exhausted."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "4",
+    "solvedAnswer": "4",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 18,
+   "page": 10,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "vocabulary-cloze",
+   "subtypes": [
+    "word-meaning"
+   ],
+   "group": "g1",
+   "stem": "Choose the word closest in meaning to ++just barely++.",
+   "options": [
+    "purely",
+    "merely",
+    "scarcely",
+    "carefully"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 3
+     },
+     "explanation": [
+      "'just barely' means only just, almost not at all.",
+      "The 'fraying wires' were 'just barely holding together': they were close to falling apart.",
+      "'scarcely' means hardly or only just, which matches. 'merely' means only or simply ('merely a child'); it does not carry the meaning of 'almost not'.",
+      "The answer is option (3), scarcely."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "3",
+    "solvedAnswer": "3",
+    "status": "verified",
+    "note": "The key's digit for Q18 is partly under the watermark; the visible strokes are a 3, which matches the solved answer."
+   }
+  },
+  {
+   "section": "a",
+   "number": 19,
+   "page": 11,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "vocabulary-cloze",
+   "subtypes": [
+    "word-meaning"
+   ],
+   "group": "g1",
+   "stem": "Choose the word closest in meaning to ++reluctant++.",
+   "options": [
+    "unable",
+    "unafraid",
+    "unwilling",
+    "undeterred"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 3
+     },
+     "explanation": [
+      "'reluctant' means not wanting to do something.",
+      "Pip asked 'is that safe?' and did not want 'to step any closer' to the machine.",
+      "'unwilling' means not willing, which matches. 'unable' is the trap: Pip could step closer, he simply did not want to. 'unafraid' and 'undeterred' (not discouraged) are the opposite of how he felt.",
+      "The answer is option (3), unwilling."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "3",
+    "solvedAnswer": "3",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 20,
+   "page": 11,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "vocabulary-cloze",
+   "subtypes": [
+    "word-meaning"
+   ],
+   "group": "g1",
+   "stem": "Choose the word closest in meaning to ++dangerous++.",
+   "options": [
+    "averse",
+    "unusual",
+    "hazardous",
+    "complicated"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 3
+     },
+     "explanation": [
+      "'dangerous' means likely to cause harm.",
+      "The clue follows straight after: 'where's the fun if there's no risk?' The machine carries a risk.",
+      "'hazardous' means risky or dangerous (a hazard is a danger). 'averse' means strongly disliking something; it looks like 'adverse' but describes a person's feelings.",
+      "The answer is option (3), hazardous."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "3",
+    "solvedAnswer": "3",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 21,
+   "page": 14,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "visual-text",
+   "subtypes": [
+    "purpose-and-audience"
+   ],
+   "group": "g2",
+   "stem": "According to Text 1, what is the main purpose of the poster titled \"I CAN ACT AGAINST SCAMS!\"?",
+   "options": [
+    "to share stories of scam cases in Singapore",
+    "to recruit volunteers for the Young anti-Scam Ambassador Workshop",
+    "to show how the crime prevention organisations help the public deal with scams",
+    "to raise awareness about scams and teach people how to protect themselves from them"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 4
+     },
+     "explanation": [
+      "The main purpose is what most of the poster is about, not one small part of it.",
+      "The title, the slogan 'Together, We Can Be Scam-Smart!', 'The 3-Step Guide' (Sense, Check, Act) and the Defence Tip all make people aware of scams and tell them what to do. That is option (4).",
+      "(2) is tempting because the workshop is on the poster, but the poster does not ask for volunteers and the workshop is only one section. (1) is wrong: there are no stories. (3) is wrong: the steps are what **the reader** should do, not what the organisations do.",
+      "The answer is option (4)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "4",
+    "solvedAnswer": "4",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 22,
+   "page": 14,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "visual-text",
+   "subtypes": [
+    "inference"
+   ],
+   "group": "g2",
+   "stem": "In the slogan \"Together, We Can Be Scam-Smart\", the use of the word \"Together\" primarily suggests that __________.",
+   "options": [
+    "collective effort is required to effectively fight scams",
+    "everyone must undergo the same training programme",
+    "scams can only be stopped if people live in the same community",
+    "the organisers and the public will deal with the scams by scanning the QR code"
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 1
+     },
+     "explanation": [
+      "'Together' means with one another. With 'We', it tells readers that everyone has a part to play.",
+      "'collective effort' means many people working as one, which is what 'Together, We' suggests. The poster title says '**I** can act' and the slogan adds that all of us acting makes everyone scam-smart.",
+      "(2) and (3) read too much into the word: nothing mentions the same training or living in the same place. (4) is wrong because the QR code is only for a quiz and lucky draw.",
+      "The answer is option (1)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "1",
+    "solvedAnswer": "1",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 23,
+   "page": 14,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "visual-text",
+   "subtypes": [
+    "purpose-and-audience",
+    "inference"
+   ],
+   "group": "g2",
+   "stem": "In Text 1, how does the design of the poster **most effectively persuade** the public to support the \"I CAN ACT AGAINST SCAMS!\" initiative?",
+   "options": [
+    "It includes a guide to explain the step-by-step process of reporting a scam.",
+    "It places the logos of authoritative organisations near the top to establish trust.",
+    "It uses bold, capitalised letters in the heading to demand the reader's immediate attention.",
+    "It uses a variety of font styles and sizes to distinguish between information meant for children and adults."
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 2
+     },
+     "explanation": [
+      "The key word is 'persuade'. People support a campaign when they trust the people behind it.",
+      "Right under the slogan are the words 'Jointly organised by' and the logos of the Singapore Police Force, the National Crime Prevention Council and SafeGuard. Seeing these official bodies makes readers believe the initiative is genuine, so they are willing to support it. That is option (2).",
+      "(3) is tempting, but big capital letters only catch attention; they do not give a reason to support the initiative. (1) is inaccurate: the guide is about sensing, checking and acting, and only the last step is about reporting. (4) is not true of the poster.",
+      "The answer is option (2)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "2",
+    "solvedAnswer": "2",
+    "status": "verified",
+    "note": "The key's digit for Q23 is partly under the watermark; the visible strokes are a 2, which matches the solved answer."
+   }
+  },
+  {
+   "section": "a",
+   "number": 24,
+   "page": 14,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "visual-text",
+   "subtypes": [
+    "inference"
+   ],
+   "group": "g2",
+   "stem": "In Text 2, what does Ms Sarah Lee suggest when she says that \"students are a crucial line of defence\"?",
+   "options": [
+    "Students are the only ones capable of identifying modern scam tactics.",
+    "Students can play an active role in protecting their family members from scams.",
+    "Students need to be tech-savvy to participate in the \"I Can Act Against Scams\" event.",
+    "Students should be the ones to report all suspicious activities to the Singapore Police Force."
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 2
+     },
+     "explanation": [
+      "Read the whole sentence in Text 2: 'students are a crucial line of defence in protecting their families from the latest scam tactics.'",
+      "A 'line of defence' is something that protects, and 'crucial' means very important. So students can do something important to protect their families. That is option (2).",
+      "(1) goes too far: 'a' line of defence is not 'the only' one. (3) is contradicted later, when she says the campaign is not only for tech-savvy students. (4) also goes too far with 'all' and is not what she says.",
+      "The answer is option (2)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "2",
+    "solvedAnswer": "2",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "a",
+   "number": 25,
+   "page": 15,
+   "format": "mcq",
+   "marks": 1,
+   "topic": "visual-text",
+   "subtypes": [
+    "inference"
+   ],
+   "group": "g2",
+   "stem": "Which idea is expressed in both Text 1 and Text 2?",
+   "options": [
+    "Scams are always easy to identify and avoid.",
+    "Role-playing is the most effective part of anti-scam workshops.",
+    "People should be alert and act against scams by following simple steps.",
+    "Only people who are good with technology can learn how to avoid scams."
+   ],
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "mcq",
+      "value": 3
+     },
+     "explanation": [
+      "The idea must appear in **both** texts, so check each option against each text.",
+      "Text 1 gives 'The 3-Step Guide': Sense, Check, Act, and says 'Be wary'. In Text 2, Ms Lee says they practised how to 'Sense, Check, and Act', and advises 'Always verify!' and 'staying vigilant'. Both tell people to stay alert and follow the steps. That is option (3).",
+      "(2) is tempting, but only Text 2 says role-playing was the most impactful part; Text 1 just lists it as an activity. (4) is the opposite of Text 2 ('open to everyone'). (1) is in neither text.",
+      "The answer is option (3)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "3",
+    "solvedAnswer": "3",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 26,
+   "page": 19,
+   "format": "short",
+   "marks": 1,
+   "topic": "grammar-cloze",
+   "subtypes": [
+    "pronouns"
+   ],
+   "group": "g3",
+   "stem": "Choose the most suitable word for blank (26). (Type its letter, A to Q.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "N",
+      "accept": [
+       "n",
+       "those"
+      ]
+     },
+     "explanation": [
+      "The sentence compares two sets of personalities: the dolphins' personalities and the personalities of humans.",
+      "To avoid repeating a plural noun, we use the pronoun 'those': 'much like those of humans' means 'much like the personalities of humans'.",
+      "For a singular noun we would use 'that' ('the brain of a dolphin is like that of a human'). 'personalities' is plural, so 'those'.",
+      "The answer is (N) those."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "N",
+    "solvedAnswer": "N (those)",
+    "status": "verified",
+    "note": "The section instruction on the paper says the blanks are 'numbered 29 to 38', but the blanks printed in the passage are numbered 26 to 35 and the key answers Q26 to Q35. The instruction is transcribed as printed and the questions use the numbers in the passage."
+   }
+  },
+  {
+   "section": "b",
+   "number": 27,
+   "page": 19,
+   "format": "short",
+   "marks": 1,
+   "topic": "grammar-cloze",
+   "subtypes": [
+    "prepositions"
+   ],
+   "group": "g3",
+   "stem": "Choose the most suitable word for blank (27). (Type its letter, A to Q.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "E",
+      "accept": [
+       "e",
+       "from"
+      ]
+     },
+     "explanation": [
+      "Look at the verb: 'rescuing swimmers ___ shark attacks'.",
+      "The fixed pattern is rescue (or save, protect) someone **from** a danger.",
+      "The answer is (E) from: 'dolphins rescuing swimmers from shark attacks'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "E",
+    "solvedAnswer": "E (from)",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 28,
+   "page": 19,
+   "format": "short",
+   "marks": 1,
+   "topic": "grammar-cloze",
+   "subtypes": [
+    "pronouns"
+   ],
+   "group": "g3",
+   "stem": "Choose the most suitable word for blank (28). (Type its letter, A to Q.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "Q",
+      "accept": [
+       "q",
+       "who"
+      ]
+     },
+     "explanation": [
+      "The blank comes after a noun ('researchers') and before a verb ('study'). It starts a clause that tells us more about the researchers.",
+      "Rule: use the relative pronoun 'who' for people when it is the subject of the clause.",
+      "The answer is (Q) who: 'many researchers who study these creatures'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "Q",
+    "solvedAnswer": "Q (who)",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 29,
+   "page": 19,
+   "format": "short",
+   "marks": 1,
+   "topic": "grammar-cloze",
+   "subtypes": [
+    "connectors"
+   ],
+   "group": "g3",
+   "stem": "Choose the most suitable word for blank (29). (Type its letter, A to Q.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "F",
+      "accept": [
+       "f",
+       "however"
+      ]
+     },
+     "explanation": [
+      "The blank starts a sentence and is followed by a comma, so it is a linking word between two sentences.",
+      "Before: dolphins live in pods and rely on one another (their own kind). After: this close bond 'is not limited to their own species'. The second sentence adds something different and surprising, which is a contrast.",
+      "The connector for contrast that stands before a comma is 'However'. 'and' and 'unless' cannot be followed by a comma like this.",
+      "The answer is (F) however."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "F",
+    "solvedAnswer": "F (however)",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 30,
+   "page": 19,
+   "format": "short",
+   "marks": 1,
+   "topic": "grammar-cloze",
+   "subtypes": [
+    "prepositions"
+   ],
+   "group": "g3",
+   "stem": "Choose the most suitable word for blank (30). (Type its letter, A to Q.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "A",
+      "accept": [
+       "a",
+       "across"
+      ]
+     },
+     "explanation": [
+      "'swimming ___ oceans just to interact with boats' needs a preposition of movement.",
+      "'across' means from one side to the other of a wide area. It stresses how far the dolphins travel 'just to' meet boats.",
+      "'into' does not fit because dolphins already live in the ocean. 'in oceans' would only say where they swim and would lose the idea of distance; 'in' is also needed elsewhere.",
+      "The answer is (A) across."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "A",
+    "solvedAnswer": "A (across)",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 31,
+   "page": 19,
+   "format": "short",
+   "marks": 1,
+   "topic": "grammar-cloze",
+   "subtypes": [
+    "connectors"
+   ],
+   "group": "g3",
+   "stem": "Choose the most suitable word for blank (31). (Type its letter, A to Q.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "B",
+      "accept": [
+       "b",
+       "and"
+      ]
+     },
+     "explanation": [
+      "'We should admire them from afar ___ avoid disrupting their natural habits.' There are two verbs after 'should': 'admire' and 'avoid'.",
+      "Two actions of the same kind, both things we should do, are joined with 'and'.",
+      "The answer is (B) and: 'We should admire them from afar and avoid disrupting their natural habits.'"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "B",
+    "solvedAnswer": "B (and)",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 32,
+   "page": 19,
+   "format": "short",
+   "marks": 1,
+   "topic": "grammar-cloze",
+   "subtypes": [
+    "pronouns"
+   ],
+   "group": "g3",
+   "stem": "Choose the most suitable word for blank (32). (Type its letter, A to Q.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "L",
+      "accept": [
+       "l",
+       "their"
+      ]
+     },
+     "explanation": [
+      "The blank comes before the noun 'habitats', so it needs a word that shows whose habitats they are.",
+      "The habitats belong to the dolphins (plural, 'them' in the sentence before), so the possessive is 'their'.",
+      "'its' is for one thing only. It is used later in the same sentence for 'pollution and its harmful effects', but it does not fit here.",
+      "The answer is (L) their."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "L",
+    "solvedAnswer": "L (their)",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 33,
+   "page": 19,
+   "format": "short",
+   "marks": 1,
+   "topic": "grammar-cloze",
+   "subtypes": [
+    "connectors"
+   ],
+   "group": "g3",
+   "stem": "Choose the most suitable word for blank (33). (Type its letter, A to Q.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "P",
+      "accept": [
+       "p",
+       "unless"
+      ]
+     },
+     "explanation": [
+      "The sentence has a condition and a result: '___ we take action to keep the oceans clean, these magnificent creatures will face a decline in population.'",
+      "The bad result happens if we do **not** take action. 'Unless' means 'if ... not'.",
+      "Check: 'If we do not take action ..., these creatures will face a decline.' It makes sense.",
+      "The answer is (P) unless."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "P",
+    "solvedAnswer": "P (unless)",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 34,
+   "page": 19,
+   "format": "short",
+   "marks": 1,
+   "topic": "grammar-cloze",
+   "subtypes": [
+    "prepositions"
+   ],
+   "group": "g3",
+   "stem": "Choose the most suitable word for blank (34). (Type its letter, A to Q.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "K",
+      "accept": [
+       "k",
+       "of"
+      ]
+     },
+     "explanation": [
+      "The fixed phrase is 'the responsibility **of** someone to do something'.",
+      "'It is the responsibility of everyone to ensure that dolphins continue to thrive.'",
+      "The answer is (K) of."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "K",
+    "solvedAnswer": "K (of)",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 35,
+   "page": 19,
+   "format": "short",
+   "marks": 1,
+   "topic": "grammar-cloze",
+   "subtypes": [
+    "articles-and-determiners"
+   ],
+   "group": "g3",
+   "stem": "Choose the most suitable word for blank (35). (Type its letter, A to Q.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "D",
+      "accept": [
+       "d",
+       "every"
+      ]
+     },
+     "explanation": [
+      "The blank comes before a singular noun, 'effort', and the verb is 'will benefit'.",
+      "'Every' + singular noun means each one, without exception: every effort, however small, helps.",
+      "The answer is (D) every: 'Every effort to protect the oceans will benefit the world's marine life.'"
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "D",
+    "solvedAnswer": "D (every)",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 36,
+   "page": 20,
+   "format": "short",
+   "marks": 1,
+   "topic": "editing",
+   "subtypes": [
+    "grammar"
+   ],
+   "group": "g4",
+   "stem": "Write the correct word for (36) ++conducts++.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "conduct"
+     },
+     "explanation": [
+      "This is a grammar error. Look at the word in front: 'wanted **to** ___'.",
+      "Rule: after 'to', use the base form of the verb (the infinitive), with no -s, -ed or -ing.",
+      "The correct word is 'conduct': 'They wanted to conduct a study'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "conduct",
+    "solvedAnswer": "conduct",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 37,
+   "page": 20,
+   "format": "short",
+   "marks": 1,
+   "topic": "editing",
+   "subtypes": [
+    "spelling"
+   ],
+   "group": "g4",
+   "stem": "Write the correct word for (37) ++ekuipment++.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "equipment"
+     },
+     "explanation": [
+      "This is a spelling error. The sound /kw/ in English is almost always spelt 'qu' (quick, equal, require).",
+      "The word comes from 'equip' + 'ment'.",
+      "The correct spelling is 'equipment'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "equipment",
+    "solvedAnswer": "equipment",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 38,
+   "page": 20,
+   "format": "short",
+   "marks": 1,
+   "topic": "editing",
+   "subtypes": [
+    "spelling"
+   ],
+   "group": "g4",
+   "stem": "Write the correct word for (38) ++tempreture++.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "temperature"
+     },
+     "explanation": [
+      "This is a spelling error. People often say the word quickly and drop a syllable.",
+      "Say it slowly in four parts: tem-per-a-ture. There is an 'e' after the 'p' and an 'a' before 'ture'.",
+      "The correct spelling is 'temperature'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "temperature",
+    "solvedAnswer": "temperature",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 39,
+   "page": 20,
+   "format": "short",
+   "marks": 1,
+   "topic": "editing",
+   "subtypes": [
+    "spelling"
+   ],
+   "group": "g4",
+   "stem": "Write the correct word for (39) ++breadthtaking++.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "breathtaking"
+     },
+     "explanation": [
+      "This is a spelling error. Something so beautiful that it 'takes your breath away' is breath + taking.",
+      "'breadth' is a different word that means width. There is no 'd' in 'breath'.",
+      "The correct spelling is 'breathtaking'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "breathtaking",
+    "solvedAnswer": "breathtaking",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 40,
+   "page": 20,
+   "format": "short",
+   "marks": 1,
+   "topic": "editing",
+   "subtypes": [
+    "grammar"
+   ],
+   "group": "g4",
+   "stem": "Write the correct word for (40) ++silence++.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "silently"
+     },
+     "explanation": [
+      "This is a grammar (word form) error. The word describes **how** the icebergs floated.",
+      "Rule: a word that describes a verb is an adverb, and most adverbs end in -ly. 'silence' is a noun and 'silent' is an adjective.",
+      "The correct word is 'silently': 'Huge icebergs floated silently in the dark blue ocean'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "silently",
+    "solvedAnswer": "silently",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 41,
+   "page": 20,
+   "format": "short",
+   "marks": 1,
+   "topic": "editing",
+   "subtypes": [
+    "spelling"
+   ],
+   "group": "g4",
+   "stem": "Write the correct word for (41) ++deestence++.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "distance"
+     },
+     "explanation": [
+      "This is a spelling error. The scientists saw the bears far away: 'in the distance'.",
+      "The word is related to 'distant'. It starts with 'dis' and ends with 'ance': dis-tance.",
+      "The correct spelling is 'distance'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "distance",
+    "solvedAnswer": "distance",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 42,
+   "page": 20,
+   "format": "short",
+   "marks": 1,
+   "topic": "editing",
+   "subtypes": [
+    "grammar"
+   ],
+   "group": "g4",
+   "stem": "Write the correct word for (42) ++behave++.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "behaviour",
+      "accept": [
+       "behavior"
+      ]
+     },
+     "explanation": [
+      "This is a grammar (word form) error. Look at the word in front: 'observed **their** ___'.",
+      "Rule: after a possessive word (my, his, their), we need a noun. 'behave' is a verb; its noun is 'behaviour'.",
+      "The correct word is 'behaviour' (the American spelling 'behavior' means the same, but use 'behaviour' in school)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "behaviour",
+    "solvedAnswer": "behaviour",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 43,
+   "page": 20,
+   "format": "short",
+   "marks": 1,
+   "topic": "editing",
+   "subtypes": [
+    "grammar"
+   ],
+   "group": "g4",
+   "stem": "Write the correct word for (43) ++far++.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "further",
+      "accept": [
+       "farther"
+      ]
+     },
+     "explanation": [
+      "This is a grammar error. The clue is 'than': 'travel much ___ **than** usual'. 'than' shows that two things are being compared.",
+      "Rule: use the comparative form before 'than'. The comparative of 'far' is irregular: far, further (or farther), furthest.",
+      "The correct word is 'further'. 'farther' is also correct for distance."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "further",
+    "solvedAnswer": "further",
+    "status": "verified",
+    "note": "The key gives 'further'. 'farther' is an equally correct comparative of 'far' for physical distance and is accepted."
+   }
+  },
+  {
+   "section": "b",
+   "number": 44,
+   "page": 21,
+   "format": "short",
+   "marks": 1,
+   "topic": "editing",
+   "subtypes": [
+    "grammar"
+   ],
+   "group": "g4",
+   "stem": "Write the correct word for (44) ++worry++.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "worried"
+     },
+     "explanation": [
+      "This is a grammar (tense) error. The whole passage is about last month and uses the past tense: 'discovered', 'was melting'.",
+      "The subject 'This' (the fact that the ice was melting faster) did something to them in the past, so the verb must be in the simple past tense.",
+      "Change the 'y' to 'i' and add 'ed': the correct word is 'worried'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "worried",
+    "solvedAnswer": "worried",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 45,
+   "page": 21,
+   "format": "short",
+   "marks": 1,
+   "topic": "editing",
+   "subtypes": [
+    "spelling"
+   ],
+   "group": "g4",
+   "stem": "Write the correct word for (45) ++successfuly++.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "successfully"
+     },
+     "explanation": [
+      "This is a spelling error. The adjective is 'successful' (double c, double s, one l).",
+      "To make the adverb, add -ly to the whole word: successful + ly. That gives a double 'l'.",
+      "The correct spelling is 'successfully'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "successfully",
+    "solvedAnswer": "successfully",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 46,
+   "page": 22,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "contextual-vocabulary"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (46) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "live",
+      "accept": [
+       "survive"
+      ]
+     },
+     "explanation": [
+      "Look at what follows: 'for over 3,000 years'. That is a length of time, so the blank is about how long the trees stay alive.",
+      "After 'can' we need the base form of a verb. 'live for over 3,000 years' fits; 'survive' means the same here.",
+      "The answer is 'live'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "live",
+    "solvedAnswer": "live",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 47,
+   "page": 22,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "contextual-vocabulary"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (47) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "heights"
+     },
+     "explanation": [
+      "The clue is the measurement: 'of more than 80 metres'. For a tree, 80 metres is how tall it is.",
+      "The pattern is 'grow to heights of ...'. There is no 'a' before the blank, so the noun must be plural: 'heights', not 'height'.",
+      "The answer is 'heights'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "heights",
+    "solvedAnswer": "heights",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 48,
+   "page": 22,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "contextual-vocabulary"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (48) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "ability",
+      "accept": [
+       "capacity"
+      ]
+     },
+     "explanation": [
+      "'their incredible ___ to survive forest fires': after the adjective 'incredible' we need a noun, and it is followed by 'to' + verb.",
+      "The pattern is 'the ability to do something'. Surviving a fire is something these trees are able to do.",
+      "The answer is 'ability'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "ability",
+    "solvedAnswer": "ability",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 49,
+   "page": 22,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "contextual-vocabulary",
+    "verb-forms"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (49) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "protects",
+      "accept": [
+       "shields",
+       "guards"
+      ]
+     },
+     "explanation": [
+      "The clue is 'armour'. Armour keeps what is inside safe, and the pattern is 'protect something **from** damage'.",
+      "The subject 'This natural armour' is singular, and the passage states facts in the present tense, so the verb needs an 's'.",
+      "The answer is 'protects'. 'protect' without the 's' would be marked wrong."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "protects",
+    "solvedAnswer": "protects",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 50,
+   "page": 22,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "prepositions"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (50) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "on",
+      "accept": [
+       "upon"
+      ]
+     },
+     "explanation": [
+      "The verb 'depend' is always followed by the preposition 'on' (or 'upon').",
+      "'giant sequoias actually depend on forest fires to reproduce.'",
+      "The answer is 'on'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "on",
+    "solvedAnswer": "on",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 51,
+   "page": 22,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "contextual-vocabulary"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (51) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "spread",
+      "accept": [
+       "release",
+       "scatter",
+       "disperse",
+       "drop"
+      ]
+     },
+     "explanation": [
+      "The heat 'causes their cones to open and ___ thousands of tiny seeds'. Think about what an opened cone does with its seeds: it lets them out so that they land on the ground around the tree.",
+      "'cause something **to** open and ___' means the blank is a base-form verb, matching 'open'.",
+      "The key's word is 'spread'. 'release', 'scatter' and 'disperse' also fit the meaning and the grammar.",
+      "The answer is 'spread'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "spread",
+    "solvedAnswer": "release",
+    "status": "verified",
+    "note": "The key gives 'spread'. My own answer was 'release', which is the usual word for cones letting out their seeds and fits equally well; it is accepted together with 'scatter', 'disperse' and 'drop'."
+   }
+  },
+  {
+   "section": "b",
+   "number": 52,
+   "page": 22,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "contextual-vocabulary"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (52) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "out"
+     },
+     "explanation": [
+      "'wipes ___ competing plants' is a phrasal verb. The fire destroys the other plants completely.",
+      "'wipe out' means to destroy or remove something completely.",
+      "The answer is 'out'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "out",
+    "solvedAnswer": "out",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 53,
+   "page": 22,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "contextual-vocabulary"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (53) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "deep",
+      "accept": [
+       "deeper",
+       "down",
+       "downwards",
+       "downward"
+      ]
+     },
+     "explanation": [
+      "The clue is the contrast 'spreads horizontally **instead of** growing ___ underground'. The opposite of spreading sideways is going far down.",
+      "The next sentence confirms it: the roots 'extend only about two metres down'. So they do not grow deep.",
+      "The answer is 'deep'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "deep",
+    "solvedAnswer": "deep",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 54,
+   "page": 22,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "prepositions"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (54) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "in"
+     },
+     "explanation": [
+      "The fixed phrase is '**in** all directions' (also 'in every direction', 'in the opposite direction').",
+      "'they can spread over 30 metres in all directions.'",
+      "The answer is 'in'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "in",
+    "solvedAnswer": "in",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 55,
+   "page": 22,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "prepositions"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (55) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "through",
+      "accept": [
+       "during",
+       "in"
+      ]
+     },
+     "explanation": [
+      "'helps the massive trees stay upright ___ storms and strong winds': we need a preposition that links staying upright with the time of the storms.",
+      "'through' means from the beginning to the end of something difficult: the trees stay standing all the way through a storm.",
+      "'during' also fits and is accepted.",
+      "The answer is 'through'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "through",
+    "solvedAnswer": "during",
+    "status": "verified",
+    "note": "The key gives 'through'. My own answer was 'during', which is clearly correct in this sentence; it is accepted, as is 'in'."
+   }
+  },
+  {
+   "section": "b",
+   "number": 56,
+   "page": 23,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "contextual-vocabulary"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (56) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "never"
+     },
+     "explanation": [
+      "The clue is 'However', which signals a contrast with the sentence before: the trees grow 'incredibly slowly'.",
+      "The contrast to growing slowly is that the growing does not end: 'throughout their entire lifespan'. So they ___ stop growing must mean they do not stop at all.",
+      "The answer is 'never': 'they never stop growing throughout their entire lifespan'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "never",
+    "solvedAnswer": "never",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 57,
+   "page": 23,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "contextual-vocabulary"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (57) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "weigh"
+     },
+     "explanation": [
+      "The clue is the unit: 'as much as 2,000 tonnes'. Tonnes measure how heavy something is.",
+      "The subject 'Some of the largest specimens' is plural and the passage is in the present tense, so the verb has no 's'.",
+      "The answer is 'weigh'. Check the spelling: w-e-i-g-h ('weight' is the noun)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "weigh",
+    "solvedAnswer": "weigh",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 58,
+   "page": 23,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "connectors"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (58) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "that"
+     },
+     "explanation": [
+      "'Scientists believe ___ climate change must be slowed down': the part after the blank is a full clause that tells us what the scientists believe.",
+      "Rule: a clause that reports what someone believes, thinks, says or knows is introduced by 'that'.",
+      "The answer is 'that'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "that",
+    "solvedAnswer": "that",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 59,
+   "page": 23,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "contextual-vocabulary"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (59) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "threat",
+      "accept": [
+       "danger",
+       "risk"
+      ]
+     },
+     "explanation": [
+      "The clues are the verb 'poses', the adjective 'serious' and the preposition 'to': 'poses a serious ___ to these ancient giants'.",
+      "The fixed pattern is 'pose a threat to someone or something'. A threat is something likely to cause harm.",
+      "The answer is 'threat'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "threat",
+    "solvedAnswer": "threat",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 60,
+   "page": 23,
+   "format": "short",
+   "marks": 1,
+   "topic": "comprehension-cloze",
+   "subtypes": [
+    "contextual-vocabulary"
+   ],
+   "group": "g5",
+   "stem": "Fill in blank (60) with a suitable word.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "text",
+      "value": "harder",
+      "accept": [
+       "difficult",
+       "hard",
+       "tougher",
+       "tough",
+       "impossible"
+      ]
+     },
+     "explanation": [
+      "Higher temperatures and changing rainfall are bad for the trees, so the blank needs a negative idea: it will not be easy for young sequoias to survive.",
+      "The pattern is 'make it + adjective + for someone to do something'.",
+      "'harder' (more difficult than now) fits best. 'difficult' is also accepted.",
+      "The answer is 'harder'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "harder",
+    "solvedAnswer": "difficult",
+    "status": "verified",
+    "note": "The key gives 'harder'. My own answer was 'difficult', which fits the same pattern and meaning; it and close synonyms are accepted."
+   }
+  },
+  {
+   "section": "b",
+   "number": 61,
+   "page": 24,
+   "format": "structured",
+   "marks": 2,
+   "topic": "synthesis",
+   "subtypes": [
+    "so-that"
+   ],
+   "stem": "The Environment Monitors put up eye-catching posters. Every student will remember to recycle their paper waste.\n____________________ so that ____________________.\n(Rewrite as one sentence using the word(s) given. The meaning must stay the same.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "The Environment Monitors put up eye-catching posters so that every student will remember to recycle their paper waste.",
+      "accept": [
+       "The Environment Monitors put up eye-catching posters so that every student would remember to recycle their paper waste."
+      ]
+     },
+     "explanation": [
+      "'so that' joins an action to its **purpose**. The action comes first, and the purpose comes after 'so that'.",
+      "Ask: which sentence is the action, and which is the aim? The monitors put up posters (action) in order to make every student remember (purpose).",
+      "Write the first sentence, then 'so that', then the second sentence with a small letter for 'every'. Do not swap the order, or the meaning changes.",
+      "Answer: The Environment Monitors put up eye-catching posters so that every student will remember to recycle their paper waste."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "The environment Monitors put up eye-catching posters so that every student will remember to recycle their paper waste.",
+    "solvedAnswer": "The Environment Monitors put up eye-catching posters so that every student will remember to recycle their paper waste.",
+    "status": "verified",
+    "note": "The key keeps 'will', reading 'put up' as present tense. If 'put up' is read as past tense, 'would remember' is the matching form, so that version is also accepted. The key's small 'e' in 'environment' is a typing slip."
+   }
+  },
+  {
+   "section": "b",
+   "number": 62,
+   "page": 24,
+   "format": "structured",
+   "marks": 2,
+   "topic": "synthesis",
+   "subtypes": [
+    "whereas"
+   ],
+   "stem": "Cindy prefers designing digital animations. Her cousins are fond of building Lego structures.\n____________________ whereas ____________________.\n(Rewrite as one sentence using the word(s) given. The meaning must stay the same.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "Cindy prefers designing digital animations whereas her cousins are fond of building Lego structures.",
+      "accept": [
+       "Her cousins are fond of building Lego structures whereas Cindy prefers designing digital animations."
+      ]
+     },
+     "explanation": [
+      "'whereas' joins two statements that are in contrast. It means the same as 'while' or 'but' when comparing two people or things.",
+      "Keep both statements exactly as they are and put 'whereas' between them. Change the capital 'H' of 'Her' to a small letter.",
+      "Do not add 'but' or 'however'; 'whereas' already shows the contrast.",
+      "Answer: Cindy prefers designing digital animations whereas her cousins are fond of building Lego structures."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "Cindy prefers designing digital animations, whereas her cousins are fond of building Lego structures.",
+    "solvedAnswer": "Cindy prefers designing digital animations whereas her cousins are fond of building Lego structures.",
+    "status": "verified",
+    "note": "The reversed order ('Her cousins are fond of ... whereas Cindy prefers ...') keeps the meaning and is accepted as an alternative; the key shows only the order given."
+   }
+  },
+  {
+   "section": "b",
+   "number": 63,
+   "page": 24,
+   "format": "structured",
+   "marks": 2,
+   "topic": "synthesis",
+   "subtypes": [
+    "reported-speech"
+   ],
+   "stem": "\"You must complete the prototype by this Monday!\" Mr Chen informed the students.\nMr Chen informed the students ____________________.\n(Rewrite as one sentence using the word(s) given. The meaning must stay the same.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "Mr Chen informed the students that they had to complete the prototype by that Monday."
+     },
+     "explanation": [
+      "This is direct speech changed to reported speech. Start the reported part with 'that' and drop the quotation marks and the exclamation mark.",
+      "Pronoun: 'You' is the students, so it becomes 'they'.",
+      "Verb: the reporting verb 'informed' is in the past, so the verb moves back. 'must' (for an order) becomes 'had to'.",
+      "Time and pointing words change: 'this Monday' becomes 'that Monday'.",
+      "Answer: Mr Chen informed the students that they had to complete the prototype by that Monday."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "Mr Chen informed the students that they had to complete the prototype by that Monday.",
+    "solvedAnswer": "Mr Chen informed the students that they had to complete the prototype by that Monday.",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 64,
+   "page": 24,
+   "format": "structured",
+   "marks": 2,
+   "topic": "synthesis",
+   "subtypes": [
+    "noun-form"
+   ],
+   "stem": "The Parents Association was very generous. More students benefited from the financial assistance provided.\nThe Parents Association's ____________________.\n(Rewrite as one sentence using the word(s) given. The meaning must stay the same.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "The Parents Association's generosity enabled more students to benefit from the financial assistance provided.",
+      "accept": [
+       "The Parents Association's generosity allowed more students to benefit from the financial assistance provided.",
+       "The Parents Association's generosity resulted in more students benefiting from the financial assistance provided.",
+       "The Parents Association's generosity led to more students benefiting from the financial assistance provided."
+      ]
+     },
+     "explanation": [
+      "The starter ends with an apostrophe-s, so the next word must be a **noun**. Change the adjective 'generous' to its noun: 'generosity'. (Spelling: gener-o-s-i-t-y, with no 'u'.)",
+      "'very' cannot describe a noun, so drop it. You may write 'great generosity', but it is not needed.",
+      "The generosity is the cause, and more students benefiting is the result. Link them with a verb such as 'enabled', 'allowed' (+ more students **to benefit**) or 'resulted in', 'led to' (+ more students **benefiting**).",
+      "Keep the past tense. Answer: The Parents Association's generosity enabled more students to benefit from the financial assistance provided."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "The Parents Association's generosity enabled more students to benefit from the financial assistance provided.",
+    "solvedAnswer": "The Parents Association's generosity enabled more students to benefit from the financial assistance provided.",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 65,
+   "page": 24,
+   "format": "structured",
+   "marks": 2,
+   "topic": "synthesis",
+   "subtypes": [
+    "passive-voice",
+    "reported-speech"
+   ],
+   "stem": "Mrs Ling told her students that they would be late for dismissal if they did not pack their bags quickly.\nThe students ____________________.\n(Rewrite as one sentence using the word(s) given. The meaning must stay the same.)",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "The students were told by Mrs Ling that they would be late for dismissal if they did not pack their bags quickly."
+     },
+     "explanation": [
+      "The sentence now starts with 'The students', who received the action of telling. That is the passive voice: be + past participle.",
+      "'told' is in the past tense and 'The students' is plural, so the verb is 'were told'.",
+      "The doer comes after 'by': 'by Mrs Ling'. 'her students' becomes the subject 'The students'.",
+      "The rest of the sentence is already reported speech, so keep it unchanged.",
+      "Answer: The students were told by Mrs Ling that they would be late for dismissal if they did not pack their bags quickly."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "The students were told by Mrs Ling that they would be late for dismissal if they did not pack their bags quickly.",
+    "solvedAnswer": "The students were told by Mrs Ling that they would be late for dismissal if they did not pack their bags quickly.",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 66,
+   "page": 25,
+   "format": "structured",
+   "marks": 1,
+   "topic": "comprehension",
+   "subtypes": [
+    "factual"
+   ],
+   "group": "g6",
+   "stem": "What was Aoto doing when the police officer found him?",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "Aoto was wandering near the highway when the police officer found him."
+     },
+     "explanation": [
+      "Find the police officer's words in paragraph 1: 'I found him wandering near the highway.'",
+      "The answer needs the action (wandering) and the place (near the highway).",
+      "Do not write only 'He seemed a little lost'; that is how he looked, not what he was doing."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "Aoto was wandering near the highway when the police officer found him.",
+    "solvedAnswer": "He was wandering near the highway. Agrees with key.",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 67,
+   "page": 25,
+   "format": "structured",
+   "marks": 2,
+   "topic": "comprehension",
+   "subtypes": [
+    "inference",
+    "factual"
+   ],
+   "group": "g6",
+   "stem": "\"Kenji nodded sympathetically at his mother's struggles.\" (lines 15-16, paragraph 3). Explain fully what the \"struggles\" refer to.",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "Kenji's mother cared for Aoto (her father) every day, and on many nights she forced herself to stay awake so that she could stop him from leaving his bed and wandering away."
+     },
+     "explanation": [
+      "'Explain fully' and 2 marks mean two points are needed. Read the sentences just before the quoted line in paragraph 3.",
+      "Point 1: 'She had been caring for her father every day'.",
+      "Point 2: 'many nights she forced herself to stay awake, listening carefully in case he tried to leave his bed again' because 'he might wander off'.",
+      "Make clear who 'her father' is (Aoto, Kenji's grandfather). Writing only that she was 'exhausted' gives the result of the struggles, not the struggles themselves."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "Kenji's mother cared for Aoto every day and forced herself to stay awake on many nights so that she could stop him from leaving his bed and wandering away.",
+    "solvedAnswer": "Caring for her father every day, and forcing herself to stay awake on many nights to listen in case he left his bed. Agrees with key.",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 68,
+   "page": 25,
+   "format": "structured",
+   "marks": 3,
+   "topic": "comprehension",
+   "subtypes": [
+    "true-false-with-reason"
+   ],
+   "group": "g6",
+   "stem": "Based on lines 7 - 44 (paragraphs 2 to 8), state whether each statement in the table below is true or false, then give one reason why you think so.",
+   "parts": [
+    {
+     "label": "a",
+     "prompt": "Aoto's illness caused him to forget what time it was.\n(Type True or False, then give one reason from the passage.)",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "True. The illness (Alzheimer's disease) often caused Aoto to forget where he was or what time it was."
+     },
+     "explanation": [
+      "Paragraph 2: 'Aoto suffered from Alzheimer's disease. The illness often caused him to forget where he was or what time it was.'",
+      "'forget ... what time it was' matches the statement directly, so it is True.",
+      "The school's key gives a different reason: Aoto sometimes got out of bed and wandered around the house in the middle of the night. That shows the effect of not knowing the time, so it is accepted as well. The sentence quoted above is the most direct evidence."
+     ]
+    },
+    {
+     "label": "b",
+     "prompt": "Kenji got the idea for his invention while visiting his parents' laboratory.\n(Type True or False, then give one reason from the passage.)",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "False. Kenji got the idea while checking on his grandfather (Aoto) one evening, when he saw his grandfather's feet press against the floor."
+     },
+     "explanation": [
+      "Paragraph 5: 'One evening, while checking on his grandfather, Kenji noticed something important ... his feet pressed against the floor. Suddenly, an idea formed in Kenji's mind.'",
+      "The laboratory (paragraph 4) is where his love for science and technology grew, not where the idea came. That is the trap.",
+      "So the statement is False. The reason must say where or how he really got the idea."
+     ]
+    },
+    {
+     "label": "c",
+     "prompt": "Kenji tested the invention on his father while he slept.\n(Type True or False, then give one reason from the passage.)",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "False. Kenji tested the invention on Aoto, his grandfather, at bedtime."
+     },
+     "explanation": [
+      "Paragraph 8: 'That night, Kenji tested the invention. He helped Aoto put on the sock at bedtime.'",
+      "Aoto is Kenji's grandfather, not his father. His father only 'tried it on' earlier (paragraph 7) and felt how comfortable it was; that was not the test of whether it worked.",
+      "So the statement is False, and the reason is that the test was on his grandfather, Aoto."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "(a) True – Aoto sometimes got out of bed and wandered around the house in the middle of the night. (b) False – Kenji got the idea while checking on Aoto and seeing his feet press against the floor. (c) False – Kenji tested the invention on Aoto, his grandfather, at bedtime.",
+    "solvedAnswer": "(a) True: the illness often caused him to forget where he was or what time it was. (b) False: the idea came while checking on his grandfather one evening. (c) False: he tested it on his grandfather, Aoto.",
+    "status": "verified",
+    "note": "True/False agree with the key for all three rows. For (a) the key's reason (Aoto got out of bed and wandered in the middle of the night) is less direct than the sentence in paragraph 2 that states the point outright ('The illness often caused him to forget where he was or what time it was'). The model answer uses that sentence; the explanation mentions the key's reason too."
+   }
+  },
+  {
+   "section": "b",
+   "number": 69,
+   "page": 26,
+   "format": "structured",
+   "marks": 3,
+   "topic": "comprehension",
+   "subtypes": [
+    "referencing"
+   ],
+   "group": "g6",
+   "stem": "Look at the table below. What do the words in the left column refer to in the passage? Write your answer on the right.",
+   "parts": [
+    {
+     "label": "a",
+     "prompt": "there (line 19, paragraph 4)",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "His (Kenji's) parents' laboratory.",
+      "accept": [
+       "his parents' laboratory",
+       "Kenji's parents' laboratory",
+       "his parents laboratory",
+       "Kenji's parents laboratory",
+       "the laboratory of Kenji's parents"
+      ]
+     },
+     "explanation": [
+      "'there' points back to a place already mentioned. Read the sentences before it in paragraph 4.",
+      "'Kenji loved visiting his parents' laboratory ... Many hours were spent **there**, experimenting with small gadgets.'",
+      "Test by replacing the word: 'Many hours were spent at his parents' laboratory.' It makes sense.",
+      "The answer is his parents' laboratory."
+     ]
+    },
+    {
+     "label": "b",
+     "prompt": "he (line 34, paragraph 6)",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "Kenji's father.",
+      "accept": [
+       "Kenji's father",
+       "Kenjis father",
+       "the father of Kenji"
+      ]
+     },
+     "explanation": [
+      "Read the sentence before: 'Some days, Kenji's father would find him poring over his notes, shoulders slumped. \"Stuck again?\" **he** would ask.'",
+      "Two males are in the sentence, Kenji and his father. The one asking the question is the one who found Kenji stuck, and Kenji is the one who replies 'Not for long.'",
+      "The answer is Kenji's father. Do not write only 'his father'; say whose father."
+     ]
+    },
+    {
+     "label": "c",
+     "prompt": "prototype (line 37, paragraph 7)",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "Kenji's sock with a pressure sensor attached to the bottom.",
+      "accept": [
+       "the sock with a pressure sensor attached to the bottom",
+       "a sock with a pressure sensor attached to the bottom",
+       "Kenji's sock with a pressure sensor attached to the bottom"
+      ]
+     },
+     "explanation": [
+      "A prototype is the first working model of an invention. Here the word points forward: the next sentences say what it was.",
+      "'To his father, it looked just like a regular sock. What he did not know was that it was a sock with a pressure sensor attached to the bottom.'",
+      "Give the full description. 'A sock' alone is not enough, because the sensor is what makes it the invention.",
+      "The answer is the sock with a pressure sensor attached to the bottom."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "(a) there: his parents' laboratory. (b) he: Kenji's father. (c) prototype: Kenji's sock with a pressure sensor attached to the bottom.",
+    "solvedAnswer": "(a) his parents' laboratory; (b) Kenji's father; (c) the sock with a pressure sensor attached to the bottom. Agrees with key.",
+    "status": "verified",
+    "note": "The three words asked about (there, he, prototype) are printed in bold in the passage and are transcribed in bold."
+   }
+  },
+  {
+   "section": "b",
+   "number": 70,
+   "page": 26,
+   "format": "structured",
+   "marks": 2,
+   "topic": "comprehension",
+   "subtypes": [
+    "cause-and-effect"
+   ],
+   "group": "g6",
+   "stem": "Based on the passage, fill in the blanks below to show the cause-and-effect relationship in Kenji's invention process.",
+   "parts": [
+    {
+     "label": "a",
+     "prompt": "Cause: ____________________\nEffect: Kenji spent a lot of time experimenting with small gadgets.",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "Kenji loved science and technology.",
+      "accept": [
+       "Kenji loved science and technology",
+       "Kenji loved visiting his parents' laboratory",
+       "He loved science and technology",
+       "He loved visiting his parents' laboratory"
+      ]
+     },
+     "explanation": [
+      "Find the effect in paragraph 4: 'Many hours were spent there, experimenting with small gadgets.'",
+      "The cause is in the sentences just before: 'Kenji loved visiting his parents' laboratory. This greatly influenced his love for science and technology.'",
+      "Because he loved science and technology (and loved visiting the laboratory), he spent a lot of time experimenting. Either way of putting it gives the cause."
+     ]
+    },
+    {
+     "label": "b",
+     "prompt": "Cause: The sensor was very thin.\nEffect: ____________________",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "The sock was comfortable to wear.",
+      "accept": [
+       "The sock was comfortable to wear",
+       "The sock was comfortable",
+       "The sock felt comfortable",
+       "The sock was very comfortable"
+      ]
+     },
+     "explanation": [
+      "Find the cause in paragraph 7. Kenji says, 'That's because the sensor is so thin!'",
+      "'That' points back to the sentence before: 'His father tried it on and was amazed at how comfortable it felt.'",
+      "So the thin sensor is the cause, and the sock feeling comfortable is the effect."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "(a) Kenji loved science and technology. (b) The sock was comfortable to wear.",
+    "solvedAnswer": "(a) Kenji loved science and technology (he loved visiting his parents' laboratory). (b) The sock was comfortable. Agrees with key.",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 71,
+   "page": 26,
+   "format": "short",
+   "marks": 2,
+   "topic": "comprehension",
+   "subtypes": [
+    "evidence-phrase",
+    "character-and-feelings"
+   ],
+   "group": "g6",
+   "stem": "Fill in the following table with two-word phrases from Paragraph 6 that show Kenji's emotions when he faced challenges with his invention.",
+   "parts": [
+    {
+     "label": "a",
+     "prompt": "discouraged",
+     "marks": 1,
+     "answer": {
+      "type": "text",
+      "value": "shoulders slumped"
+     },
+     "explanation": [
+      "Paragraph 6 is the one that begins 'Excited by his idea'. Look for body language, because feelings are often shown through how a person looks.",
+      "'Kenji's father would find him poring over his notes, **shoulders slumped**.' Drooping shoulders show a person who is losing heart, which is discouraged.",
+      "Copy exactly two words: 'shoulders slumped'."
+     ]
+    },
+    {
+     "label": "b",
+     "prompt": "stressed",
+     "marks": 1,
+     "answer": {
+      "type": "text",
+      "value": "brows furrowed"
+     },
+     "explanation": [
+      "'Hardly glancing up, his **brows furrowed**, Kenji would reply'. Furrowed brows are eyebrows drawn tightly together, a sign of worry, strain or deep concentration, which is stressed.",
+      "'Stuck again?' is also two words, but those are his father's words, not something that shows Kenji's emotion.",
+      "Copy exactly two words: 'brows furrowed'."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "(a) discouraged: shoulders slumped. (b) stressed: brows furrowed.",
+    "solvedAnswer": "(a) shoulders slumped; (b) brows furrowed. Agrees with key.",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 72,
+   "page": 27,
+   "format": "structured",
+   "marks": 2,
+   "topic": "comprehension",
+   "subtypes": [
+    "factual"
+   ],
+   "group": "g6",
+   "stem": "When Kenji started to work on his prototype, why did he find that \"turning his idea into reality was not easy\" (line 28, paragraph 6)?",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "He needed to find a sensor that was small and comfortable enough to wear, which took a long time, and he had to create a system that could (reliably) send a wireless signal to a smartphone, but the signal sometimes did not reach the phone."
+     },
+     "explanation": [
+      "2 marks: give the two difficulties that follow the quoted words in paragraph 6.",
+      "Difficulty 1: 'He needed a sensor that was small and comfortable enough to wear. It took a long time to find the perfect one.'",
+      "Difficulty 2: 'Then, there was another uphill battle - he had to create a system that could send a wireless signal to a smartphone. The signal sometimes did not reach the phone'.",
+      "'another uphill battle' tells you there are two separate problems. Give both: the sensor and the wireless signal system."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "He needed to find a sensor that was small and comfortable enough to wear, and he had to create a system that could reliably send a wireless signal to a smartphone.",
+    "solvedAnswer": "He needed a sensor small and comfortable enough to wear (it took long to find), and he had to create a system to send a wireless signal to a smartphone (the signal sometimes failed). Agrees with key.",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 73,
+   "page": 27,
+   "format": "structured",
+   "marks": 2,
+   "topic": "comprehension",
+   "subtypes": [
+    "character-and-feelings",
+    "evidence-phrase"
+   ],
+   "group": "g6",
+   "stem": "Refer to lines 27 - 41 (paragraphs 6 and 7).",
+   "parts": [
+    {
+     "label": "a",
+     "prompt": "(a) Tick ONE positive trait Kenji possesses: courageous, empathetic, generous, resilient.\n(Type the word you would tick.)",
+     "marks": 1,
+     "answer": {
+      "type": "text",
+      "value": "resilient"
+     },
+     "explanation": [
+      "Know the four words. 'resilient': able to keep going and recover after difficulties. 'courageous': brave in the face of danger. 'empathetic': able to understand how others feel. 'generous': willing to give.",
+      "Paragraphs 6 and 7 are about the problems Kenji met while building the sock and how he kept working: 'another uphill battle', 'Stuck again?', 'Not for long', 'He refused to give up', 'After many months of experimenting'.",
+      "That is resilience. 'empathetic' is tempting because Kenji felt for his mother, but that is in paragraph 3, outside the lines given. There is no danger (courageous) or giving (generous) in these lines.",
+      "The answer is 'resilient'."
+     ]
+    },
+    {
+     "label": "b",
+     "prompt": "(b) Support your answer with evidence from the passage.",
+     "marks": 1,
+     "answer": {
+      "type": "self",
+      "value": "He refused to give up despite the difficulties (when he was stuck and the signal sometimes did not reach the phone) and kept experimenting for many months until he created a working prototype."
+     },
+     "explanation": [
+      "The evidence must match the trait chosen in (a) and come from lines 27 to 41.",
+      "Best evidence: 'Stuck again?' ... 'Not for long.' He refused to give up. And: 'After many months of experimenting, Kenji finally created a working prototype.'",
+      "A good answer says what the difficulty was and what Kenji did about it: he kept trying and did not give up."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "(a) resilient. (b) He refused to give up despite the difficulties and kept trying until the prototype worked.",
+    "solvedAnswer": "(a) resilient. (b) He refused to give up even when he was stuck, and went on experimenting for many months until the prototype worked. Agrees with key.",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 74,
+   "page": 27,
+   "format": "structured",
+   "marks": 1,
+   "topic": "comprehension",
+   "subtypes": [
+    "inference",
+    "character-and-feelings"
+   ],
+   "group": "g6",
+   "stem": "How do we know that Kenji was humble enough to continue to make his product better?",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "Kenji thanked the caregivers for their feedback (that some of the elderly did not like wearing socks to sleep), and even after receiving several awards for his invention, he continued to improve it."
+     },
+     "explanation": [
+      "Look in the last paragraph. A humble person does not think his work is already perfect and is willing to listen to others.",
+      "Evidence 1: when caregivers told him some of the elderly did not like wearing socks to sleep, 'Kenji thanked them for their feedback.' He was not offended by the criticism.",
+      "Evidence 2: 'Even though Kenji later received several awards for his invention, he continued to improve it.' Awards did not make him proud.",
+      "Link the evidence to 'humble': he accepted feedback and kept improving in spite of his success."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "Even after winning several awards, Kenji thanked the caregivers for their feedback and continued improving his invention.",
+    "solvedAnswer": "He thanked the caregivers for their feedback and continued to improve the invention even after receiving several awards. Agrees with key.",
+    "status": "verified"
+   }
+  },
+  {
+   "section": "b",
+   "number": 75,
+   "page": 27,
+   "format": "structured",
+   "marks": 2,
+   "topic": "comprehension",
+   "subtypes": [
+    "inference"
+   ],
+   "group": "g6",
+   "stem": "Explain clearly why Kenji thought that \"his small idea had made a big impact\".",
+   "parts": [
+    {
+     "label": "",
+     "answer": {
+      "type": "self",
+      "value": "His idea was a small and simple one, a sock with a sensor that alerted caregivers whenever an elderly person got out of bed. Yet it helped to keep many elderly people and patients safe, and it allowed their caregivers (such as his mother, other families and elderly care centres) to rest more peacefully."
+     },
+     "explanation": [
+      "2 marks: explain both halves of the quotation, the 'small idea' and the 'big impact'.",
+      "Small idea: it began with one simple observation (his grandfather's feet pressing on the floor) and became something as ordinary as a sock with a sensor, which sends a message to a phone when the wearer steps out of bed.",
+      "Big impact: it helped 'many people's lives'. His mother 'could rest more peacefully at night', and 'Caregivers from other families and many elderly care centres approached Kenji to make his special socks for their family members or patients.'",
+      "Say who was helped (the elderly and their caregivers, many of them) and how (kept safe from wandering off; caregivers could rest)."
+     ]
+    }
+   ],
+   "review": {
+    "keyAnswer": "His sock alerted caregivers whenever elderly people got out of bed, helping to keep many patients safe and allowing their caregivers to rest more peacefully.",
+    "solvedAnswer": "The idea was only a simple sock with a sensor, but it helped many families and care centres: the elderly were kept from wandering off and caregivers such as his mother could rest. Agrees with key.",
+    "status": "verified",
+    "note": "The start of the key's Q75 answer is partly under the watermark but is readable."
+   }
+  }
+ ]
+}
