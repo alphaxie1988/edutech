@@ -1,0 +1,185 @@
+{
+  "maths": {
+    "name": "Maths",
+    "sections": {
+      "p1a": "Paper 1 Booklet A",
+      "p1b": "Paper 1 Booklet B",
+      "p2": "Paper 2"
+    },
+    "topics": [
+      {
+        "id": "whole-numbers",
+        "name": "Whole Numbers",
+        "icon": "🔢"
+      },
+      {
+        "id": "fractions",
+        "name": "Fractions",
+        "icon": "🍕"
+      },
+      {
+        "id": "decimals",
+        "name": "Decimals",
+        "icon": "🔟"
+      },
+      {
+        "id": "percentage",
+        "name": "Percentage",
+        "icon": "💯"
+      },
+      {
+        "id": "ratio",
+        "name": "Ratio",
+        "icon": "⚖️"
+      },
+      {
+        "id": "rate-speed",
+        "name": "Rate and Speed",
+        "icon": "🚗"
+      },
+      {
+        "id": "algebra",
+        "name": "Algebra",
+        "icon": "🧮"
+      },
+      {
+        "id": "measurement",
+        "name": "Measurement and Time",
+        "icon": "⏱️"
+      },
+      {
+        "id": "area-perimeter",
+        "name": "Area and Perimeter",
+        "icon": "📐"
+      },
+      {
+        "id": "circles",
+        "name": "Circles",
+        "icon": "⭕"
+      },
+      {
+        "id": "volume",
+        "name": "Volume and Solids",
+        "icon": "🧊"
+      },
+      {
+        "id": "geometry",
+        "name": "Angles and Geometry",
+        "icon": "📏"
+      },
+      {
+        "id": "data",
+        "name": "Data and Average",
+        "icon": "📊"
+      },
+      {
+        "id": "heuristics",
+        "name": "Problem-Solving Heuristics",
+        "icon": "🧩"
+      }
+    ],
+    "subtypeAliases": {
+      "perpendicular-lines": "parallel-and-perpendicular-lines",
+      "parallel-lines": "parallel-and-perpendicular-lines",
+      "perpendicular-and-parallel-lines": "parallel-and-perpendicular-lines",
+      "paper-folding": "folding",
+      "solid-views": "views-of-solids",
+      "painted-faces": "painted-cubes",
+      "measuring": "measuring-lines-and-angles",
+      "four-operations": "four-operations-word-problem",
+      "subtraction": "four-operations-word-problem",
+      "decimal-operations": "adding-subtracting-decimals",
+      "adding-decimals": "adding-subtracting-decimals",
+      "subtracting-decimals": "adding-subtracting-decimals",
+      "multiples": "factors-and-multiples",
+      "area-perimeter": "area-and-perimeter",
+      "dividing-fractions": "fraction-operations"
+    }
+  },
+  "science": {
+    "name": "Science",
+    "sections": {
+      "a": "Booklet A",
+      "b": "Booklet B"
+    },
+    "topics": [
+      {
+        "id": "diversity-living",
+        "name": "Diversity: Living Things",
+        "icon": "🦋"
+      },
+      {
+        "id": "diversity-materials",
+        "name": "Diversity: Materials",
+        "icon": "🧱"
+      },
+      {
+        "id": "cycles-life",
+        "name": "Cycles: Life Cycles and Reproduction",
+        "icon": "🌱"
+      },
+      {
+        "id": "cycles-matter-water",
+        "name": "Cycles: Matter and Water",
+        "icon": "💧"
+      },
+      {
+        "id": "systems-plants",
+        "name": "Systems: Plants",
+        "icon": "🌿"
+      },
+      {
+        "id": "systems-human",
+        "name": "Systems: Human Body",
+        "icon": "🫁"
+      },
+      {
+        "id": "systems-cells",
+        "name": "Systems: Cells",
+        "icon": "🔬"
+      },
+      {
+        "id": "systems-electrical",
+        "name": "Systems: Electricity",
+        "icon": "💡"
+      },
+      {
+        "id": "interactions-magnets",
+        "name": "Interactions: Magnets",
+        "icon": "🧲"
+      },
+      {
+        "id": "interactions-forces",
+        "name": "Interactions: Forces",
+        "icon": "🏋️"
+      },
+      {
+        "id": "interactions-environment",
+        "name": "Interactions: Environment",
+        "icon": "🌍"
+      },
+      {
+        "id": "energy-light-heat",
+        "name": "Energy: Light and Heat",
+        "icon": "🔥"
+      },
+      {
+        "id": "energy-photosynthesis",
+        "name": "Energy: Photosynthesis",
+        "icon": "☀️"
+      },
+      {
+        "id": "energy-forms",
+        "name": "Energy: Forms and Conversion",
+        "icon": "⚡"
+      }
+    ],
+    "subtypeAliases": {
+      "requirements-for-photosynthesis": "conditions-for-photosynthesis",
+      "photosynthesis-process": "photosynthesis",
+      "poles-of-magnets": "magnetic-poles",
+      "magnets-attract-and-repel": "magnetic-poles",
+      "attraction-and-repulsion": "magnetic-poles"
+    }
+  }
+}

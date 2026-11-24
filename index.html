@@ -1,0 +1,799 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<title>PSLE Quest</title>
+<style>
+:root{
+  --ink:#1b2340; --paper:#fbf6ea; --card:#fffdf7; --line:#e4dcc6;
+  --red:#ef5b4c; --yellow:#ffc93c; --mint:#3fc9a2; --sky:#4aa8ff; --violet:#8f6bf2; --grey:#8b8fa3;
+  --good:#1fa97a; --bad:#e2483a;
+  --display:"Baloo 2","Fredoka","Chalkboard SE","Marker Felt","Comic Sans MS","Trebuchet MS",sans-serif;
+  --body:"Atkinson Hyperlegible","Avenir Next","Nunito","Segoe UI","Trebuchet MS",sans-serif;
+  --shadow:4px 4px 0 var(--ink);
+}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{height:100%;margin:0}
+body{font-family:var(--body);color:var(--ink);font-size:18px;line-height:1.45;overflow:hidden;
+  background-color:var(--paper);
+  background-image:linear-gradient(var(--line) 1px,transparent 1px),linear-gradient(90deg,var(--line) 1px,transparent 1px);
+  background-size:28px 28px;overscroll-behavior:none}
+h1,h2,h3,.disp{font-family:var(--display);line-height:1.1;margin:0}
+button{font:inherit;color:inherit;cursor:pointer}
+.screen{position:fixed;inset:0;display:none;flex-direction:column}
+.screen.on{display:flex}
+.scroll{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:20px max(20px,env(safe-area-inset-right)) 40px max(20px,env(safe-area-inset-left))}
+.wrap{max-width:1040px;margin:0 auto}
+
+.btn{border:3px solid var(--ink);border-radius:14px;background:var(--card);padding:10px 18px;font-family:var(--display);
+  font-weight:700;font-size:1.05rem;box-shadow:var(--shadow);transition:transform .08s,box-shadow .08s;user-select:none}
+.btn:active{transform:translate(3px,3px);box-shadow:1px 1px 0 var(--ink)}
+.btn[disabled]{opacity:.45;pointer-events:none}
+.btn.yellow{background:var(--yellow)} .btn.red{background:var(--red);color:#fff} .btn.mint{background:var(--mint)}
+.btn.sky{background:var(--sky)} .btn.small{padding:6px 12px;font-size:.9rem;border-radius:11px;box-shadow:3px 3px 0 var(--ink)}
+.btn.ghost{box-shadow:none;border-color:transparent;background:transparent}
+.chip{display:inline-flex;align-items:center;gap:6px;border:2.5px solid var(--ink);border-radius:999px;background:var(--card);
+  padding:4px 12px;font-weight:700;font-size:.9rem;white-space:nowrap}
+.chip.yellow{background:var(--yellow)} .chip.mint{background:var(--mint)} .chip.red{background:var(--red);color:#fff}
+
+/* top bar */
+.top{display:flex;align-items:center;gap:10px;padding:10px max(14px,env(safe-area-inset-right)) 10px max(14px,env(safe-area-inset-left));
+  background:var(--ink);color:#fff;flex:none}
+.top .title{font-family:var(--display);font-weight:800;font-size:1.25rem;flex:1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.top .btn{color:var(--ink);box-shadow:3px 3px 0 #000}
+.hud{display:flex;align-items:center;gap:8px}
+.lvl{display:flex;align-items:center;gap:8px;font-family:var(--display);font-weight:700}
+.lvl .badge{background:var(--yellow);color:var(--ink);border-radius:10px;padding:2px 9px;border:2px solid #000}
+.xpbar{width:110px;height:12px;border-radius:99px;background:#39426b;overflow:hidden;border:2px solid #000}
+.xpbar i{display:block;height:100%;background:linear-gradient(90deg,var(--mint),var(--yellow));width:0;transition:width .5s}
+.flame{font-family:var(--display);font-weight:800;color:var(--yellow)}
+
+/* home */
+.hero{display:flex;flex-wrap:wrap;gap:18px;align-items:flex-end;margin:10px 0 26px}
+.hero h1{font-size:clamp(2.6rem,7vw,4.6rem);font-weight:800;letter-spacing:-.02em}
+.hero h1 span{background:var(--yellow);padding:0 .18em;border:4px solid var(--ink);border-radius:18px;display:inline-block;transform:rotate(-2.5deg);box-shadow:var(--shadow)}
+.hero p{margin:0;max-width:30ch;font-size:1.1rem}
+.subjects{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:20px}
+.subj{position:relative;border:4px solid var(--ink);border-radius:22px;padding:20px;min-height:190px;text-align:left;
+  box-shadow:7px 7px 0 var(--ink);display:flex;flex-direction:column;justify-content:space-between;overflow:hidden;
+  animation:pop .5s backwards cubic-bezier(.2,1.4,.4,1)}
+.subj:nth-child(2){animation-delay:.07s}.subj:nth-child(3){animation-delay:.14s}.subj:nth-child(4){animation-delay:.21s}.subj:nth-child(5){animation-delay:.28s}
+.subj:active{transform:translate(4px,4px);box-shadow:3px 3px 0 var(--ink)}
+.subj .big{font-size:4.2rem;line-height:1;position:absolute;right:10px;top:6px;transform:rotate(8deg)}
+.subj h2{font-size:1.9rem;font-weight:800}
+.subj small{font-weight:700}
+.subj.off{background:#ece6d6;color:#8a8672;border-style:dashed;box-shadow:none;pointer-events:none}
+.subj.off .big{filter:grayscale(1);opacity:.5}
+@keyframes pop{from{opacity:0;transform:translateY(24px) scale(.92)}}
+
+/* menu */
+.modes{display:flex;flex-wrap:wrap;gap:14px;margin:6px 0 24px}
+.modes .btn{font-size:1.2rem;padding:14px 22px}
+.topics{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:16px}
+.topic{border:3px solid var(--ink);border-radius:18px;background:var(--card);padding:14px;box-shadow:var(--shadow);text-align:left;
+  display:grid;grid-template-columns:1fr auto;gap:4px 10px;align-items:center}
+.topic:active{transform:translate(3px,3px);box-shadow:1px 1px 0 var(--ink)}
+.topic .ic{font-size:1.7rem}
+.topic h3{font-size:1.15rem;font-weight:800;grid-column:1}
+.topic small{grid-column:1;color:#5a6079;font-weight:700}
+.ring{grid-row:1/4;grid-column:2;width:58px;height:58px;border-radius:50%;display:grid;place-items:center;font-family:var(--display);font-weight:800;font-size:.85rem;
+  background:conic-gradient(var(--mint) calc(var(--p)*1%),#e8e1cd 0);border:3px solid var(--ink);position:relative}
+.ring::before{content:"";position:absolute;inset:7px;border-radius:50%;background:var(--card);border:2px solid var(--ink)}
+.ring span{position:relative}
+.medal{font-size:1.1rem}
+h2.sec{font-size:1.5rem;font-weight:800;margin:0 0 12px}
+
+/* modal */
+.modal{position:fixed;inset:0;background:rgba(27,35,64,.55);display:none;align-items:center;justify-content:center;padding:18px;z-index:50}
+.modal.on{display:flex}
+.sheet{background:var(--card);border:4px solid var(--ink);border-radius:22px;box-shadow:8px 8px 0 var(--ink);max-width:640px;width:100%;max-height:88vh;overflow:auto;padding:22px;animation:pop .3s cubic-bezier(.2,1.4,.4,1)}
+.sheet h2{font-size:1.7rem;font-weight:800;margin-bottom:6px}
+.pick{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0 20px}
+.pick button{border:2.5px solid var(--ink);border-radius:999px;background:#fff;padding:6px 14px;font-weight:700}
+.pick button.on{background:var(--yellow);box-shadow:2px 2px 0 var(--ink)}
+.row{display:flex;gap:12px;flex-wrap:wrap;align-items:center}
+.lightbox img{max-width:96vw;max-height:90vh;background:#fff;border:4px solid var(--ink);border-radius:12px}
+
+/* play */
+#play{background:#fff}
+.qpanel{flex:none;max-height:44vh;min-height:70px;overflow:auto;background:var(--card);border-bottom:3px solid var(--ink);padding:12px 18px 6px;position:relative}
+.qmeta{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:8px;align-items:center}
+.qmeta .cite{font-size:.78rem;color:#5a6079;font-weight:700}
+.qtext{font-size:1.15rem}
+.qtext p{margin:.35em 0}
+.qtext .opts{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:4px 18px;margin:.5em 0}
+.part{margin:.5em 0;padding-left:2.1em;position:relative}
+.part>b:first-child{position:absolute;left:0}
+.fig{display:inline-flex;flex-direction:column;align-items:flex-start;gap:4px;margin:8px 12px 8px 0;vertical-align:top}
+.fig img{max-width:min(100%,520px);max-height:240px;border:2px solid var(--line);border-radius:8px;background:#fff;cursor:zoom-in}
+.fig .ph{width:220px;height:120px;display:grid;place-items:center;border:2px dashed var(--grey);border-radius:8px;color:var(--grey);font-size:.85rem}
+table.qt{border-collapse:collapse;margin:8px 0;background:#fff}
+table.qt th,table.qt td{border:2px solid var(--ink);padding:5px 12px;text-align:center}
+table.qt th{background:#f3ecd7}
+.frac{display:inline-flex;flex-direction:column;vertical-align:middle;text-align:center;font-size:.86em;line-height:1.1;margin:0 .12em}
+.frac>span:first-child{border-bottom:2px solid currentColor;padding:0 .2em}
+.frac>span:last-child{padding:0 .2em}
+.grip{flex:none;height:16px;background:var(--ink);cursor:ns-resize;display:grid;place-items:center;touch-action:none}
+.grip::after{content:"";width:60px;height:4px;border-radius:9px;background:#fff;opacity:.7}
+
+.board{flex:1;position:relative;min-height:120px;overflow:hidden;background:#fff}
+#cv{position:absolute;inset:0;width:100%;height:100%;touch-action:none;cursor:crosshair}
+.tools{position:absolute;left:10px;top:10px;display:flex;flex-wrap:wrap;align-items:center;max-width:calc(100% - 20px);gap:4px;background:var(--card);border:3px solid var(--ink);border-radius:16px;padding:6px;box-shadow:var(--shadow);z-index:3}
+.tools button{width:42px;height:42px;border-radius:11px;border:2.5px solid transparent;background:transparent;font-size:1.25rem;display:grid;place-items:center;padding:0}
+.tools button.on{background:var(--yellow);border-color:var(--ink)}
+.tools hr{width:0;height:28px;border:0;border-left:2px solid var(--line);margin:0 2px}
+.sw{width:22px;height:22px;border-radius:50%;border:2.5px solid var(--ink)}
+.zoomer{position:absolute;right:10px;bottom:10px;display:flex;gap:6px;z-index:3;align-items:center}
+.zoomer button{width:40px;height:40px;border-radius:11px;border:2.5px solid var(--ink);background:var(--card);font-weight:800;font-size:1.1rem;box-shadow:2px 2px 0 var(--ink);padding:0}
+.zoomer span{font-weight:800;font-size:.85rem;background:var(--card);border:2px solid var(--ink);border-radius:9px;padding:2px 7px}
+@media (max-width:620px){.tools hr{display:none}.tools button{width:38px;height:38px}}
+
+.answer{flex:none;border-top:3px solid var(--ink);background:var(--paper);padding:10px max(14px,env(safe-area-inset-right)) max(10px,env(safe-area-inset-bottom)) max(14px,env(safe-area-inset-left));max-height:62vh;overflow:auto}
+.ansrow{display:flex;flex-wrap:wrap;gap:10px 14px;align-items:center}
+.field{display:flex;align-items:center;gap:6px;font-weight:700}
+.field input{font:inherit;font-size:1.2rem;font-weight:700;width:150px;padding:8px 10px;border:3px solid var(--ink);border-radius:12px;background:#fff;color:var(--ink)}
+.field input.wide{width:min(320px,70vw)}
+.field input:focus{outline:4px solid var(--yellow)}
+.mcq{display:flex;gap:10px;flex-wrap:wrap}
+.mcq button{min-width:56px;border:3px solid var(--ink);border-radius:14px;background:#fff;padding:8px 14px;font-family:var(--display);font-weight:800;font-size:1.2rem;box-shadow:3px 3px 0 var(--ink)}
+.mcq button.on{background:var(--yellow);transform:translate(2px,2px);box-shadow:1px 1px 0 var(--ink)}
+.spacer{flex:1}
+
+.result h3{font-size:1.5rem;font-weight:800;display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.result.good h3{color:var(--good)} .result.bad h3{color:var(--bad)}
+.pres{border:3px solid var(--ink);border-radius:14px;background:#fff;padding:10px 14px;margin:10px 0}
+.pres.right{border-color:var(--good);background:#effaf5} .pres.wrong{border-color:var(--bad);background:#fff3f1}
+.pres .head{font-weight:800;display:flex;gap:8px;flex-wrap:wrap;align-items:baseline}
+.pres ol{margin:6px 0 2px;padding-left:1.4em} .pres li{margin:3px 0}
+.pres summary{cursor:pointer;font-weight:700;color:#3d4a86}
+.ansbig{font-family:var(--display);font-weight:800;font-size:1.15rem;background:var(--yellow);border:2px solid var(--ink);border-radius:8px;padding:0 8px}
+.anslong{background:#fff4c9;border:2px solid var(--ink);border-radius:10px;padding:8px 12px;margin:8px 0 4px}
+.selfmark{display:flex;gap:10px;margin-top:8px;flex-wrap:wrap}
+.toast{position:fixed;left:50%;top:50px;transform:translateX(-50%);background:var(--ink);color:#fff;border-radius:14px;padding:10px 18px;font-weight:700;z-index:80;opacity:0;pointer-events:none;transition:opacity .25s,top .25s;max-width:90vw;text-align:center;border:2px solid #fff}
+.toast.on{opacity:1;top:70px}
+.xpfly{position:fixed;left:50%;top:40%;transform:translate(-50%,-50%);font-family:var(--display);font-weight:800;font-size:3rem;color:var(--ink);
+  background:var(--yellow);border:4px solid var(--ink);border-radius:20px;padding:4px 22px;box-shadow:var(--shadow);z-index:70;pointer-events:none;animation:fly 1.3s forwards cubic-bezier(.2,1.3,.4,1)}
+@keyframes fly{0%{opacity:0;transform:translate(-50%,-20%) scale(.4) rotate(-8deg)}25%{opacity:1;transform:translate(-50%,-50%) scale(1.1) rotate(3deg)}70%{opacity:1}100%{opacity:0;transform:translate(-50%,-160%) scale(.9)}}
+.confetti{position:fixed;top:-20px;width:12px;height:18px;z-index:69;pointer-events:none;animation:fall linear forwards}
+@keyframes fall{to{transform:translateY(110vh) rotate(720deg)}}
+
+/* progress */
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin-bottom:24px}
+.stat{border:3px solid var(--ink);border-radius:16px;background:var(--card);padding:12px 14px;box-shadow:var(--shadow)}
+.stat b{font-family:var(--display);font-size:2rem;display:block;line-height:1}
+.bars{display:grid;gap:8px;margin-bottom:24px}
+.barrow{display:grid;grid-template-columns:minmax(120px,240px) 1fr auto;gap:10px;align-items:center;font-weight:700;font-size:.95rem}
+.bar{height:18px;border:2.5px solid var(--ink);border-radius:99px;background:#fff;overflow:hidden}
+.bar i{display:block;height:100%;background:var(--mint)}
+.note{font-size:.9rem;color:#5a6079}
+</style>
+<script src="data/maths/index.js" onerror="void 0"></script>
+<script src="data/science/index.js" onerror="void 0"></script>
+</head>
+<body>
+
+<!-- HOME -->
+<section class="screen on" id="home">
+  <div class="top"><div class="title">PSLE Quest</div><div class="hud" data-hud></div>
+    <button class="btn small" data-go="progress">📈 Progress</button></div>
+  <div class="scroll"><div class="wrap">
+    <div class="hero"><h1>Pick your <span>quest</span></h1><p>Real past-year prelim questions. Work it out, type your answer, level up.</p></div>
+    <div class="subjects" id="subjects"></div>
+  </div></div>
+</section>
+
+<!-- MENU -->
+<section class="screen" id="menu">
+  <div class="top"><button class="btn small" data-go="home">← Subjects</button><div class="title" id="menuTitle"></div><div class="hud" data-hud></div></div>
+  <div class="scroll"><div class="wrap">
+    <div class="modes">
+      <button class="btn yellow" id="btnRandom">🎲 Random mix</button>
+      <button class="btn red" id="btnMistakes">📕 Mistake book <span id="mistCount"></span></button>
+      <button class="btn" data-go="progress">📈 Progress</button>
+    </div>
+    <h2 class="sec">Choose a topic</h2>
+    <div class="topics" id="topics"></div>
+  </div></div>
+</section>
+
+<!-- PLAY -->
+<section class="screen" id="play">
+  <div class="top"><button class="btn small" id="btnQuit">← Back</button><div class="title" id="playTitle"></div><div class="hud" data-hud></div></div>
+  <div class="qpanel" id="qpanel"><div class="qmeta" id="qmeta"></div><div class="qtext" id="qtext"></div></div>
+  <div class="grip" id="grip" title="Drag to resize"></div>
+  <div class="board" id="board">
+    <canvas id="cv"></canvas>
+    <div class="tools" id="tools">
+      <button data-tool="pen" class="on" title="Pen">✏️</button>
+      <button data-tool="eraser" title="Eraser">🧽</button>
+      <button data-tool="hand" title="Move around">✋</button>
+      <hr>
+      <button data-color="#1b2340" class="on" title="Ink"><i class="sw" style="background:#1b2340"></i></button>
+      <button data-color="#e2483a" title="Red"><i class="sw" style="background:#e2483a"></i></button>
+      <button data-color="#2a7de1" title="Blue"><i class="sw" style="background:#2a7de1"></i></button>
+      <button data-color="#1fa97a" title="Green"><i class="sw" style="background:#1fa97a"></i></button>
+      <hr>
+      <button id="btnWidth" title="Pen thickness">〰️</button>
+      <button id="btnUndo" title="Undo">↩️</button>
+      <button id="btnRedo" title="Redo">↪️</button>
+      <button id="btnClear" title="Clear all">🗑️</button>
+    </div>
+    <div class="zoomer"><button id="zOut" title="Zoom out">−</button><span id="zPct">100%</span><button id="zIn" title="Zoom in">+</button><button id="zFit" title="Reset view">⌂</button></div>
+  </div>
+  <div class="answer" id="answer"></div>
+</section>
+
+<!-- PROGRESS -->
+<section class="screen" id="progress">
+  <div class="top"><button class="btn small" id="btnProgBack">← Back</button><div class="title">Progress</div><div class="hud" data-hud></div></div>
+  <div class="scroll"><div class="wrap" id="progBody"></div></div>
+</section>
+
+<div class="modal" id="topicModal"><div class="sheet" id="topicSheet"></div></div>
+<div class="modal lightbox" id="lightbox"><img alt=""></div>
+<div class="toast" id="toast"></div>
+<input type="file" id="importFile" accept="application/json" hidden>
+
+<script>
+"use strict";
+window.PSLE = window.PSLE || {subjects:{}, images:{}};
+const $ = (s, r=document) => r.querySelector(s), $$ = (s, r=document) => [...r.querySelectorAll(s)];
+const SUBJECTS = [
+  {id:"maths", name:"Maths", icon:"🧮", color:"var(--yellow)"},
+  {id:"science", name:"Science", icon:"🔬", color:"var(--mint)"},
+  {id:"english", name:"English", icon:"📚", color:"var(--sky)"},
+  {id:"chinese", name:"Chinese", icon:"🀄", color:"var(--red)"},
+  {id:"higher-chinese", name:"Higher Chinese", icon:"🏮", color:"var(--violet)"}
+];
+const RANKS = ["Rookie","Explorer","Solver","Thinker","Sharpshooter","Ace","Whiz","Master","Champion","Legend"];
+const today = () => { const d = new Date(); return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0"); };
+
+/* ---------- saved progress ---------- */
+const KEY = "psle-quest-v1";
+const fresh = () => ({v:1, xp:0, streak:0, best:0, day:{date:"", n:0}, dayStreak:0, lastGoalDay:"", q:{}, mist:{}});
+let S = fresh();
+try { const raw = localStorage.getItem(KEY); if (raw) S = Object.assign(fresh(), JSON.parse(raw)); } catch(e) {}
+const save = () => { try { localStorage.setItem(KEY, JSON.stringify(S)); } catch(e) {} };
+const levelFloor = L => 50*L*(L-1);
+function levelOf(xp){ let L = 1; while (levelFloor(L+1) <= xp) L++; return L; }
+const DAILY_GOAL = 5;
+
+/* ---------- text rendering ---------- */
+const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+function inline(s){
+  return esc(s)
+    .replace(/\{([^{}\/]+)\/([^{}\/]+)\}/g, '<span class="frac"><span>$1</span><span>$2</span></span>')
+    .replace(/\*\*(.+?)\*\*/g, "<b>$1</b>");
+}
+function tableHTML(t){
+  const cell = (c, tag) => { const o = typeof c === "object" ? c : {t:c};
+    return `<${tag}${o.rowspan?` rowspan="${o.rowspan}"`:""}${o.colspan?` colspan="${o.colspan}"`:""}>${inline(o.t ?? "")}</${tag}>`; };
+  return `<table class="qt">${t.header ? "<tr>"+t.header.map(c=>cell(c,"th")).join("")+"</tr>" : ""}${t.rows.map(r=>"<tr>"+r.map(c=>cell(c,"td")).join("")+"</tr>").join("")}</table>`;
+}
+function figHTML(im){
+  const src = PSLE.images[im.key];
+  return `<span class="fig" data-key="${esc(im.key)}">${src ? `<img src="${src}" alt="${esc(im.alt)}">` : `<span class="ph">Loading picture…</span>`}
+    <button class="btn small" data-pin="${esc(im.key)}">✏️ Draw on it</button></span>`;
+}
+function rich(text, q, used){
+  return String(text||"").split("\n").map(line => {
+    const m = line.trim().match(/^\[\[([a-z]+\d+)\]\]$/);
+    if (m) {
+      const im = (q.images||[]).find(i => i.id === m[1]); if (im) { used.add(im.id); return figHTML(im); }
+      const tb = (q.tables||[]).find(t => t.id === m[1]); if (tb) { used.add(tb.id); return tableHTML(tb); }
+      return "";
+    }
+    return line.trim() ? `<p>${inline(line)}</p>` : "";
+  }).join("");
+}
+function questionHTML(q){
+  const used = new Set();
+  let h = rich(q.stem, q, used);
+  const partsHTML = q.parts.map(p => p.prompt ? `<div class="part">${p.label?`<b>(${esc(p.label)})</b>`:""}${rich(p.prompt, q, used)}</div>` : "").join("");
+  h += (q.tables||[]).filter(t => !used.has(t.id)).map(tableHTML).join("");
+  h += (q.images||[]).filter(i => !used.has(i.id)).map(figHTML).join("");
+  if (q.options) h += `<div class="opts">${q.options.map((o,i)=>`<div><b>(${i+1})</b> ${inline(o)}</div>`).join("")}</div>`;
+  return h + partsHTML;
+}
+
+/* ---------- lazy image chunks ---------- */
+const chunkState = {};
+function loadImages(subject, topic){
+  const k = subject+"/"+topic;
+  if (!chunkState[k]) chunkState[k] = new Promise(res => {
+    const s = document.createElement("script"); s.src = `data/${subject}/images-${topic}.js`;
+    s.onload = () => res(true); s.onerror = () => res(false); document.head.appendChild(s);
+  });
+  return chunkState[k];
+}
+
+/* ---------- answer checking ---------- */
+const gcd = (a,b) => { a=Math.abs(a); b=Math.abs(b); while(b){ [a,b]=[b,a%b]; } return a||1; };
+const tidy = s => String(s).toLowerCase().replace(/[−–—]/g,"-").replace(/[×✕]/g,"*").replace(/÷/g,"/").replace(/\s+/g," ").trim();
+function stripUnits(s){ // "$1,250.50", "48 cm", "73°", "25%" -> bare number text
+  let t = tidy(s).replace(/,/g,"").replace(/^[a-z∠ ]*=\s*/,"").replace(/^[a-z$]*\s*\$?\s*/,"")
+    .replace(/\s*[a-zℓ°%²³$]+(?:\/[a-z]+)?(?:\^?[23])?\.?\s*$/,"").trim();
+  if (/^-?\d{1,3}( \d{3})+(\.\d+)?$/.test(t)) t = t.replace(/ /g,""); // 20 000 -> 20000
+  return t;
+}
+function parseRational(s){ // -> {n,d,mixed,whole} or null
+  s = stripUnits(s);
+  let m;
+  if ((m = s.match(/^(-?\d+)\s+(\d+)\s*\/\s*(\d+)$/))) { const w=+m[1], n=+m[2], d=+m[3]; if(!d) return null; return {n:(Math.abs(w)*d+n)*(w<0?-1:1), d, mixed:true, fn:n}; }
+  if ((m = s.match(/^(-?\d+)\s*\/\s*(\d+)$/))) { if(!+m[2]) return null; return {n:+m[1], d:+m[2], mixed:false, fn:Math.abs(+m[1])}; }
+  if ((m = s.match(/^-?\d*\.?\d+$/))) { const dec = (s.split(".")[1]||"").length, d = Math.pow(10,dec); return {n:Math.round(parseFloat(s)*d), d, mixed:false, fn:0, plain:true}; }
+  return null;
+}
+const ratVal = r => r.n / r.d;
+const close = (a,b) => Math.abs(a-b) <= 1e-9 * Math.max(1, Math.abs(a), Math.abs(b));
+function exprFn(src){
+  let s = tidy(src).replace(/\s+/g,"").replace(/\{([^{}\/]+)\/([^{}\/]+)\}/g, "(($1)/($2))");
+  if (!s || /[^0-9a-z+\-*/().]/.test(s)) return null;
+  s = s.replace(/(\d)([a-z(])/g,"$1*$2").replace(/([a-z)])(\d)/g,"$1*$2").replace(/([a-z])(?=[a-z(])/g,"$1*").replace(/\)(?=[a-z(])/g,")*");
+  const vars = [...new Set(s.match(/[a-z]/g)||[])];
+  try { const f = new Function(...vars, `return (${s});`); return {f, vars}; } catch(e) { return null; }
+}
+function exprEqual(a, b){
+  const A = exprFn(a), B = exprFn(b); if (!A || !B) return false;
+  const vars = [...new Set([...A.vars, ...B.vars])];
+  for (const seed of [1.37, 2.61, 5.13]) {
+    const val = {}; vars.forEach((v,i) => val[v] = seed + i*0.77);
+    let x, y; try { x = A.f(...A.vars.map(v=>val[v])); y = B.f(...B.vars.map(v=>val[v])); } catch(e) { return false; }
+    if (!isFinite(x) || !isFinite(y) || Math.abs(x-y) > 1e-7*Math.max(1,Math.abs(x))) return false;
+  }
+  return true;
+}
+const termCount = s => (tidy(s).replace(/\s+/g,"").match(/\d*\.?\d+|[a-z]/g)||[]).length;
+/* returns "right" | "wrong" | "self" | {nudge:"message"} */
+function checkPart(part, input){
+  const a = part.answer, raw = String(input ?? "");
+  switch (a.type) {
+    case "self": return "self";
+    case "mcq": return Number(input) === a.value || (a.accept||[]).includes(Number(input)) ? "right" : "wrong";
+    case "number": {
+      const r = parseRational(raw), want = parseRational(a.value);
+      if (!r || !want) return tidy(raw) === tidy(a.value) ? "right" : "wrong";
+      if (a.tolerance) return Math.abs(ratVal(r) - ratVal(want)) <= a.tolerance + 1e-9 ? "right" : "wrong";
+      return close(ratVal(r), ratVal(want)) ? "right" : "wrong";
+    }
+    case "fraction": {
+      const r = parseRational(raw), want = parseRational(a.value);
+      if (!r || !want) return "wrong";
+      if (!close(ratVal(r), ratVal(want))) return "wrong";
+      if (r.plain && want.d !== 1) return {nudge:"Right value! Now write it as a fraction."};
+      if (a.simplest) {
+        if (gcd(r.n, r.d) !== 1) return {nudge:"Right value! Now give it in its simplest form."};
+        if (want.mixed && !r.mixed) return {nudge:"Right value! Now write it as a mixed number, like 1 2/3."};
+      }
+      return "right";
+    }
+    case "ratio": {
+      const nums = s => tidy(s).replace(/\bto\b/g,":").split(":").map(x => parseFloat(x.trim()));
+      const u = nums(raw), w = nums(a.value);
+      if (u.length !== w.length || u.some(isNaN)) return "wrong";
+      if (u.every((x,i) => close(x, w[i]))) return "right";
+      const k = u[0]/w[0];
+      if (k > 0 && u.every((x,i) => close(x, w[i]*k))) return {nudge:"Right idea! Now give the ratio in its simplest form."};
+      return "wrong";
+    }
+    case "expression": {
+      const norm = s => tidy(s).replace(/\s+/g,"").replace(/\*/g,"");
+      const u = norm(raw); if (!u) return "wrong";
+      if ([a.value, ...(a.accept||[])].some(v => norm(v) === u)) return "right";
+      if (exprEqual(raw, a.value)) return termCount(raw) <= termCount(a.value) + 1 ? "right" : {nudge:"That is equal, but it can be simplified more."};
+      return "wrong";
+    }
+    case "text": {
+      const norm = s => tidy(s).replace(/\((?:i{1,3}|iv|v|[a-d]|\d)\)/g," ").replace(/[.,;!?'"()]/g,"").replace(/\s+/g," ").trim();
+      const u = norm(raw); if (!u) return "wrong";
+      const list = [a.value, ...(a.accept||[])].map(norm);
+      return list.includes(u) || list.map(x=>x.replace(/ /g,"")).includes(u.replace(/ /g,"")) ? "right" : "wrong";
+    }
+    case "sum": {
+      const nums = (tidy(raw).replace(/\$/g,"").match(/-?\d*\.?\d+/g)||[]).map(Number);
+      if (nums.length !== a.count) return "wrong";
+      return close(nums.reduce((x,y)=>x+y,0), Number(a.sum)) ? "right" : "wrong";
+    }
+  }
+  return "wrong";
+}
+function answerText(q, part){
+  const a = part.answer;
+  if (a.type === "mcq") return `(${a.value}) ${q.options[a.value-1]}`;
+  if (a.type === "fraction") return String(a.value).replace(/^(-?\d+)\s+(\d+)\/(\d+)$/, "$1{$2/$3}").replace(/^(-?\d+)\/(\d+)$/, "{$1/$2}") + (a.unit ? " " + a.unit : "");
+  if (a.type === "number" && a.unit) return a.unitPos === "before" ? a.unit + a.value : a.value + (/^[°%]/.test(a.unit) ? "" : " ") + a.unit;
+  return String(a.value);
+}
+
+/* ---------- library helpers ---------- */
+let subjectId = null, session = null, cur = null;
+const lib = () => PSLE.subjects[subjectId];
+const qById = {};
+for (const sid in PSLE.subjects) for (const q of PSLE.subjects[sid].questions) { q.subject = sid; qById[q.id] = q; }
+const pretty = s => s.replace(/-/g," ").replace(/^./, c => c.toUpperCase());
+function topicStats(sid, topicId){
+  const qs = PSLE.subjects[sid].questions.filter(q => q.topic === topicId);
+  let done = 0, right = 0, attempts = 0, corrects = 0;
+  for (const q of qs) { const r = S.q[q.id]; if (r) { done++; if (r.c > 0) right++; attempts += r.a; corrects += r.c; } }
+  const pct = qs.length ? Math.round(100*right/qs.length) : 0;
+  const medal = pct >= 80 ? "🥇" : pct >= 40 ? "🥈" : pct >= 10 ? "🥉" : "";
+  return {total:qs.length, done, right, pct, medal, acc: attempts ? Math.round(100*corrects/attempts) : null};
+}
+const mistakeIds = sid => Object.keys(S.mist).filter(id => qById[id] && qById[id].subject === sid);
+
+/* ---------- screens ---------- */
+let prevScreen = "home";
+function go(id){
+  const now = $(".screen.on"); if (now && now.id !== id && id === "progress") prevScreen = now.id;
+  $$(".screen").forEach(s => s.classList.toggle("on", s.id === id));
+  renderHud();
+  if (id === "home") renderHome();
+  if (id === "menu") renderMenu();
+  if (id === "progress") renderProgress();
+  if (id === "play") requestAnimationFrame(Board.resize);
+}
+document.addEventListener("click", e => { const b = e.target.closest("[data-go]"); if (b) go(b.dataset.go); });
+function renderHud(){
+  const L = levelOf(S.xp), a = levelFloor(L), b = levelFloor(L+1);
+  const html = `<span class="flame" title="Correct in a row">🔥 ${S.streak}</span>
+    <span class="lvl"><span class="badge">Lv ${L}</span><span class="xpbar" title="${S.xp} XP"><i style="width:${Math.round(100*(S.xp-a)/(b-a))}%"></i></span></span>`;
+  $$("[data-hud]").forEach(h => h.innerHTML = html);
+}
+function renderHome(){
+  $("#subjects").innerHTML = SUBJECTS.map(s => {
+    const L = PSLE.subjects[s.id], n = L ? L.questions.length : 0;
+    return `<button class="subj ${n?"":"off"}" style="background:${n?s.color:""}" data-subject="${s.id}">
+      <span class="big">${s.icon}</span><h2>${s.name}</h2>
+      <small>${n ? `${n} questions · ${L.papers.length} papers` : "Coming soon"}</small></button>`;
+  }).join("");
+}
+$("#subjects").addEventListener("click", e => { const b = e.target.closest("[data-subject]"); if (b) { subjectId = b.dataset.subject; go("menu"); } });
+function renderMenu(){
+  const L = lib(); $("#menuTitle").textContent = L.name;
+  const n = mistakeIds(subjectId).length;
+  $("#mistCount").textContent = n ? `(${n})` : ""; $("#btnMistakes").disabled = !n;
+  $("#topics").innerHTML = L.topics.map(t => {
+    const st = topicStats(subjectId, t.id); if (!st.total) return "";
+    return `<button class="topic" data-topic="${t.id}"><span class="ic">${t.icon||"⭐"} <span class="medal">${st.medal}</span></span>
+      <span class="ring" style="--p:${st.pct}"><span>${st.pct}%</span></span>
+      <h3>${esc(t.name)}</h3><small>${st.right} of ${st.total} solved</small></button>`;
+  }).join("");
+}
+$("#topics").addEventListener("click", e => { const b = e.target.closest("[data-topic]"); if (b) openTopic(b.dataset.topic); });
+function openTopic(topicId){
+  const L = lib(), t = L.topics.find(x => x.id === topicId), qs = L.questions.filter(q => q.topic === topicId);
+  const counts = {}; qs.forEach(q => q.subtypes.forEach(s => counts[s] = (counts[s]||0)+1));
+  const subs = Object.keys(counts).filter(k => counts[k] >= 2).sort((a,b) => counts[b]-counts[a] || a.localeCompare(b));
+  let pick = "";
+  const draw = () => {
+    $("#topicSheet").innerHTML = `<h2>${t.icon||""} ${esc(t.name)}</h2><div class="note">Pick a question type, or play them all.</div>
+      <div class="pick"><button data-sub="" class="${pick===""?"on":""}">All types (${qs.length})</button>
+      ${subs.map(s => `<button data-sub="${s}" class="${pick===s?"on":""}">${esc(pretty(s))} (${counts[s]})</button>`).join("")}</div>
+      <div class="row"><button class="btn yellow" id="topicStart">▶ Start</button><button class="btn ghost" id="topicClose">Cancel</button></div>`;
+  };
+  draw(); $("#topicModal").classList.add("on");
+  $("#topicSheet").onclick = e => {
+    const b = e.target.closest("[data-sub]"); if (b) { pick = b.dataset.sub; draw(); return; }
+    if (e.target.id === "topicClose") $("#topicModal").classList.remove("on");
+    if (e.target.id === "topicStart") {
+      $("#topicModal").classList.remove("on");
+      const pool = qs.filter(q => !pick || q.subtypes.includes(pick)).map(q => q.id);
+      startSession({mode:"topic", label: t.name + (pick ? " · " + pretty(pick) : ""), pool});
+    }
+  };
+}
+$("#topicModal").addEventListener("click", e => { if (e.target.id === "topicModal") e.currentTarget.classList.remove("on"); });
+$("#btnRandom").onclick = () => startSession({mode:"random", label:"Random mix", pool: lib().questions.map(q => q.id)});
+$("#btnMistakes").onclick = () => startSession({mode:"mistakes", label:"Mistake book", pool: mistakeIds(subjectId)});
+$("#btnQuit").onclick = () => go("menu");
+$("#btnProgBack").onclick = () => go(prevScreen === "progress" ? "home" : prevScreen);
+
+/* ---------- playing ---------- */
+function startSession(s){ session = Object.assign(s, {seen:new Set()}); go("play"); nextQuestion(); }
+function pickNext(){
+  let pool = session.mode === "mistakes" ? mistakeIds(subjectId) : session.pool;
+  if (!pool.length) return null;
+  let cand = pool.filter(id => !session.seen.has(id));
+  if (!cand.length) { session.seen.clear(); cand = pool.filter(id => !cur || id !== cur.id); if (!cand.length) cand = pool; }
+  const weak = {};
+  const w = cand.map(id => {
+    const r = S.q[id], q = qById[id]; let x = !r ? 3 : r.ok ? 1 : 2.5;
+    if (session.mode === "random") {
+      if (S.mist[id]) x *= 1.5;
+      if (!(q.topic in weak)) { const st = topicStats(subjectId, q.topic); weak[q.topic] = st.acc === null ? 1 : 1.6 - st.acc/100; }
+      x *= weak[q.topic];
+    }
+    return x;
+  });
+  let roll = Math.random() * w.reduce((a,b)=>a+b,0);
+  for (let i = 0; i < cand.length; i++) { roll -= w[i]; if (roll <= 0) return cand[i]; }
+  return cand[cand.length-1];
+}
+function nextQuestion(){
+  const id = pickNext();
+  if (!id) { toast("Mistake book is empty. Great work!"); go("menu"); return; }
+  cur = qById[id]; session.seen.add(id);
+  const L = lib(), t = L.topics.find(x => x.id === cur.topic);
+  $("#playTitle").textContent = session.label;
+  $("#qmeta").innerHTML = `<span class="chip yellow">${t ? esc(t.name) : ""}</span>
+    <span class="chip">${cur.marks} mark${cur.marks>1?"s":""}</span>${S.mist[cur.id]?'<span class="chip red">📕 retry</span>':""}
+    <span class="cite">${esc(cur.cite)}</span>`;
+  $("#qtext").innerHTML = questionHTML(cur);
+  $("#qpanel").scrollTop = 0; $("#qpanel").style.maxHeight = cur.subject === "science" ? "58vh" : ""; $("#qpanel").style.height = "";
+  Board.reset();
+  renderAnswerBar();
+  if (cur.images) loadImages(cur.subject, cur.topic).then(() => {
+    if (!cur || cur.id !== id) return;
+    $$("#qtext .fig").forEach(f => { const src = PSLE.images[f.dataset.key], ph = $(".ph", f);
+      if (src && ph) { const im = cur.images.find(i => i.key === f.dataset.key); ph.outerHTML = `<img src="${src}" alt="${esc(im.alt)}">`; }
+      else if (ph) ph.textContent = "Picture not found"; });
+  });
+}
+$("#qtext").addEventListener("click", e => {
+  const pin = e.target.closest("[data-pin]");
+  if (pin) { const src = PSLE.images[pin.dataset.pin]; if (src) Board.addImage(src); return; }
+  if (e.target.tagName === "IMG") { $("#lightbox img").src = e.target.src; $("#lightbox").classList.add("on"); }
+});
+$("#lightbox").onclick = () => $("#lightbox").classList.remove("on");
+
+let mcqPick = null;
+function renderAnswerBar(){
+  const q = cur, el = $("#answer"); mcqPick = null;
+  let h = '<div class="ansrow">';
+  if (q.format === "mcq") {
+    h += `<div class="mcq">${q.options.map((o,i)=>`<button data-opt="${i+1}">(${i+1})</button>`).join("")}</div>`;
+  } else {
+    q.parts.forEach((p, i) => {
+      const a = p.answer, lab = p.label ? `(${esc(p.label)})` : "Answer";
+      if (a.type === "self") { h += `<label class="field">${lab} <input data-part="${i}" class="wide" autocomplete="off" placeholder="Write on the canvas or type here"></label>`; return; }
+      const wide = a.type === "text" || a.type === "expression" || a.type === "sum";
+      const numeric = a.type === "number" || a.type === "fraction";
+      h += `<label class="field">${lab} ${a.unit && a.unitPos==="before" ? esc(a.unit) : ""}
+        <input data-part="${i}" class="${wide?"wide":""}" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" ${numeric?'inputmode="text"':""}
+          placeholder="${a.type==="fraction"?"e.g. 1 2/3":a.type==="ratio"?"e.g. 2:3":a.type==="sum"?"e.g. 10, 20":""}">
+        ${a.unit && a.unitPos!=="before" ? inline(a.unit) : ""}</label>`;
+    });
+  }
+  const allSelf = q.parts.every(p => p.answer.type === "self");
+  h += `<span class="spacer"></span><button class="btn ghost small" id="btnGiveUp">Show answer</button>
+    <button class="btn mint" id="btnCheck">${allSelf ? "Show answer" : "Check ✓"}</button></div>`;
+  el.innerHTML = h;
+  if (allSelf) $("#btnGiveUp").remove();
+}
+$("#answer").addEventListener("click", e => {
+  const o = e.target.closest("[data-opt]");
+  if (o) { mcqPick = +o.dataset.opt; $$("#answer [data-opt]").forEach(b => b.classList.toggle("on", b === o)); return; }
+  if (e.target.id === "btnCheck") doCheck(false);
+  if (e.target.id === "btnGiveUp") doCheck(true);
+  if (e.target.id === "btnNext") nextQuestion();
+  const sm = e.target.closest("[data-self]");
+  if (sm) { pending.results[+sm.dataset.self] = sm.dataset.val; drawResult(); }
+});
+$("#answer").addEventListener("keydown", e => { if (e.key === "Enter" && e.target.tagName === "INPUT") { e.preventDefault(); doCheck(false); } });
+
+let pending = null;
+function doCheck(giveUp){
+  const q = cur, inputs = [], results = [];
+  for (let i = 0; i < q.parts.length; i++) {
+    const p = q.parts[i];
+    let val = q.format === "mcq" ? mcqPick : ($(`#answer [data-part="${i}"]`)||{}).value;
+    inputs.push(val);
+    if (p.answer.type === "self") { results.push("self"); continue; }
+    if (giveUp) { results.push("wrong"); continue; }
+    if (val === null || val === undefined || String(val).trim() === "") {
+      toast(q.format === "mcq" ? "Tap an option first." : "Type an answer for every part, or tap “Show answer”."); return;
+    }
+    const r = checkPart(p, val);
+    if (typeof r === "object") { toast(r.nudge); return; }
+    results.push(r);
+  }
+  pending = {q, inputs, results, giveUp, done:false};
+  drawResult();
+}
+function drawResult(){
+  const {q, inputs, results} = pending;
+  const waiting = results.includes("self");
+  if (!waiting && !pending.done) finalize();
+  const allRight = results.every(r => r === "right");
+  let h = `<div class="result ${waiting ? "" : allRight ? "good" : "bad"}"><h3>`;
+  if (waiting) h += "Compare with the answer, then mark yourself";
+  else h += (allRight ? pick(["Correct! 🎉","Nailed it! 🌟","Spot on! 💪","Brilliant! 🚀"]) : results.some(r=>r==="right") ? "Partly right" : "Not quite — see how it works") +
+    ` <span class="chip ${pending.xp ? "yellow" : ""}">+${pending.xp} XP</span>` + (allRight && S.streak > 1 ? ` <span class="chip">🔥 ${S.streak} in a row</span>` : "");
+  h += `<span class="spacer"></span><button class="btn yellow" id="btnNext" ${waiting?"disabled":""}>Next ➜</button></h3>`;
+  q.parts.forEach((p, i) => {
+    const r = results[i], a = p.answer, mine = inputs[i];
+    const cls = r === "right" ? "right" : r === "wrong" ? "wrong" : "";
+    h += `<div class="pres ${cls}"><div class="head">${r==="right"?"✅":r==="wrong"?"❌":"📝"} ${p.label?`(${esc(p.label)})`:""}
+      ${mine!==null && mine!==undefined && String(mine).trim()!=="" && !(pending.giveUp && a.type!=="self") ? `<span>You answered: <b>${a.type==="mcq"?`(${mine})`:esc(mine)}</b></span>` : ""}
+      ${(() => { const t = answerText(q, p), long = t.length > 48; return long ? `</div><div class="anslong"><b>${a.type==="self"?"Model answer":"Answer"}:</b> ${inline(t).replace(/\n/g,"<br>")}</div><div>` : `<span>${a.type==="self"?"Model answer":"Answer"}: <span class="ansbig">${inline(t)}</span></span></div><div>`; })()}</div>`;
+    const steps = `<ol>${p.explanation.map(s => `<li>${inline(s)}</li>`).join("")}</ol>`;
+    h += r === "right" && a.type !== "self" ? `<details><summary>See the working</summary>${steps}</details>` : steps;
+    if (a.type === "self" && !pending.done) h += `<div class="selfmark"><button class="btn mint small" data-self="${i}" data-val="right">👍 I got it right</button>
+      <button class="btn small" data-self="${i}" data-val="wrong">👎 I got it wrong</button></div>`;
+    h += "</div>";
+  });
+  $("#answer").innerHTML = h + "</div>"; $("#answer").scrollTop = 0;
+}
+const pick = a => a[Math.floor(Math.random()*a.length)];
+function finalize(){
+  const {q, results} = pending; pending.done = true;
+  const allRight = results.every(r => r === "right");
+  const before = levelOf(S.xp);
+  let xp = 0;
+  q.parts.forEach((p, i) => { if (results[i] === "right") xp += 10 * (p.marks || (q.parts.length === 1 ? q.marks : 1)); });
+  if (allRight) { S.streak++; S.best = Math.max(S.best, S.streak); xp += Math.min(10, 2*(S.streak-1)); } else S.streak = 0;
+  const rec = S.q[q.id] || (S.q[q.id] = {a:0, c:0});
+  rec.a++; if (allRight) rec.c++; rec.ok = allRight; rec.last = today();
+  if (!allRight) S.mist[q.id] = {days:[]};
+  else if (S.mist[q.id]) { const m = S.mist[q.id]; if (!m.days.includes(today())) m.days.push(today()); if (m.days.length >= 2) { delete S.mist[q.id]; toast("Cleared from your mistake book! 📗"); } }
+  const d = today();
+  if (S.day.date !== d) S.day = {date:d, n:0};
+  S.day.n++;
+  if (S.day.n === DAILY_GOAL) {
+    const y = new Date(); y.setDate(y.getDate()-1);
+    const yk = y.getFullYear()+"-"+String(y.getMonth()+1).padStart(2,"0")+"-"+String(y.getDate()).padStart(2,"0");
+    S.dayStreak = S.lastGoalDay === yk ? S.dayStreak + 1 : 1; S.lastGoalDay = d; xp += 20;
+    setTimeout(() => toast(`Daily goal done! +20 XP · ${S.dayStreak} day streak 📅`), 1500);
+  }
+  S.xp += xp; pending.xp = xp; save(); renderHud();
+  if (xp) { const f = document.createElement("div"); f.className = "xpfly"; f.textContent = "+"+xp+" XP"; document.body.appendChild(f); setTimeout(() => f.remove(), 1400); }
+  if (allRight) confetti(levelOf(S.xp) > before ? 90 : 28);
+  if (levelOf(S.xp) > before) setTimeout(() => toast(`Level up! You are now Level ${levelOf(S.xp)} — ${RANKS[Math.min(RANKS.length-1, levelOf(S.xp)-1)]} 🏆`), 600);
+}
+function confetti(n){
+  const cols = ["#ef5b4c","#ffc93c","#3fc9a2","#4aa8ff","#8f6bf2"];
+  for (let i = 0; i < n; i++) { const c = document.createElement("i"); c.className = "confetti";
+    c.style.left = Math.random()*100+"vw"; c.style.background = pick(cols); c.style.animationDuration = (1.2+Math.random()*1.6)+"s";
+    c.style.animationDelay = Math.random()*.3+"s"; c.style.borderRadius = Math.random()<.4?"50%":"3px";
+    document.body.appendChild(c); setTimeout(() => c.remove(), 3400); }
+}
+let toastT; function toast(msg){ const t = $("#toast"); t.textContent = msg; t.classList.add("on"); clearTimeout(toastT); toastT = setTimeout(() => t.classList.remove("on"), 3200); }
+
+/* ---------- progress ---------- */
+function renderProgress(){
+  const L = levelOf(S.xp), ids = Object.keys(S.q).filter(id => qById[id]);
+  const att = ids.reduce((s,id) => s + S.q[id].a, 0), cor = ids.reduce((s,id) => s + S.q[id].c, 0);
+  let h = `<div class="stats">
+    <div class="stat"><b>Lv ${L}</b>${RANKS[Math.min(RANKS.length-1, L-1)]} · ${S.xp} XP</div>
+    <div class="stat"><b>${ids.length}</b>questions tried</div>
+    <div class="stat"><b>${att ? Math.round(100*cor/att) : 0}%</b>accuracy</div>
+    <div class="stat"><b>🔥 ${S.best}</b>best run in a row</div>
+    <div class="stat"><b>📅 ${S.dayStreak}</b>day streak · today ${S.day.date===today()?S.day.n:0}/${DAILY_GOAL}</div>
+    <div class="stat"><b>📕 ${Object.keys(S.mist).filter(id=>qById[id]).length}</b>in mistake book</div></div>`;
+  for (const s of SUBJECTS) { const lb = PSLE.subjects[s.id]; if (!lb || !lb.questions.length) continue;
+    h += `<h2 class="sec">${s.icon} ${s.name}</h2><div class="bars">` + lb.topics.map(t => { const st = topicStats(s.id, t.id); if (!st.total) return "";
+      return `<div class="barrow"><span>${st.medal} ${esc(t.name)}</span><span class="bar"><i style="width:${st.pct}%"></i></span><span>${st.right}/${st.total}${st.acc!==null?` · ${st.acc}%`:""}</span></div>`; }).join("") + "</div>"; }
+  h += `<p class="note">Medals: 🥉 10% of a topic solved, 🥈 40%, 🥇 80%. Progress is saved in this browser on this device. Use Export to keep a backup.</p>
+    <div class="row"><button class="btn small" id="btnExport">⬇ Export progress</button><button class="btn small" id="btnImport">⬆ Import progress</button><button class="btn small red" id="btnReset">Reset everything</button></div>`;
+  $("#progBody").innerHTML = h;
+}
+$("#progBody").addEventListener("click", e => {
+  if (e.target.id === "btnExport") { const a = document.createElement("a"); a.href = URL.createObjectURL(new Blob([JSON.stringify(S)], {type:"application/json"}));
+    a.download = "psle-quest-progress-"+today()+".json"; a.click(); }
+  if (e.target.id === "btnImport") $("#importFile").click();
+  if (e.target.id === "btnReset" && confirm("Erase all progress, XP and the mistake book on this device?")) { S = fresh(); save(); renderHud(); renderProgress(); }
+});
+$("#importFile").onchange = e => { const f = e.target.files[0]; if (!f) return; const r = new FileReader();
+  r.onload = () => { try { const d = JSON.parse(r.result); if (typeof d.xp !== "number" || typeof d.q !== "object") throw 0; S = Object.assign(fresh(), d); save(); renderHud(); renderProgress(); toast("Progress imported."); }
+    catch(err) { toast("That file is not a PSLE Quest backup."); } e.target.value = ""; };
+  r.readAsText(f); };
+
+/* ---------- question panel resize ---------- */
+(() => { const grip = $("#grip"), panel = $("#qpanel"); let y0, h0;
+  grip.addEventListener("pointerdown", e => { grip.setPointerCapture(e.pointerId); y0 = e.clientY; h0 = panel.offsetHeight; });
+  grip.addEventListener("pointermove", e => { if (y0 === undefined || !grip.hasPointerCapture(e.pointerId)) return;
+    const h = Math.max(60, Math.min(window.innerHeight*0.75, h0 + e.clientY - y0)); panel.style.maxHeight = "none"; panel.style.height = h+"px"; Board.resize(); });
+  grip.addEventListener("pointerup", () => { y0 = undefined; });
+})();
+
+/* ---------- drawing board ---------- */
+const Board = (() => {
+  const cv = $("#cv"), ctx = cv.getContext("2d"), wrap = $("#board");
+  let items = [], undo = [], redo = [], view = {s:1, x:0, y:0}, W = 0, H = 0, dpr = 1;
+  let tool = "pen", color = "#1b2340", width = 2.6, penSeen = false, spaceDown = false, raf = 0;
+  const pts = new Map(); let drawing = null, panning = null, pinch = null, erased = null;
+  const toWorld = (x, y) => ({x:(x-view.x)/view.s, y:(y-view.y)/view.s});
+  const pos = e => { const r = cv.getBoundingClientRect(); return {x:e.clientX-r.left, y:e.clientY-r.top}; };
+  function resize(){ const r = wrap.getBoundingClientRect(); if (!r.width) return; dpr = window.devicePixelRatio || 1; W = r.width; H = r.height;
+    cv.width = Math.round(W*dpr); cv.height = Math.round(H*dpr); draw(); }
+  function ask(){ if (!raf) raf = requestAnimationFrame(() => { raf = 0; draw(); }); }
+  function draw(){
+    ctx.setTransform(dpr,0,0,dpr,0,0); ctx.fillStyle = "#fff"; ctx.fillRect(0,0,W,H);
+    const step = 40*view.s;
+    if (step > 9) { ctx.fillStyle = "#d9dbe6"; const ox = ((view.x%step)+step)%step, oy = ((view.y%step)+step)%step, r = Math.max(1, Math.min(2, view.s*1.2));
+      for (let x = ox; x < W; x += step) for (let y = oy; y < H; y += step) ctx.fillRect(x-r/2, y-r/2, r, r); }
+    ctx.setTransform(dpr*view.s,0,0,dpr*view.s,dpr*view.x,dpr*view.y); ctx.lineCap = "round"; ctx.lineJoin = "round";
+    for (const it of items) {
+      if (it.img) { if (it.img.complete) ctx.drawImage(it.img, it.x, it.y, it.w, it.h); continue; }
+      const p = it.p; ctx.strokeStyle = it.c; ctx.fillStyle = it.c; ctx.lineWidth = it.w;
+      if (p.length < 2) { ctx.beginPath(); ctx.arc(p[0].x, p[0].y, it.w/2, 0, 7); ctx.fill(); continue; }
+      ctx.beginPath(); ctx.moveTo(p[0].x, p[0].y);
+      for (let i = 1; i < p.length-1; i++) ctx.quadraticCurveTo(p[i].x, p[i].y, (p[i].x+p[i+1].x)/2, (p[i].y+p[i+1].y)/2);
+      ctx.lineTo(p[p.length-1].x, p[p.length-1].y); ctx.stroke();
+    }
+    $("#zPct").textContent = Math.round(view.s*100)+"%";
+  }
+  function zoomAt(cx, cy, k){ const s = Math.max(0.15, Math.min(8, view.s*k)); k = s/view.s; view.x = cx-(cx-view.x)*k; view.y = cy-(cy-view.y)*k; view.s = s; ask(); }
+  function eraseAt(w){
+    const rad = 14/view.s;
+    for (let i = items.length-1; i >= 0; i--) { const it = items[i];
+      const hit = it.img ? false : it.p.some(p => Math.hypot(p.x-w.x, p.y-w.y) < rad + it.w/2);
+      if (hit) { erased.push({it, i}); items.splice(i, 1); } }
+    ask();
+  }
+  function push(act){ undo.push(act); redo = []; }
+  function down(e){
+    if ($("#play").classList.contains("on") === false) return;
+    try { cv.setPointerCapture(e.pointerId); } catch(err) {} const p = pos(e); pts.set(e.pointerId, p);
+    if (e.pointerType === "pen") penSeen = true;
+    if (e.pointerType === "touch" && pts.size === 2) {
+      if (drawing) { items.pop(); drawing = null; } erased = null; panning = null;
+      const [a, b] = [...pts.values()]; pinch = {d:Math.hypot(a.x-b.x, a.y-b.y), mx:(a.x+b.x)/2, my:(a.y+b.y)/2}; ask(); return;
+    }
+    if (pts.size > 1) return;
+    const wantPan = tool === "hand" || spaceDown || e.button === 1 || (e.pointerType === "touch" && penSeen);
+    if (wantPan) { panning = {x:p.x, y:p.y}; cv.style.cursor = "grabbing"; return; }
+    const w = toWorld(p.x, p.y);
+    if (tool === "eraser") { erased = []; eraseAt(w); return; }
+    drawing = {p:[w], c:color, w:width}; items.push(drawing); ask();
+  }
+  function move(e){
+    if (!pts.has(e.pointerId)) return; const p = pos(e); pts.set(e.pointerId, p);
+    if (pinch && pts.size >= 2) { const [a, b] = [...pts.values()], d = Math.hypot(a.x-b.x, a.y-b.y), mx = (a.x+b.x)/2, my = (a.y+b.y)/2;
+      view.x += mx-pinch.mx; view.y += my-pinch.my; zoomAt(mx, my, d/(pinch.d||1)); pinch = {d, mx, my}; return; }
+    if (panning) { view.x += p.x-panning.x; view.y += p.y-panning.y; panning = {x:p.x, y:p.y}; ask(); return; }
+    if (erased) { eraseAt(toWorld(p.x, p.y)); return; }
+    if (drawing) { const evs = e.getCoalescedEvents ? e.getCoalescedEvents() : [e];
+      for (const ev of (evs.length ? evs : [e])) { const q = pos(ev), w = toWorld(q.x, q.y), last = drawing.p[drawing.p.length-1];
+        if (Math.hypot(w.x-last.x, w.y-last.y)*view.s > 1.2) drawing.p.push(w); } ask(); }
+  }
+  function up(e){
+    pts.delete(e.pointerId);
+    if (pinch) { if (pts.size < 2) pinch = null; return; }
+    if (panning) { panning = null; cv.style.cursor = ""; return; }
+    if (erased) { if (erased.length) push({t:"erase", list:erased}); erased = null; return; }
+    if (drawing) { push({t:"add", it:drawing}); drawing = null; }
+  }
+  cv.addEventListener("pointerdown", down); cv.addEventListener("pointermove", move);
+  cv.addEventListener("pointerup", up); cv.addEventListener("pointercancel", up);
+  cv.addEventListener("wheel", e => { e.preventDefault(); const p = pos(e);
+    if (e.shiftKey) { view.x -= e.deltaY; ask(); } else zoomAt(p.x, p.y, Math.exp(-e.deltaY*0.0015)); }, {passive:false});
+  cv.addEventListener("contextmenu", e => e.preventDefault());
+  window.addEventListener("keydown", e => { if (e.target.tagName === "INPUT") return;
+    if (e.code === "Space") { spaceDown = true; e.preventDefault(); }
+    if ((e.ctrlKey||e.metaKey) && e.key.toLowerCase() === "z") { e.preventDefault(); e.shiftKey ? doRedo() : doUndo(); } });
+  window.addEventListener("keyup", e => { if (e.code === "Space") spaceDown = false; });
+  function doUndo(){ const a = undo.pop(); if (!a) return;
+    if (a.t === "add") items.splice(items.indexOf(a.it), 1);
+    else if (a.t === "erase") [...a.list].reverse().forEach(o => items.splice(Math.min(o.i, items.length), 0, o.it));
+    else if (a.t === "clear") items = a.items;
+    redo.push(a); ask(); }
+  function doRedo(){ const a = redo.pop(); if (!a) return;
+    if (a.t === "add") items.push(a.it);
+    else if (a.t === "erase") a.list.forEach(o => { const k = items.indexOf(o.it); if (k >= 0) items.splice(k, 1); });
+    else if (a.t === "clear") items = [];
+    undo.push(a); ask(); }
+  $("#tools").addEventListener("click", e => { const b = e.target.closest("button"); if (!b) return;
+    if (b.dataset.tool) { tool = b.dataset.tool; $$("#tools [data-tool]").forEach(x => x.classList.toggle("on", x === b)); cv.style.cursor = tool === "hand" ? "grab" : tool === "eraser" ? "cell" : "crosshair"; }
+    if (b.dataset.color) { color = b.dataset.color; $$("#tools [data-color]").forEach(x => x.classList.toggle("on", x === b));
+      if (tool !== "pen") $('#tools [data-tool="pen"]').click(); }
+    if (b.id === "btnWidth") { width = width < 3 ? 5.5 : 2.6; b.textContent = width > 3 ? "➖" : "〰️"; b.classList.toggle("on", width > 3); }
+    if (b.id === "btnUndo") doUndo(); if (b.id === "btnRedo") doRedo();
+    if (b.id === "btnClear" && items.length) { push({t:"clear", items}); items = []; ask(); } });
+  $("#zIn").onclick = () => zoomAt(W/2, H/2, 1.25); $("#zOut").onclick = () => zoomAt(W/2, H/2, 0.8);
+  $("#zFit").onclick = () => { view = {s:1, x:0, y:0}; ask(); };
+  new ResizeObserver(resize).observe(wrap); window.addEventListener("resize", resize);
+  return {
+    resize, debug: () => ({n: items.length, s: view.s, x: view.x, y: view.y}),
+    reset(){ items = []; undo = []; redo = []; view = {s:1, x:0, y:0}; resize(); },
+    addImage(src){ const img = new Image(); img.onload = () => { const max = Math.min(W*0.7, 520)/view.s, k = Math.min(1, max/img.width), w = img.width*k, h = img.height*k;
+        const c = toWorld(W/2, H/2), it = {img, x:c.x-w/2, y:Math.max(toWorld(0, 64).y, c.y-h/2), w, h}; items.unshift(it); push({t:"add", it}); ask(); toast("Picture added to your canvas."); };
+      img.src = src; }
+  };
+})();
+
+renderHud(); renderHome();
+</script>
+</body>
+</html>

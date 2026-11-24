@@ -1,0 +1,531 @@
+{
+  "paper": {
+    "id": "2026-prelim-raffles-girls",
+    "subject": "maths",
+    "year": 2026,
+    "exam": "Prelim",
+    "school": "Raffles Girls",
+    "schoolFull": "Raffles Girls' Primary School",
+    "file": "PSLE-2026-P6-papers/Maths/P6-Maths-Prelim-2026-Raffles-Paper.pdf",
+    "coordDpi": 100
+  },
+  "questions": [
+    {
+      "section": "p1a", "number": 1, "page": 2, "format": "mcq", "marks": 1,
+      "topic": "whole-numbers", "subtypes": ["place-value"],
+      "stem": "What does the digit 6 in 142 687 stand for?",
+      "options": ["60", "600", "6000", "60 000"],
+      "parts": [{ "label": "", "answer": { "type": "mcq", "value": 2 },
+        "explanation": ["Write the place of each digit in 142 687: 1 hundred thousand, 4 ten thousands, 2 thousands, 6 hundreds, 8 tens, 7 ones.", "The digit 6 is in the hundreds place.", "6 hundreds = 600, which is option (2)."] }],
+      "review": { "keyAnswer": "2", "solvedAnswer": "2", "status": "verified" }
+    },
+    {
+      "section": "p1a", "number": 2, "page": 2, "format": "mcq", "marks": 1,
+      "topic": "decimals", "subtypes": ["place-value"],
+      "stem": "In 32.14, which digit is in the tenths place?",
+      "options": ["1", "2", "3", "4"],
+      "parts": [{ "label": "", "answer": { "type": "mcq", "value": 1 },
+        "explanation": ["The tenths place is the first place after the decimal point.", "In 32.14, the first digit after the decimal point is 1.", "The answer is 1, option (1)."] }],
+      "review": { "keyAnswer": "1", "solvedAnswer": "1", "status": "verified" }
+    },
+    {
+      "section": "p1a", "number": 3, "page": 2, "format": "mcq", "marks": 1,
+      "topic": "decimals", "subtypes": ["reading-scales"],
+      "stem": "In the number line, what is the value represented by A?",
+      "images": [{ "id": "img1", "alt": "A number line from 7 to 9 divided into 8 equal intervals. The arrow A points to the third mark after 7.", "page": 2, "box": [245, 670, 575, 768] }],
+      "options": ["7.30", "7.60", "7.75", "8.25"],
+      "parts": [{ "label": "", "answer": { "type": "mcq", "value": 3 },
+        "explanation": ["From 7 to 9 is 2, and it is divided into 8 equal intervals.", "Each interval = 2 ÷ 8 = 0.25.", "A is 3 intervals after 7: 7 + 3 × 0.25 = 7.75.", "The answer is option (3)."] }],
+      "review": { "keyAnswer": "3", "solvedAnswer": "3", "status": "verified" }
+    },
+    {
+      "section": "p1a", "number": 4, "page": 3, "format": "mcq", "marks": 1,
+      "topic": "fractions", "subtypes": ["fraction-operations"],
+      "stem": "What is the missing number in the box?\n4{5/8} = {□/8}",
+      "options": ["20", "32", "37", "45"],
+      "parts": [{ "label": "", "answer": { "type": "mcq", "value": 3 },
+        "explanation": ["1 whole = 8 eighths, so 4 wholes = 4 × 8 = 32 eighths.", "Add the 5 eighths: 32 + 5 = 37 eighths.", "4{5/8} = {37/8}, so the missing number is 37, option (3)."] }],
+      "review": { "keyAnswer": "3", "solvedAnswer": "3", "status": "verified" }
+    },
+    {
+      "section": "p1a", "number": 5, "page": 3, "format": "mcq", "marks": 1,
+      "topic": "data", "subtypes": ["bar-graph"],
+      "stem": "The bar graph shows the number of apples sold in a shop from Monday to Friday.\n[[img1]]\nOn which two days were 78 apples sold altogether?",
+      "images": [{ "id": "img1", "alt": "Bar graph of the number of apples sold: Mon 22, Tue 52, Wed 30, Thu 48, Fri 22. Each small line on the scale is 2 apples.", "page": 3, "box": [195, 437, 660, 680] }],
+      "options": ["Monday and Tuesday", "Thursday and Friday", "Tuesday and Wednesday", "Wednesday and Thursday"],
+      "parts": [{ "label": "", "answer": { "type": "mcq", "value": 4 },
+        "explanation": ["Read the bars (each small line is 2 apples): Mon 22, Tue 52, Wed 30, Thu 48, Fri 22.", "Monday and Tuesday: 22 + 52 = 74. Thursday and Friday: 48 + 22 = 70. Tuesday and Wednesday: 52 + 30 = 82. Wednesday and Thursday: 30 + 48 = 78.", "78 apples were sold on Wednesday and Thursday, option (4)."] }],
+      "review": { "keyAnswer": "4", "solvedAnswer": "4", "status": "verified" }
+    },
+    {
+      "section": "p1a", "number": 6, "page": 4, "format": "mcq", "marks": 1,
+      "topic": "data", "subtypes": ["pie-chart", "bar-graph"],
+      "stem": "The pie chart shows the favourite colours of students in a school. The same information is shown in a bar graph but the names of the colours are not shown on the bar graph.\n[[img1]]\nHow many more students prefer yellow to red?",
+      "images": [{ "id": "img1", "alt": "Pie chart with four sectors: Yellow is the biggest, then Green, then Blue, and Red is the smallest. Beside it, a bar graph of the number of students with four unnamed bars of 60, 45, 30 and 85.", "page": 4, "box": [215, 200, 680, 420] }],
+      "options": ["25", "35", "40", "55"],
+      "parts": [{ "label": "", "answer": { "type": "mcq", "value": 4 },
+        "explanation": ["Read the four bars: 60, 45, 30 and 85 students.", "In the pie chart, yellow is the biggest sector, so yellow is the longest bar: 85 students.", "Red is the smallest sector, so red is the shortest bar: 30 students.", "85 − 30 = 55 more students prefer yellow, option (4)."] }],
+      "review": { "keyAnswer": "4", "solvedAnswer": "4", "status": "verified" }
+    },
+    {
+      "section": "p1a", "number": 7, "page": 4, "format": "mcq", "marks": 1,
+      "topic": "decimals", "subtypes": ["rounding"],
+      "stem": "Round 4.675 to the nearest hundredth.",
+      "options": ["4.60", "4.67", "4.68", "4.70"],
+      "parts": [{ "label": "", "answer": { "type": "mcq", "value": 3 },
+        "explanation": ["The hundredths digit is 7. Look at the next digit, the thousandths digit, which is 5.", "When that digit is 5 or more, round up: the 7 hundredths become 8 hundredths.", "4.675 ≈ 4.68, option (3)."] }],
+      "review": { "keyAnswer": "3", "solvedAnswer": "3", "status": "verified" }
+    },
+    {
+      "section": "p1a", "number": 8, "page": 5, "format": "mcq", "marks": 1,
+      "topic": "fractions", "subtypes": ["comparing-fractions"],
+      "stem": "Arrange the following fractions from the smallest to the largest.\n{5/3}, 1{5/6}, {7/6}",
+      "options": ["{5/3}, {7/6}, 1{5/6}", "1{5/6}, {5/3}, {7/6}", "{7/6}, 1{5/6}, {5/3}", "{7/6}, {5/3}, 1{5/6}"],
+      "parts": [{ "label": "", "answer": { "type": "mcq", "value": 4 },
+        "explanation": ["Change every number to sixths.", "{5/3} = {10/6}. 1{5/6} = {11/6}. {7/6} stays as {7/6}.", "Order from smallest: {7/6}, {10/6}, {11/6}, which is {7/6}, {5/3}, 1{5/6}.", "The answer is option (4)."] }],
+      "review": { "keyAnswer": "4", "solvedAnswer": "4", "status": "verified" }
+    },
+    {
+      "section": "p1a", "number": 9, "page": 5, "format": "mcq", "marks": 1,
+      "topic": "geometry", "subtypes": ["properties-of-shapes"],
+      "stem": "Five letters are drawn on the square grid.\n[[img1]]\nHow many of the letters have both parallel and perpendicular lines?",
+      "images": [{ "id": "img1", "alt": "Five letters drawn on a square grid: L, O (drawn as a rectangle), M, N and H. The two slanted lines of the M meet at a marked right angle.", "page": 5, "box": [216, 550, 662, 672] }],
+      "options": ["5", "2", "3", "4"],
+      "parts": [{ "label": "", "answer": { "type": "mcq", "value": 3 },
+        "explanation": ["L: its two lines are perpendicular, but it has no parallel lines. No.", "O (a rectangle): opposite sides are parallel and sides next to each other are perpendicular. Yes.", "M: the two upright lines are parallel, and the two slanted lines meet at a right angle, so they are perpendicular. Yes.", "N: the two upright lines are parallel, but the slanted line does not meet them at a right angle. No.", "H: the two upright lines are parallel and the bar across is perpendicular to them. Yes.", "3 letters (O, M and H) have both, option (3)."] }],
+      "review": { "keyAnswer": "3", "solvedAnswer": "3", "status": "verified" }
+    },
+    {
+      "section": "p1a", "number": 10, "page": 6, "format": "mcq", "marks": 1,
+      "topic": "data", "subtypes": ["reading-tables", "fraction-of-a-whole"],
+      "stem": "The table shows the points scored by a group of children at a fun fair.\n[[table1]]\n{1/2} of the children scored fewer than 3 points. How many children scored exactly 2 points?",
+      "tables": [{ "id": "table1", "header": ["Points scored", "1", "2", "3", "4", "5"], "rows": [["Number of children", "7", "?", "8", "6", "6"]] }],
+      "options": ["13", "20", "33", "40"],
+      "parts": [{ "label": "", "answer": { "type": "mcq", "value": 1 },
+        "explanation": ["Children who scored 3 points or more: 8 + 6 + 6 = 20.", "{1/2} of the children scored fewer than 3 points, so the other {1/2} scored 3 points or more. Both halves are equal, so 20 children scored fewer than 3 points.", "Children who scored fewer than 3 points scored 1 or 2 points. 7 scored 1 point, so 20 − 7 = 13 scored exactly 2 points.", "The answer is option (1)."] }],
+      "review": { "keyAnswer": "1", "solvedAnswer": "1", "status": "verified" }
+    },
+    {
+      "section": "p1a", "number": 11, "page": 6, "format": "mcq", "marks": 2,
+      "topic": "percentage", "subtypes": ["discount-gst-interest"],
+      "stem": "[[img1]]\nRaju paid $210 for a smart watch during the sale. What was the usual price of the smart watch before discount?",
+      "images": [{ "id": "img1", "alt": "A sign with a picture of a smart watch. The sign says: SALE, 30% discount off the usual price.", "page": 6, "box": [275, 520, 590, 663] }],
+      "options": ["$147", "$273", "$300", "$700"],
+      "parts": [{ "label": "", "answer": { "type": "mcq", "value": 3 },
+        "explanation": ["The usual price is 100%. After a 30% discount, Raju paid 100% − 30% = 70% of the usual price.", "70% = $210, so 10% = $210 ÷ 7 = $30.", "100% = 10 × $30 = $300.", "The usual price was $300, option (3)."] }],
+      "review": { "keyAnswer": "3", "solvedAnswer": "3", "status": "verified" }
+    },
+    {
+      "section": "p1a", "number": 12, "page": 7, "format": "mcq", "marks": 2,
+      "topic": "measurement", "subtypes": ["duration"],
+      "stem": "In the television guide shown, one programme leads to another without any break in between.\n[[table1]]\nHow much shorter is the Sports programme than the Movie?",
+      "tables": [{ "id": "table1", "header": ["Start time", "Programme"], "rows": [["8.00 a.m.", "News"], ["8.35 a.m.", "Sports"], ["10.00 a.m.", "Movie"], ["12.05 p.m.", "Documentary"]] }],
+      "options": ["35 min", "40 min", "1 h 20 min", "1 h 25 min"],
+      "parts": [{ "label": "", "answer": { "type": "mcq", "value": 2 },
+        "explanation": ["Each programme ends when the next one starts.", "Sports: 8.35 a.m. to 10.00 a.m. = 1 h 25 min.", "Movie: 10.00 a.m. to 12.05 p.m. = 2 h 5 min.", "Difference = 2 h 5 min − 1 h 25 min = 125 min − 85 min = 40 min.", "The answer is option (2)."] }],
+      "review": { "keyAnswer": "2", "solvedAnswer": "2", "status": "verified" }
+    },
+    {
+      "section": "p1a", "number": 13, "page": 7, "format": "mcq", "marks": 2,
+      "topic": "heuristics", "subtypes": ["excess-and-shortage"],
+      "stem": "Mathew wanted to buy 9 buns but found that he was short of $6.80. In the end, he bought 5 buns and had $1.20 left. How much money did Mathew have at first?",
+      "options": ["$10.00", "$11.20", "$13.80", "$16.80"],
+      "parts": [{ "label": "", "answer": { "type": "mcq", "value": 2 },
+        "explanation": ["Going from 5 buns to 9 buns is 4 more buns.", "To pay for these 4 buns he would use up the $1.20 left and still need $6.80 more: $1.20 + $6.80 = $8.00.", "1 bun = $8.00 ÷ 4 = $2.00.", "Money at first = 5 × $2.00 + $1.20 = $11.20.", "The answer is option (2)."] }],
+      "review": { "keyAnswer": "2", "solvedAnswer": "2", "status": "verified" }
+    },
+    {
+      "section": "p1a", "number": 14, "page": 8, "format": "mcq", "marks": 2,
+      "topic": "geometry", "subtypes": ["angles-in-square", "isosceles-triangle"],
+      "stem": "In the figure, ABCD is a square. BC = CE and ∠BCE = 40°. Find ∠EDA.",
+      "images": [{ "id": "img1", "alt": "Square ABCD with B at the top left, C at the top right, D at the bottom right and A at the bottom left. Point E is inside the square and is joined to B, C and D. Angle BCE is 40°. The angle to find, EDA, is marked at D between DE and DA.", "page": 8, "box": [305, 165, 512, 360] }],
+      "options": ["20°", "25°", "40°", "65°"],
+      "parts": [{ "label": "", "answer": { "type": "mcq", "value": 2 },
+        "explanation": ["Each corner of a square is 90°, so ∠ECD = 90° − 40° = 50°.", "All sides of a square are equal, so CD = BC. Since BC = CE, we get CE = CD, and triangle CDE is isosceles.", "∠CDE = (180° − 50°) ÷ 2 = 65°.", "∠EDA = 90° − 65° = 25°.", "The answer is option (2)."] }],
+      "review": { "keyAnswer": "2", "solvedAnswer": "2", "status": "verified" }
+    },
+    {
+      "section": "p1a", "number": 15, "page": 8, "format": "mcq", "marks": 2,
+      "topic": "heuristics", "subtypes": ["patterns", "grouping"],
+      "stem": "The first 16 numbers of a number pattern are given below.\n2  1  4  3  2  1  4  3  2  1  4  3  2  1  4  3  ……\n(The first number shown is the 1st and the last number shown is the 16th.)\nWhat is the sum of the first 97 numbers?",
+      "options": ["240", "242", "243", "247"],
+      "parts": [{ "label": "", "answer": { "type": "mcq", "value": 2 },
+        "explanation": ["The pattern repeats in groups of 4 numbers: 2, 1, 4, 3.", "Sum of one group = 2 + 1 + 4 + 3 = 10.", "97 ÷ 4 = 24 remainder 1, so there are 24 full groups and 1 more number.", "24 groups add up to 24 × 10 = 240. The 97th number is the first number of a new group, which is 2.", "Sum = 240 + 2 = 242, option (2)."] }],
+      "review": { "keyAnswer": "2", "solvedAnswer": "2", "status": "verified" }
+    },
+    {
+      "section": "p1a", "number": 16, "page": 9, "format": "mcq", "marks": 2,
+      "topic": "fractions", "subtypes": ["equal-quantity", "units-and-parts"],
+      "stem": "Amber put two sticks, A and B, side by side, as shown.\n[[img1]]\n{2/7} of A and {1/6} of B are overlapped as shown. The length of B is 10 cm longer than the length of A. What is the length of A?",
+      "images": [{ "id": "img1", "alt": "Two sticks drawn as long bars. Stick A is on the upper left and the longer stick B is on the lower right. The right end of A lies alongside the left end of B.", "page": 9, "box": [278, 168, 615, 232] }],
+      "options": ["70 cm", "24 cm", "14 cm", "12 cm"],
+      "parts": [{ "label": "", "answer": { "type": "mcq", "value": 3 },
+        "explanation": ["The overlapped part is the same length on both sticks: {2/7} of A = {1/6} of B.", "Make the numerators the same: {1/6} = {2/12}. So {2/7} of A = {2/12} of B.", "A = 7 units and B = 12 units.", "B is longer by 12 − 7 = 5 units. 5 units = 10 cm, so 1 unit = 2 cm.", "A = 7 × 2 cm = 14 cm, option (3)."] }],
+      "review": { "keyAnswer": "3", "solvedAnswer": "3", "status": "verified" }
+    },
+    {
+      "section": "p1a", "number": 17, "page": 9, "format": "mcq", "marks": 2,
+      "topic": "whole-numbers", "subtypes": ["four-operations-word-problem"],
+      "stem": "Alex needs 100 pieces of wire, each 3 m long. The wire is sold in rolls of 20 m. What is the least number of rolls of wire Alex must buy?",
+      "options": ["6", "15", "16", "17"],
+      "parts": [{ "label": "", "answer": { "type": "mcq", "value": 4 },
+        "explanation": ["Each piece must be a whole 3 m length, so find how many pieces one roll gives: 20 ÷ 3 = 6 remainder 2. One roll gives 6 pieces, and the 2 m left over is too short to use.", "Rolls needed: 100 ÷ 6 = 16 remainder 4.", "16 rolls give only 96 pieces, so 1 more roll is needed for the last 4 pieces.", "Alex must buy 17 rolls, option (4)."] }],
+      "review": { "keyAnswer": "4", "solvedAnswer": "4", "status": "verified" }
+    },
+    {
+      "section": "p1a", "number": 18, "page": 10, "format": "mcq", "marks": 2,
+      "topic": "area-perimeter", "subtypes": ["perimeter-of-composite-figure"],
+      "stem": "Figure 1 shows a trapezium with 3 sides of equal length. AD is 7 cm longer than BC. Marcus joins 4 such trapeziums to form Figure 2 which has a perimeter of 64 cm. Find the perimeter of 1 trapezium.",
+      "images": [{ "id": "img1", "alt": "Figure 1: trapezium ABCD with short top side BC, long bottom side AD and slanted sides AB and CD. Figure 2: four of these trapeziums joined. Two are joined along their long sides to make a six-sided shape. A third trapezium on the left and a fourth on the upper right each have part of their long side joined to one slanted side of the upper middle trapezium, with the rest of the long side sticking out.", "page": 10, "box": [235, 192, 665, 428] }],
+      "options": ["12 cm", "16 cm", "23 cm", "27 cm"],
+      "parts": [{ "label": "", "answer": { "type": "mcq", "value": 4 },
+        "explanation": ["Call each of the 3 equal sides (AB, BC and CD) a 'short side'. The long side AD = 1 short side + 7 cm.", "Go round the outside of Figure 2. The two middle trapeziums are joined along their long sides. The bottom one shows 3 short sides. The top one shows only its top short side, because its two slanted sides are covered by the left and right trapeziums.", "The left trapezium shows its 3 short sides. Its long side is joined to a slanted (short) side of the middle trapezium, so only 7 cm of the long side shows. The right trapezium is the same: 3 short sides and 7 cm.", "Perimeter of Figure 2 = 3 + 1 + 3 + 3 = 10 short sides, plus 7 cm + 7 cm = 14 cm.", "10 short sides = 64 − 14 = 50 cm, so 1 short side = 5 cm.", "Long side = 5 + 7 = 12 cm. Perimeter of 1 trapezium = 5 + 5 + 5 + 12 = 27 cm, option (4)."] }],
+      "review": { "keyAnswer": "4", "solvedAnswer": "4", "status": "verified" }
+    },
+
+    {
+      "section": "p1b", "number": 19, "page": 12, "format": "short", "marks": 2,
+      "topic": "whole-numbers", "subtypes": ["order-of-operations"],
+      "stem": "",
+      "parts": [
+        { "label": "a", "prompt": "Find the value of 10 − 2 × 4", "marks": 1,
+          "answer": { "type": "number", "value": "2" },
+          "explanation": ["Multiply before subtracting: 2 × 4 = 8.", "10 − 8 = 2."] },
+        { "label": "b", "prompt": "Find the value of 2525 ÷ 5", "marks": 1,
+          "answer": { "type": "number", "value": "505" },
+          "explanation": ["2500 ÷ 5 = 500.", "25 ÷ 5 = 5.", "2525 ÷ 5 = 500 + 5 = 505."] }
+      ],
+      "review": { "keyAnswer": "a) 2  b) 505", "solvedAnswer": "a) 2  b) 505", "status": "verified",
+        "note": "In part (b) the dots of the ÷ sign are faint in the scan, so it looks like +. At high zoom the sign is ÷, and the answer key also works out 2525 ÷ 5." }
+    },
+    {
+      "section": "p1b", "number": 20, "page": 12, "format": "short", "marks": 2,
+      "topic": "decimals", "subtypes": ["multiplying-decimals"],
+      "stem": "",
+      "parts": [
+        { "label": "a", "prompt": "Find the value of 10.53 − 6.89", "marks": 1,
+          "answer": { "type": "number", "value": "3.64" },
+          "explanation": ["Subtract 7 first, which is 0.11 too much: 10.53 − 7 = 3.53.", "Add back the 0.11: 3.53 + 0.11 = 3.64."] },
+        { "label": "b", "prompt": "Find the value of 0.745 × 60", "marks": 1,
+          "answer": { "type": "number", "value": "44.7" },
+          "explanation": ["0.745 × 6 = 4.47.", "4.47 × 10 = 44.7."] }
+      ],
+      "review": { "keyAnswer": "a) 3.64  b) 44.7", "solvedAnswer": "a) 3.64  b) 44.7", "status": "verified" }
+    },
+    {
+      "section": "p1b", "number": 21, "page": 13, "format": "short", "marks": 2,
+      "topic": "fractions", "subtypes": ["fraction-operations"],
+      "stem": "",
+      "parts": [
+        { "label": "a", "prompt": "Find the value of {1/3} + {1/2}", "marks": 1,
+          "answer": { "type": "fraction", "value": "5/6" },
+          "explanation": ["Change both fractions to sixths: {1/3} = {2/6} and {1/2} = {3/6}.", "{2/6} + {3/6} = {5/6}."] },
+        { "label": "b", "prompt": "Find the value of {2/7} ÷ 4", "marks": 1,
+          "answer": { "type": "fraction", "value": "1/14" },
+          "explanation": ["Dividing by 4 is the same as multiplying by {1/4}.", "{2/7} × {1/4} = {2/28}.", "{2/28} = {1/14}."] }
+      ],
+      "review": { "keyAnswer": "a) 5/6  b) 1/14", "solvedAnswer": "a) 5/6  b) 1/14", "status": "verified" }
+    },
+    {
+      "section": "p1b", "number": 22, "page": 13, "format": "short", "marks": 2,
+      "topic": "measurement", "subtypes": ["unit-conversion", "dividing-decimals"],
+      "stem": "At a cafe, 6 kg 90 g of coffee beans were used in the morning.",
+      "parts": [
+        { "label": "a", "prompt": "Express the mass of coffee beans used in kilograms.", "marks": 1,
+          "answer": { "type": "number", "value": "6.09", "unit": "kg" },
+          "explanation": ["1000 g = 1 kg, so 90 g = 90 ÷ 1000 = 0.09 kg.", "6 kg 90 g = 6 + 0.09 = 6.09 kg."] },
+        { "label": "b", "prompt": "In the afternoon, 20.8 kg of coffee beans were repacked equally into 4 packets. How many kilograms of coffee beans were in each packet?", "marks": 1,
+          "answer": { "type": "number", "value": "5.2", "unit": "kg" },
+          "explanation": ["20 ÷ 4 = 5.", "0.8 ÷ 4 = 0.2.", "20.8 ÷ 4 = 5 + 0.2 = 5.2 kg."] }
+      ],
+      "review": { "keyAnswer": "a) 6.09 kg  b) 5.2", "solvedAnswer": "a) 6.09  b) 5.2", "status": "verified" }
+    },
+    {
+      "section": "p1b", "number": 23, "page": 14, "format": "short", "marks": 2,
+      "topic": "measurement", "subtypes": ["unit-conversion"],
+      "stem": "Mindy had 13.04 m of cloth. She cut 12 shorter pieces of length 85 cm each from it. How much cloth had she left? Give your answer in metres and centimetres. (Type your answer in the form: 3 m 25 cm)",
+      "parts": [{ "label": "", "answer": { "type": "text", "value": "2 m 84 cm", "accept": ["2 m 84 cm", "2m 84cm", "2m84cm", "2 m 84cm", "2m 84 cm", "2 m and 84 cm", "2 metres 84 centimetres", "2, 84", "2 84"] },
+        "explanation": ["Change the cloth to centimetres: 13.04 m = 1304 cm.", "Cloth cut off = 12 × 85 cm = 1020 cm.", "Cloth left = 1304 − 1020 = 284 cm.", "284 cm = 200 cm + 84 cm = 2 m 84 cm."] }],
+      "review": { "keyAnswer": "2 m 84 cm", "solvedAnswer": "2 m 84 cm", "status": "verified" }
+    },
+    {
+      "section": "p1b", "number": 24, "page": 14, "format": "short", "marks": 2,
+      "topic": "geometry", "subtypes": ["angles-in-parallelogram", "angles-in-triangle", "angles-on-a-straight-line"],
+      "stem": "PQRS is a parallelogram. PYR is a straight line. Find ∠PYS.",
+      "images": [{ "id": "img1", "alt": "Parallelogram PQRS with diagonal PR. Y is a point on PR and is joined to S. Angle QPR is 38°. Angle YSR is 55°. The angle to find, PYS, is marked at Y between YP and YS.", "page": 14, "box": [295, 540, 565, 725] }],
+      "parts": [{ "label": "", "answer": { "type": "number", "value": "93", "unit": "°" },
+        "explanation": ["PQ is parallel to SR, so ∠PRS = ∠QPR = 38° (alternate angles).", "In triangle YRS: ∠RYS = 180° − 38° − 55° = 87°.", "PYR is a straight line, so ∠PYS = 180° − 87° = 93°."] }],
+      "review": { "keyAnswer": "93°", "solvedAnswer": "93", "status": "verified" }
+    },
+    {
+      "section": "p1b", "number": 25, "page": 15, "format": "short", "marks": 2,
+      "topic": "algebra", "subtypes": ["simplifying-expressions", "evaluating-expressions"],
+      "stem": "",
+      "parts": [
+        { "label": "a", "prompt": "Simplify the following expression.\n25p + 12 − 5p − 8", "marks": 1,
+          "answer": { "type": "expression", "value": "20p + 4", "accept": ["20p+4", "4+20p"] },
+          "explanation": ["Group the terms with p: 25p − 5p = 20p.", "Group the numbers: 12 − 8 = 4.", "Answer: 20p + 4."] },
+        { "label": "b", "prompt": "Find the value of 7k − {4k/3} when k = 6.", "marks": 1,
+          "answer": { "type": "number", "value": "34" },
+          "explanation": ["Replace k with 6: 7 × 6 − {4 × 6/3}.", "7 × 6 = 42.", "4 × 6 = 24 and 24 ÷ 3 = 8.", "42 − 8 = 34."] }
+      ],
+      "review": { "keyAnswer": "a) 20p + 4  b) 34", "solvedAnswer": "a) 20p + 4  b) 34", "status": "verified" }
+    },
+    {
+      "section": "p1b", "number": 26, "page": 16, "format": "short", "marks": 2,
+      "topic": "volume", "subtypes": ["nets", "unit-cubes"],
+      "stem": "",
+      "images": [
+        { "id": "img1", "alt": "Four figures labelled A, B, C and D. A, B and D are each a chain of 3 squares and 2 triangles joined edge to edge in different arrangements. C is a chain of 1 square and 4 triangles.", "page": 16, "box": [235, 160, 665, 322] },
+        { "id": "img2", "alt": "A solid made of unit cubes on a base 3 cubes wide (seen from the front) and 4 cubes deep. Arrows show the front view direction and the side view direction. Heights of the stacks, front row to back row: left column 2, 3, 3, 3; middle column 1, 1, 2, 3; right column 1, 1, 1, 2.", "page": 16, "box": [300, 402, 565, 588] },
+        { "id": "img3", "alt": "Two views drawn on dot grids. Front view: three columns of heights 3, 1 and 2 from left to right. Side view: four columns of heights 2, 2, 1 and 3 from left to right.", "page": 16, "box": [245, 662, 622, 845] }
+      ],
+      "parts": [
+        { "label": "a", "prompt": "Name all the figures that are nets of a prism. (Type the letters, for example: B and C.)\n[[img1]]", "marks": 1,
+          "answer": { "type": "text", "value": "A and D", "accept": ["a and d", "a, d", "a,d", "ad", "a d", "d and a", "d, a", "d,a", "da", "d a", "a & d", "d & a"] },
+          "explanation": ["A prism with triangle ends (a triangular prism) has 2 triangles and 3 rectangles or squares. Figure C has only 1 square and 4 triangles, so it is not a net of a prism.", "In a net of this prism, the 3 squares must wrap around the 3 sides of each triangle, and the 2 triangles must end up at opposite ends.", "Figure A: fold the two joined squares and the third square around the first triangle. They meet on its 3 sides, and the last triangle closes the other end. A is a net.", "Figure D: the squares on the two triangles fold to cover 3 different sides, and the triangles are at opposite ends. D is a net.", "Figure B: when folded, the two end squares land on the same side of the prism and overlap, leaving one side open. B is not a net.", "The nets of a prism are A and D."] },
+        { "label": "b", "prompt": "The solid below was formed using 23 unit cubes.\n[[img2]]\nNadia removed some unit cubes from the solid. After that, the front view and side view are as shown.\n[[img3]]\nFind the least number of cubes that Nadia could have removed.", "marks": 1,
+          "answer": { "type": "number", "value": "6" },
+          "explanation": ["To remove the least number of cubes, keep as many cubes as possible.", "Look at the solid from the front. It has 3 columns and each column has 4 stacks going from front to back. The stack heights are: left column 2, 3, 3, 3; middle column 1, 1, 2, 3; right column 1, 1, 1, 2. (Check: 11 + 7 + 5 = 23 cubes.)", "The new front view allows heights of at most 3, 1 and 2 for the left, middle and right columns. The new side view allows heights of at most 2, 2, 1 and 3 for the stacks from front to back.", "Left column (at most 3): stacks 2, 3, 3, 3 can stay as 2, 2, 1, 3. That keeps 8 cubes and removes 3.", "Middle column (at most 1): stacks 1, 1, 2, 3 can stay as 1, 1, 1, 1. That keeps 4 cubes and removes 3.", "Right column (at most 2): stacks 1, 1, 1, 2 are all within the limits, so all 5 cubes stay.", "Cubes kept = 8 + 4 + 5 = 17. Least number removed = 23 − 17 = 6."] }
+      ],
+      "review": { "keyAnswer": "a) D, A  b) 6", "solvedAnswer": "a) A and D  b) 6", "status": "verified",
+        "note": "The scan has a pupil's handwriting above figure C and a pen mark beside figure B in part (a); they are not part of the question." }
+    },
+    {
+      "section": "p1b", "number": 27, "page": 17, "format": "short", "marks": 2,
+      "topic": "data", "subtypes": ["average", "reading-tables"],
+      "stem": "The table shows Chloe's scores for 4 games. The score for the 3rd game is missing. The average score for the 4 games is 16.\n[[table1]]\nWhat is Chloe's score for the 3rd game?",
+      "tables": [{ "id": "table1", "header": ["Game", "Score"], "rows": [["1st", "18"], ["2nd", "12"], ["3rd", "?"], ["4th", "13"]] }],
+      "parts": [{ "label": "", "answer": { "type": "number", "value": "21" },
+        "explanation": ["Total score for 4 games = 4 × 16 = 64.", "Total of the 3 known scores = 18 + 12 + 13 = 43.", "Score for the 3rd game = 64 − 43 = 21."] }],
+      "review": { "keyAnswer": "21", "solvedAnswer": "21", "status": "verified",
+        "note": "The average is printed with a slightly smudged last digit. At high zoom it reads 16, and the answer key also uses 4 × 16." }
+    },
+    {
+      "section": "p1b", "number": 28, "page": 17, "format": "short", "marks": 2,
+      "topic": "ratio", "subtypes": ["ratio-and-quantity"],
+      "stem": "At a concert, the ratio of the number of adults to the number of children is 4 : 3. The ratio of the number of boys to the number of girls is 1 : 5. There are 160 more girls than boys. How many adults are there?",
+      "parts": [{ "label": "", "answer": { "type": "number", "value": "320" },
+        "explanation": ["Boys : girls = 1 : 5. The girls are 5 − 1 = 4 units more than the boys.", "4 units = 160, so 1 unit = 40.", "Children = boys + girls = 6 units = 6 × 40 = 240.", "Adults : children = 4 : 3. The 3 parts of children = 240, so 1 part = 80.", "Adults = 4 × 80 = 320."] }],
+      "review": { "keyAnswer": "320", "solvedAnswer": "320", "status": "verified" }
+    },
+    {
+      "section": "p1b", "number": 29, "page": 18, "format": "short", "marks": 2,
+      "topic": "data", "subtypes": ["bar-graph", "fraction-of-a-whole"],
+      "stem": "The bar graph shows the height of some plants. The bar representing the height of Plant D is not shown.\n[[img1]]\nThe height of Plant D is {2/5} of the total height of all the plants. Find the total height of the 4 plants.",
+      "images": [{ "id": "img1", "alt": "Bar graph of height in cm: Plant A 40, Plant B 30, Plant C 80. There is no bar for Plant D.", "page": 18, "box": [205, 190, 650, 435] }],
+      "parts": [{ "label": "", "answer": { "type": "number", "value": "250", "unit": "cm" },
+        "explanation": ["Read the bars: Plant A 40 cm, Plant B 30 cm, Plant C 80 cm.", "Plants A, B and C together = 40 + 30 + 80 = 150 cm.", "Plant D is {2/5} of the total, so plants A, B and C are 1 − {2/5} = {3/5} of the total.", "3 units = 150 cm, so 1 unit = 50 cm.", "Total height = 5 units = 5 × 50 = 250 cm."] }],
+      "review": { "keyAnswer": "250", "solvedAnswer": "250", "status": "verified" }
+    },
+    {
+      "section": "p1b", "number": 30, "page": 19, "format": "short", "marks": 2,
+      "topic": "area-perimeter", "subtypes": ["area-of-triangle", "shaded-area"],
+      "stem": "In the figure, ABC and CDE are identical right-angled triangles. The total area of the shaded parts is 172 cm². Find the area of the unshaded part.",
+      "images": [{ "id": "img1", "alt": "Two overlapping right-angled triangles that share the corner C. Triangle ABC has its right angle at C, with AC = 20 cm upright and CB along the bottom. Triangle CDE has its right angle at E, with DE = 13 cm. The part where the two triangles overlap is unshaded (white); the rest of both triangles is shaded.", "page": 19, "box": [285, 195, 560, 455] }],
+      "parts": [{ "label": "", "answer": { "type": "number", "value": "44", "unit": "cm²" },
+        "explanation": ["The triangles are identical, so the two sides that make the right angle are 20 cm and 13 cm in each triangle.", "Area of one triangle = {1/2} × 20 × 13 = 130 cm².", "Area of two triangles = 2 × 130 = 260 cm².", "The unshaded part is where the triangles overlap, so it is counted twice in the 260 cm²: 260 = shaded parts + 2 × unshaded part.", "2 × unshaded part = 260 − 172 = 88 cm².", "Unshaded part = 88 ÷ 2 = 44 cm²."] }],
+      "review": { "keyAnswer": "44", "solvedAnswer": "44", "status": "verified" }
+    },
+
+    {
+      "section": "p2", "number": 1, "page": 21, "format": "structured", "marks": 2,
+      "topic": "whole-numbers", "subtypes": ["factors-and-multiples", "multiples"],
+      "stem": "",
+      "parts": [
+        { "label": "a", "prompt": "Find the largest multiple of 8 that is smaller than 75.", "marks": 1,
+          "answer": { "type": "number", "value": "72" },
+          "explanation": ["List the multiples of 8 near 75: 8 × 9 = 72 and 8 × 10 = 80.", "80 is bigger than 75, so the largest multiple of 8 smaller than 75 is 72."] },
+        { "label": "b", "prompt": "Find all the common factors of 24 and 9. (Type the factors separated by commas.)", "marks": 1,
+          "answer": { "type": "text", "value": "1, 3", "accept": ["1, 3", "1,3", "1 3", "1 and 3", "3, 1", "3,1", "3 1", "3 and 1"] },
+          "explanation": ["Factors of 9: 1, 3, 9.", "Factors of 24: 1, 2, 3, 4, 6, 8, 12, 24.", "The numbers in both lists are 1 and 3."] }
+      ],
+      "review": { "keyAnswer": "a) 72  b) 1 and 3", "solvedAnswer": "a) 72  b) 1 and 3", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 2, "page": 21, "format": "structured", "marks": 2,
+      "topic": "data", "subtypes": ["pie-chart"],
+      "stem": "The pie chart shows the favourite fruits chosen by the students in a school.\n[[img1]]\nEach statement is either true, false or not possible to tell from the pie chart given above. Put a tick (✓) to indicate your answer.\n[[table1]]\n(Type your two answers in order, separated by a comma. Use T for True, F for False and N for Not possible to tell, for example: T, F)",
+      "images": [{ "id": "img1", "alt": "Pie chart with four sectors: Mango (a right angle is marked at the centre), Durian 40%, Apple and Orange.", "page": 21, "box": [345, 558, 535, 755] }],
+      "tables": [{ "id": "table1", "header": ["Statement", "True", "False", "Not possible to tell"], "rows": [["40 students chose durian as their favourite fruit.", "", "", ""], ["25% of the students chose mango as their favourite fruit.", "", "", ""]] }],
+      "parts": [{ "label": "", "answer": { "type": "text", "value": "N, T (Not possible to tell, True)", "accept": ["n, t", "n,t", "n t", "nt", "not possible to tell, true", "not possible to tell,true", "not possible to tell true", "not possible, true"] },
+        "explanation": ["Statement 1: the pie chart shows that 40% of the students chose durian, but it does not show how many students there are. 40% is 40 students only if there are exactly 100 students, and we are not told that. It is not possible to tell.", "Statement 2: the mango sector has a right angle (90°) at the centre. 90° out of 360° is {1/4} of the circle, and {1/4} = 25%. The statement is true.", "Answer: Not possible to tell, True."] }],
+      "review": { "keyAnswer": "Not possible to tell / True", "solvedAnswer": "Not possible to tell / True", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 3, "page": 22, "format": "structured", "marks": 2,
+      "topic": "rate-speed", "subtypes": ["rate", "taps-and-tanks"],
+      "stem": "A tank was filled with 45 litres of water. Water flowed out of the tank at a rate of 250 ml per minute. How many litres of water was left in the tank after 1 hour?",
+      "parts": [{ "label": "", "answer": { "type": "number", "value": "30", "unit": "ℓ" },
+        "explanation": ["1 hour = 60 minutes.", "Water that flowed out = 60 × 250 ml = 15 000 ml = 15 litres.", "Water left = 45 − 15 = 30 litres."] }],
+      "review": { "keyAnswer": "30 ℓ", "solvedAnswer": "30", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 4, "page": 22, "format": "structured", "marks": 2,
+      "topic": "geometry", "subtypes": ["properties-of-shapes", "drawing"],
+      "stem": "The square grid shows line PQ.\nPQ is one side of a rectangle PQRS. PQ is twice as long as PS.\nDraw and label rectangle PQRS in the square grid. (Draw it on your canvas, then check.)",
+      "images": [{ "id": "img1", "alt": "A square grid with a slanted line PQ. From P, the line goes 2 squares to the right and 6 squares down to Q.", "page": 22, "box": [255, 610, 610, 862] }],
+      "parts": [{ "label": "", "answer": { "type": "self", "value": "From P, draw PS going 3 squares to the right and 1 square up. From Q, draw QR going 3 squares to the right and 1 square up. Join S to R. (The rectangle can also be drawn on the other side of PQ: PS and QR each go 3 squares to the left and 1 square down.)" },
+        "explanation": ["PQ goes 2 squares to the right and 6 squares down.", "A side of a rectangle is at a right angle to the side next to it. To turn a slanted grid line through a right angle, swap the two numbers: a line that goes 6 squares to the right and 2 squares up is at a right angle to PQ and has the same length as PQ.", "PS is half as long as PQ, so halve both numbers: PS goes 3 squares to the right and 1 square up.", "QR is equal and parallel to PS, so from Q go 3 squares to the right and 1 square up to reach R. Join S to R and label the corners P, Q, R, S in order.", "The answer key draws the rectangle on the right of PQ. Drawing it on the left (3 squares left and 1 square down from P and from Q) is also correct."] }],
+      "review": { "keyAnswer": "Rectangle drawn with S 3 squares right and 1 up from P, and R 3 squares right and 1 up from Q", "solvedAnswer": "PS and QR each 3 squares across and 1 square up, at right angles to PQ", "status": "verified",
+        "note": "The scan has pupil's arrow marks on line PQ; they are not part of the question." }
+    },
+    {
+      "section": "p2", "number": 5, "page": 23, "format": "structured", "marks": 2,
+      "topic": "area-perimeter", "subtypes": ["area-of-composite-figure"],
+      "stem": "ACEF is a square made up of 3 rectangles X, Y, Z. The area of Z is {1/2} of the area of square ACEF. The length of BC is twice the length of AB. The length of DE is 18 cm. Find the area of rectangle Y.",
+      "images": [{ "id": "img1", "alt": "Square ACEF with A at the top left, C at the top right, E at the bottom right and F at the bottom left. A line GD across the middle cuts off rectangle Z at the bottom. The top part is split by an upright line from B on AC into rectangle X on the left and the wider rectangle Y on the right.", "page": 23, "box": [325, 285, 555, 508] }],
+      "parts": [{ "label": "", "answer": { "type": "number", "value": "432", "unit": "cm²" },
+        "explanation": ["Z is {1/2} of the square and is as wide as the square, so its height DE is half the side of the square.", "Side of the square = 2 × 18 = 36 cm.", "The height of Y is CD = 36 − 18 = 18 cm.", "AC = 36 cm and BC is twice AB, so AB is 1 unit and BC is 2 units. 3 units = 36 cm, 1 unit = 12 cm, BC = 24 cm.", "Area of Y = 24 × 18 = 432 cm²."] }],
+      "review": { "keyAnswer": "432", "solvedAnswer": "432", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 6, "page": 24, "format": "structured", "marks": 3,
+      "topic": "algebra", "subtypes": ["forming-expressions", "evaluating-expressions"],
+      "stem": "A bottle of perfume cost $4w. It cost $20 less than a handbag but $9 more than a scarf. A group of 5 friends bought a handbag and a scarf as a gift and shared the cost equally.",
+      "parts": [
+        { "label": "a", "prompt": "How much did each person pay for the gift? Give your answer in terms of w in the simplest form.", "marks": 2,
+          "answer": { "type": "expression", "value": "(8w + 11)/5", "accept": ["(8w+11)/5", "(11+8w)/5", "(8w+11)÷5", "8w+11/5", "$(8w+11)/5", "((8w+11)/5)", "8w/5+11/5", "1.6w+2.2", "2.2+1.6w"], "unit": "$", "unitPos": "before" },
+          "explanation": ["The perfume cost $20 less than the handbag, so the handbag cost $(4w + 20).", "The perfume cost $9 more than the scarf, so the scarf cost $(4w − 9).", "Handbag + scarf = 4w + 20 + 4w − 9 = $(8w + 11).", "Shared equally by 5 friends: each person paid ${8w + 11/5}."] },
+        { "label": "b", "prompt": "What was the amount each person paid when w = 13?", "marks": 1,
+          "answer": { "type": "number", "value": "23", "unit": "$", "unitPos": "before" },
+          "explanation": ["Replace w with 13: 8 × 13 + 11 = 104 + 11 = 115.", "115 ÷ 5 = 23.", "Each person paid $23."] }
+      ],
+      "review": { "keyAnswer": "a) (8w + 11)/5  b) 23", "solvedAnswer": "a) (8w + 11)/5  b) 23", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 7, "page": 25, "format": "structured", "marks": 3,
+      "topic": "percentage", "subtypes": ["percentage-change"],
+      "stem": "The Green Club collected 960 bottles in February. This was an increase of 60% from January. In March, the number of bottles collected decreased by 25% from February. What was the percentage increase in the number of bottles collected in March compared to January?",
+      "parts": [{ "label": "", "answer": { "type": "number", "value": "20", "unit": "%" },
+        "explanation": ["Take January as 100%. February is 100% + 60% = 160% of January.", "160% = 960, so 10% = 960 ÷ 16 = 60 and 100% = 600. January: 600 bottles.", "March is 25% less than February: 25% of 960 = 240, so March = 960 − 240 = 720 bottles.", "Increase from January to March = 720 − 600 = 120 bottles.", "Percentage increase = {120/600} × 100% = 20%."] }],
+      "review": { "keyAnswer": "20%", "solvedAnswer": "20", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 8, "page": 26, "format": "structured", "marks": 3,
+      "topic": "heuristics", "subtypes": ["grouping"],
+      "stem": "5 players booked a tennis court and took turns to play on the court. At any time, there were 4 players playing on the court. Each player played for 144 minutes. How long did they book the tennis court for?",
+      "parts": [{ "label": "", "answer": { "type": "number", "value": "3", "unit": "h" },
+        "explanation": ["Add up the playing time of all 5 players: 5 × 144 = 720 minutes.", "At any time 4 players are on the court, so every minute of the booking uses up 4 minutes of playing time.", "Length of the booking = 720 ÷ 4 = 180 minutes.", "180 minutes = 3 hours."] }],
+      "review": { "keyAnswer": "3 hours", "solvedAnswer": "3", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 9, "page": 27, "format": "structured", "marks": 4,
+      "topic": "data", "subtypes": ["average", "bar-graph", "reading-tables"],
+      "stem": "The table shows the masses of 3 boys.\n[[table1]]",
+      "tables": [{ "id": "table1", "header": ["Name", "Mass"], "rows": [["Ahmad", "39 kg"], ["Bala", "34 kg"], ["Caleb", "50 kg"]] }],
+      "images": [{ "id": "img1", "alt": "Bar graph of mass in kg with five bars and no scale. From left to right the bars are: medium-tall, tallest, shortest, second tallest, and second shortest. The last bar on the right is Bala's.", "page": 27, "box": [228, 688, 672, 922] }],
+      "parts": [
+        { "label": "a", "prompt": "Find the average mass of the 3 boys.", "marks": 1,
+          "answer": { "type": "number", "value": "41", "unit": "kg" },
+          "explanation": ["Total mass = 39 + 34 + 50 = 123 kg.", "Average mass = 123 ÷ 3 = 41 kg."] },
+        { "label": "b", "prompt": "Another boy, Daniel with a mass of 55 kg, joined the 3 boys. Will the average mass of the 4 boys increase or decrease? (Type increase or decrease.)", "marks": 1,
+          "answer": { "type": "text", "value": "increase", "accept": ["increase", "increases", "increased", "will increase", "it will increase"] },
+          "explanation": ["Daniel's mass, 55 kg, is more than the average of 41 kg, so he pulls the average up.", "Check: (123 + 55) ÷ 4 = 178 ÷ 4 = 44.5 kg, which is more than 41 kg.", "The average mass will increase."] },
+        { "label": "c", "prompt": "A fifth boy, Eng Huat, joined the group. The bar graph represents the masses of the five boys. Bala was labelled as shown.\nLabel the bar graph by writing **A** for Ahmad, **C** for Caleb, **D** for Daniel and **E** for Eng Huat in the blanks below.\n[[img1]]\n(The last bar on the right is Bala's. Type the four letters for the other bars in order from left to right, for example: A, C, D, E.)", "marks": 2,
+          "answer": { "type": "text", "value": "A, D, E, C", "accept": ["a, d, e, c", "a,d,e,c", "a d e c", "adec", "a-d-e-c", "a - d - e - c", "ahmad, daniel, eng huat, caleb"] },
+          "explanation": ["The known masses are Bala 34 kg, Ahmad 39 kg, Caleb 50 kg and Daniel 55 kg.", "Daniel is the heaviest of these, then Caleb, then Ahmad, and Bala is the lightest of the four.", "Bala's bar is the last one. Only one bar (the 3rd) is shorter than Bala's, and three bars are taller. Ahmad, Caleb and Daniel are all heavier than Bala, so they are the three taller bars, and the shorter bar must be Eng Huat's.", "Of the three taller bars, the 2nd is the tallest (Daniel), the 4th is next (Caleb) and the 1st is the shortest (Ahmad).", "From left to right: A, D, E, C, then Bala."] }
+      ],
+      "review": { "keyAnswer": "a) 41  b) Increase  c) A – D – E – C", "solvedAnswer": "a) 41  b) increase  c) A, D, E, C", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 10, "page": 28, "format": "structured", "marks": 4,
+      "topic": "rate-speed", "subtypes": ["taps-and-tanks", "line-graph", "rate"],
+      "stem": "Fiona filled a tank with water using two taps. She turned on Tap A first. After 4 minutes, she also turned on Tap B. Both taps were turned off at the same time when the tank was completely filled without overflowing.\nThe graph below shows the amount of water in the tank over 12 minutes.",
+      "images": [{ "id": "img1", "alt": "Line graph of volume of water in tank (litres) against time in minutes. The line goes from 0 litres at 0 minutes to 10 litres at 4 minutes, then rises steeply to 50 litres at 6 minutes and 90 litres at 8 minutes, then stays flat at 90 litres.", "page": 28, "box": [195, 235, 665, 508] }],
+      "parts": [
+        { "label": "a", "prompt": "How many litres of water flowed from Tap A per minute?", "marks": 1,
+          "answer": { "type": "number", "value": "2.5", "unit": "ℓ" },
+          "explanation": ["Only Tap A was on for the first 4 minutes.", "In those 4 minutes the water went from 0 to 10 litres.", "Tap A: 10 ÷ 4 = 2.5 litres per minute."] },
+        { "label": "b", "prompt": "What was the capacity of the tank?", "marks": 1,
+          "answer": { "type": "number", "value": "90", "unit": "ℓ" },
+          "explanation": ["The taps were turned off when the tank was completely filled.", "The graph stops rising at 8 minutes and stays flat at 90 litres.", "The capacity of the tank is 90 litres."] },
+        { "label": "c", "prompt": "After both taps were turned off, what fraction of the tank was filled with water from Tap B?", "marks": 2,
+          "answer": { "type": "fraction", "value": "7/9" },
+          "explanation": ["Tap A was on for the whole 8 minutes: 8 × 2.5 = 20 litres came from Tap A.", "The rest came from Tap B: 90 − 20 = 70 litres.", "Fraction from Tap B = {70/90} = {7/9}."] }
+      ],
+      "review": { "keyAnswer": "a) 2.5  b) 90  c) 7/9", "solvedAnswer": "a) 2.5  b) 90  c) 7/9", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 11, "page": 29, "format": "structured", "marks": 4,
+      "topic": "geometry", "subtypes": ["angles-in-trapezium", "angles-in-parallelogram", "angles-in-triangle"],
+      "stem": "In the figure, ACDE is a trapezium and BCDE is a parallelogram.\nAD is a straight line and AE = ED. ∠BAE is a right angle.",
+      "images": [{ "id": "img1", "alt": "Trapezium ACDE with A at the top left, C at the top right, D at the bottom right and E at the bottom left. AC is parallel to ED. B is on AC and is joined to E, making parallelogram BCDE. Diagonal AD crosses BE. There is a right angle at A and angle BCD is 59°. Angle y is marked where AD and BE cross, on the side facing AB. No angle x is marked in the scan.", "page": 29, "box": [272, 193, 595, 412] }],
+      "parts": [
+        { "label": "a", "prompt": "Find ∠x. (The label x is missing from the scanned figure. From the answer key's working, ∠x is ∠AEB.)", "marks": 2,
+          "answer": { "type": "number", "value": "31", "unit": "°" },
+          "explanation": ["BCDE is a parallelogram, so BE is parallel to CD. ∠ABE and ∠BCD are corresponding angles, so ∠ABE = 59°.", "In triangle ABE, ∠BAE = 90°.", "∠x = ∠AEB = 180° − 90° − 59° = 31°."] },
+        { "label": "b", "prompt": "Find ∠y.", "marks": 2,
+          "answer": { "type": "number", "value": "76", "unit": "°" },
+          "explanation": ["AC is parallel to ED and ∠BAE = 90°, so ∠AED = 180° − 90° = 90°.", "AE = ED, so triangle AED is isosceles: ∠EAD = (180° − 90°) ÷ 2 = 45°.", "∠BAD = 90° − 45° = 45°.", "∠ABE = 59° (corresponding to ∠BCD because BE is parallel to CD).", "∠y is the third angle of the small triangle made by A, B and the point where AD crosses BE: ∠y = 180° − 45° − 59° = 76°."] }
+      ],
+      "review": { "keyAnswer": "a) 31°  b) 76°", "solvedAnswer": "a) 31 (taking x as ∠AEB)  b) 76", "status": "needs-review",
+        "note": "Part (a): the label x cannot be seen anywhere in the scanned figure, even at high zoom (only y is marked). The key's working, 180° − (90° + 59°) = 31°, uses the right angle at A and the 59° angle, which fits ∠AEB in triangle ABE, so the prompt says ∠x is ∠AEB. Please check against a clean copy of the paper that x is marked at E between EA and EB. Part (b) was solved and matches the key (76°)." }
+    },
+    {
+      "section": "p2", "number": 12, "page": 30, "format": "structured", "marks": 4,
+      "topic": "geometry", "subtypes": ["angles-in-rhombus", "equilateral-triangle", "properties-of-shapes"],
+      "stem": "In the figure, ACDE is a rhombus and HJK is an equilateral triangle.\nFG is parallel to DJ. FEA, GHK and DEHJ are straight lines.\n∠EBA = 100° and ∠CEB = 39°.",
+      "images": [{ "id": "img1", "alt": "Straight line DEHJ runs across. Below it on the left is rhombus ACDE with CA along the bottom; B is on CA and is joined to E. Angle CEB is 39° and angle EBA is 100°. Line AE continues up through E to F, and FG is drawn parallel to DJ. Line GH continues down through H to K, and triangle HJK hangs below the line on the right. Angle FEH is marked at E.", "page": 30, "box": [212, 220, 680, 490] }],
+      "parts": [
+        { "label": "a", "prompt": "Find ∠EAC.", "marks": 2,
+          "answer": { "type": "number", "value": "58", "unit": "°" },
+          "explanation": ["CBA is a straight line, so ∠EBC = 180° − 100° = 80°.", "In triangle ECB: ∠ECB = 180° − 80° − 39° = 61°.", "ACDE is a rhombus, so AE = AC and triangle AEC is isosceles: ∠AEC = ∠ACE = 61°.", "∠EAC = 180° − 61° − 61° = 58°."] },
+        { "label": "b", "prompt": "Find ∠FEH.", "marks": 1,
+          "answer": { "type": "number", "value": "122", "unit": "°" },
+          "explanation": ["In a rhombus, DE is parallel to CA, so ∠DEA + ∠EAC = 180°.", "∠DEA = 180° − 58° = 122°.", "FEA and DEH are straight lines, so ∠FEH and ∠DEA are vertically opposite angles.", "∠FEH = 122°."] },
+        { "label": "c", "prompt": "Circle the words that describe EFGH correctly in the statement.\nEFGH is a ( **parallelogram** / **trapezium** ) because FE ( **is** / **is not** ) parallel to GH.\n(Type your two choices separated by a comma, for example: parallelogram, is)", "marks": 1,
+          "answer": { "type": "text", "value": "trapezium, is not", "accept": ["trapezium, is not", "trapezium,is not", "trapezium is not", "trapezium / is not", "trapezium and is not", "trapezium, isnot"] },
+          "explanation": ["HJK is an equilateral triangle, so ∠JHK = 60°. ∠GHE is vertically opposite to it, so ∠GHE = 60°.", "If FE were parallel to GH, then ∠FEH + ∠GHE would be 180°.", "∠FEH + ∠GHE = 122° + 60° = 182°, which is not 180°. So FE is not parallel to GH.", "FG is parallel to EH, so EFGH has only one pair of parallel sides. It is a trapezium.", "Answer: trapezium, is not."] }
+      ],
+      "review": { "keyAnswer": "a) 58°  b) 122°  c) trapezium / is not", "solvedAnswer": "a) 58  b) 122  c) trapezium, is not", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 13, "page": 31, "format": "structured", "marks": 5,
+      "topic": "fractions", "subtypes": ["fraction-of-remainder", "units-and-parts"],
+      "stem": "Mrs Menon baked some cookies. She packed {3/5} of the cookies equally into 6 large tins and {1/4} of the remaining cookies equally into 4 small tins. The rest of the cookies were given away.",
+      "parts": [
+        { "label": "a", "prompt": "What fraction of the cookies was given away?", "marks": 2,
+          "answer": { "type": "fraction", "value": "3/10" },
+          "explanation": ["Remaining cookies after the large tins = 1 − {3/5} = {2/5}.", "{1/4} of the remainder went into small tins, so {3/4} of the remainder was given away.", "{3/4} × {2/5} = {6/20} = {3/10} of the cookies was given away."] },
+        { "label": "b", "prompt": "There are 176 cookies in 2 large tins and 3 small tins. How many cookies did Mrs Menon bake?", "marks": 3,
+          "answer": { "type": "number", "value": "640" },
+          "explanation": ["Cut the cookies into 40 equal units. Large tins: {3/5} = 24 units in 6 tins, so 1 large tin = 4 units.", "Small tins: {1/4} × {2/5} = {1/10} = 4 units in 4 tins, so 1 small tin = 1 unit.", "2 large tins + 3 small tins = 2 × 4 + 3 × 1 = 11 units.", "11 units = 176, so 1 unit = 176 ÷ 11 = 16.", "Total = 40 units = 40 × 16 = 640 cookies."] }
+      ],
+      "review": { "keyAnswer": "a) 3/10  b) 640", "solvedAnswer": "a) 3/10  b) 640", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 14, "page": 32, "format": "structured", "marks": 5,
+      "topic": "volume", "subtypes": ["water-transfer", "equal-water-level", "water-level-rise"],
+      "stem": "The figure shows the amount of water in two rectangular tanks X and Y at first. Tank X was completely filled with water.\n[[img1]]\nAfter {1/3} of the water from tank X was poured into tank Y, the height of the water level in tank Y increased by 9 cm. The height of the water level in both tanks became the same.",
+      "images": [{ "id": "img1", "alt": "Tank X is a rectangular tank with a base 45 cm by 20 cm, completely filled with water. Tank Y is a taller rectangular tank with a base 28 cm by 25 cm, with a little water at the bottom.", "page": 32, "box": [215, 180, 690, 400] }],
+      "parts": [
+        { "label": "a", "prompt": "What was the height of the water level in tank X in the end?", "marks": 3,
+          "answer": { "type": "number", "value": "14", "unit": "cm" },
+          "explanation": ["Water poured into tank Y = 28 × 25 × 9 = 6300 cm³.", "This is {1/3} of the water in tank X, so the water left in tank X is {2/3} = 2 × 6300 = 12 600 cm³.", "Base area of tank X = 45 × 20 = 900 cm².", "Height of water in tank X in the end = 12 600 ÷ 900 = 14 cm."] },
+        { "label": "b", "prompt": "How many litres of water was in tank Y at first?", "marks": 2,
+          "answer": { "type": "number", "value": "3.5", "unit": "ℓ" },
+          "explanation": ["In the end both tanks had the same water level, so the water in tank Y was 14 cm high.", "The level in tank Y had gone up by 9 cm, so at first it was 14 − 9 = 5 cm.", "Volume of water in tank Y at first = 28 × 25 × 5 = 3500 cm³.", "1000 cm³ = 1 litre, so 3500 cm³ = 3.5 litres."] }
+      ],
+      "review": { "keyAnswer": "a) 14  b) 3.5 ℓ", "solvedAnswer": "a) 14  b) 3.5", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 15, "page": 33, "format": "structured", "marks": 5,
+      "topic": "circles", "subtypes": ["quarter-circles", "perimeter-of-composite-figure", "area-of-composite-figure"],
+      "stem": "The shaded figure is formed by 4 identical quarter circles inside a rectangle. (Take π = 3.14)",
+      "images": [{ "id": "img1", "alt": "A rectangle containing four shaded quarter circles. The top left quarter circle has its straight sides at the bottom and on the right; its bottom side is 16 cm from the left side of the rectangle. The top right quarter circle touches the top and right sides of the rectangle; its upright straight side lies along the upright side of the first one but reaches 5 cm higher. The two bottom quarter circles hang below the first one with their flat sides on top and a 9 cm gap between their upright sides; the left one starts at the left side of the rectangle, and the right one sticks out 15 cm to the right of the top left quarter circle. Both touch the bottom of the rectangle.", "page": 33, "box": [290, 180, 570, 418] }],
+      "parts": [
+        { "label": "a", "prompt": "Find the radius of each quarter circle.", "marks": 1,
+          "answer": { "type": "number", "value": "22", "unit": "cm" },
+          "explanation": ["Look along the line where the two bottom quarter circles meet the top left one. From the left side of the rectangle, the bottom left quarter circle's flat side is 1 radius long, then there is a 9 cm gap, then the bottom right quarter circle's flat side is 1 radius long. Total = 2 radii + 9 cm.", "The same length is also 16 cm, then the flat side of the top left quarter circle (1 radius), then 15 cm. Total = 1 radius + 31 cm.", "2 radii + 9 = 1 radius + 31, so 1 radius = 31 − 9 = 22 cm."] },
+        { "label": "b", "prompt": "Find the perimeter of the shaded figure.", "marks": 2,
+          "answer": { "type": "number", "value": "254.16", "unit": "cm" },
+          "explanation": ["The 4 curved edges make 1 whole circle: 2 × 3.14 × 22 = 138.16 cm.", "Straight edges on the outside of the shaded figure: 16 cm and 15 cm (the parts of the bottom quarter circles' flat sides that stick out), 9 cm (the gap), 22 cm + 22 cm (the two upright sides facing the gap), 22 cm (the flat bottom of the top right quarter circle), and 5 cm + 5 cm (the two short steps where the top right quarter circle is 5 cm higher).", "Straight edges = 16 + 15 + 9 + 22 + 22 + 22 + 5 + 5 = 116 cm.", "Perimeter = 138.16 + 116 = 254.16 cm."] },
+        { "label": "c", "prompt": "Find the unshaded area of the rectangle.", "marks": 2,
+          "answer": { "type": "number", "value": "1420.24", "unit": "cm²" },
+          "explanation": ["Length of rectangle = 16 + 22 + 22 = 60 cm.", "Breadth of rectangle = 22 + 22 + 5 = 49 cm.", "Area of rectangle = 60 × 49 = 2940 cm².", "The 4 quarter circles make 1 whole circle: 3.14 × 22 × 22 = 1519.76 cm².", "Unshaded area = 2940 − 1519.76 = 1420.24 cm²."] }
+      ],
+      "review": { "keyAnswer": "a) 22  b) 254.16  c) 1420.24", "solvedAnswer": "a) 22  b) 254.16  c) 1420.24", "status": "verified" }
+    }
+  ]
+}

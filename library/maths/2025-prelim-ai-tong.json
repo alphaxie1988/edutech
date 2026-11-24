@@ -1,0 +1,2367 @@
+{
+  "paper": {
+    "id": "2025-prelim-ai-tong",
+    "subject": "maths",
+    "year": 2025,
+    "exam": "Prelim",
+    "school": "Ai Tong",
+    "schoolFull": "Ai Tong School",
+    "file": "PSLE-2025-P6-papers/Prelim/Maths/P6-2025-Prelim-Maths-Ai-Tong.pdf",
+    "coordDpi": 100
+  },
+  "questions": [
+    {
+      "section": "p1a",
+      "number": 1,
+      "page": 3,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "whole-numbers",
+      "subtypes": [
+        "numbers-in-words"
+      ],
+      "stem": "Which of the following is forty-five thousand and thirty in numerals?",
+      "options": [
+        "4530",
+        "45 030",
+        "45 300",
+        "450 030"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "Forty-five thousand = 45 000.",
+            "Thirty = 30.",
+            "45 000 + 30 = 45 030, which is option (2)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1a",
+      "number": 2,
+      "page": 3,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "whole-numbers",
+      "subtypes": [
+        "rounding"
+      ],
+      "stem": "Round 7549 to the nearest hundred.",
+      "options": [
+        "7000",
+        "7500",
+        "7600",
+        "8000"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "7549 lies between 7500 and 7600.",
+            "Look at the tens digit: it is 4, which is less than 5, so round down.",
+            "7549 ≈ 7500, option (2)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1a",
+      "number": 3,
+      "page": 3,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "percentage",
+      "subtypes": [
+        "decimal-to-percentage"
+      ],
+      "stem": "Express 2.4 as a percentage.",
+      "options": [
+        "0.024 %",
+        "0.24 %",
+        "24 %",
+        "240 %"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 4
+          },
+          "explanation": [
+            "To change a decimal to a percentage, multiply by 100%.",
+            "2.4 × 100% = 240%.",
+            "The answer is option (4)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1a",
+      "number": 4,
+      "page": 4,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "decimals",
+      "subtypes": [
+        "place-value"
+      ],
+      "stem": "What is the missing number in the box?\n7.216 = 7 + 0.2 + ?",
+      "options": [
+        "0.016",
+        "0.16",
+        "1.6",
+        "16"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 1
+          },
+          "explanation": [
+            "7 + 0.2 = 7.2.",
+            "Missing number = 7.216 − 7.2 = 0.016.",
+            "The answer is option (1)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "1",
+        "solvedAnswer": "1",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1a",
+      "number": 5,
+      "page": 4,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "fractions",
+      "subtypes": [
+        "comparing-fractions"
+      ],
+      "stem": "Which fraction is smaller than {1/2}?",
+      "options": [
+        "{5/7}",
+        "{4/9}",
+        "{3/6}",
+        "{2/3}"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "A fraction is smaller than {1/2} when its numerator is less than half of its denominator.",
+            "{5/7}: half of 7 is 3{1/2}, and 5 is more. {3/6}: half of 6 is 3, so it is equal to {1/2}. {2/3}: half of 3 is 1{1/2}, and 2 is more.",
+            "{4/9}: half of 9 is 4{1/2}, and 4 is less, so {4/9} is smaller than {1/2}.",
+            "The answer is option (2)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1a",
+      "number": 6,
+      "page": 4,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "measurement",
+      "subtypes": [
+        "estimation"
+      ],
+      "stem": "Which of the following could be the mass of a mobile phone?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A mobile phone",
+          "page": 4,
+          "box": [
+            424,
+            784,
+            521,
+            930
+          ]
+        }
+      ],
+      "options": [
+        "0.05 kg",
+        "1.5 kg",
+        "15 g",
+        "150 g"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 4
+          },
+          "explanation": [
+            "0.05 kg = 50 g and 15 g are too light: an egg is already about 50 g.",
+            "1.5 kg is too heavy: that is the mass of a big bottle of water.",
+            "150 g, about the mass of a small apple, is a sensible mass for a mobile phone.",
+            "The answer is option (4)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1a",
+      "number": 7,
+      "page": 5,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "fractions",
+      "subtypes": [
+        "comparing-fractions"
+      ],
+      "stem": "Arrange the following fractions from the smallest to the greatest.\n{6/11}, {7/10}, {3/5}",
+      "options": [
+        "{6/11}, {3/5}, {7/10}",
+        "{6/11}, {7/10}, {3/5}",
+        "{3/5}, {6/11}, {7/10}",
+        "{3/5}, {7/10}, {6/11}"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 1
+          },
+          "explanation": [
+            "{3/5} = {6/10}, so {3/5} is smaller than {7/10}.",
+            "Compare {6/11} with {3/5} = {6/10}: the numerators are the same, and the bigger denominator gives the smaller fraction, so {6/11} is smaller than {3/5}.",
+            "Order from the smallest: {6/11}, {3/5}, {7/10}. This is option (1)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "1",
+        "solvedAnswer": "1",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1a",
+      "number": 8,
+      "page": 5,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "geometry",
+      "subtypes": [
+        "nets",
+        "cubes-and-cuboids"
+      ],
+      "stem": "The figure shows a cube.\n[[img1]]\nWhich one of the following is a net of a cube?\n[[img2]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A cube",
+          "page": 5,
+          "box": [
+            315,
+            558,
+            405,
+            640
+          ]
+        },
+        {
+          "id": "img2",
+          "alt": "Four figures, each made of 6 squares. (1): a row of 3 squares, a row of 2 squares above it starting on top of the third square, and 1 square on top of the last one, like a staircase. (2): a row of 4 squares with 2 squares stacked above the second square. (3): a row of 3 squares, with 2 more squares going down from the third square and 1 square to the right of the middle one. (4): a row of 3 squares with another row of 3 squares above it, shifted so that it starts on top of the third square.",
+          "page": 5,
+          "box": [
+            150,
+            693,
+            705,
+            1025
+          ]
+        }
+      ],
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 4
+          },
+          "explanation": [
+            "A net of a cube must fold up so that its 6 squares become the 6 different faces with no two squares landing on the same face.",
+            "Figure (1): the first square of the row and the square at the top of the staircase both fold onto the same face, so it is not a net.",
+            "Figure (2): the row of 4 squares wraps round four faces, and the 2 squares stacked on the same side cannot both be a lid, so one face stays open. It is not a net.",
+            "Figure (3): the first square of the top row and the square at the bottom of the column fold onto the same face, so it is not a net.",
+            "Figure (4): the two rows of 3 are joined like a step. Each row wraps round three faces and no faces overlap, so it folds into a cube.",
+            "The answer is option (4)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1a",
+      "number": 9,
+      "page": 6,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "data",
+      "subtypes": [
+        "pie-chart",
+        "reading-tables"
+      ],
+      "stem": "The table below shows the number of students in four groups A, B, C and D. Which of the following pie charts best represents the information?\n[[table1]]\n[[img1]]",
+      "tables": [
+        {
+          "id": "table1",
+          "header": [
+            "Group",
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "rows": [
+            [
+              "Number of students",
+              "15",
+              "30",
+              "25",
+              "30"
+            ]
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Four pie charts labelled (1) to (4), each with four sectors. (1): one very thin sector, one right-angled sector and two large sectors. (2): one sector is half the circle, one sector has a right angle and there are two small sectors. (3): one right-angled sector, two equal sectors slightly bigger than a right angle and one small sector. (4): two right-angled sectors, one larger sector and one small sector.",
+          "page": 6,
+          "box": [
+            155,
+            375,
+            728,
+            552
+          ]
+        }
+      ],
+      "options": [
+        "Pie chart (1)",
+        "Pie chart (2)",
+        "Pie chart (3)",
+        "Pie chart (4)"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "Total number of students = 15 + 30 + 25 + 30 = 100.",
+            "Group C has 25 out of 100 = {1/4} of the students, so exactly one sector is a quarter of the circle (a right angle). This rules out chart (4), which has two right angles.",
+            "Groups B and D both have 30 students, so two sectors are equal and each is a little bigger than a quarter. Group A (15) is the smallest sector, a bit more than half of a quarter.",
+            "No group has half of the students, so chart (2) is wrong. Chart (1) has a sector that is far too thin for 15 students.",
+            "Chart (3) has one right angle, two equal larger sectors and one smaller sector. The answer is option (3)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1a",
+      "number": 10,
+      "page": 6,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "algebra",
+      "subtypes": [
+        "evaluating-expressions"
+      ],
+      "stem": "Find the value of {4y/2} + 10 − 4 when y = 4.",
+      "options": [
+        "11",
+        "14",
+        "22",
+        "28"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "Replace y with 4: 4 × 4 = 16, and 16 ÷ 2 = 8.",
+            "8 + 10 − 4 = 14.",
+            "The answer is option (2)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1a",
+      "number": 11,
+      "page": 7,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "geometry",
+      "subtypes": [
+        "cubes-and-cuboids",
+        "views-of-solids"
+      ],
+      "stem": "Amelia used identical unit cubes to build a solid. She drew the top and side views of the solid as shown below.\n[[img1]]\nWhich of the following could be the solid built by Amelia?\n[[img2]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Top view: an L-shape of 5 squares, a row of 3 squares with 2 more squares going up from the right end. Side view: three columns of squares that are 3, 1 and 4 squares tall from left to right.",
+          "page": 7,
+          "box": [
+            230,
+            190,
+            525,
+            355
+          ]
+        },
+        {
+          "id": "img2",
+          "alt": "Four solids made of unit cubes, labelled (1) to (4), each drawn from the front. (1): a front row with stacks 3, 1 and 1 cubes high, and a stack 4 cubes high right behind the right-hand cube. (2): a front row with stacks 4, 1 and 1 cubes high, and 2 single cubes behind the right-hand cube. (3): a front row with stacks 3, 1 and 1 cubes high, a single cube behind the right-hand cube and a stack 4 cubes high behind that. (4): a front row with stacks 2, 1 and 1 cubes high, a single cube behind the right-hand cube and a stack 3 cubes high behind that.",
+          "page": 7,
+          "box": [
+            150,
+            480,
+            640,
+            918
+          ]
+        }
+      ],
+      "options": [
+        "Solid (1)",
+        "Solid (2)",
+        "Solid (3)",
+        "Solid (4)"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "The top view shows where cubes stand on the floor: a front row of 3 cubes, and on the right the solid goes 3 cubes deep.",
+            "Solid (1) is only 2 cubes deep on the right, so its top view would be wrong.",
+            "The side view shows how tall the solid is at each depth: 3 cubes tall in the front row, 1 cube tall in the middle and 4 cubes tall at the back.",
+            "Solid (2) is 4 tall at the front and only 1 tall at the back. Solid (4) is only 2 tall at the front and 3 tall at the back.",
+            "Solid (3) is 3 tall at the front, 1 tall in the middle and 4 tall at the back, and it is 3 cubes deep on the right. The answer is option (3)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified",
+        "note": "At normal size the side view is easy to misread as 2, 1 and 3 squares tall; zoomed in it is 3, 1 and 4 squares tall, which matches solid (3)."
+      }
+    },
+    {
+      "section": "p1a",
+      "number": 12,
+      "page": 8,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "percentage",
+      "subtypes": [
+        "percentage-of-a-quantity",
+        "fraction-of-remainder"
+      ],
+      "stem": "Hassan spent 35% of his monthly allowance on food and {2/5} of the remaining allowance on transport. What percentage of his allowance was left?",
+      "options": [
+        "65%",
+        "61%",
+        "39%",
+        "25%"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "After food, remaining allowance = 100% − 35% = 65%.",
+            "He spent {2/5} of the remainder on transport, so {3/5} of the remainder was left.",
+            "{3/5} × 65% = 39%.",
+            "The answer is option (3)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1a",
+      "number": 13,
+      "page": 8,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "circles",
+      "subtypes": [
+        "semicircles",
+        "perimeter-of-composite-figure"
+      ],
+      "stem": "The figure is made up of two identical semicircles with radius of 21 m. Find the perimeter of the figure in terms of π.",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Two semicircles joined along part of their straight sides. The top semicircle curves upwards on the left and the bottom semicircle curves downwards on the right. They overlap along a dotted line in the middle. The straight part of the top semicircle that sticks out on the left is marked 21 m.",
+          "page": 8,
+          "box": [
+            275,
+            515,
+            550,
+            712
+          ]
+        }
+      ],
+      "options": [
+        "21π m",
+        "(21π + 21) m",
+        "42π m",
+        "(42π + 42) m"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 4
+          },
+          "explanation": [
+            "The perimeter is made of 2 curved edges and 2 straight edges.",
+            "Each curved edge is half the circumference of a circle with radius 21 m: {1/2} × 2 × π × 21 = 21π m. Two curved edges = 42π m.",
+            "Each semicircle has a diameter of 42 m. The dotted part, where the two semicircles are joined, is not on the outside. The straight part left outside is 21 m for each semicircle: 21 + 21 = 42 m.",
+            "Perimeter = (42π + 42) m, option (4)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1a",
+      "number": 14,
+      "page": 9,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "ratio",
+      "subtypes": [
+        "ratio-and-quantity",
+        "shaded-area"
+      ],
+      "stem": "Jack drew three triangles to form a figure. The areas of the triangles were in the ratio of 1 : 8 : 12. He then shaded some parts of the figure as shown. What is the ratio of the total area of the shaded parts to the area of the figure?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Three triangles, one inside another. The band between the biggest triangle and the middle triangle is shaded. The smallest triangle, in the centre, is shaded. The part of the middle triangle around the smallest triangle is not shaded.",
+          "page": 9,
+          "box": [
+            248,
+            196,
+            484,
+            410
+          ]
+        }
+      ],
+      "options": [
+        "5 : 12",
+        "5 : 21",
+        "7 : 12",
+        "2 : 3"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 1
+          },
+          "explanation": [
+            "Small triangle = 1 unit, middle triangle = 8 units, big triangle = 12 units. The whole figure is the big triangle, 12 units.",
+            "Shaded band between the big and middle triangles = 12 − 8 = 4 units.",
+            "The small triangle is also shaded: 1 unit.",
+            "Total shaded = 4 + 1 = 5 units.",
+            "Shaded : figure = 5 : 12, option (1)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "1",
+        "solvedAnswer": "1",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1a",
+      "number": 15,
+      "page": 9,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "ratio",
+      "subtypes": [
+        "constant-difference",
+        "changing-ratio"
+      ],
+      "stem": "4 years ago, the ratio of Calvin's age to Lina's age is 2 : 7. In 8 years' time, Calvin's age will be {2/5} of Lina's age. How old is Calvin now?",
+      "options": [
+        "10 years old",
+        "18 years old",
+        "22 years old",
+        "30 years old"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "The difference between their ages never changes.",
+            "4 years ago, Calvin : Lina = 2 : 7, a difference of 5. In 8 years' time, Calvin : Lina = 2 : 5, a difference of 3.",
+            "Make the differences the same (15): 2 : 7 = 6 : 21 and 2 : 5 = 10 : 25.",
+            "Calvin goes from 6 units to 10 units, an increase of 4 units. The time between is 4 + 8 = 12 years, so 4 units = 12 years and 1 unit = 3 years.",
+            "Calvin's age 4 years ago = 6 × 3 = 18. Calvin now = 18 + 4 = 22 years old.",
+            "The answer is option (3)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1b",
+      "number": 16,
+      "page": 13,
+      "format": "short",
+      "marks": 1,
+      "topic": "whole-numbers",
+      "subtypes": [
+        "order-of-operations"
+      ],
+      "stem": "What is the value of 30 − (8 + 16) ÷ 3 × 2?",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "number",
+            "value": "14"
+          },
+          "explanation": [
+            "Work inside the brackets first: 8 + 16 = 24.",
+            "Then divide and multiply from left to right: 24 ÷ 3 = 8, and 8 × 2 = 16.",
+            "Lastly subtract: 30 − 16 = 14."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "14",
+        "solvedAnswer": "14",
+        "status": "verified",
+        "note": "The sign inside the brackets is smudged in the scan and could be read as ÷. It is read as + because 8 ÷ 16 would not give a whole-number answer and the key's working shows 8 + 16."
+      }
+    },
+    {
+      "section": "p1b",
+      "number": 17,
+      "page": 13,
+      "format": "short",
+      "marks": 1,
+      "topic": "geometry",
+      "subtypes": [
+        "vertically-opposite-angles"
+      ],
+      "stem": "In the figure, EOH, FOJ and GOK are straight lines. ∠EOF = 31° and ∠KOH = 96°. Find ∠GOF.",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Three straight lines EOH, FOJ and GOK cross at O. Going round O the points are in the order E, F, G, H, J, K. Angle EOF is 31° and angle KOH is 96°.",
+          "page": 13,
+          "box": [
+            110,
+            490,
+            470,
+            775
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "number",
+            "value": "65",
+            "unit": "°"
+          },
+          "explanation": [
+            "EOH and GOK are straight lines that cross at O, so ∠EOG and ∠KOH are vertically opposite angles. ∠EOG = 96°.",
+            "∠EOG is made up of ∠EOF and ∠GOF.",
+            "∠GOF = 96° − 31° = 65°."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "65°",
+        "solvedAnswer": "65",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1b",
+      "number": 18,
+      "page": 13,
+      "format": "short",
+      "marks": 1,
+      "topic": "data",
+      "subtypes": [
+        "average"
+      ],
+      "stem": "Find the average of 15, 17, 0 and 4.",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "number",
+            "value": "9"
+          },
+          "explanation": [
+            "Total = 15 + 17 + 0 + 4 = 36.",
+            "There are 4 numbers (0 is counted as a number).",
+            "Average = 36 ÷ 4 = 9."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "9",
+        "solvedAnswer": "9",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1b",
+      "number": 19,
+      "page": 14,
+      "format": "short",
+      "marks": 1,
+      "topic": "ratio",
+      "subtypes": [
+        "ratio-and-quantity"
+      ],
+      "stem": "A ribbon was cut into two pieces in the ratio 3 : 5. The length of the longer piece was 35 cm. What was the length of the ribbon at first?",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "number",
+            "value": "56",
+            "unit": "cm"
+          },
+          "explanation": [
+            "The longer piece is 5 units. 5 units = 35 cm, so 1 unit = 35 ÷ 5 = 7 cm.",
+            "The whole ribbon = 3 + 5 = 8 units.",
+            "8 × 7 = 56 cm."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "56 cm",
+        "solvedAnswer": "56",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1b",
+      "number": 20,
+      "page": 14,
+      "format": "short",
+      "marks": 1,
+      "topic": "area-perimeter",
+      "subtypes": [
+        "area-of-triangle",
+        "measuring"
+      ],
+      "stem": "In the figure, WXYZ is a rectangle. Measure and write down the height of Triangle XMZ when MZ is the base.",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A tilted rectangle WXYZ. M is a point on side WZ, near W. Lines XM and XZ are drawn, making triangle XMZ.",
+          "page": 14,
+          "box": [
+            185,
+            608,
+            622,
+            908
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "number",
+            "value": "2.9",
+            "unit": "cm"
+          },
+          "explanation": [
+            "The height of a triangle is the perpendicular distance from the base (or the base extended) to the opposite corner.",
+            "The base MZ lies along side WZ of the rectangle. The opposite corner is X.",
+            "In a rectangle XW is perpendicular to WZ, so the height of triangle XMZ is the length of XW.",
+            "Measure XW with a ruler. On the exam paper XW is 2.9 cm."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2.9 cm",
+        "solvedAnswer": "height = XW; about 2.8 cm when measured on the scan",
+        "status": "needs-review",
+        "note": "This is a ruler measurement on the printed page and cannot be answered on a screen. The method (height = XW) is certain, but the length could not be confirmed: the scan is not at true size and the figure is warped (the long sides of the rectangle appear curved). XW measures about 2.8 cm on the scan against the key's 2.9 cm. The value entered is the key's."
+      }
+    },
+    {
+      "section": "p1b",
+      "number": 21,
+      "page": 15,
+      "format": "short",
+      "marks": 2,
+      "topic": "data",
+      "subtypes": [
+        "bar-graph"
+      ],
+      "stem": "The bar graph shows the time taken by 5 children to complete a race.",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Horizontal bar graph of time taken in seconds, with a line every 4 seconds: Elvin 48, Dan 64, Caili 40, Ben 76, Arif 36.",
+          "page": 15,
+          "box": [
+            180,
+            270,
+            650,
+            605
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "Who was the fastest runner?",
+          "marks": 1,
+          "answer": {
+            "type": "text",
+            "value": "Arif",
+            "accept": [
+              "arif"
+            ]
+          },
+          "explanation": [
+            "The fastest runner takes the shortest time, so look for the shortest bar.",
+            "Arif's bar is the shortest (36 seconds).",
+            "Arif was the fastest runner."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "How much longer did Dan take than Elvin to complete the race?",
+          "marks": 1,
+          "answer": {
+            "type": "number",
+            "value": "16",
+            "unit": "s"
+          },
+          "explanation": [
+            "There are 5 intervals between 0 and 20, so each interval is 20 ÷ 5 = 4 seconds.",
+            "Dan's bar ends 1 interval after 60: 64 s. Elvin's bar ends 2 intervals after 40: 48 s.",
+            "64 − 48 = 16 s."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) Arif  b) 16 s",
+        "solvedAnswer": "a) Arif  b) 16",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1b",
+      "number": 22,
+      "page": 16,
+      "format": "short",
+      "marks": 2,
+      "topic": "volume",
+      "subtypes": [
+        "volume-of-cuboid"
+      ],
+      "stem": "A solid cuboid of height 21 cm has a square base of side 9 cm. What is its volume?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A tall cuboid with base side 9 cm and height 21 cm.",
+          "page": 16,
+          "box": [
+            538,
+            168,
+            706,
+            362
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "number",
+            "value": "1701",
+            "unit": "cm³"
+          },
+          "explanation": [
+            "Base area = 9 × 9 = 81 cm².",
+            "Volume = base area × height = 81 × 21.",
+            "81 × 20 = 1620 and 81 × 1 = 81, so 81 × 21 = 1701 cm³."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "1701 cm³",
+        "solvedAnswer": "1701",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1b",
+      "number": 23,
+      "page": 16,
+      "format": "short",
+      "marks": 2,
+      "topic": "area-perimeter",
+      "subtypes": [
+        "shaded-area",
+        "area-of-triangle"
+      ],
+      "stem": "In the figure, rectangle WXYZ is made up of 8 identical smaller rectangles. What fraction of rectangle WXYZ is shaded? Express your answer in the simplest form.",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Rectangle WXYZ (W top left, X top right, Y bottom right, Z bottom left) divided into 8 identical upright strips. Shaded part 1: a triangle with corners W, Z and the point on the bottom side 3 strips from Z. Shaded part 2: a four-sided shape with its bottom side running from that same point to Y (5 strips wide) and its top side on WX, from 5 strips to 7 strips from W (2 strips wide).",
+          "page": 16,
+          "box": [
+            412,
+            598,
+            706,
+            780
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "fraction",
+            "value": "5/8",
+            "simplest": true
+          },
+          "explanation": [
+            "Take the area of one small rectangle (one strip) as 1 unit. The whole rectangle is 8 units.",
+            "The shaded triangle on the left has a base of 3 strips and the full height. A triangle is half of the rectangle around it: {1/2} × 3 = 1{1/2} units.",
+            "The other shaded shape is a trapezium with parallel sides of 5 strips (bottom) and 2 strips (top) and the full height. Its area is the same as a rectangle (5 + 2) ÷ 2 = 3{1/2} strips wide: 3{1/2} units.",
+            "Total shaded = 1{1/2} + 3{1/2} = 5 units.",
+            "Fraction shaded = {5/8}."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "5/8",
+        "solvedAnswer": "5/8",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1b",
+      "number": 24,
+      "page": 17,
+      "format": "short",
+      "marks": 2,
+      "topic": "geometry",
+      "subtypes": [
+        "isosceles-triangle",
+        "angles-in-triangle",
+        "folding"
+      ],
+      "stem": "A triangular piece of paper ABC is folded along the dotted line as shown. AB = AC. Find ∠p.",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Before folding: triangle ABC with A at the top. A dotted fold line runs from a point on AB to C. The angle between the fold line and AB, on the side facing B, is 60°. After folding: the top part with corner A has been folded over the dotted line, so A now sticks out on the left. At C, the angle between the folded edge CA and the fold line is 14°. Angle p is at B, between AB and BC.",
+          "page": 17,
+          "box": [
+            165,
+            180,
+            640,
+            447
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "number",
+            "value": "67",
+            "unit": "°"
+          },
+          "explanation": [
+            "Call the point where the fold line meets AB point D. The fold line is DC, and the part folded over is triangle ADC.",
+            "Folding does not change the angles of triangle ADC. After folding, the angle at C between the folded edge and the fold line is 14°, so ∠ACD = 14° before folding.",
+            "Angles on the straight line AB: ∠ADC = 180° − 60° = 120°.",
+            "In triangle ADC: ∠DAC = 180° − 120° − 14° = 46°. This is ∠BAC.",
+            "AB = AC, so triangle ABC is isosceles and the two base angles are equal: ∠p = (180° − 46°) ÷ 2 = 134° ÷ 2 = 67°."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "67°",
+        "solvedAnswer": "67",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1b",
+      "number": 25,
+      "page": 17,
+      "format": "short",
+      "marks": 2,
+      "topic": "algebra",
+      "subtypes": [
+        "forming-expressions",
+        "grouping"
+      ],
+      "stem": "Jen wants to spend the least amount of money to buy 25 muffins. Each muffin is sold at $n. How much will she pay for the muffins? Express your answer in terms of n.",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Sign: 1 muffin costs $n. Special Offer: Buy 2 muffins and get 1 muffin free.",
+          "page": 17,
+          "box": [
+            437,
+            740,
+            705,
+            855
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "expression",
+            "value": "17n",
+            "unit": "$",
+            "unitPos": "before",
+            "accept": [
+              "17n",
+              "$17n",
+              "17×n",
+              "17*n",
+              "n×17",
+              "n*17"
+            ]
+          },
+          "explanation": [
+            "With the offer, every group of 3 muffins costs the price of 2 muffins: $2n.",
+            "25 ÷ 3 = 8 remainder 1, so she gets 8 groups of 3 (24 muffins) and buys 1 more muffin.",
+            "8 groups cost 8 × $2n = $16n. The extra muffin costs $n.",
+            "Total = $16n + $n = $17n."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "$17n",
+        "solvedAnswer": "17n",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1b",
+      "number": 26,
+      "page": 18,
+      "format": "short",
+      "marks": 2,
+      "topic": "geometry",
+      "subtypes": [
+        "measuring-angles",
+        "angles-in-parallelogram",
+        "drawing"
+      ],
+      "stem": "In the square grid, AB and BC are straight lines.",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A square grid 15 squares wide and 7 squares high. Counting grid lines from the top left corner, A is 2 squares across and 3 squares down, B is 6 squares across and 1 square down, and C is 11 squares across and 2 squares down. Lines AB and BC are drawn.",
+          "page": 18,
+          "box": [
+            195,
+            517,
+            708,
+            772
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "Measure and write down the size of ∠ABC. (Use a protractor on the figure.)",
+          "marks": 1,
+          "answer": {
+            "type": "number",
+            "value": "142",
+            "unit": "°"
+          },
+          "explanation": [
+            "Place the centre of the protractor on B and line up its base line with BA.",
+            "Read the scale that starts from 0° on BA, round to BC.",
+            "The angle is obtuse (more than 90°). It measures about 142°."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "AB and BC form two sides of a parallelogram ABCD. Complete the drawing of the parallelogram ABCD. Label Point D. (Draw it on your canvas, then check.)",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "D is 5 squares to the right of A and 1 square down from A (7 squares across and 4 squares down from the top left corner of the grid). Join A to D and C to D."
+          },
+          "explanation": [
+            "In a parallelogram, opposite sides are parallel and equal, so AD must be a copy of BC.",
+            "From B to C you move 5 squares right and 1 square down.",
+            "Do the same from A: 5 squares right and 1 square down. Mark this point D.",
+            "Check with the other pair of sides: from B to A is 4 squares left and 2 squares down, and from C to D is also 4 squares left and 2 squares down.",
+            "Draw AD and CD and label D."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) 141°  b) parallelogram drawn with D below and to the right of A",
+        "solvedAnswer": "a) about 142° (worked out from the grid positions of A, B and C)  b) D is 5 right and 1 down from A",
+        "status": "verified",
+        "note": "Resolved on review (answer differs from or goes beyond the printed key; the stored answer was re-checked): Part (a) is a protractor measurement on the printed page. The key gives 141°, but A, B and C sit on grid points and those positions give 142° to the nearest degree, so the key's value looks 1° off (within the usual marking tolerance of ±1°). The value entered is 142; a marker should decide whether to accept 141 to 143, which the number type cannot do. Part (b) is self-marked. The scanned figure also carries someone's pencil marks (arrows on AB and an arc at B) that are not part of the question."
+      }
+    },
+    {
+      "section": "p1b",
+      "number": 27,
+      "page": 19,
+      "format": "short",
+      "marks": 2,
+      "topic": "decimals",
+      "subtypes": [
+        "reading-scales",
+        "unit-conversion"
+      ],
+      "stem": "Three beakers are filled with some water. What is the total volume of water in the three beakers?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Three beakers with scales. First beaker: the top mark is 1 ℓ, with 3 unlabelled marks equally spaced below it; the water is at the 1 ℓ mark. Second beaker: the same scale; the water is at the first mark below 1 ℓ. Third beaker: the top mark is 400 ml, with 3 unlabelled marks equally spaced below it; the water is at the second mark below 400 ml.",
+          "page": 19,
+          "box": [
+            158,
+            183,
+            690,
+            337
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "number",
+            "value": "1.95",
+            "unit": "ℓ"
+          },
+          "explanation": [
+            "First and second beakers: 1 ℓ = 1000 ml is divided into 4 equal intervals, so each interval is 1000 ÷ 4 = 250 ml.",
+            "First beaker: the water is at 1 ℓ = 1000 ml. Second beaker: the water is 1 interval below 1 ℓ: 1000 − 250 = 750 ml.",
+            "Third beaker: 400 ml is divided into 4 equal intervals, so each interval is 100 ml. The water is 2 intervals below 400 ml: 200 ml.",
+            "Total = 1000 + 750 + 200 = 1950 ml.",
+            "1950 ml = 1.95 ℓ."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "1.95 ℓ",
+        "solvedAnswer": "1.95",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1b",
+      "number": 28,
+      "page": 19,
+      "format": "short",
+      "marks": 2,
+      "topic": "geometry",
+      "subtypes": [
+        "angles-in-trapezium",
+        "isosceles-triangle",
+        "angles-on-a-straight-line"
+      ],
+      "stem": "In the figure, ABCD is a trapezium with AD // BC. BCF is an isosceles triangle. EFC is a straight line. Find ∠ABF.",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Trapezium ABCD with AD parallel to BC. E is on AD and line EFC runs from E through F to C. F is joined to B. FB and FC are marked as equal. Angle DAB is 114° and angle EFB is 80°. The angle to find, ABF, is marked at B between BA and BF.",
+          "page": 19,
+          "box": [
+            420,
+            630,
+            720,
+            870
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "number",
+            "value": "26",
+            "unit": "°"
+          },
+          "explanation": [
+            "AD is parallel to BC, so the angles between the parallel lines add up to 180°: ∠ABC = 180° − 114° = 66°.",
+            "EFC is a straight line: ∠BFC = 180° − 80° = 100°.",
+            "Triangle BCF is isosceles with FB = FC, so ∠FBC = ∠FCB = (180° − 100°) ÷ 2 = 40°.",
+            "∠ABF = ∠ABC − ∠FBC = 66° − 40° = 26°."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "26°",
+        "solvedAnswer": "26",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1b",
+      "number": 29,
+      "page": 20,
+      "format": "short",
+      "marks": 2,
+      "topic": "area-perimeter",
+      "subtypes": [
+        "shaded-area",
+        "area-of-composite-figure"
+      ],
+      "stem": "The figure is made up of two identical right-angled triangles overlapping each other. XY = 3 cm and PQ is a straight line. Find the area of the shaded part.",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Two identical right-angled triangles standing on the line PQ, each with an upright side of 8 cm on its left. The first has its right angle at P. The second is the same triangle moved 5 cm to the right; its top corner is X and its slanted side ends at Q. The slanted side of the first triangle cuts the upright side of the second triangle at Y, 3 cm below X. The part of the second triangle above the first triangle's slanted side is shaded.",
+          "page": 20,
+          "box": [
+            200,
+            220,
+            660,
+            405
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "number",
+            "value": "32.5",
+            "unit": "cm²"
+          },
+          "explanation": [
+            "The two triangles are identical, so they have the same area. The unshaded triangle in the middle (where they overlap) belongs to both.",
+            "So shaded part = second triangle − overlap = first triangle − overlap. The shaded part has the same area as the left part of the first triangle that is not covered.",
+            "That left part is a trapezium: its left side is 8 cm, its right side reaches up to Y, which is 8 − 3 = 5 cm high, and it is 5 cm wide.",
+            "Cut it into a rectangle 5 cm by 5 cm = 25 cm² and a triangle {1/2} × 5 × 3 = 7.5 cm².",
+            "Shaded area = 25 + 7.5 = 32.5 cm²."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "32.5 cm²",
+        "solvedAnswer": "32.5",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1b",
+      "number": 30,
+      "page": 20,
+      "format": "short",
+      "marks": 2,
+      "topic": "fractions",
+      "subtypes": [
+        "fraction-of-remainder",
+        "units-and-parts"
+      ],
+      "stem": "A shop had some bags for sale. After selling 28 bags in the morning and {5/8} of the remaining bags in the afternoon, {1/4} of the bags were left unsold. How many bags were sold altogether?",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "number",
+            "value": "63"
+          },
+          "explanation": [
+            "Let the bags remaining after the morning be 8 units. In the afternoon 5 units were sold, so 8 − 5 = 3 units were left.",
+            "These 3 units are {1/4} of all the bags, so all the bags = 4 × 3 = 12 units.",
+            "Bags sold in the morning = 12 − 8 = 4 units = 28 bags, so 1 unit = 7 bags.",
+            "Bags sold altogether = 4 + 5 = 9 units = 9 × 7 = 63."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "63",
+        "solvedAnswer": "63",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 1,
+      "page": 23,
+      "format": "structured",
+      "marks": 2,
+      "topic": "rate-speed",
+      "subtypes": [
+        "rate"
+      ],
+      "stem": "The table shows the water charges.\n[[table1]]\nMr Chan paid $89 for using 60 m³ of water. How much did he pay per cubic metre for water consumption more than 40 m³?",
+      "tables": [
+        {
+          "id": "table1",
+          "header": [
+            "Volume of water",
+            "First 40 m³",
+            "Each additional m³"
+          ],
+          "rows": [
+            [
+              "Water charges",
+              "$1.40 per m³",
+              "$ ? per m³"
+            ]
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "number",
+            "value": "1.65",
+            "unit": "$",
+            "unitPos": "before"
+          },
+          "explanation": [
+            "Cost of the first 40 m³ = 40 × $1.40 = $56.",
+            "Cost of the rest = $89 − $56 = $33.",
+            "Additional water used = 60 − 40 = 20 m³.",
+            "Charge for each additional m³ = $33 ÷ 20 = $1.65."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "$1.65",
+        "solvedAnswer": "1.65",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 2,
+      "page": 24,
+      "format": "structured",
+      "marks": 2,
+      "topic": "measurement",
+      "subtypes": [
+        "unit-conversion"
+      ],
+      "stem": "Deena had 2.07 kg of flour at first. She used 459 g of it. How many kilograms of flour was left?",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "number",
+            "value": "1.611",
+            "unit": "kg"
+          },
+          "explanation": [
+            "Change to grams: 2.07 kg = 2070 g.",
+            "Flour left = 2070 − 459 = 1611 g.",
+            "1611 g = 1.611 kg."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "1.611 kg",
+        "solvedAnswer": "1.611",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 3,
+      "page": 24,
+      "format": "structured",
+      "marks": 2,
+      "topic": "data",
+      "subtypes": [
+        "line-graph",
+        "percentage-change"
+      ],
+      "stem": "The line graph shows the growth of a plant over 4 weeks.\n[[img1]]\nWhat was the percentage increase in the height of the plant from Week 1 to Week 3?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Line graph of the height of the plant in cm, with a grid line every 2 cm: Week 0 10 cm, Week 1 14 cm, Week 2 42 cm, Week 3 56 cm, Week 4 62 cm.",
+          "page": 24,
+          "box": [
+            80,
+            430,
+            645,
+            762
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "number",
+            "value": "300",
+            "unit": "%"
+          },
+          "explanation": [
+            "There are 5 intervals between 10 and 20, so each small interval is 2 cm.",
+            "Week 1: 2 intervals above 10 = 14 cm. Week 3: 3 intervals above 50 = 56 cm.",
+            "Increase = 56 − 14 = 42 cm.",
+            "Percentage increase is compared with the height in Week 1: {42/14} × 100% = 3 × 100% = 300%."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "300%",
+        "solvedAnswer": "300",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 4,
+      "page": 25,
+      "format": "structured",
+      "marks": 2,
+      "topic": "area-perimeter",
+      "subtypes": [
+        "area-of-triangle",
+        "semicircles"
+      ],
+      "stem": "Triangle ABC is an isosceles triangle that lies within a figure made up of a semicircle and a rectangle. AB = AC. Find the area of Triangle ABC.",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A rectangle 9 m wide and 15 m high with a semicircle joined to its left side, so the 15 m side is the diameter of the semicircle. B is the top right corner of the rectangle and C is the bottom right corner. A is the leftmost point of the semicircle, halfway up. Triangle ABC is drawn.",
+          "page": 25,
+          "box": [
+            257,
+            180,
+            552,
+            407
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "number",
+            "value": "123.75",
+            "unit": "m²"
+          },
+          "explanation": [
+            "Take BC as the base of the triangle: BC = 15 m.",
+            "The diameter of the semicircle is also 15 m, so its radius is 15 ÷ 2 = 7.5 m.",
+            "AB = AC, so A is the point of the semicircle furthest to the left. The height of the triangle, from A across to BC, is the radius plus the width of the rectangle: 7.5 + 9 = 16.5 m.",
+            "Area = {1/2} × 15 × 16.5 = 123.75 m²."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "123.75 m²",
+        "solvedAnswer": "123.75",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 5,
+      "page": 26,
+      "format": "structured",
+      "marks": 2,
+      "topic": "area-perimeter",
+      "subtypes": [
+        "perimeter-of-composite-figure",
+        "equilateral-triangle"
+      ],
+      "stem": "The figure is formed using 2 squares and 2 equilateral triangles. The perimeter of the figure is 120 cm. PQ is a straight line. What is the length of PQ?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A small square with a small equilateral triangle on top of it (top corner P), and a big square with a big equilateral triangle below it (bottom corner Q). The right corner of the small triangle touches the bottom left corner of the big square at one point. The straight line PQ runs along the right side of the small triangle and then the left side of the big triangle. Dotted lines show where each triangle joins its square.",
+          "page": 26,
+          "box": [
+            245,
+            190,
+            510,
+            490
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "number",
+            "value": "24",
+            "unit": "cm"
+          },
+          "explanation": [
+            "Each equilateral triangle has the same side length as the square it is joined to.",
+            "Go round the outside of the small house shape: 2 sides of the small triangle and 3 sides of the small square = 5 small sides.",
+            "Go round the big shape: 3 sides of the big square and 2 sides of the big triangle = 5 big sides.",
+            "Perimeter = 5 small sides + 5 big sides = 5 × (1 small side + 1 big side) = 120 cm.",
+            "PQ is made of 1 small side and 1 big side: 120 ÷ 5 = 24 cm."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "24 cm",
+        "solvedAnswer": "24",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 6,
+      "page": 27,
+      "format": "structured",
+      "marks": 3,
+      "topic": "data",
+      "subtypes": [
+        "pie-chart",
+        "fraction-of-a-whole"
+      ],
+      "stem": "A group of students were asked to choose their favourite fruit in a survey conducted. The result was represented in the pie chart.\n[[img1]]\nHalf of the number of students chose mango or orange as their favourite fruit.",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Pie chart with four sectors: Apple, Pear 35%, Orange and Mango {1/5}. Mango and Orange together make half of the circle.",
+          "page": 27,
+          "box": [
+            245,
+            238,
+            467,
+            457
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "What fraction of the students chose apple as their favourite fruit? Express your answer in its simplest form.",
+          "marks": 1,
+          "answer": {
+            "type": "fraction",
+            "value": "3/20",
+            "simplest": true
+          },
+          "explanation": [
+            "Mango and orange together are half = 50% of the students.",
+            "So apple and pear together are the other 50%.",
+            "Apple = 50% − 35% = 15%.",
+            "15% = {15/100} = {3/20}."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "Each of the statements below is either true, false or not possible to tell from the information given. Put a tick (✓) to indicate your answer.\nStatement 1: More students chose orange than pear as their favourite fruit.\nStatement 2: 20 students chose mango as their favourite fruit.\nStatement 3: More students were surveyed and all of them chose mango as their favourite fruit. The percentage of students who chose apple as their favourite fruit remained the same.\n(Type T for true, F for false or N for not possible to tell, for the three statements in order, for example: T, F, N.)",
+          "marks": 2,
+          "answer": {
+            "type": "text",
+            "value": "F, N, F (False, Not possible to tell, False)",
+            "accept": [
+              "f, n, f",
+              "f,n,f",
+              "f n f",
+              "fnf",
+              "false, not possible to tell, false",
+              "false not possible to tell false",
+              "false, not possible, false"
+            ]
+          },
+          "explanation": [
+            "Statement 1: Mango = {1/5} = 20%, so orange = 50% − 20% = 30%. Pear is 35%, which is more than orange. The statement is false.",
+            "Statement 2: The chart only gives fractions and percentages. The total number of students is not given, so the number who chose mango is not possible to tell.",
+            "Statement 3: The number of students who chose apple stays the same, but the total number of students becomes bigger. So apple becomes a smaller percentage of the total. The statement is false.",
+            "Answer: False, Not possible to tell, False."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) 3/20  b) False, Not possible to tell, False",
+        "solvedAnswer": "a) 3/20  b) False, Not possible to tell, False",
+        "status": "verified",
+        "note": "Part (b) is a tick table with three rows worth 2 marks in total. It is set as one typed answer because part marks must be whole numbers that add up to 2."
+      }
+    },
+    {
+      "section": "p2",
+      "number": 7,
+      "page": 28,
+      "format": "structured",
+      "marks": 3,
+      "topic": "volume",
+      "subtypes": [
+        "volume-of-cuboid",
+        "water-transfer"
+      ],
+      "stem": "Figure 1 shows an empty container with a rectangular base area of 30 cm².\n[[img1]]\nThen, the container was filled with some water. Figure 2 shows the front view of the container and Figure 3 shows the container turned upside down.\n[[img2]]\nWhat is the capacity of the container?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Figure 1: a container shaped like a cuboid with a narrower neck on top. Its total height is 7.8 cm and its base area is 30 cm².",
+          "page": 28,
+          "box": [
+            245,
+            135,
+            470,
+            380
+          ]
+        },
+        {
+          "id": "img2",
+          "alt": "Figure 2: front view of the container standing upright, total height 7.8 cm, with water in the wide part up to a height of 4.6 cm. Figure 3: the container upside down, standing on its neck. The water fills the neck and part of the wide section, up to a height of 5.5 cm from the table; the space above the water is in the wide section.",
+          "page": 28,
+          "box": [
+            185,
+            455,
+            650,
+            655
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "number",
+            "value": "207",
+            "unit": "cm³"
+          },
+          "explanation": [
+            "In Figure 2 the water is all in the wide part, which has a base area of 30 cm²: volume of water = 30 × 4.6 = 138 cm³.",
+            "In Figure 3 the empty space is all in the wide part, at the top. Height of the empty space = 7.8 − 5.5 = 2.3 cm.",
+            "Volume of the empty space = 30 × 2.3 = 69 cm³.",
+            "Capacity = water + empty space = 138 + 69 = 207 cm³."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "207 cm³",
+        "solvedAnswer": "207",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 8,
+      "page": 29,
+      "format": "structured",
+      "marks": 3,
+      "topic": "geometry",
+      "subtypes": [
+        "angles-in-rhombus",
+        "isosceles-triangle",
+        "angles-in-triangle"
+      ],
+      "stem": "JKLM is a rhombus. KLN and KLO are triangles. LM = MN.",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Rhombus JKLM with L on the left, M at the top, J on the right and K at the bottom. The diagonal KM is extended beyond M to N, and N is joined to L. Side KJ is extended beyond J to O, and O is joined to L; the line LO crosses side MJ. Angle MLO is 21° and angle MJK is 72°. The angle at N (LNM) and the angle at O are marked.",
+          "page": 29,
+          "box": [
+            245,
+            130,
+            623,
+            495
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "Find ∠LOK.",
+          "marks": 1,
+          "answer": {
+            "type": "number",
+            "value": "21",
+            "unit": "°"
+          },
+          "explanation": [
+            "In a rhombus, opposite sides are parallel, so LM is parallel to KJ. O is on the line KJ extended, so LM is parallel to KO.",
+            "∠LOK and ∠MLO are alternate angles between these parallel lines.",
+            "∠LOK = 21°.",
+            "(Check with triangle KLO: ∠MLK = 72°, so ∠OLK = 72° − 21° = 51°. ∠LKJ = 180° − 72° = 108°. ∠LOK = 180° − 108° − 51° = 21°.)"
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "Find ∠LNM.",
+          "marks": 2,
+          "answer": {
+            "type": "number",
+            "value": "27",
+            "unit": "°"
+          },
+          "explanation": [
+            "Angles next to each other in a rhombus add up to 180°: ∠LMJ = 180° − 72° = 108°.",
+            "The diagonal MK cuts ∠LMJ in half: ∠LMK = 108° ÷ 2 = 54°.",
+            "NMK is a straight line: ∠LMN = 180° − 54° = 126°.",
+            "LM = MN, so triangle LMN is isosceles: ∠LNM = (180° − 126°) ÷ 2 = 27°."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) 21°  b) 27°",
+        "solvedAnswer": "a) 21  b) 27",
+        "status": "verified",
+        "note": "The question number is cut off at the top of the scanned page; it is Question 8 by its position between Questions 7 and 9, and the key agrees. The figure shows N, M, K in a straight line and K, J, O in a straight line, which the working relies on."
+      }
+    },
+    {
+      "section": "p2",
+      "number": 9,
+      "page": 30,
+      "format": "structured",
+      "marks": 3,
+      "topic": "ratio",
+      "subtypes": [
+        "constant-total",
+        "changing-ratio"
+      ],
+      "stem": "Kai read part of a book in the morning. The ratio of the number of pages he read to the number of pages that were unread was 6 : 5. After reading another 195 pages of the book in the afternoon, Kai still had 10% of the book unread. How many pages were there in the book?",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "number",
+            "value": "550"
+          },
+          "explanation": [
+            "In the morning, read : unread = 6 : 5, so the book has 11 units.",
+            "In the end 10% was unread, so read : unread = 90 : 10 = 9 : 1, and the book has 10 units.",
+            "The number of pages in the book does not change, so make the totals the same (110): 6 : 5 = 60 : 50 and 9 : 1 = 99 : 11.",
+            "Pages read in the afternoon = 99 − 60 = 39 units = 195 pages, so 1 unit = 195 ÷ 39 = 5 pages.",
+            "Pages in the book = 110 × 5 = 550."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "550",
+        "solvedAnswer": "550",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 10,
+      "page": 31,
+      "format": "structured",
+      "marks": 3,
+      "topic": "rate-speed",
+      "subtypes": [
+        "meeting",
+        "distance-speed-time"
+      ],
+      "stem": "Town X and Town Y were 455 km apart. Sam left Town X for Town Y, travelling at a constant speed of 85 km/h. At the same time, Dan left Town Y for Town X, travelling along the same route at a constant speed of 90 km/h. How long had they travelled when they met each other? Express your answer in h and min. (Type your answer like this: 1 h 20 min.)",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "2 h 36 min",
+            "accept": [
+              "2 h 36 min",
+              "2h 36min",
+              "2h36min",
+              "2 h 36 m",
+              "2h 36 min",
+              "2 h 36min",
+              "2h 36m",
+              "2h36m",
+              "2 hr 36 min",
+              "2 hours 36 minutes",
+              "2 hours 36 min",
+              "2 hours and 36 minutes",
+              "2 h and 36 min",
+              "2 36",
+              "2:36"
+            ]
+          },
+          "explanation": [
+            "They travel towards each other, so every hour the distance between them shrinks by 85 + 90 = 175 km.",
+            "Time taken to meet = 455 ÷ 175 = 2.6 h.",
+            "0.6 h = 0.6 × 60 min = 36 min.",
+            "They had travelled for 2 h 36 min."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2 h 36 min",
+        "solvedAnswer": "2 h 36 min",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 11,
+      "page": 32,
+      "format": "structured",
+      "marks": 4,
+      "topic": "fractions",
+      "subtypes": [
+        "fraction-of-a-whole",
+        "assumption-method"
+      ],
+      "stem": "A fruit seller had some mangoes. He sold {2/5} of them and donated 104 of them. He was left with {1/3} of the mangoes and packed them into 24 bags. Some bags contained 4 mangoes each while the rest contained 6 mangoes each.",
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "How many mangoes were packed?",
+          "marks": 2,
+          "answer": {
+            "type": "number",
+            "value": "130"
+          },
+          "explanation": [
+            "Use the same denominator: sold {2/5} = {6/15}, left {1/3} = {5/15}.",
+            "Fraction donated = 1 − {6/15} − {5/15} = {4/15}.",
+            "{4/15} of the mangoes = 104, so {1/15} = 104 ÷ 4 = 26.",
+            "Mangoes packed = {5/15} = 5 × 26 = 130."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "How many bags contained 6 mangoes each?",
+          "marks": 2,
+          "answer": {
+            "type": "number",
+            "value": "17"
+          },
+          "explanation": [
+            "Assume all 24 bags contained 4 mangoes: 24 × 4 = 96 mangoes.",
+            "There are actually 130 mangoes: 130 − 96 = 34 more.",
+            "Each bag of 6 has 6 − 4 = 2 more mangoes than a bag of 4.",
+            "Number of bags with 6 mangoes = 34 ÷ 2 = 17.",
+            "Check: 17 × 6 + 7 × 4 = 102 + 28 = 130."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) 130  b) 17",
+        "solvedAnswer": "a) 130  b) 17",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 12,
+      "page": 33,
+      "format": "structured",
+      "marks": 5,
+      "topic": "circles",
+      "subtypes": [
+        "semicircles",
+        "quarter-circles",
+        "area-of-composite-figure"
+      ],
+      "stem": "The figure is made up of four identical quarter circles, two identical squares of sides 14 cm and a rectangle of breadth 19 cm. Four identical semicircles lie within the figure.",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A rounded figure. The middle is a rectangle 19 cm high that runs the full width. Above it is a square of side 14 cm with a quarter circle on each side of it; below the rectangle is the same arrangement upside down. Two semicircles stand side by side on the top edge of the rectangle, touching in the middle and reaching the left and right ends, and two more hang from the bottom edge. The four semicircles and the rectangle are unshaded. The parts of the top and bottom sections outside the semicircles are shaded.",
+          "page": 33,
+          "box": [
+            278,
+            160,
+            566,
+            407
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "Find the perimeter of the **unshaded** part. (Take π = 3.14)",
+          "marks": 2,
+          "answer": {
+            "type": "number",
+            "value": "169.88",
+            "unit": "cm"
+          },
+          "explanation": [
+            "Each quarter circle has radius 14 cm, the side of the square. Width of the figure = 14 + 14 + 14 = 42 cm.",
+            "Two semicircles fit across this width, so the diameter of each semicircle = 42 ÷ 2 = 21 cm.",
+            "The unshaded part is bounded by 4 semicircle curves and the 2 sides of the rectangle (19 cm each).",
+            "4 semicircle curves = 2 full circles = 2 × 3.14 × 21 = 131.88 cm.",
+            "Perimeter = 131.88 + 19 + 19 = 169.88 cm."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "Find the area of the shaded parts. (Take π = 3.14)",
+          "marks": 3,
+          "answer": {
+            "type": "number",
+            "value": "315.07",
+            "unit": "cm²"
+          },
+          "explanation": [
+            "Look at the top section: 2 quarter circles of radius 14 cm and 1 square of side 14 cm.",
+            "2 quarter circles = {1/2} × 3.14 × 14 × 14 = 307.72 cm². Square = 14 × 14 = 196 cm². Top section = 307.72 + 196 = 503.72 cm².",
+            "The 2 semicircles inside it make 1 full circle of radius 21 ÷ 2 = 10.5 cm: 3.14 × 10.5 × 10.5 = 346.185 cm².",
+            "Shaded area in the top section = 503.72 − 346.185 = 157.535 cm².",
+            "The bottom section is the same, so total shaded area = 2 × 157.535 = 315.07 cm²."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) 169.88 cm  b) 315.07 cm²",
+        "solvedAnswer": "a) 169.88  b) 315.07",
+        "status": "verified",
+        "note": "The question number is cut off at the top of the scanned page; it is Question 12 by its position between Questions 11 and 13, and the key agrees."
+      }
+    },
+    {
+      "section": "p2",
+      "number": 13,
+      "page": 34,
+      "format": "structured",
+      "marks": 5,
+      "topic": "volume",
+      "subtypes": [
+        "volume-of-cuboid",
+        "equal-water-level",
+        "taps-and-tanks"
+      ],
+      "stem": "Two rectangular tanks, Tank A and Tank B, are shown below.\n[[img1]]\nAt first, Tank A was {1/3}-filled with water and Tank B was empty.",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Tank A: 48 cm long, 20 cm wide and 36 cm high, partly filled with water, with a tap above it. Tank B: 60 cm long, 10 cm wide and 45 cm high, empty, with a tap above it.",
+          "page": 34,
+          "box": [
+            100,
+            145,
+            725,
+            400
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "What was the volume of water in Tank A at first?",
+          "marks": 2,
+          "answer": {
+            "type": "number",
+            "value": "11520",
+            "unit": "cm³"
+          },
+          "explanation": [
+            "Height of water = {1/3} × 36 = 12 cm.",
+            "Volume of water = 48 × 20 × 12 = 11 520 cm³."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "Both taps were then turned on at the same time. Water from both taps flowed at the same rate of 2.4 litres per minute. How long did it take for the height of the water in both tanks to be the same?",
+          "marks": 3,
+          "answer": {
+            "type": "number",
+            "value": "8",
+            "unit": "min"
+          },
+          "explanation": [
+            "2.4 litres = 2400 cm³, so each tank gets 2400 cm³ of water every minute.",
+            "Base area of Tank A = 48 × 20 = 960 cm². Its water level rises 2400 ÷ 960 = 2.5 cm every minute.",
+            "Base area of Tank B = 60 × 10 = 600 cm². Its water level rises 2400 ÷ 600 = 4 cm every minute.",
+            "Tank A starts 12 cm ahead. Every minute Tank B catches up by 4 − 2.5 = 1.5 cm.",
+            "Time taken = 12 ÷ 1.5 = 8 minutes.",
+            "Check: Tank A = 12 + 8 × 2.5 = 32 cm and Tank B = 8 × 4 = 32 cm, and neither tank is full yet."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) 11 520 cm³  b) 8 minutes",
+        "solvedAnswer": "a) 11520  b) 8",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 14,
+      "page": 35,
+      "format": "structured",
+      "marks": 4,
+      "topic": "geometry",
+      "subtypes": [
+        "angles-in-square",
+        "equilateral-triangle",
+        "isosceles-triangle"
+      ],
+      "stem": "In the figure, ABCD is a square. ABE is an equilateral triangle and DECF is a trapezium. DE is parallel to FC, and FDA is a straight line.",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Square ABCD with D at the top left, A at the top right, B at the bottom right and C at the bottom left. E is inside the square, joined to A, B, D and C, so that ABE is an equilateral triangle. F is to the left of D on the line AD extended, and F is joined to C. Angle DEC and angle DFC are marked.",
+          "page": 35,
+          "box": [
+            207,
+            175,
+            512,
+            422
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "Find ∠DEC.",
+          "marks": 2,
+          "answer": {
+            "type": "number",
+            "value": "150",
+            "unit": "°"
+          },
+          "explanation": [
+            "Each angle of the equilateral triangle ABE is 60°, so ∠DAE = 90° − 60° = 30°.",
+            "AE = AB = AD, so triangle ADE is isosceles: ∠AED = (180° − 30°) ÷ 2 = 75°.",
+            "In the same way, triangle BCE is isosceles with ∠CBE = 30°, so ∠BEC = 75°.",
+            "Angles at point E add up to 360°: ∠DEC = 360° − 60° − 75° − 75° = 150°."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "Find ∠DFC.",
+          "marks": 2,
+          "answer": {
+            "type": "number",
+            "value": "75",
+            "unit": "°"
+          },
+          "explanation": [
+            "From part (a), triangle ADE is isosceles, so ∠ADE = 75°.",
+            "∠EDC = 90° − 75° = 15°.",
+            "DE is parallel to FC, so ∠DCF = ∠EDC = 15° (alternate angles).",
+            "FDA is a straight line and ∠ADC = 90°, so ∠FDC = 90°.",
+            "In triangle FDC: ∠DFC = 180° − 90° − 15° = 75°."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) 150°  b) 75°",
+        "solvedAnswer": "a) 150  b) 75",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 15,
+      "page": 36,
+      "format": "structured",
+      "marks": 3,
+      "topic": "heuristics",
+      "subtypes": [
+        "patterns"
+      ],
+      "stem": "Selvi used rods to form figures that follow a pattern. The first four figures are shown.\n[[img1]]\n[[table1]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Figure 1: two squares made of rods, one on top of the other (7 rods). Figure 2: Figure 1 with one more square added to the right of the bottom square. Figure 3: two rows of two squares. Figure 4: Figure 3 with one more square added to the right of the bottom row. Each new figure adds one square, first to the bottom row and then to the top row.",
+          "page": 36,
+          "box": [
+            160,
+            170,
+            660,
+            305
+          ]
+        }
+      ],
+      "tables": [
+        {
+          "id": "table1",
+          "header": [
+            "Figure",
+            "Number of rods used"
+          ],
+          "rows": [
+            [
+              "1",
+              "7"
+            ],
+            [
+              "2",
+              "10"
+            ],
+            [
+              "3",
+              "12"
+            ],
+            [
+              "4",
+              "15"
+            ]
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "What is the difference between the number of rods used for Figure 7 and Figure 9?",
+          "marks": 1,
+          "answer": {
+            "type": "number",
+            "value": "5"
+          },
+          "explanation": [
+            "Look at how the rods increase: 7 to 10 is +3, 10 to 12 is +2, 12 to 15 is +3. The pattern is +3, +2, +3, +2, …",
+            "Going from an odd figure to the next even figure adds 3 rods, and from an even figure to the next odd figure adds 2 rods.",
+            "Figure 7 to Figure 8 adds 3 rods and Figure 8 to Figure 9 adds 2 rods.",
+            "Difference = 3 + 2 = 5 rods."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "How many rods would she use for Figure 99?",
+          "marks": 2,
+          "answer": {
+            "type": "number",
+            "value": "252"
+          },
+          "explanation": [
+            "Every 2 figures add 3 + 2 = 5 rods. So Figure 1 has 7, Figure 3 has 12, Figure 5 has 17, and so on.",
+            "From Figure 1 to Figure 99 is 99 − 1 = 98 figures further, which is 98 ÷ 2 = 49 jumps of 2 figures.",
+            "Rods added = 49 × 5 = 245.",
+            "Figure 99 = 7 + 245 = 252 rods."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) 5  b) 252",
+        "solvedAnswer": "a) 5  b) 252",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 16,
+      "page": 37,
+      "format": "structured",
+      "marks": 5,
+      "topic": "decimals",
+      "subtypes": [
+        "money",
+        "total-value"
+      ],
+      "stem": "Three girls, Mabel, Candy and Lilian, had the same number of coins. Mabel had only twenty-cent coins. Candy and Lilian each had a mix of twenty-cent and one-dollar coins. Candy had 36 one-dollar coins while Lilian had 13 one-dollar coins.",
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "Of the three girls, who had the least and who had the most amount of money? (Type the two names, least first and then most, separated by a comma.)",
+          "marks": 1,
+          "answer": {
+            "type": "text",
+            "value": "Least: Mabel, Most: Candy",
+            "accept": [
+              "mabel, candy",
+              "mabel,candy",
+              "mabel candy",
+              "mabel and candy",
+              "least: mabel, most: candy",
+              "least mabel, most candy",
+              "least mabel most candy"
+            ]
+          },
+          "explanation": [
+            "All three girls had the same number of coins.",
+            "A one-dollar coin is worth more than a twenty-cent coin, so the girl with more one-dollar coins had more money.",
+            "Mabel had no one-dollar coins, Lilian had 13 and Candy had 36.",
+            "Mabel had the least and Candy had the most."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "Candy used half of her one-dollar coins and some of her twenty-cent coins to buy a book that cost $20.40. How many twenty-cent coins did Candy use?",
+          "marks": 2,
+          "answer": {
+            "type": "number",
+            "value": "12"
+          },
+          "explanation": [
+            "Half of her one-dollar coins = 36 ÷ 2 = 18 coins = $18.",
+            "Amount paid with twenty-cent coins = $20.40 − $18 = $2.40.",
+            "Number of twenty-cent coins = $2.40 ÷ $0.20 = 12."
+          ]
+        },
+        {
+          "label": "c",
+          "prompt": "What was the difference in the total value of Mabel and Lilian's coins?",
+          "marks": 2,
+          "answer": {
+            "type": "number",
+            "value": "10.40",
+            "unit": "$",
+            "unitPos": "before"
+          },
+          "explanation": [
+            "Mabel and Lilian had the same number of coins. Match their coins one to one.",
+            "13 of Lilian's coins are one-dollar coins, matched with 13 of Mabel's twenty-cent coins. All their other coins are twenty-cent coins and are worth the same.",
+            "Each one-dollar coin is worth $1 − $0.20 = $0.80 more than a twenty-cent coin.",
+            "Difference = 13 × $0.80 = $10.40."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) Least: Mabel, Most: Candy  b) 12  c) $10.40",
+        "solvedAnswer": "a) Mabel, Candy  b) 12  c) 10.40",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 17,
+      "page": 38,
+      "format": "structured",
+      "marks": 4,
+      "topic": "fractions",
+      "subtypes": [
+        "units-and-parts",
+        "sum-and-difference"
+      ],
+      "stem": "There were 16 more students in Team A than in Team B in a competition. {1/4} of the students in Team A and {3/7} of the students in Team B were girls. The number of boys was twice the number of girls in the competition. How many boys were there altogether?",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "number",
+            "value": "160"
+          },
+          "explanation": [
+            "Team A: 1 unit of girls and 3 units of boys (4 units in all). Team B: 3 parts of girls and 4 parts of boys (7 parts in all).",
+            "Boys = 3 units + 4 parts. Girls = 1 unit + 3 parts, and twice the girls = 2 units + 6 parts.",
+            "Boys = twice the girls: 3 units + 4 parts = 2 units + 6 parts. Take away 2 units and 4 parts from both sides: 1 unit = 2 parts.",
+            "So Team A = 4 units = 8 parts and Team B = 7 parts. The difference is 1 part = 16 students.",
+            "Boys = 3 units + 4 parts = 6 parts + 4 parts = 10 parts = 10 × 16 = 160.",
+            "Check: Team A = 128 (32 girls, 96 boys), Team B = 112 (48 girls, 64 boys). Girls = 80, boys = 160 = 2 × 80."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "160",
+        "solvedAnswer": "160",
+        "status": "verified"
+      }
+    }
+  ]
+}

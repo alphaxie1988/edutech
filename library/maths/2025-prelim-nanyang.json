@@ -1,0 +1,2434 @@
+{
+  "paper": {
+    "id": "2025-prelim-nanyang",
+    "subject": "maths",
+    "year": 2025,
+    "exam": "Prelim",
+    "school": "Nanyang",
+    "schoolFull": "Nanyang Primary School",
+    "file": "PSLE-2025-P6-papers/Prelim/Maths/P6-2025-Prelim-Maths-Nanyang.pdf",
+    "coordDpi": 100
+  },
+  "questions": [
+    {
+      "section": "p1a",
+      "number": 1,
+      "page": 3,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "whole-numbers",
+      "subtypes": [
+        "rounding"
+      ],
+      "stem": "Round 31 899 to the nearest thousand.",
+      "options": [
+        "30 000",
+        "31 000",
+        "31 900",
+        "32 000"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 4
+          },
+          "explanation": [
+            "31 899 lies between 31 000 and 32 000.",
+            "Look at the hundreds digit. It is 8, which is 5 or more, so round up.",
+            "31 899 rounded to the nearest thousand is 32 000, option (4)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1a",
+      "number": 2,
+      "page": 3,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "decimals",
+      "subtypes": [
+        "place-value"
+      ],
+      "stem": "What does the digit 8 in 7.089 stand for?",
+      "options": [
+        "8 tens",
+        "8 tenths",
+        "8 hundredths",
+        "8 thousandths"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "After the decimal point the places are tenths, hundredths, thousandths.",
+            "In 7.089, the digit 0 is in the tenths place, 8 is in the hundredths place and 9 is in the thousandths place.",
+            "The digit 8 stands for 8 hundredths, option (3)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1a",
+      "number": 3,
+      "page": 4,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "decimals",
+      "subtypes": [
+        "reading-scales"
+      ],
+      "stem": "In the number line below, what is the value of A?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A number line marked 2.2, 2.3, 2.4 and 2.5 with five small intervals between each pair of marks. A is two small intervals after 2.4.",
+          "page": 4,
+          "box": [
+            200,
+            190,
+            680,
+            275
+          ]
+        }
+      ],
+      "options": [
+        "2.402",
+        "2.404",
+        "2.420",
+        "2.440"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 4
+          },
+          "explanation": [
+            "From 2.4 to 2.5 is 0.1, and it is divided into 5 small intervals.",
+            "Each small interval = 0.1 ÷ 5 = 0.02.",
+            "A is 2 small intervals after 2.4: 2.4 + 2 × 0.02 = 2.44.",
+            "2.44 is the same as 2.440, option (4)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1a",
+      "number": 4,
+      "page": 5,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "geometry",
+      "subtypes": [
+        "properties-of-shapes"
+      ],
+      "stem": "Which two lines in the square grid below are parallel to each other?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A square grid with points A, B, C, D, E, F, G, H and K joined by lines. AB goes 2 squares right and 1 up. BC goes 1 right and 2 down. DE goes 2 right and 2 down. AK goes 2 right and 3 down. FG goes 4 right and 6 down. HK goes 1 right and 1 up. FE and HG are also drawn.",
+          "page": 5,
+          "box": [
+            270,
+            145,
+            635,
+            410
+          ]
+        }
+      ],
+      "options": [
+        "AB and BC",
+        "BC and DE",
+        "AK and FG",
+        "AK and HK"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "Parallel lines have the same slant. Count how many squares each line goes across and down.",
+            "AK goes 2 squares right and 3 squares down. FG goes 4 squares right and 6 squares down, which is the same slant (double of 2 right and 3 down).",
+            "Check the others: AB and BC meet at B, BC (1 right, 2 down) and DE (2 right, 2 down) have different slants, and AK and HK meet at K.",
+            "AK and FG are parallel, option (3)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1a",
+      "number": 5,
+      "page": 6,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "geometry",
+      "subtypes": [
+        "angles-on-a-straight-line"
+      ],
+      "stem": "BOD is a straight line. ∠AOD = 100° and ∠BOC = 76°. Find ∠COD.",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Straight line BOD with B at the top right and D at the bottom left. OA goes up to the left and OC goes down to the right. Angle AOD is 100° and angle BOC is 76°. The angle COD is marked with an arc.",
+          "page": 6,
+          "box": [
+            280,
+            170,
+            480,
+            350
+          ]
+        }
+      ],
+      "options": [
+        "80°",
+        "92°",
+        "104°",
+        "124°"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "BOD is a straight line, so ∠BOC + ∠COD = 180°.",
+            "∠COD = 180° − 76° = 104°.",
+            "The answer is option (3)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1a",
+      "number": 6,
+      "page": 7,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "geometry",
+      "subtypes": [
+        "angles-in-trapezium",
+        "properties-of-shapes"
+      ],
+      "stem": "ABCD is a trapezium. AB is parallel to DC.\n[[img1]]\nWhich of the following is true?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Trapezium ABCD with the shorter side AB on top and the longer side DC at the bottom.",
+          "page": 7,
+          "box": [
+            280,
+            140,
+            615,
+            325
+          ]
+        }
+      ],
+      "options": [
+        "∠ABC = ∠ADC",
+        "∠BAD = ∠BCD",
+        "∠ABC + ∠BAD = 180°",
+        "∠BAD + ∠ADC = 180°"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 4
+          },
+          "explanation": [
+            "In a trapezium, each pair of angles between the two parallel sides adds up to 180°.",
+            "AB is parallel to DC. The side AD joins the parallel sides, so ∠BAD and ∠ADC are a pair of angles between the parallel sides.",
+            "∠BAD + ∠ADC = 180°, option (4)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1a",
+      "number": 7,
+      "page": 8,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "geometry",
+      "subtypes": [
+        "nets"
+      ],
+      "stem": "Which of the following is **not** a net of a cube?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Four figures made of 6 squares each, labelled (1) to (4). Figure (1): a column of 3 squares with one square on its right in the middle, one square on the left of its top square and one more square above that. Figure (2): a row of 3 squares with 2 squares above its left and middle squares and 1 square below its middle square. Figure (3): a staircase of three pairs of squares. Figure (4): a column of 3 squares joined at the bottom to another column of 3 squares that goes further down.",
+          "page": 8,
+          "box": [
+            210,
+            180,
+            360,
+            760
+          ]
+        }
+      ],
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "A net of a cube has 6 squares that fold up without any two squares landing on the same face.",
+            "Figure (2) has 4 squares that form a 2 by 2 block. Four squares meeting at one corner cannot be folded into a cube, because a cube has only 3 faces at each corner.",
+            "Figures (1), (3) and (4) can each be folded so that the 6 squares cover the 6 faces.",
+            "Figure (2) is not a net of a cube, option (2)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1a",
+      "number": 8,
+      "page": 9,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "algebra",
+      "subtypes": [
+        "algebra-word-problem",
+        "solving-equations"
+      ],
+      "stem": "A fish burger cost $m. A beef burger cost $(m + 1). The total cost of 4 fish burgers and 1 beef burger is $21. Find the cost of 1 beef burger.",
+      "options": [
+        "$5",
+        "$4.40",
+        "$4.20",
+        "$4"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 1
+          },
+          "explanation": [
+            "4 fish burgers cost 4 × m = $4m. 1 beef burger costs $(m + 1).",
+            "Total: 4m + m + 1 = 5m + 1 = 21.",
+            "5m = 21 − 1 = 20, so m = 20 ÷ 5 = 4.",
+            "1 beef burger = m + 1 = 4 + 1 = $5, option (1)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "1",
+        "solvedAnswer": "1",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1a",
+      "number": 9,
+      "page": 10,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "data",
+      "subtypes": [
+        "pie-chart",
+        "bar-graph",
+        "fraction-of-a-whole"
+      ],
+      "stem": "The pie chart below represents the number of mango, vanilla and durian ice creams sold.\n[[img1]]\nThe number of ice creams sold is also represented by the bar graph below. The bar for the number of vanilla ice creams sold has not been drawn.\n[[img2]]\nHow many vanilla ice creams were sold?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Pie chart with three sectors: Durian, Mango and Vanilla. The Vanilla sector is marked with a right angle, so it is a quarter of the circle.",
+          "page": 10,
+          "box": [
+            360,
+            170,
+            550,
+            355
+          ]
+        },
+        {
+          "id": "img2",
+          "alt": "Bar graph of number of ice creams sold, with the scale marked 0, 50, 100, 150, 200, 250, 300 and five small intervals between marks. The Mango bar reaches 270 and the Durian bar reaches 210. There is no bar for Vanilla.",
+          "page": 10,
+          "box": [
+            240,
+            400,
+            650,
+            755
+          ]
+        }
+      ],
+      "options": [
+        "70",
+        "90",
+        "120",
+        "160"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 4
+          },
+          "explanation": [
+            "On the bar graph, 50 is divided into 5 small intervals, so each small interval is 10. Mango = 270 and Durian = 210.",
+            "Mango + Durian = 270 + 210 = 480.",
+            "The Vanilla sector has a right angle, so Vanilla is {1/4} of the ice creams and Mango and Durian together are {3/4}.",
+            "{3/4} of the total = 480, so {1/4} of the total = 480 ÷ 3 = 160.",
+            "160 vanilla ice creams were sold, option (4)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1a",
+      "number": 10,
+      "page": 11,
+      "format": "mcq",
+      "marks": 1,
+      "topic": "measurement",
+      "subtypes": [
+        "estimation"
+      ],
+      "stem": "The figure below shows a slide in a playground. Which of the following is likely to be the height of the slide?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A boy sliding down a playground slide that has a ladder at the back.",
+          "page": 11,
+          "box": [
+            310,
+            170,
+            600,
+            410
+          ]
+        }
+      ],
+      "options": [
+        "2.5 cm",
+        "25 cm",
+        "2.5 m",
+        "25 m"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "A playground slide is taller than a child. A child is about 1 m to 1.5 m tall.",
+            "2.5 cm and 25 cm are shorter than a ruler, and 25 m is as tall as a building of about 8 storeys.",
+            "2.5 m is a sensible height for a slide, option (3)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1a",
+      "number": 11,
+      "page": 12,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "fractions",
+      "subtypes": [
+        "comparing-fractions"
+      ],
+      "stem": "Arrange the following fractions from the largest to the smallest.\n{11/5}, 2{4/9}, {5/2}",
+      "options": [
+        "{5/2}, 2{4/9}, {11/5}",
+        "{5/2}, {11/5}, 2{4/9}",
+        "{11/5}, {5/2}, 2{4/9}",
+        "{11/5}, 2{4/9}, {5/2}"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 1
+          },
+          "explanation": [
+            "Change the improper fractions to mixed numbers: {11/5} = 2{1/5} and {5/2} = 2{1/2}.",
+            "All three have 2 wholes, so compare the fraction parts: {1/5}, {4/9} and {1/2}.",
+            "{4/9} is a little less than {1/2} (because {1/2} = {4.5/9}), and {1/5} is the smallest of the three ({1/5} = {9/45} and {4/9} = {20/45}).",
+            "From the largest to the smallest: {5/2}, 2{4/9}, {11/5}. This is option (1)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "1",
+        "status": "verified",
+        "note": "Resolved on review (answer differs from or goes beyond the printed key; the stored answer was re-checked): The answer key gives option (4), which lists the fractions as 11/5, 2 4/9, 5/2. That is the order from the smallest to the largest (2.2, 2.44..., 2.5), the opposite of what the question asks. The question and the column headings 'Largest' and 'Smallest' were checked at high zoom. The solved answer, option (1), is used here; the key appears to be wrong."
+      }
+    },
+    {
+      "section": "p1a",
+      "number": 12,
+      "page": 13,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "geometry",
+      "subtypes": [
+        "direction-and-turns"
+      ],
+      "stem": "The square grid below shows the position of six points.\n[[img1]]\nOlivia stood at a point south-west of P and south-east of Q. She was facing Q and then she turned 135° clockwise. What point did she face in the end?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A 5 by 5 square grid with a north arrow pointing up. P is on the top line, 4 squares from the left. Q is 1 square from the left and 1 square down. R is 2 squares from the left and 2 squares down. S is 4 squares from the left and 2 squares down. T is 1 square from the left and 3 squares down. U is 2 squares from the left and 4 squares down.",
+          "page": 13,
+          "box": [
+            320,
+            155,
+            625,
+            405
+          ]
+        }
+      ],
+      "options": [
+        "R",
+        "S",
+        "T",
+        "U"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "South-west of P means going diagonally down to the left from P. South-east of Q means going diagonally down to the right from Q.",
+            "The two diagonal lines meet at R (2 squares left and 2 squares down from P; 1 square right and 1 square down from Q). So Olivia stood at R.",
+            "Facing Q from R, she faced north-west.",
+            "135° = 45° × 3. Turning clockwise from north-west: north (45°), north-east (90°), east (135°). She ended facing east.",
+            "The point to the east of R is S, option (2)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1a",
+      "number": 13,
+      "page": 14,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "decimals",
+      "subtypes": [
+        "reading-scales",
+        "comparing-decimals"
+      ],
+      "stem": "The diagrams below show the readings shown on the weighing scales A, B and C.\n[[img1]]\nWhich scale has the heaviest mass placed on it and which scale has the lightest mass placed on it?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Three weighing-scale windows. Scale A and Scale B are marked 14 kg and 16 kg with a long line for every kilogram and five small intervals in each kilogram. On Scale A the pointer is 2 small intervals after 15 kg. On Scale B the pointer is 1 small interval before 16 kg. Scale C is marked 15 kg and 16 kg with ten small intervals between them, and its pointer is 5 small intervals after 15 kg.",
+          "page": 14,
+          "box": [
+            220,
+            195,
+            665,
+            280
+          ]
+        }
+      ],
+      "options": [
+        "Heaviest: B, Lightest: A",
+        "Heaviest: B, Lightest: C",
+        "Heaviest: C, Lightest: A",
+        "Heaviest: C, Lightest: B"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 1
+          },
+          "explanation": [
+            "Scales A and B: each kilogram is divided into 5 small intervals, so each small interval is 1 ÷ 5 = 0.2 kg.",
+            "Scale A: the pointer is 2 small intervals after 15 kg, so it reads 15 + 0.4 = 15.4 kg.",
+            "Scale B: the pointer is 1 small interval before 16 kg, so it reads 16 − 0.2 = 15.8 kg.",
+            "Scale C: each kilogram is divided into 10 small intervals, so each is 0.1 kg. The pointer is 5 small intervals after 15 kg: 15.5 kg.",
+            "15.8 kg is the heaviest (B) and 15.4 kg is the lightest (A). This is option (1)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "1",
+        "solvedAnswer": "1",
+        "status": "verified",
+        "note": "The scales are small in the scan; the readings 15.4 kg (A), 15.8 kg (B) and 15.5 kg (C) were read at high zoom."
+      }
+    },
+    {
+      "section": "p1a",
+      "number": 14,
+      "page": 14,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "ratio",
+      "subtypes": [
+        "fraction-and-ratio",
+        "equivalent-ratio"
+      ],
+      "stem": "Bernice has three ropes, J, K and L. The ratio of the length of Rope J to the length of Rope K is 5 : 8. Rope K is {4/9} as long as Rope L. What is the ratio of the length of Rope J to the length of Rope L?",
+      "options": [
+        "8 : 9",
+        "5 : 9",
+        "8 : 18",
+        "5 : 18"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 4
+          },
+          "explanation": [
+            "J : K = 5 : 8.",
+            "K is {4/9} of L, so K : L = 4 : 9.",
+            "Make K the same in both ratios. K is 8 units in the first ratio, so multiply the second ratio by 2: K : L = 8 : 18.",
+            "J : K : L = 5 : 8 : 18, so J : L = 5 : 18, option (4)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1a",
+      "number": 15,
+      "page": 15,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "heuristics",
+      "subtypes": [
+        "patterns"
+      ],
+      "stem": "A table with 4 columns is filled with numbers in a certain pattern. The first six rows of the table are shown below. (The empty cells are shaded on the paper.)\n[[table1]]\nIn which column will the number 257 appear?",
+      "tables": [
+        {
+          "id": "table1",
+          "header": [
+            "",
+            "Column A",
+            "Column B",
+            "Column C",
+            "Column D"
+          ],
+          "rows": [
+            [
+              "Row 1",
+              "",
+              "1",
+              "",
+              "2"
+            ],
+            [
+              "Row 2",
+              "4",
+              "",
+              "3",
+              ""
+            ],
+            [
+              "Row 3",
+              "",
+              "5",
+              "",
+              "6"
+            ],
+            [
+              "Row 4",
+              "8",
+              "",
+              "7",
+              ""
+            ],
+            [
+              "Row 5",
+              "",
+              "9",
+              "",
+              "10"
+            ],
+            [
+              "Row 6",
+              "12",
+              "",
+              "11",
+              ""
+            ],
+            [
+              "⋮",
+              "⋮",
+              "⋮",
+              "⋮",
+              "⋮"
+            ]
+          ]
+        }
+      ],
+      "options": [
+        "Column A",
+        "Column B",
+        "Column C",
+        "Column D"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "The pattern repeats after every 4 numbers: 1 is in Column B, 2 in Column D, 3 in Column C and 4 in Column A. Then 5 is in Column B again, 6 in D, 7 in C, 8 in A.",
+            "So look at the remainder when the number is divided by 4. Remainder 1: Column B. Remainder 2: Column D. Remainder 3: Column C. No remainder: Column A.",
+            "257 ÷ 4 = 64 remainder 1.",
+            "A remainder of 1 means Column B, option (2)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1b",
+      "number": 16,
+      "page": 19,
+      "format": "short",
+      "marks": 1,
+      "topic": "fractions",
+      "subtypes": [
+        "fraction-of-a-whole"
+      ],
+      "stem": "Ming baked 32 cupcakes. He gave {5/8} of the cupcakes to his friend. How many cupcakes did he give to his friend?",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "number",
+            "value": "20"
+          },
+          "explanation": [
+            "{1/8} of 32 = 32 ÷ 8 = 4.",
+            "{5/8} of 32 = 5 × 4 = 20.",
+            "He gave 20 cupcakes to his friend."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "20",
+        "solvedAnswer": "20",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1b",
+      "number": 17,
+      "page": 19,
+      "format": "short",
+      "marks": 1,
+      "topic": "measurement",
+      "subtypes": [
+        "unit-conversion"
+      ],
+      "stem": "Convert 72.5 centimetres to metres.",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "number",
+            "value": "0.725",
+            "unit": "m"
+          },
+          "explanation": [
+            "100 cm = 1 m, so divide the number of centimetres by 100.",
+            "72.5 ÷ 100 = 0.725.",
+            "72.5 cm = 0.725 m."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "0.725 m",
+        "solvedAnswer": "0.725",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1b",
+      "number": 18,
+      "page": 20,
+      "format": "short",
+      "marks": 1,
+      "topic": "geometry",
+      "subtypes": [
+        "symmetry",
+        "drawing"
+      ],
+      "stem": "There are 9 shaded squares in the figure below. Shade 3 more squares to form a symmetric figure with AB as the line of symmetry. (Draw the figure on your canvas and shade the squares, then check.)",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A 5 by 5 grid of squares with a dotted line AB from the bottom-left corner A to the top-right corner B. Counting rows from the top and columns from the left, the shaded squares are: row 1 columns 2 and 3; row 2 columns 1 and 2; row 3 columns 1, 4 and 5; row 4 column 4; row 5 column 3.",
+          "page": 20,
+          "box": [
+            325,
+            210,
+            560,
+            465
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "self",
+            "value": "Counting rows from the top and columns from the left, shade these 3 squares: row 2 column 3, row 4 column 5 and row 5 column 4."
+          },
+          "explanation": [
+            "Line AB goes from the bottom-left corner to the top-right corner. Every shaded square must have a matching shaded square on the other side of AB, the same distance from the line.",
+            "Flip each shaded square over AB. A square in row r, column c lands on row (6 − c), column (6 − r).",
+            "Row 1 column 3 matches row 3 column 5, row 2 column 2 matches row 4 column 4, and row 3 column 1 matches row 5 column 3. These pairs are already shaded.",
+            "Three shaded squares have no partner yet: row 1 column 2 needs row 4 column 5, row 2 column 1 needs row 5 column 4, and row 3 column 4 needs row 2 column 3.",
+            "Shade row 2 column 3, row 4 column 5 and row 5 column 4."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "Figure with row 2 column 3, row 4 column 5 and row 5 column 4 shaded",
+        "solvedAnswer": "row 2 column 3, row 4 column 5, row 5 column 4",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1b",
+      "number": 19,
+      "page": 21,
+      "format": "short",
+      "marks": 1,
+      "topic": "volume",
+      "subtypes": [
+        "unit-cubes",
+        "drawing"
+      ],
+      "stem": "The solid below is made up of 7 cubes.\n[[img1]]\nDraw the front view of the solid on the grid below. (Draw it on your canvas, then check.)",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A solid of 7 cubes drawn on dot paper, with arrows showing the top view, front view and side view. Seen from the front there are two columns. In the left column there are 2 cubes on the floor in a line going towards the back, then a gap of one cube, then a stack of 2 cubes at the back. In the right column there is a row of 3 cubes on the floor, starting one cube further back than the left column and ending beside the stack.",
+          "page": 21,
+          "box": [
+            245,
+            195,
+            650,
+            500
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "self",
+            "value": "An L-shape made of 3 squares: 2 squares side by side in the bottom row, and 1 more square on top of the left square."
+          },
+          "explanation": [
+            "From the front we see only how wide and how tall the solid is, not how far back the cubes go.",
+            "The solid is 2 cubes wide when seen from the front.",
+            "On the left side, the tallest stack (at the back) is 2 cubes high, so the left column of the front view is 2 squares high.",
+            "On the right side, all the cubes are 1 cube high, so the right column is 1 square high.",
+            "The front view is an L-shape: 2 squares in the bottom row and 1 square on top of the left square."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "L-shape: 2 squares at the bottom, 1 square on top of the left square",
+        "solvedAnswer": "L-shape: 2 squares at the bottom, 1 square on top of the left square",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1b",
+      "number": 20,
+      "page": 22,
+      "format": "short",
+      "marks": 1,
+      "topic": "volume",
+      "subtypes": [
+        "unit-cubes",
+        "volume-of-cuboid"
+      ],
+      "stem": "The structure below is made up of identical cubes. Without rearranging the cubes, what is the least number of such cubes that must be added to make the structure into a cuboid?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Cubes placed in the corner of a room. At the corner there is a stack 3 cubes high. In front of it is a stack 2 cubes high, then 1 cube in front of that, and 1 more cube further forward and one place to the right. To the right of the corner stack is a stack 2 cubes high, then 2 single cubes in a row along the back wall, and 1 more cube at the right end, one place forward. The structure is 5 cubes long, 4 cubes deep and 3 cubes high.",
+          "page": 22,
+          "box": [
+            265,
+            260,
+            680,
+            585
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "number",
+            "value": "48"
+          },
+          "explanation": [
+            "Count the cubes. Corner stack: 3. Stack in front of it: 2. Next cube in front: 1. Front-most cube: 1. Stack on the right of the corner: 2. Two single cubes along the back: 2. Cube at the right end: 1.",
+            "Total = 3 + 2 + 1 + 1 + 2 + 2 + 1 = 12 cubes.",
+            "The smallest cuboid that holds the structure is 5 cubes long (corner stack to the right-end cube), 4 cubes deep (corner stack to the front-most cube) and 3 cubes high.",
+            "Cubes in the cuboid = 5 × 4 × 3 = 60.",
+            "Cubes to add = 60 − 12 = 48."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "48",
+        "solvedAnswer": "48",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1b",
+      "number": 21,
+      "page": 23,
+      "format": "short",
+      "marks": 2,
+      "topic": "whole-numbers",
+      "subtypes": [
+        "factors-and-multiples"
+      ],
+      "stem": "Write down all the common factors of 18 and 45. (Type the factors separated by commas.)",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "1, 3, 9",
+            "accept": [
+              "1, 3, 9",
+              "1,3,9",
+              "1 3 9",
+              "1, 3 and 9",
+              "1 3 and 9",
+              "1,3 and 9",
+              "1, 3, and 9",
+              "9, 3, 1",
+              "9,3,1",
+              "9 3 1",
+              "1, 9, 3",
+              "1,9,3",
+              "3, 1, 9",
+              "3,1,9",
+              "3, 9, 1",
+              "3,9,1",
+              "9, 1, 3",
+              "9,1,3"
+            ]
+          },
+          "explanation": [
+            "Factors of 18: 1, 2, 3, 6, 9, 18.",
+            "Factors of 45: 1, 3, 5, 9, 15, 45.",
+            "The numbers in both lists are 1, 3 and 9.",
+            "The common factors of 18 and 45 are 1, 3 and 9."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "1, 3, 9",
+        "solvedAnswer": "1, 3, 9",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1b",
+      "number": 22,
+      "page": 23,
+      "format": "short",
+      "marks": 2,
+      "topic": "decimals",
+      "subtypes": [
+        "multiplying-decimals"
+      ],
+      "stem": "Find the value of",
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "5.1 − 3.89",
+          "marks": 1,
+          "answer": {
+            "type": "number",
+            "value": "1.21"
+          },
+          "explanation": [
+            "Write 5.1 as 5.10 so that both numbers have 2 decimal places.",
+            "5.10 − 3.89: first 5.10 − 3 = 2.10, then 2.10 − 0.89 = 1.21.",
+            "The answer is 1.21."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "2.02 × 2000",
+          "marks": 1,
+          "answer": {
+            "type": "number",
+            "value": "4040"
+          },
+          "explanation": [
+            "2.02 × 2 = 4.04.",
+            "4.04 × 1000 = 4040.",
+            "The answer is 4040."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) 1.21  b) 4040",
+        "solvedAnswer": "a) 1.21  b) 4040",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1b",
+      "number": 23,
+      "page": 24,
+      "format": "short",
+      "marks": 2,
+      "topic": "measurement",
+      "subtypes": [
+        "duration"
+      ],
+      "stem": "The opening hours of KOLA Restaurant are shown below. How long is the restaurant open each day? Give your answer in hours and minutes. (Type the hours and minutes, for example: 3 h 20 min)",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A sign that reads: KOLA Restaurant. Open daily 12.15 p.m. to 11.30 p.m. (Closed from 2.30 p.m. to 5 p.m.)",
+          "page": 24,
+          "box": [
+            285,
+            195,
+            620,
+            360
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "8 h 45 min",
+            "accept": [
+              "8 h 45 min",
+              "8h 45min",
+              "8h45min",
+              "8 h 45 mins",
+              "8h 45mins",
+              "8 hours 45 minutes",
+              "8 hours and 45 minutes",
+              "8 hr 45 min",
+              "8hr 45min",
+              "8 h 45 m",
+              "8h45m",
+              "8h 45m",
+              "8, 45",
+              "8,45",
+              "8 45",
+              "8:45"
+            ]
+          },
+          "explanation": [
+            "From 12.15 p.m. to 11.15 p.m. is 11 hours. From 11.15 p.m. to 11.30 p.m. is 15 minutes. So from opening to closing is 11 h 15 min.",
+            "The restaurant is closed from 2.30 p.m. to 5 p.m., which is 2 h 30 min.",
+            "11 h 15 min − 2 h 30 min: 11 h 15 min − 2 h = 9 h 15 min, then 9 h 15 min − 30 min = 8 h 45 min.",
+            "The restaurant is open for 8 h 45 min each day."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "8 h 45 min",
+        "solvedAnswer": "8 h 45 min",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1b",
+      "number": 24,
+      "page": 24,
+      "format": "short",
+      "marks": 2,
+      "topic": "percentage",
+      "subtypes": [
+        "percentage-change"
+      ],
+      "stem": "Last year, the population of Town X was 5600. This year, the population of Town X has increased to 6300. What is the percentage increase in the population of Town X?",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "number",
+            "value": "12.5",
+            "unit": "%"
+          },
+          "explanation": [
+            "Increase = 6300 − 5600 = 700.",
+            "Compare the increase with last year's population: {700/5600} = {1/8}.",
+            "{1/8} × 100% = 12.5%.",
+            "The percentage increase is 12.5%."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "12.5%",
+        "solvedAnswer": "12.5",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1b",
+      "number": 25,
+      "page": 25,
+      "format": "short",
+      "marks": 2,
+      "topic": "whole-numbers",
+      "subtypes": [
+        "units-and-parts",
+        "four-operations-word-problem"
+      ],
+      "stem": "Dan packed 840 books into 2 crates and 3 boxes. The number of books he packed into each crate was twice as many as the number of books he packed into each box. How many books did he pack into each box?",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "number",
+            "value": "120"
+          },
+          "explanation": [
+            "Let the books in 1 box be 1 unit. Then 1 crate holds 2 units.",
+            "2 crates = 2 × 2 = 4 units. 3 boxes = 3 units. Total = 4 + 3 = 7 units.",
+            "7 units = 840, so 1 unit = 840 ÷ 7 = 120.",
+            "He packed 120 books into each box."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "120",
+        "solvedAnswer": "120",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1b",
+      "number": 26,
+      "page": 25,
+      "format": "short",
+      "marks": 2,
+      "topic": "fractions",
+      "subtypes": [
+        "fraction-operations"
+      ],
+      "stem": "There was {3/8} ℓ of water in a tank at first. Xiao Ming poured {3/5} ℓ of water into the tank and used {5/8} ℓ of water from the tank to wash the dishes. How much water was left in the tank?",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "fraction",
+            "value": "7/20",
+            "unit": "ℓ"
+          },
+          "explanation": [
+            "Water after pouring in: {3/8} + {3/5}. Use the common denominator 40: {15/40} + {24/40} = {39/40} ℓ.",
+            "Water used: {5/8} = {25/40} ℓ.",
+            "Water left = {39/40} − {25/40} = {14/40} ℓ.",
+            "Simplify: {14/40} = {7/20}. There was {7/20} ℓ of water left."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "14/40 (= 7/20)",
+        "solvedAnswer": "7/20",
+        "status": "verified",
+        "note": "The key leaves the answer as 14/40; it is given here in simplest form, 7/20. The app compares fractions by value."
+      }
+    },
+    {
+      "section": "p1b",
+      "number": 27,
+      "page": 26,
+      "format": "short",
+      "marks": 2,
+      "topic": "fractions",
+      "subtypes": [
+        "fraction-operations"
+      ],
+      "stem": "Ahmad had 13 m of string. He used it to make as many bracelets as he could. He used {3/5} m of string to make each bracelet. How many metres of the string was left?",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "fraction",
+            "value": "2/5",
+            "unit": "m"
+          },
+          "explanation": [
+            "Change 13 m into fifths: 13 = {65/5} m.",
+            "Each bracelet uses {3/5} m, so divide 65 fifths by 3 fifths: 65 ÷ 3 = 21 remainder 2.",
+            "He made 21 bracelets and 2 fifths of a metre was left.",
+            "{2/5} m of string was left (the same as 0.4 m)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2/5",
+        "solvedAnswer": "2/5",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1b",
+      "number": 28,
+      "page": 27,
+      "format": "short",
+      "marks": 2,
+      "topic": "geometry",
+      "subtypes": [
+        "isosceles-triangle",
+        "angles-on-a-straight-line"
+      ],
+      "stem": "ABE and BCD are triangles. ABC is a straight line. AB = BE and BD = CD. ∠EBD = 73° and ∠BCD = 55°. Find ∠BEA.",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Vertical straight line ABC with A at the top, B in the middle and C at the bottom. Triangle ABE is on the left of AB with E to the upper left of B. Triangle BCD is on the left of BC with D to the left. Angle EBD is 73° and angle BCD is 55°. The angle BEA is marked with an arc.",
+          "page": 27,
+          "box": [
+            318,
+            183,
+            482,
+            437
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "number",
+            "value": "64",
+            "unit": "°"
+          },
+          "explanation": [
+            "BD = CD, so triangle BCD is isosceles and ∠DBC = ∠BCD = 55°.",
+            "ABC is a straight line, so ∠ABE = 180° − 73° − 55° = 52°.",
+            "AB = BE, so triangle ABE is isosceles and ∠BEA = ∠BAE.",
+            "∠BEA = (180° − 52°) ÷ 2 = 128° ÷ 2 = 64°."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "64°",
+        "solvedAnswer": "64",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1b",
+      "number": 29,
+      "page": 28,
+      "format": "short",
+      "marks": 2,
+      "topic": "geometry",
+      "subtypes": [
+        "angles-in-rhombus",
+        "isosceles-triangle"
+      ],
+      "stem": "ABCD is a rhombus and BC = CF. BED and FEC are straight lines. ∠BFE = 80° and ∠BAD = 75°. Find ∠FBE.",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Rhombus ABCD with A on the left, B at the top, C on the right and D at the bottom. Diagonal BD is drawn. F is a point inside the rhombus to the left of BD. F is joined to B, and line FC crosses BD at E. Angle BAD is 75° and angle BFE is 80°. The angle at C is marked with an arc.",
+          "page": 28,
+          "box": [
+            245,
+            215,
+            680,
+            525
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "number",
+            "value": "27.5",
+            "unit": "°"
+          },
+          "explanation": [
+            "Opposite angles of a rhombus are equal, so ∠BCD = ∠BAD = 75°.",
+            "All sides of a rhombus are equal, so CB = CD and triangle BCD is isosceles: ∠CBD = (180° − 75°) ÷ 2 = 52.5°.",
+            "BC = CF, so triangle BCF is isosceles: ∠CBF = ∠BFC = 80°.",
+            "∠FBE = ∠CBF − ∠CBD = 80° − 52.5° = 27.5°."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "27.5°",
+        "solvedAnswer": "27.5",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p1b",
+      "number": 30,
+      "page": 29,
+      "format": "short",
+      "marks": 2,
+      "topic": "algebra",
+      "subtypes": [
+        "forming-expressions",
+        "evaluating-expressions"
+      ],
+      "stem": "The mass of Parcel P is x kg. The mass of Parcel Q is 3x kg. Parcel R is 3 kg lighter than Parcel Q. If x = 12, find the total mass of the 3 parcels.",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "number",
+            "value": "81",
+            "unit": "kg"
+          },
+          "explanation": [
+            "Parcel P = x kg, Parcel Q = 3x kg, Parcel R = (3x − 3) kg.",
+            "Total = x + 3x + 3x − 3 = (7x − 3) kg.",
+            "When x = 12: 7 × 12 − 3 = 84 − 3 = 81.",
+            "The total mass is 81 kg."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "81 kg",
+        "solvedAnswer": "81",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 1,
+      "page": 33,
+      "format": "structured",
+      "marks": 2,
+      "topic": "algebra",
+      "subtypes": [
+        "algebra-word-problem",
+        "sum-and-difference"
+      ],
+      "stem": "Jaslyn had w stickers. Krishna had 34 more stickers than Jaslyn. They had 128 stickers altogether. How many stickers did Krishna have?",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "number",
+            "value": "81"
+          },
+          "explanation": [
+            "Jaslyn had w stickers and Krishna had (w + 34) stickers.",
+            "w + w + 34 = 128, so 2w = 128 − 34 = 94.",
+            "w = 94 ÷ 2 = 47.",
+            "Krishna had 47 + 34 = 81 stickers."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "81",
+        "solvedAnswer": "81",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 2,
+      "page": 33,
+      "format": "structured",
+      "marks": 2,
+      "topic": "rate-speed",
+      "subtypes": [
+        "part-thereof-charges",
+        "duration"
+      ],
+      "stem": "The following table shows the parking charges at a carpark.\n[[table1]]\nReisha parked her car from 8.15 p.m. to 11.00 p.m. on Tuesday. How much did she have to pay?",
+      "tables": [
+        {
+          "id": "table1",
+          "header": [
+            {
+              "t": "Parking Charges",
+              "colspan": 2
+            }
+          ],
+          "rows": [
+            [
+              "For the first hour or less",
+              "$2.70"
+            ],
+            [
+              "For every additional {1/2} hour or less",
+              "$1.20"
+            ]
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "number",
+            "value": "7.50",
+            "unit": "$",
+            "unitPos": "before"
+          },
+          "explanation": [
+            "From 8.15 p.m. to 11.00 p.m. is 2 h 45 min.",
+            "First hour (8.15 p.m. to 9.15 p.m.): $2.70.",
+            "Time left = 1 h 45 min. That is 3 full half-hours and 15 minutes more. The extra 15 minutes is charged as another half-hour ('or less'), so 4 half-hours.",
+            "4 × $1.20 = $4.80.",
+            "Total = $2.70 + $4.80 = $7.50."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "$7.50",
+        "solvedAnswer": "7.50",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 3,
+      "page": 34,
+      "format": "structured",
+      "marks": 2,
+      "topic": "data",
+      "subtypes": [
+        "average"
+      ],
+      "stem": "A museum is open to visitors seven days a week. The total number of visitors to the museum from Monday to Friday last week was 1557. The average number of visitors on Monday and Tuesday last week was fewer than the average number of visitors from Wednesday to Friday last week.\nEach of the statements below is either true, false or not possible to tell from the information given. For each statement, put a tick (✓) to indicate your answer.\n[[table1]]\n(Type your three answers in order, separated by commas. Use T for True, F for False and N for Not possible to tell, for example: T, T, N)",
+      "tables": [
+        {
+          "id": "table1",
+          "header": [
+            "Statement",
+            "True",
+            "False",
+            "Not possible to tell"
+          ],
+          "rows": [
+            [
+              "The average number of visitors from Monday to Friday last week was 311.4 visitors.",
+              "",
+              "",
+              ""
+            ],
+            [
+              "The average number of visitors from Monday to Sunday last week was 313.5 visitors.",
+              "",
+              "",
+              ""
+            ],
+            [
+              "The average number of visitors from Wednesday to Friday was fewer than 312.",
+              "",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "text",
+            "value": "T, F, N",
+            "accept": [
+              "t, f, n",
+              "t,f,n",
+              "t f n",
+              "tfn",
+              "true, false, not possible to tell",
+              "true,false,not possible to tell",
+              "true, false, not possible",
+              "true false not possible to tell",
+              "t, f, not possible to tell"
+            ]
+          },
+          "explanation": [
+            "Statement 1: average from Monday to Friday = 1557 ÷ 5 = 311.4. The statement is True.",
+            "Statement 2: if the average for the 7 days were 313.5, the total would be 313.5 × 7 = 2194.5 visitors. The number of visitors must be a whole number, so this is impossible. The statement is False.",
+            "Statement 3: the Monday and Tuesday average is lower than the Wednesday to Friday average, so the Wednesday to Friday average is more than 311.4. It could be below 312 (for example a total of 935 gives about 311.7) or 312 and above (for example a total of 936 gives exactly 312). It is Not possible to tell.",
+            "The answers are True, False, Not possible to tell (T, F, N)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "True, False, Not possible to tell",
+        "solvedAnswer": "True, False, Not possible to tell",
+        "status": "verified",
+        "note": "Statement 2 was first solved as 'Not possible to tell' because nothing is given about Saturday and Sunday. On re-solving, an average of 313.5 over 7 days needs a total of 2194.5 visitors, which is not a whole number, so the key's 'False' is correct. The paper uses a tick table worth 2 marks; it is entered as one typed answer (T/F/N for each statement)."
+      }
+    },
+    {
+      "section": "p2",
+      "number": 4,
+      "page": 35,
+      "format": "structured",
+      "marks": 2,
+      "topic": "percentage",
+      "subtypes": [
+        "discount-gst-interest"
+      ],
+      "stem": "The usual price of a toaster was $80. A discount of 20% was given during a sale. When Mdm Singh bought the toaster online, an additional $10 discount was given after the discount of 20%. What was the total percentage discount given to Mdm Singh for the toaster?",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "number",
+            "value": "32.5",
+            "unit": "%"
+          },
+          "explanation": [
+            "20% of $80 = {20/100} × 80 = $16.",
+            "Total discount = $16 + $10 = $26.",
+            "Compare the total discount with the usual price: {26/80} × 100% = 32.5%.",
+            "The total percentage discount was 32.5%."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "32.5%",
+        "solvedAnswer": "32.5",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 5,
+      "page": 36,
+      "format": "structured",
+      "marks": 2,
+      "topic": "geometry",
+      "subtypes": [
+        "angles-in-parallelogram",
+        "angles-in-triangle"
+      ],
+      "stem": "A piece of paper in the shape of a parallelogram was folded along the dotted line GH as shown below. Find ∠a.",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Before folding: a parallelogram leaning to the right. G is on the top side and H is on the bottom side near the bottom-left corner. The top-left corner angle is 123°, and the angle at G between the top side and the dotted fold line GH is 46°. After folding: the part of the paper on the left of GH is folded over to the right. The folded bottom-left corner is now just below H, and the folded left side of the paper rises to the right and crosses the bottom side of the parallelogram. Angle a is the angle between the bottom side and this folded left side.",
+          "page": 36,
+          "box": [
+            235,
+            195,
+            650,
+            400
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "number",
+            "value": "35",
+            "unit": "°"
+          },
+          "explanation": [
+            "Look at the piece that is folded, the four-sided piece on the left of GH. Its angles are 123° at the top-left corner and 46° at G.",
+            "Its bottom-left corner is a corner of the parallelogram: 180° − 123° = 57°.",
+            "The four angles add up to 360°, so its angle at H = 360° − 123° − 46° − 57° = 134°.",
+            "On the unfolded part, the angle at H between HG and the bottom side = 180° − 134° = 46°.",
+            "After folding, the folded bottom edge still makes 134° with HG. So the angle at H between the bottom side and the folded bottom edge = 134° − 46° = 88°.",
+            "The small triangle below the bottom side has angles 88° (at H), 57° (the folded corner) and ∠a. So ∠a = 180° − 88° − 57° = 35°."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "35°",
+        "solvedAnswer": "35",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 6,
+      "page": 37,
+      "format": "structured",
+      "marks": 3,
+      "topic": "geometry",
+      "subtypes": [
+        "properties-of-shapes",
+        "drawing"
+      ],
+      "stem": "In the square grid below, AB and BC are straight lines.",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A square grid, 13 units wide and 10 units high. A is 1 unit from the left and 7 units from the top. B is 1 unit to the right of A and 3 units up. C is 4 units to the right of B and 1 unit up. Lines AB and BC are drawn. In this scan a pupil has also drawn the lines AD and DC and a short line going right from C.",
+          "page": 37,
+          "box": [
+            165,
+            385,
+            680,
+            765
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "AB and BC form two sides of a parallelogram. Complete the drawing of parallelogram ABCD. (Draw it on your canvas, then check.)",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "D is 4 units to the right of A and 1 unit up (which is 1 unit to the left of C and 3 units down). Join A to D and D to C."
+          },
+          "explanation": [
+            "In a parallelogram, opposite sides are parallel and equal.",
+            "From B to C is 4 units right and 1 unit up. So from A to D is also 4 units right and 1 unit up.",
+            "Mark D there and check: from C to D is 1 unit left and 3 units down, the same as from B to A.",
+            "Join AD and DC to complete parallelogram ABCD."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "CDEF is a trapezium with EF parallel to DC, DE = CD, EF twice the length of CD and CF = 2 units long. Draw trapezium CDEF on the grid such that it does not overlap with parallelogram ABCD. (Draw it on your canvas, then check.)",
+          "marks": 2,
+          "answer": {
+            "type": "self",
+            "value": "F is 2 units to the right of C. E is 6 units directly below C (1 unit right and 3 units down from D). Join D to E, E to F and F to C."
+          },
+          "explanation": [
+            "CF is 2 units long and must not go into the parallelogram, so F is 2 units to the right of C, on the same grid line.",
+            "From D to C is 1 unit right and 3 units up. EF is parallel to DC and twice as long, so from E to F is 2 units right and 6 units up. Working back from F, E is 2 units left and 6 units down from F, which is 6 units directly below C.",
+            "Check DE = CD: from D to E is 1 unit right and 3 units down. This is the same size of step as D to C (1 right, 3 up), so the lengths are equal.",
+            "Join DE, EF and FC. The trapezium lies on the right of CD, so it does not overlap the parallelogram."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) D drawn 4 right and 1 up from A  b) F 2 units right of C, E 6 units below C",
+        "solvedAnswer": "a) D 4 right and 1 up from A  b) F 2 units right of C, E 6 units below C",
+        "status": "needs-review",
+        "note": "Held back: the scanned diagram has a previous pupil's pencil working on it that gives the answer away; it needs a clean diagram. The scanned question page already has a pupil's pencil lines for AD, DC and part of CF on the grid, so the cropped image shows the answer to part (a). A clean copy of the grid is not available in this PDF."
+      }
+    },
+    {
+      "section": "p2",
+      "number": 7,
+      "page": 38,
+      "format": "structured",
+      "marks": 3,
+      "topic": "data",
+      "subtypes": [
+        "average",
+        "units-and-parts"
+      ],
+      "stem": "E, F and G are 2-digit numbers. The average of these 3 numbers is 46. The value of E is 26. The value of F is 7 times the value of G. Find the value of F.",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "number",
+            "value": "98"
+          },
+          "explanation": [
+            "Total of the 3 numbers = 3 × 46 = 138.",
+            "F + G = 138 − 26 = 112.",
+            "G is 1 unit and F is 7 units, so 8 units = 112 and 1 unit = 112 ÷ 8 = 14.",
+            "F = 7 × 14 = 98. (Check: G = 14 and F = 98 are both 2-digit numbers.)"
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "98",
+        "solvedAnswer": "98",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 8,
+      "page": 38,
+      "format": "structured",
+      "marks": 3,
+      "topic": "fractions",
+      "subtypes": [
+        "fraction-of-remainder",
+        "units-and-parts"
+      ],
+      "stem": "Mr Soh spent {1/5} of his money on a pair of shoes and {3/4} of his remaining money on a bag, a shirt and a hat. The bag cost 3 times as much as the hat. The shirt cost {1/2} as much as the hat. The pair of shoes cost $48 more than the shirt. How much money did Mr Soh have at first?",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "number",
+            "value": "360",
+            "unit": "$",
+            "unitPos": "before"
+          },
+          "explanation": [
+            "Shoes = {1/5} of his money. Remainder = {4/5}. Bag, shirt and hat = {3/4} × {4/5} = {3/5} of his money.",
+            "Let the shirt be 1 unit. Then the hat is 2 units and the bag is 3 × 2 = 6 units. Bag + shirt + hat = 6 + 1 + 2 = 9 units.",
+            "{3/5} of his money = 9 units, so {1/5} of his money = 3 units. The shoes cost 3 units and all his money is 15 units.",
+            "Shoes − shirt = 3 units − 1 unit = 2 units = $48, so 1 unit = $24.",
+            "Money at first = 15 × $24 = $360."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "$360",
+        "solvedAnswer": "360",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 9,
+      "page": 39,
+      "format": "structured",
+      "marks": 3,
+      "topic": "decimals",
+      "subtypes": [
+        "money",
+        "sum-and-difference"
+      ],
+      "stem": "Muthu paid $18.50 for a total of 20 curry puffs and sandwiches. He paid $0.50 more for each sandwich than each curry puff. Muthu bought 10 more curry puffs than sandwiches. How much did he pay for each sandwich?",
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "number",
+            "value": "1.30",
+            "unit": "$",
+            "unitPos": "before"
+          },
+          "explanation": [
+            "There are 20 items and 10 more curry puffs than sandwiches. Sandwiches = (20 − 10) ÷ 2 = 5. Curry puffs = 5 + 10 = 15.",
+            "Each sandwich costs $0.50 more than a curry puff. Take away the extra $0.50 from each of the 5 sandwiches: 5 × $0.50 = $2.50.",
+            "$18.50 − $2.50 = $16.00. This is the cost of 20 items at the curry puff price.",
+            "1 curry puff = $16.00 ÷ 20 = $0.80.",
+            "1 sandwich = $0.80 + $0.50 = $1.30."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "$1.30",
+        "solvedAnswer": "1.30",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 10,
+      "page": 40,
+      "format": "structured",
+      "marks": 3,
+      "topic": "rate-speed",
+      "subtypes": [
+        "meeting",
+        "distance-speed-time"
+      ],
+      "stem": "Town B was exactly halfway between Town A and Town C. At 9 a.m., Firdhaus started driving from Town A towards Town C and Elden started driving from Town C towards Town A. Firdhaus drove at 62 km/h and Elden drove at 61 km/h. They did not change their speeds throughout. When they met each other, their distance from Town B was 2 km.",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A straight line with Town A at the left end, Town B in the middle and Town C at the right end.",
+          "page": 40,
+          "box": [
+            200,
+            225,
+            700,
+            280
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "At what time did Firdhaus meet Elden? (Type the time, for example: 2.30 p.m.)",
+          "marks": 1,
+          "answer": {
+            "type": "text",
+            "value": "1 p.m.",
+            "accept": [
+              "1 p.m.",
+              "1 pm",
+              "1pm",
+              "1 p.m",
+              "1.00 pm",
+              "1.00 p.m.",
+              "1.00pm",
+              "1:00 pm",
+              "1:00pm",
+              "1:00 p.m.",
+              "13 00",
+              "1300",
+              "13:00",
+              "13.00"
+            ]
+          },
+          "explanation": [
+            "Firdhaus was faster, so he passed the halfway point B and met Elden 2 km after B. Elden was still 2 km before B.",
+            "Firdhaus drove (half the distance + 2 km) and Elden drove (half the distance − 2 km), so Firdhaus drove 2 + 2 = 4 km more than Elden.",
+            "Each hour Firdhaus drove 62 − 61 = 1 km more than Elden.",
+            "Time taken = 4 ÷ 1 = 4 hours.",
+            "4 hours after 9 a.m. is 1 p.m."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "What was the distance between Town A and Town C?",
+          "marks": 2,
+          "answer": {
+            "type": "number",
+            "value": "492",
+            "unit": "km"
+          },
+          "explanation": [
+            "They drove towards each other for 4 hours and together covered the whole distance.",
+            "In 1 hour they covered 62 + 61 = 123 km together.",
+            "Distance = 123 × 4 = 492 km."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) 1 p.m.  b) 492 km",
+        "solvedAnswer": "a) 1 p.m.  b) 492",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 11,
+      "page": 41,
+      "format": "structured",
+      "marks": 4,
+      "topic": "volume",
+      "subtypes": [
+        "volume-of-cuboid",
+        "water-transfer"
+      ],
+      "stem": "Tank G and Tank H are rectangular containers. Tank H measures 40 cm long, 30 cm wide and 15 cm high. Tank H is {5/8} full of water.",
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "What is the volume of water in Tank H?",
+          "marks": 1,
+          "answer": {
+            "type": "number",
+            "value": "11250",
+            "unit": "cm³"
+          },
+          "explanation": [
+            "Volume of Tank H = 40 × 30 × 15 = 18 000 cm³.",
+            "Water = {5/8} × 18 000 = 5 × 2250 = 11 250 cm³."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "Tank G is {3/5} full of water. After all the water from Tank H is poured into Tank G, Tank G is then {7/10} full of water. The base area of Tank G is 5000 cm². Find the height of Tank G.",
+          "marks": 3,
+          "answer": {
+            "type": "number",
+            "value": "22.5",
+            "unit": "cm"
+          },
+          "explanation": [
+            "{3/5} = {6/10}. The water from Tank H raised Tank G from {6/10} full to {7/10} full, so it filled {1/10} of Tank G.",
+            "{1/10} of Tank G = 11 250 cm³, so the volume of Tank G = 10 × 11 250 = 112 500 cm³.",
+            "Height = volume ÷ base area = 112 500 ÷ 5000 = 22.5 cm."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) 11250 cm³  b) 22.5 cm",
+        "solvedAnswer": "a) 11250  b) 22.5",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 12,
+      "page": 42,
+      "format": "structured",
+      "marks": 4,
+      "topic": "volume",
+      "subtypes": [
+        "volume-of-cuboid",
+        "cubes-and-cuboids"
+      ],
+      "stem": "Lilian had nine identical wooden cuboids as shown below. The volume of each cuboid is 648 cm³. She glued these nine cuboids to form a cube.",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A loose pile of nine identical long wooden bars. Each bar is a cuboid with two small square ends and four long rectangular faces.",
+          "page": 42,
+          "box": [
+            330,
+            240,
+            570,
+            430
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "Find the length of the cube.",
+          "marks": 1,
+          "answer": {
+            "type": "number",
+            "value": "18",
+            "unit": "cm"
+          },
+          "explanation": [
+            "Volume of the cube = 9 × 648 = 5832 cm³.",
+            "Find the number that gives 5832 when multiplied by itself three times: 18 × 18 × 18 = 5832.",
+            "The length of the cube is 18 cm."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "Lillian dipped the cube into a pail of paint. She then separated the cube back into the nine original wooden cuboids. Find the total **unpainted** area of the nine wooden cuboids.",
+          "marks": 3,
+          "answer": {
+            "type": "number",
+            "value": "2592",
+            "unit": "cm²"
+          },
+          "explanation": [
+            "Nine bars make the cube in 3 rows of 3, so each bar is 18 cm long and its square end is 18 ÷ 3 = 6 cm by 6 cm. (Check: 6 × 6 × 18 = 648 cm³.)",
+            "Surface area of 1 cuboid = 2 square ends + 4 long faces = 2 × 6 × 6 + 4 × 6 × 18 = 72 + 432 = 504 cm².",
+            "Total surface area of 9 cuboids = 9 × 504 = 4536 cm².",
+            "Only the outside of the cube was painted: 6 × 18 × 18 = 1944 cm².",
+            "Unpainted area = 4536 − 1944 = 2592 cm²."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) 18 cm  b) 2592 cm²",
+        "solvedAnswer": "a) 18  b) 2592",
+        "status": "verified",
+        "note": "The paper spells the name 'Lilian' in the stem and 'Lillian' in part (b); both are kept as printed."
+      }
+    },
+    {
+      "section": "p2",
+      "number": 13,
+      "page": 44,
+      "format": "structured",
+      "marks": 4,
+      "topic": "rate-speed",
+      "subtypes": [
+        "rate",
+        "bar-graph",
+        "duration"
+      ],
+      "stem": "The table below shows the rental rate of each item.\n[[table1]]",
+      "tables": [
+        {
+          "id": "table1",
+          "header": [
+            "Rented Item",
+            "Rental Rate per hour"
+          ],
+          "rows": [
+            [
+              "Pair of Rollerblades",
+              "$10"
+            ],
+            [
+              "Skateboard",
+              "$4.50"
+            ],
+            [
+              "Bicycle",
+              "$7"
+            ]
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Horizontal bar graph of number of hours rented, with the scale marked 0, 1, 2, 3. 1 Pair of Rollerblades: 2 hours. 1 Skateboard: 2 hours. 1 Bicycle: 3 hours.",
+          "page": 44,
+          "box": [
+            212,
+            340,
+            680,
+            572
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "The graph shows the number of hours Amy rented for each item.\n[[img1]]\nAmy rented 1 pair of rollerblades, 1 skateboard and 2 bicycles. The 2 bicycles were rented for the same duration. How much did Amy pay altogether?",
+          "marks": 2,
+          "answer": {
+            "type": "number",
+            "value": "71",
+            "unit": "$",
+            "unitPos": "before"
+          },
+          "explanation": [
+            "From the graph: rollerblades 2 hours, skateboard 2 hours, each bicycle 3 hours.",
+            "Rollerblades: 2 × $10 = $20. Skateboard: 2 × $4.50 = $9.",
+            "2 bicycles for 3 hours each: 2 × 3 × $7 = $42.",
+            "Total = $20 + $9 + $42 = $71."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "Bobby paid a total of $43.50 for renting 1 skateboard and 1 pair of rollerblades. Bobby started his rental of both items at the same time and ended his rental of both items at 6.30 p.m. What time did Bobby start his rental? (Type the time, for example: 2.15 p.m.)",
+          "marks": 2,
+          "answer": {
+            "type": "text",
+            "value": "3.30 p.m.",
+            "accept": [
+              "3.30 p.m.",
+              "3.30 pm",
+              "3.30pm",
+              "3.30 p.m",
+              "3:30 pm",
+              "3:30pm",
+              "3:30 p.m.",
+              "330 pm",
+              "330pm",
+              "15 30",
+              "1530",
+              "15:30",
+              "15.30"
+            ]
+          },
+          "explanation": [
+            "Renting both items for 1 hour costs $4.50 + $10 = $14.50.",
+            "Number of hours = $43.50 ÷ $14.50 = 3 hours.",
+            "3 hours before 6.30 p.m. is 3.30 p.m."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) $71  b) 3.30 p.m.",
+        "solvedAnswer": "a) 71  b) 3.30 p.m.",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 14,
+      "page": 46,
+      "format": "structured",
+      "marks": 4,
+      "topic": "ratio",
+      "subtypes": [
+        "before-and-after",
+        "ratio-and-quantity",
+        "greatest-and-least"
+      ],
+      "stem": "At first, Nadia had a total of 329 red paper clips and blue paper clips while her brother had no paper clips. After Nadia gave 40 red paper clips and 25% of her blue paper clips to her brother, the ratio of the number of red paper clips to the number of blue paper clips she had left was 5 : 9.",
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "How many blue paper clips did Nadia give to her brother?",
+          "marks": 3,
+          "answer": {
+            "type": "number",
+            "value": "51"
+          },
+          "explanation": [
+            "After giving, red : blue = 5 units : 9 units.",
+            "She gave away 25% of the blue paper clips, so the 9 units left are 75% of the blue paper clips. 75% = 9 units, so 25% = 3 units and she had 12 units of blue at first.",
+            "Red at first = 5 units + 40.",
+            "Total at first: 5 units + 40 + 12 units = 329, so 17 units = 329 − 40 = 289 and 1 unit = 289 ÷ 17 = 17.",
+            "Blue paper clips given = 3 units = 3 × 17 = 51."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "After her brother used some red paper clips and some blue paper clips, the ratio of the number of red paper clips to the number of blue paper clips that her brother had left became 6 : 11. What was the least number of red paper clips that her brother could have used?",
+          "marks": 1,
+          "answer": {
+            "type": "number",
+            "value": "16"
+          },
+          "explanation": [
+            "Her brother had 40 red and 51 blue paper clips.",
+            "To use the least number of red paper clips, he must have as many left as possible. Red left : blue left = 6 : 11, so list the multiples: 6 : 11, 12 : 22, 18 : 33, 24 : 44, 30 : 55.",
+            "He has fewer than 51 blue left, so the most he can have left is 24 red and 44 blue (30 : 55 needs 55 blue, which is too many).",
+            "Least number of red paper clips used = 40 − 24 = 16."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) 51  b) 16",
+        "solvedAnswer": "a) 51  b) 16",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "p2",
+      "number": 15,
+      "page": 47,
+      "format": "structured",
+      "marks": 4,
+      "topic": "geometry",
+      "subtypes": [
+        "angles-in-rhombus",
+        "angles-in-parallelogram",
+        "properties-of-shapes"
+      ],
+      "stem": "GAOF is a rhombus and GOEF is a parallelogram. AOE, GOC, FOB, FED and ABCD are straight lines. ∠OFG = 76° and ∠GAB = 90°.",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Horizontal straight line with D at the left, then C, B and A at the right. G is directly above A, with a right angle marked at A. F is at the top, directly above B, and O is on FB just above B. Rhombus GAOF has corners G, A, O and F. Line FED goes from F down to the left through E to D. Line GOC goes from G down to the left through O to C. Line AOE goes from A up to the left through O to E. Angle OFG is 76°. The angles EAD (at A) and CDE (at D) are marked with arcs.",
+          "page": 47,
+          "box": [
+            200,
+            166,
+            660,
+            412
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "Find ∠EAD.",
+          "marks": 1,
+          "answer": {
+            "type": "number",
+            "value": "14",
+            "unit": "°"
+          },
+          "explanation": [
+            "Opposite angles of a rhombus are equal, so ∠GAO = ∠OFG = 76°.",
+            "∠GAB = 90°, so ∠EAD = 90° − 76° = 14°."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "Find ∠CDE.",
+          "marks": 2,
+          "answer": {
+            "type": "number",
+            "value": "38",
+            "unit": "°"
+          },
+          "explanation": [
+            "In rhombus GAOF, FO = FG, so triangle FOG is isosceles: ∠FGO = (180° − 76°) ÷ 2 = 52°.",
+            "Opposite angles of parallelogram GOEF are equal, so ∠FEO = ∠FGO = 52°.",
+            "FED is a straight line, so ∠DEA = 180° − 52° = 128°.",
+            "In triangle DEA: ∠CDE = 180° − 128° − 14° = 38°."
+          ]
+        },
+        {
+          "label": "c",
+          "prompt": "Circle the words that describe CDFG correctly in the following statement.\nSince DF ( **is** / **is not** ) parallel to CG and CD ( **is** / **is not** ) parallel to GF, CDFG is a ( **parallelogram** / **trapezium** ).\n(Type the three choices in order, separated by commas, for example: is, is, parallelogram)",
+          "marks": 1,
+          "answer": {
+            "type": "text",
+            "value": "is, is not, trapezium",
+            "accept": [
+              "is, is not, trapezium",
+              "is,is not,trapezium",
+              "is is not trapezium",
+              "is; is not; trapezium",
+              "is, not, trapezium",
+              "is, isn't, trapezium",
+              "is / is not / trapezium",
+              "is, is not and trapezium"
+            ]
+          },
+          "explanation": [
+            "FE and GO are opposite sides of parallelogram GOEF, so FE is parallel to GO. DF lies along line FED and CG lies along line GOC, so DF is parallel to CG.",
+            "GF is parallel to AO (opposite sides of the rhombus), and AO is part of line AE. Line AE meets line CD at A at an angle of 14°, so CD is not parallel to GF.",
+            "CDFG has only one pair of parallel sides, so it is a trapezium.",
+            "The words are: is, is not, trapezium."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) 14°  b) 38°  c) is, is not, trapezium",
+        "solvedAnswer": "a) 14  b) 38  c) is, is not, trapezium",
+        "status": "verified",
+        "note": "In the scan a pupil has circled words in the statement for part (c); the text is transcribed without those marks."
+      }
+    },
+    {
+      "section": "p2",
+      "number": 16,
+      "page": 48,
+      "format": "structured",
+      "marks": 5,
+      "topic": "data",
+      "subtypes": [
+        "line-graph",
+        "greatest-and-least",
+        "money"
+      ],
+      "stem": "Mr Tan had some bags to sell at his store. The line graph below shows the number of bags left in Mr Tan's store at the end of each day from Monday to Sunday. Mr Tan sold each bag for $18. On Saturday, for every 2 bags sold to a customer, a third bag was given for free. On Sunday, for every bag sold to a customer, a second bag was given for free.",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Line graph of the number of bags left at the end of each day. The scale goes from 0 to 120 with each small interval equal to 4 bags. Mon 116, Tue 112, Wed 92, Thu 80, Fri 56, Sat 40, Sun 8. In this scan a pupil has drawn a vertical pencil line at Wednesday.",
+          "page": 48,
+          "box": [
+            130,
+            260,
+            700,
+            640
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "How many bags were left in Mr Tan's store at the end of Wednesday?",
+          "marks": 1,
+          "answer": {
+            "type": "number",
+            "value": "92"
+          },
+          "explanation": [
+            "On the scale, 20 bags are divided into 5 small intervals, so each small interval is 4 bags.",
+            "The point for Wednesday is 2 small intervals below 100: 100 − 8 = 92.",
+            "92 bags were left."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "How much money was collected from the sale of bags on Tuesday?",
+          "marks": 1,
+          "answer": {
+            "type": "number",
+            "value": "72",
+            "unit": "$",
+            "unitPos": "before"
+          },
+          "explanation": [
+            "Bags left at the end of Monday = 116. Bags left at the end of Tuesday = 112.",
+            "Bags sold on Tuesday = 116 − 112 = 4.",
+            "Money collected = 4 × $18 = $72."
+          ]
+        },
+        {
+          "label": "c",
+          "prompt": "From Tuesday to Sunday, on which day was the most amount of money collected from the sale of bags?",
+          "marks": 1,
+          "answer": {
+            "type": "text",
+            "value": "Friday",
+            "accept": [
+              "friday",
+              "fri"
+            ]
+          },
+          "explanation": [
+            "Bags that left the store each day: Tue 4, Wed 112 − 92 = 20, Thu 92 − 80 = 12, Fri 80 − 56 = 24, Sat 56 − 40 = 16, Sun 40 − 8 = 32.",
+            "Tuesday to Friday, every bag was paid for: Tue $72, Wed 20 × $18 = $360, Thu 12 × $18 = $216, Fri 24 × $18 = $432.",
+            "Saturday: at most all 16 bags were paid for, 16 × $18 = $288.",
+            "Sunday: half of the 32 bags were free, so 16 bags were paid for, 16 × $18 = $288.",
+            "The most money was collected on Friday."
+          ]
+        },
+        {
+          "label": "d",
+          "prompt": "What was the least possible amount of money collected from the sale of bags on Saturday?",
+          "marks": 2,
+          "answer": {
+            "type": "number",
+            "value": "198",
+            "unit": "$",
+            "unitPos": "before"
+          },
+          "explanation": [
+            "Bags that left the store on Saturday = 56 − 40 = 16.",
+            "The least money is collected when as many bags as possible were free. Every group of 3 bags is 2 paid and 1 free.",
+            "16 ÷ 3 = 5 groups remainder 1. So 5 bags were free and 5 × 2 + 1 = 11 bags were paid for.",
+            "Least amount collected = 11 × $18 = $198."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) 92  b) $72  c) Friday  d) $198",
+        "solvedAnswer": "a) 92  b) 72  c) Friday  d) 198",
+        "status": "verified",
+        "note": "The plotted points sit slightly above the grid lines in the scan; the values 116, 112, 92, 80, 56, 40 and 8 were read at high zoom and agree with the key's working."
+      }
+    },
+    {
+      "section": "p2",
+      "number": 17,
+      "page": 50,
+      "format": "structured",
+      "marks": 5,
+      "topic": "circles",
+      "subtypes": [
+        "area-of-circle",
+        "shaded-area",
+        "area-of-composite-figure"
+      ],
+      "stem": "The figure is made up of 3 identical big circles, 2 identical small circles and 2 identical squares. The area of each square is 200 cm².",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Three big circles in a row, touching. Left circle: a square is drawn inside it with all four corners on the circle (standing on a corner), and the four parts of the circle outside the square are shaded. Middle circle: two small circles are stacked inside it, touching each other at the centre of the big circle and touching the big circle at the top and bottom; both small circles are shaded. Right circle: a square is drawn inside it with all four corners on the circle, and only the part of the circle above the top side of the square is shaded. In this scan a pupil has written notes (100 cm², 50 cm², 10 cm) and dotted lines inside the left square.",
+          "page": 50,
+          "box": [
+            262,
+            195,
+            650,
+            330
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "Find the radius of the big circle.",
+          "marks": 2,
+          "answer": {
+            "type": "number",
+            "value": "10",
+            "unit": "cm"
+          },
+          "explanation": [
+            "The corners of the square are on the big circle, so the two diagonals of the square cross at the centre of the circle and cut the square into 4 identical right-angled triangles.",
+            "Area of each triangle = 200 ÷ 4 = 50 cm².",
+            "The two short sides of each triangle are both a radius of the circle: {1/2} × radius × radius = 50, so radius × radius = 100.",
+            "10 × 10 = 100, so the radius is 10 cm."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "Find the total area of the shaded parts. (Take π = 3.14)",
+          "marks": 3,
+          "answer": {
+            "type": "number",
+            "value": "299.5",
+            "unit": "cm²"
+          },
+          "explanation": [
+            "Area of a big circle = 3.14 × 10 × 10 = 314 cm².",
+            "Big circle − square = 314 − 200 = 114 cm². This is 4 identical curved parts, so each curved part = 114 ÷ 4 = 28.5 cm².",
+            "Left circle: 4 curved parts are shaded. Right circle: 1 curved part is shaded. Together: 5 × 28.5 = 142.5 cm².",
+            "Middle circle: the two small circles together reach across the big circle, so each small circle has diameter 10 cm and radius 5 cm. Area of 2 small circles = 2 × 3.14 × 5 × 5 = 157 cm².",
+            "Total shaded area = 142.5 + 157 = 299.5 cm²."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) 10 cm  b) 299.5 cm²",
+        "solvedAnswer": "a) 10  b) 299.5",
+        "status": "needs-review",
+        "note": "Held back: the scanned diagram has a previous pupil's pencil working on it that gives the answer away; it needs a clean diagram. The scanned figure has a pupil's handwritten working inside the left square (100 cm², 50 cm², 10 cm and dotted lines), which gives away part (a). A clean copy of the figure is not available in this PDF."
+      }
+    }
+  ]
+}

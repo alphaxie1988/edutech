@@ -1,0 +1,2678 @@
+{
+  "paper": {
+    "id": "2026-prelim-plmgs",
+    "subject": "science",
+    "year": 2026,
+    "exam": "Prelim",
+    "school": "PLMGS",
+    "schoolFull": "Paya Lebar Methodist Girls' School (Primary)",
+    "file": "PSLE-2026-P6-papers/Science/P6-Science-Prelim-2026-PLMGS-Paper.pdf",
+    "coordDpi": 100
+  },
+  "questions": [
+    {
+      "section": "a",
+      "number": 1,
+      "page": 2,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "cycles-life",
+      "subtypes": [
+        "life-cycle-of-insects",
+        "life-cycle-of-animals"
+      ],
+      "stem": "Aisha classified some animals according to their life cycles.\n[[table1]]\nWhich animal has been classified wrongly?",
+      "tables": [
+        {
+          "id": "table1",
+          "header": [
+            "group X",
+            "group Y"
+          ],
+          "rows": [
+            [
+              "beetle",
+              "chicken"
+            ],
+            [
+              "grasshopper",
+              "cockroach"
+            ],
+            [
+              "mosquito",
+              "frog"
+            ]
+          ]
+        }
+      ],
+      "options": [
+        "frog",
+        "beetle",
+        "mosquito",
+        "grasshopper"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 4
+          },
+          "explanation": [
+            "Count the stages in each life cycle. The beetle and the mosquito have four stages: egg, larva, pupa, adult. So group X is the four-stage group.",
+            "The chicken, the cockroach and the frog have three stages (egg, young, adult), so group Y is the three-stage group.",
+            "The grasshopper has only three stages (egg, nymph, adult), so it does not belong in group X.",
+            "The frog is tempting because the tadpole looks very different from the adult, but it still has three stages and is correctly in group Y. The answer is option (4)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 2,
+      "page": 2,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "diversity-living",
+      "subtypes": [
+        "classifying-animals"
+      ],
+      "stem": "Rita found an animal in a river deep in a forest.\nWhich of the following characteristics should she use to identify it as a fish, reptile or amphibian?",
+      "options": [
+        "number of legs",
+        "presence of gills",
+        "type of body covering",
+        "method of reproduction"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "Animal groups are told apart by their body covering: fish have scales (wet and slimy), reptiles have dry scales, and amphibians have moist skin without scales.",
+            "So the type of body covering separates all three groups.",
+            "Presence of gills is tempting, but young amphibians (tadpoles) have gills just as fish do. Number of legs and method of reproduction also overlap between the groups, because most of them lay eggs.",
+            "The answer is option (3)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 3,
+      "page": 6,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "systems-plants",
+      "subtypes": [
+        "plant-transport-system"
+      ],
+      "stem": "The diagram shows a plant grown using hydroponics.\n[[img1]]\nWhich of the following is/are function(s) of the roots of the plant shown above?\nA  Absorb water and mineral salts\nB  Hold the plant upright in the container\nC  Absorb food needed for the plant to grow",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A leafy plant sitting in a holder in the lid of a container. Its roots hang down into the liquid in the container. Labels: roots, nutrient solution.",
+          "page": 6,
+          "box": [
+            190,
+            838,
+            540,
+            1048
+          ],
+          "rotate": 180
+        }
+      ],
+      "options": [
+        "A only",
+        "B only",
+        "A and C only",
+        "A, B and C"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 1
+          },
+          "explanation": [
+            "Roots absorb water and mineral salts. In hydroponics the roots take these in from the nutrient solution, so A is correct.",
+            "In this set-up the roots hang freely in the nutrient solution. There is no soil for them to grip, and the plant is held up by the holder in the lid, so B is not a function of these roots.",
+            "C is tempting, but plants do not absorb food. They make their own food in the leaves by photosynthesis.",
+            "Only A is correct: option (1)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "1",
+        "solvedAnswer": "1",
+        "status": "verified",
+        "note": "This page is upside down in the scan (printed page 3 sits at PDF page 6); the crop uses rotate 180."
+      }
+    },
+    {
+      "section": "a",
+      "number": 4,
+      "page": 6,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "interactions-environment",
+      "subtypes": [
+        "populations-and-communities"
+      ],
+      "stem": "The diagram shows a terrarium.\n[[img1]]\nWhich one of the following statements is correct?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A glass jar with a lid that has holes. Inside are moist soil, a plant growing in the soil and snails on the plant. Labels: glass jar, snail, plant, moist soil.",
+          "page": 6,
+          "box": [
+            212,
+            322,
+            610,
+            502
+          ],
+          "rotate": 180
+        }
+      ],
+      "options": [
+        "One snail forms a population.",
+        "The plants and snails form a habitat.",
+        "The plants and snails form a community.",
+        "The plants, snails and moist soil form a community."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "A population is a group of organisms of the same kind living in one place. A community is made up of all the different populations of living things in that place. A habitat is the place where they live.",
+            "The plants and the snails are the living things in the jar, so together they form a community.",
+            "Option (4) is tempting, but moist soil is not a living thing, so it is not part of the community. It is part of the habitat.",
+            "One snail is a single organism, not a population. The answer is option (3)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified",
+        "note": "This page is upside down in the scan; the crop uses rotate 180."
+      }
+    },
+    {
+      "section": "a",
+      "number": 5,
+      "page": 4,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "diversity-living",
+      "subtypes": [
+        "classifying-plants",
+        "bacteria-and-fungi"
+      ],
+      "stem": "P and Q are organisms.\n• P produces pollen grains while Q does not.\n• P makes its own food while Q does not.\nWhat could P and Q be?",
+      "options": [
+        "P: fungi. Q: fern.",
+        "P: fern. Q: flowering plant.",
+        "P: flowering plant. Q: fern.",
+        "P: flowering plant. Q: fungi."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 4
+          },
+          "explanation": [
+            "Only flowering plants produce pollen grains. Ferns and fungi reproduce by spores. So P is a flowering plant.",
+            "Q cannot make its own food. Fungi have no chlorophyll, so they cannot photosynthesise and must feed on other things. So Q is a fungus.",
+            "Option (3) is tempting because a fern has no pollen grains, but a fern is a plant and does make its own food.",
+            "The answer is option (4)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 6,
+      "page": 4,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "cycles-life",
+      "subtypes": [
+        "life-cycle-of-plants",
+        "pollination",
+        "seed-dispersal"
+      ],
+      "stem": "Which of the following shows the correct order of reproduction in a flowering plant?\n[[img1]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Four cycles of words joined by arrows going clockwise. (1): dispersal → pollination → fertilisation → germination → back to dispersal. (2): dispersal → germination → pollination → fertilisation → back to dispersal. (3): pollination → dispersal → germination → fertilisation → back to pollination. (4): pollination → germination → dispersal → fertilisation → back to pollination.",
+          "page": 4,
+          "box": [
+            140,
+            475,
+            760,
+            800
+          ]
+        }
+      ],
+      "options": [
+        "Option (1)",
+        "Option (2)",
+        "Option (3)",
+        "Option (4)"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "The order is: pollination (pollen lands on the stigma), fertilisation (male and female reproductive cells fuse), seed dispersal (seeds are carried away from the parent plant), germination (the seed grows into a young plant). The young plant then grows, flowers and is pollinated again.",
+            "Follow the arrows in each cycle. Cycle (2) reads dispersal → germination → pollination → fertilisation → dispersal, which is the correct order.",
+            "Cycle (3) is tempting because pollination is at the top, but its arrows go from pollination straight to dispersal, and germination comes before fertilisation.",
+            "The answer is option (2)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 7,
+      "page": 5,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "energy-photosynthesis",
+      "subtypes": [
+        "gas-exchange",
+        "experiment-design"
+      ],
+      "stem": "Bernice set up four test tubes, A, B, C and D as shown. The amount of carbon dioxide in the water was measured at the start of the experiment and again three hours later. The shrimp gives out more carbon dioxide than the water plant during respiration.\n[[img1]]\nWhich of the following is correct after three hours?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Four stoppered test tubes of water. A: a shrimp in water, tube covered by a black plastic bag. B: a water plant in water, tube covered by a black plastic bag. C: a water plant in water, with light shining on it. D: a water plant and a shrimp in water, with light shining on it.",
+          "page": 5,
+          "box": [
+            180,
+            172,
+            760,
+            388
+          ]
+        }
+      ],
+      "options": [
+        "Least amount of carbon dioxide → most amount of carbon dioxide: A, B, D, C",
+        "Least amount of carbon dioxide → most amount of carbon dioxide: B, C, A, D",
+        "Least amount of carbon dioxide → most amount of carbon dioxide: C, D, B, A",
+        "Least amount of carbon dioxide → most amount of carbon dioxide: D, C, A, B"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "All living things respire all the time and give out carbon dioxide. Plants also photosynthesise when there is light, and this takes in carbon dioxide.",
+            "A and B are covered with a black plastic bag, so there is no photosynthesis and carbon dioxide only builds up. The shrimp in A gives out more carbon dioxide than the plant in B, so A has the most and B the next most.",
+            "C and D are in the light, so the plants take in carbon dioxide. C has only the plant, so it has the least. In D the shrimp keeps adding carbon dioxide, so D has more than C but less than the covered tubes.",
+            "The order is C, D, B, A: option (3)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 8,
+      "page": 5,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "cycles-life",
+      "subtypes": [
+        "germination",
+        "conditions-for-growth"
+      ],
+      "stem": "Set-ups A, B, C and D were placed in the dark.\n[[img1]]\nWhich of the following seeds germinated?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Four test tubes with seeds on cotton wool at the bottom. A (0°C): seeds on moist cotton wool. B (25°C): seeds on moist cotton wool. C (25°C): seeds on dry cotton wool. D (25°C): seeds on cotton wool covered by water with oxygen removed, with a layer of oil on top of the water.",
+          "page": 5,
+          "box": [
+            160,
+            680,
+            770,
+            870
+          ]
+        }
+      ],
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "Seeds need water, oxygen (air) and warmth to germinate. They do not need light.",
+            "B has moist cotton wool (water), air and a warm temperature of 25°C, so its seeds germinate.",
+            "A is too cold at 0°C. C has dry cotton wool, so there is no water. In D the water has had its oxygen removed and the oil layer stops air from getting in, so there is no oxygen.",
+            "Being in the dark does not matter. The answer is option (2)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 9,
+      "page": 3,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "cycles-life",
+      "subtypes": [
+        "seed-dispersal"
+      ],
+      "stem": "The diagrams show the fruits of three plants, X, Y and Z.\n[[img1]]\nP, Q and R show the locations of the parent plants and their offspring after seed dispersal.\n[[img2]]\nWhich one of the following correctly matches each plant to the distribution of its offspring?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Three fruits. Fruit of plant X: a round fruit covered with hooks. Fruit of plant Y: a small fruit with a tuft of hair at one end. Fruit of plant Z: a dry pod that has split open, showing seeds inside.",
+          "page": 3,
+          "box": [
+            120,
+            905,
+            720,
+            1045
+          ],
+          "rotate": 180
+        },
+        {
+          "id": "img2",
+          "alt": "Three square maps labelled P, Q and R. Each has a large dot for the parent plant and small dots for the offspring. P: small dots crowded closely all around the parent plant, with a few a little further away. Q: small dots in separate little clusters far from the parent plant, in several directions. R: many small dots spread out on one side of the parent plant only, getting fewer further away.",
+          "page": 3,
+          "box": [
+            115,
+            650,
+            700,
+            848
+          ],
+          "rotate": 180
+        }
+      ],
+      "options": [
+        "Plant X: P. Plant Y: Q. Plant Z: R.",
+        "Plant X: P. Plant Y: R. Plant Z: Q.",
+        "Plant X: Q. Plant Y: R. Plant Z: P.",
+        "Plant X: R. Plant Y: Q. Plant Z: P."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "Look at each fruit to find how it is dispersed. X has hooks, so it clings to the fur of animals. Y has hair, so it is light and is carried by wind. Z is a dry pod that splits open and flings its seeds out.",
+            "Splitting scatters seeds only a short distance all around the parent plant: pattern P. So Z matches P.",
+            "Wind blows the seeds in one direction, so the young plants spread out on one side of the parent: pattern R. So Y matches R.",
+            "Animals drop seeds in small clusters far away along the paths they walk: pattern Q. So X matches Q. The answer is option (3)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified",
+        "note": "This page is upside down in the scan (printed page 6 sits at PDF page 3); the crops use rotate 180."
+      }
+    },
+    {
+      "section": "a",
+      "number": 10,
+      "page": 7,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "systems-human",
+      "subtypes": [
+        "gas-exchange",
+        "stomata"
+      ],
+      "stem": "Study the diagrams below.\n[[img1]]\nWhich one of the following functions do parts G and S have in common?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "On the left, a fish with an enlarged view of the feathery part under its gill cover, labelled G. On the right, a leaf with an enlarged view of its surface showing tiny openings each surrounded by two bean-shaped cells; one opening is labelled S.",
+          "page": 7,
+          "box": [
+            165,
+            125,
+            760,
+            250
+          ]
+        }
+      ],
+      "options": [
+        "They store air.",
+        "They absorb water.",
+        "They absorb nutrients.",
+        "They allow gases to pass through."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 4
+          },
+          "explanation": [
+            "G is the gills of the fish. Dissolved oxygen passes from the water into the blood at the gills, and carbon dioxide passes out.",
+            "S is a stoma (tiny opening) on the leaf. Oxygen, carbon dioxide and water vapour pass in and out of the leaf through the stomata.",
+            "So both parts are where gases are exchanged. Neither stores air, and neither absorbs water or nutrients (roots do that in plants).",
+            "The answer is option (4)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 11,
+      "page": 7,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "systems-plants",
+      "subtypes": [
+        "stomata",
+        "reading-tables"
+      ],
+      "stem": "Chitra plucked four similar leaves, W, X, Y and Z, from the same plant. She applied oil on different surfaces of the leaves as shown.\n[[table1]]\nThe results are as shown below.\n[[table2]]\nBased on the results, which of the following conclusions is correct?",
+      "tables": [
+        {
+          "id": "table1",
+          "header": [
+            {
+              "t": "Leaves",
+              "rowspan": 2
+            },
+            {
+              "t": "Coated with oil",
+              "colspan": 2
+            }
+          ],
+          "rows": [
+            [
+              "**upper surface of leaf**",
+              "**lower surface of leaf**"
+            ],
+            [
+              "W",
+              "No",
+              "No"
+            ],
+            [
+              "X",
+              "Yes",
+              "No"
+            ],
+            [
+              "Y",
+              "No",
+              "Yes"
+            ],
+            [
+              "Z",
+              "Yes",
+              "Yes"
+            ]
+          ]
+        },
+        {
+          "id": "table2",
+          "header": [
+            "Leaves",
+            "Mass of the leaf at the start of experiment (g)",
+            "Mass of the leaf at the end of experiment (g)"
+          ],
+          "rows": [
+            [
+              "W",
+              "5.0",
+              "3.7"
+            ],
+            [
+              "X",
+              "5.0",
+              "3.7"
+            ],
+            [
+              "Y",
+              "5.0",
+              "5.0"
+            ],
+            [
+              "Z",
+              "5.0",
+              "5.0"
+            ]
+          ]
+        }
+      ],
+      "options": [
+        "Tiny openings are found only on the upper surface of the leaf.",
+        "Tiny openings are found only on the lower surface of the leaf.",
+        "There are more tiny openings on the upper surface than on the lower surface.",
+        "There are more tiny openings on the lower surface than on the upper surface."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "A leaf loses water as water vapour through its tiny openings (stomata), so its mass goes down. Oil blocks the openings.",
+            "W (no oil) lost 5.0 − 3.7 = 1.3 g. X, with only its upper surface oiled, also lost 1.3 g. Blocking the upper surface made no difference, so there are no openings on the upper surface.",
+            "Y, with only its lower surface oiled, lost no mass at all, just like Z with both surfaces oiled. So all the openings are on the lower surface.",
+            "Option (4) is tempting, but if there were some openings on the upper surface, Y would have lost a little mass and X would have lost less than W. The answer is option (2)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 12,
+      "page": 8,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "cycles-life",
+      "subtypes": [
+        "fertilisation",
+        "seed-dispersal"
+      ],
+      "stem": "The diagram shows a fruit from Plant W.\n[[img1]]\nBased on the diagram, which of the following can be concluded about Plant W?\nA  The seeds are dispersed by water.\nB  The ovary of the flower contained many ovules.\nC  The fruit developed from the ovary of the flower.\nD  The flower of Plant W was pollinated by animals.",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Half of a cut fruit. The inside is labelled fleshy and juicy and contains many small seeds; one is labelled seed.",
+          "page": 8,
+          "box": [
+            330,
+            125,
+            610,
+            250
+          ]
+        }
+      ],
+      "options": [
+        "A and B only",
+        "A and D only",
+        "B and C only",
+        "C and D only"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "After fertilisation, the ovary develops into the fruit and each fertilised ovule develops into a seed.",
+            "The fruit has many seeds, so the ovary must have contained many ovules: B is correct. A fruit always develops from the ovary: C is correct.",
+            "A is wrong: a fleshy and juicy fruit is eaten by animals, which is how its seeds are dispersed. Fruits dispersed by water have a fibrous husk or air spaces to float.",
+            "D is tempting, but the fruit tells us how the seeds are dispersed, not how the flower was pollinated. So B and C only: option (3)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 13,
+      "page": 8,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "interactions-environment",
+      "subtypes": [
+        "food-web",
+        "population-change"
+      ],
+      "stem": "The diagram below shows a food web.\n[[img1]]\nMore snakes were introduced to the habitat.\nWhich one of the following organisms is most likely to increase in number?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A food web with arrows: plant → squirrel, plant → grasshopper, grasshopper → toad, grasshopper → lizard, squirrel → snake, toad → snake, lizard → snake. The word bird is printed at the top right with no arrow joined to it.",
+          "page": 8,
+          "box": [
+            330,
+            620,
+            620,
+            830
+          ]
+        }
+      ],
+      "options": [
+        "bird",
+        "lizard",
+        "squirrel",
+        "grasshopper"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 4
+          },
+          "explanation": [
+            "In a food web the arrow points from the food to the animal that eats it. The snake eats the squirrel, the toad and the lizard.",
+            "With more snakes, more squirrels, toads and lizards are eaten, so their numbers decrease. That rules out the lizard and the squirrel.",
+            "The toad and the lizard are the animals that eat the grasshopper. With fewer of them, fewer grasshoppers are eaten, so the number of grasshoppers increases.",
+            "The answer is option (4)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "needs-review",
+        "note": "In the scan the word 'bird' stands alone at the top right of the food web with no arrow to or from it, so an arrow is almost certainly missing from the scan. The answer (grasshopper) was solved from the arrows that are visible and matches the key, but if the missing arrow is snake → bird, option (1) would also be defensible. Needs a clean copy of the diagram."
+      }
+    },
+    {
+      "section": "a",
+      "number": 14,
+      "page": 9,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "systems-plants",
+      "subtypes": [
+        "stomata",
+        "experiment-design"
+      ],
+      "stem": "Daphne set up an experiment using a potted plant as shown.\nThe mass of the potted plant was measured at different times.\n[[img1]]\nWhy did Daphne tie a plastic bag around the pot?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "The same potted plant on a weighing scale at three times. A plastic bag is tied around the pot, covering the soil, with the stem and leaves outside the bag. At the start: 2.50 kg. After 12 hours in the light: 2.30 kg. After a further 12 hours in the dark: 2.25 kg.",
+          "page": 9,
+          "box": [
+            165,
+            195,
+            730,
+            430
+          ]
+        }
+      ],
+      "options": [
+        "To prevent water loss from the soil.",
+        "To prevent carbon dioxide from entering.",
+        "To prevent carbon dioxide from escaping.",
+        "To prevent water from being absorbed by the roots."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 1
+          },
+          "explanation": [
+            "Daphne is measuring how much mass the potted plant loses. She wants the loss to come only from water leaving the plant through its leaves.",
+            "Water can also evaporate from the wet soil. The plastic bag covers the soil, so no water is lost from the soil and any loss in mass is due to the plant alone.",
+            "Option (4) is tempting, but the bag is around the outside of the pot. It does not stop the roots inside the soil from absorbing water.",
+            "The answer is option (1)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "1",
+        "solvedAnswer": "1",
+        "status": "verified",
+        "note": "Questions 14 and 15 share one stimulus; it is repeated in both."
+      }
+    },
+    {
+      "section": "a",
+      "number": 15,
+      "page": 9,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "systems-plants",
+      "subtypes": [
+        "stomata",
+        "reading-tables"
+      ],
+      "stem": "Daphne set up an experiment using a potted plant as shown.\nThe mass of the potted plant was measured at different times.\n[[img1]]\nBased on the results, which of the following conclusions can be made?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "The same potted plant on a weighing scale at three times. A plastic bag is tied around the pot, covering the soil, with the stem and leaves outside the bag. At the start: 2.50 kg. After 12 hours in the light: 2.30 kg. After a further 12 hours in the dark: 2.25 kg.",
+          "page": 9,
+          "box": [
+            165,
+            195,
+            730,
+            430
+          ]
+        }
+      ],
+      "options": [
+        "The plant needs water only when it makes food.",
+        "The plant lost mass because it stopped making food.",
+        "The plant lost more water in the light than in the dark.",
+        "The plant lost more water in the dark than in the light."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "The soil is covered, so the loss in mass is water lost by the plant through its leaves.",
+            "In the 12 hours of light the mass fell by 2.50 − 2.30 = 0.20 kg. In the next 12 hours of darkness it fell by 2.30 − 2.25 = 0.05 kg.",
+            "0.20 kg is more than 0.05 kg, so the plant lost more water in the light than in the dark. (The stomata are open wider in the light.)",
+            "Option (2) is tempting, but the plant lost the most mass in the light, when it was making food. The answer is option (3)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified",
+        "note": "Questions 14 and 15 share one stimulus; it is repeated in both."
+      }
+    },
+    {
+      "section": "a",
+      "number": 16,
+      "page": 10,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "cycles-matter-water",
+      "subtypes": [
+        "properties-of-matter"
+      ],
+      "stem": "Oscar carried out an experiment with two solid blocks, A and B, of identical shape and size with different mass.\n[[img1]]\nWhen block A was completely submerged in 35 ml of water, the water level rose to 45 ml.\n[[img2]]\nOscar then carefully removed block A and put in block B. No water was spilled.\nWhat is the new water level when block B is completely submerged in the same measuring cylinder containing 35 ml of water?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Two cubes of the same size. Block A is labelled 10 g and block B is labelled 35 g.",
+          "page": 10,
+          "box": [
+            330,
+            155,
+            510,
+            245
+          ]
+        },
+        {
+          "id": "img2",
+          "alt": "A measuring cylinder marked in ml up to 70. Block A sits at the bottom, completely under the water.",
+          "page": 10,
+          "box": [
+            320,
+            300,
+            480,
+            455
+          ]
+        }
+      ],
+      "options": [
+        "35 ml",
+        "45 ml",
+        "70 ml",
+        "80 ml"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "Matter occupies space. A submerged object pushes the water level up by an amount equal to its own volume, not its mass.",
+            "Block A raised the level from 35 ml to 45 ml, so its volume is 45 − 35 = 10 cm³.",
+            "Block B has the identical shape and size, so its volume is also 10 cm³. The new level is 35 + 10 = 45 ml.",
+            "70 ml (35 + 35) is tempting, but that adds the mass of B to the volume of water. The answer is option (2)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 17,
+      "page": 10,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "systems-electrical",
+      "subtypes": [
+        "closed-circuit"
+      ],
+      "stem": "Study the circuit diagram.\n[[img1]]\nWhich one of the following is the source of electricity in the circuit?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A circuit diagram with one battery, one bulb and one open switch joined by wires in a single loop.",
+          "page": 10,
+          "box": [
+            345,
+            750,
+            550,
+            860
+          ]
+        }
+      ],
+      "options": [
+        "bulb",
+        "wire",
+        "switch",
+        "battery"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 4
+          },
+          "explanation": [
+            "Every circuit needs a source of electrical energy to make electricity flow.",
+            "The battery is the source of electricity. The wires carry the electricity, the switch opens or closes the circuit, and the bulb uses the electricity to give out light.",
+            "The bulb is tempting because it is the part that lights up, but it only uses the electricity. The answer is option (4)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 18,
+      "page": 11,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "cycles-matter-water",
+      "subtypes": [
+        "air-can-be-compressed",
+        "properties-of-matter"
+      ],
+      "stem": "Study the set-up below.\n[[img1]]\nWhat is the volume of air in the container when the plunger is pushed in fully?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A syringe containing 50 cm³ of air, with an arrow labelled push on its plunger. A tube joins the syringe to a sealed container with 500 cm³ capacity. The container holds 200 cm³ of water.",
+          "page": 11,
+          "box": [
+            290,
+            130,
+            700,
+            295
+          ]
+        }
+      ],
+      "options": [
+        "50 cm³",
+        "200 cm³",
+        "300 cm³",
+        "350 cm³"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "Air has no fixed volume. It takes up all the space available to it and it can be compressed.",
+            "The container holds 500 cm³ and 200 cm³ of that is water, so the space left for air is 500 − 200 = 300 cm³.",
+            "When the extra 50 cm³ of air is pushed in, the air is compressed into the same space. Water cannot be compressed, so the space stays at 300 cm³.",
+            "350 cm³ (300 + 50) is tempting, but the container has no extra room. The answer is option (3)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 19,
+      "page": 11,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "cycles-matter-water",
+      "subtypes": [
+        "heating-curve",
+        "melting",
+        "reading-graphs"
+      ],
+      "stem": "Substances J and K were taken out from a refrigerator set at 10°C and heated. The graph shows the changes in temperatures of the two substances which boiled by the end of the experiment.\n[[img1]]\nBased on the graph, which of the following statements is correct?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A line graph of temperature (°C, 0 to 120) against time (0 to 35). Both lines start at 10°C. K (solid line) rises steadily to about 90°C at time 20 and then stays flat at about 90°C. J (dashed line) rises to about 20°C by time 5, stays flat at 20°C until time 15, then rises steeply to about 105°C at about time 24 and stays flat.",
+          "page": 11,
+          "box": [
+            240,
+            585,
+            660,
+            885
+          ]
+        }
+      ],
+      "options": [
+        "Substance K has a higher boiling point than J.",
+        "The melting point of substance J is lower than K.",
+        "Substances J and K are in the liquid state at 50°C.",
+        "Substances J and K are in the same state at 10°C."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "A flat part of a heating graph shows a change of state: the temperature stays the same while the substance melts or boils.",
+            "J has two flat parts: it melts at about 20°C and boils at about 105°C. K has only one flat part, at about 90°C. Since K boiled by the end, this is its boiling point, so K was already a liquid at 10°C.",
+            "At 50°C, J has finished melting and has not yet boiled, and K has not yet boiled. Both are liquids, so statement (3) is correct.",
+            "Statement (4) is tempting because both start at 10°C, but J is a solid there and K is a liquid. K boils at a lower temperature than J, and K's melting point is below 10°C, lower than J's. The answer is option (3)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 20,
+      "page": 12,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "diversity-materials",
+      "subtypes": [
+        "properties-of-materials"
+      ],
+      "stem": "A rescue beacon is placed in rivers to guide people to safety during floods.\n[[img1]]\nWhich material is most suitable for making the base of the rescue beacon?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A dome-shaped rescue beacon with a flashing light on top, floating on a river. Its wide bottom part is labelled base of rescue beacon.",
+          "page": 12,
+          "box": [
+            150,
+            125,
+            660,
+            290
+          ]
+        }
+      ],
+      "options": [
+        "Material A: waterproof ✓, good conductor of heat ✗, can float on water ✓",
+        "Material B: waterproof ✗, good conductor of heat ✗, can float on water ✓",
+        "Material C: waterproof ✗, good conductor of heat ✓, can float on water ✗",
+        "Material D: waterproof ✓, good conductor of heat ✗, can float on water ✗"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 1
+          },
+          "explanation": [
+            "Think about what the base must do. It sits in the river, so it must float on water and it must be waterproof so that it does not soak up water and get damaged or sink.",
+            "Material A is both waterproof and able to float. Being a good conductor of heat is not needed.",
+            "Material B is tempting because it floats, but it is not waterproof. Material D is waterproof but cannot float.",
+            "The answer is option (1)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "1",
+        "solvedAnswer": "1",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 21,
+      "page": 12,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "energy-light-heat",
+      "subtypes": [
+        "expansion-and-contraction",
+        "heat-gain"
+      ],
+      "stem": "Claudia placed a flatbread in an air fryer. The flatbread rose as shown when cooked. It became flat again when left on a plate for some time.\n[[img1]]\nWhich of the following best explains why the flatbread rose when cooked?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "An air fryer with its drawer open and a puffed-up flatbread inside. An enlarged box labelled cross section of flatbread shows many holes inside the bread, labelled air spaces.",
+          "page": 12,
+          "box": [
+            240,
+            660,
+            645,
+            840
+          ]
+        }
+      ],
+      "options": [
+        "Solid parts of the flatbread expanded.",
+        "The flatbread becomes lighter when heated.",
+        "Air in the flatbread does not have a fixed volume.",
+        "The air trapped in the flatbread expanded when heated."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 4
+          },
+          "explanation": [
+            "Matter expands when it gains heat and contracts when it loses heat. Gases expand much more than solids.",
+            "The flatbread has air spaces. In the air fryer the trapped air gains heat and expands, pushing the bread outwards so it rises. On the plate the air loses heat and contracts, so the bread becomes flat again.",
+            "Option (3) is a true fact about air, but it does not explain why the bread rose: heating is what made the air take up more space. The solid parts expand far too little to be noticed.",
+            "The answer is option (4)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 22,
+      "page": 13,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "cycles-matter-water",
+      "subtypes": [
+        "changes-of-state",
+        "melting",
+        "reading-tables"
+      ],
+      "stem": "The table shows the melting point and boiling point of four substances.\n[[table1]]\nWhich of the substances is/are liquid at 28°C?",
+      "tables": [
+        {
+          "id": "table1",
+          "header": [
+            "Substance",
+            "Melting point (°C)",
+            "Boiling point (°C)"
+          ],
+          "rows": [
+            [
+              "S",
+              "30",
+              "310"
+            ],
+            [
+              "T",
+              "18",
+              "290"
+            ],
+            [
+              "U",
+              "24",
+              "350"
+            ],
+            [
+              "V",
+              "50",
+              "370"
+            ]
+          ]
+        }
+      ],
+      "options": [
+        "S only",
+        "U only",
+        "T and U only",
+        "U and V only"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "A substance is a liquid when its temperature is above its melting point and below its boiling point.",
+            "T melts at 18°C and U melts at 24°C. Both are below 28°C, and their boiling points are far above 28°C, so T and U are liquids.",
+            "S melts at 30°C and V melts at 50°C. 28°C is below these melting points, so S and V are still solids.",
+            "S is tempting because 30°C is close to 28°C, but it has not reached its melting point. The answer is option (3)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 23,
+      "page": 13,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "interactions-forces",
+      "subtypes": [
+        "friction",
+        "potential-and-kinetic-energy"
+      ],
+      "stem": "Andy used a hammer to drive a nail into a piece of wood.\n[[img1]]\nWhich factor will **not** affect how deep the nail goes into the wood?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A boy swinging a hammer down onto a nail that he is holding upright on a piece of wood. Labels: hammer, nail.",
+          "page": 13,
+          "box": [
+            300,
+            530,
+            670,
+            745
+          ]
+        }
+      ],
+      "options": [
+        "mass of Andy",
+        "mass of the nail",
+        "height the hammer was raised",
+        "friction between nail and wood"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 1
+          },
+          "explanation": [
+            "The nail is pushed in by the force of the moving hammer and is slowed by the friction between the nail and the wood.",
+            "Raising the hammer higher gives it more potential energy, which becomes more kinetic energy, so it hits harder. More friction between the nail and the wood makes the nail stop sooner. The mass of the nail also changes how it moves when it is hit.",
+            "Andy's own mass does not act on the nail at all. Only the hammer hits it, so the mass of Andy does not affect how deep the nail goes.",
+            "The answer is option (1)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "1",
+        "solvedAnswer": "1",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 24,
+      "page": 14,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "interactions-forces",
+      "subtypes": [
+        "gravity",
+        "fair-test",
+        "variables"
+      ],
+      "stem": "Cheryl conducted an experiment to investigate the time taken for the toy to reach the ground.\n[[img1]]\nHer results are as shown.\n[[table1]]\nWhich two experiments support the hypothesis: \"The time taken for the toy soldier to reach the ground is affected by the size of the parachute.\"?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A toy soldier hanging by strings under an open parachute. Labels: parachute, toy soldier.",
+          "page": 14,
+          "box": [
+            280,
+            130,
+            610,
+            360
+          ]
+        }
+      ],
+      "tables": [
+        {
+          "id": "table1",
+          "header": [
+            "Experiment",
+            "Mass of toy soldier (g)",
+            "Size of parachute (cm²)",
+            "Time taken to reach the ground (s)"
+          ],
+          "rows": [
+            [
+              "A",
+              "30",
+              "400",
+              "7"
+            ],
+            [
+              "B",
+              "20",
+              "900",
+              "13"
+            ],
+            [
+              "C",
+              "20",
+              "400",
+              "10"
+            ],
+            [
+              "D",
+              "30",
+              "900",
+              "10"
+            ]
+          ]
+        }
+      ],
+      "options": [
+        "A and B",
+        "A and D",
+        "B and D",
+        "C and D"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "In a fair test only one variable is changed. To test the size of the parachute, the two experiments must have different parachute sizes but the same mass of toy soldier.",
+            "A and D both use a 30 g toy soldier. The parachute is 400 cm² in A and 900 cm² in D, and the time changes from 7 s to 10 s. So the size of the parachute affects the time.",
+            "A and B is tempting because the sizes differ, but the masses differ too (30 g and 20 g), so it is not a fair test. C and D also differ in both mass and size.",
+            "The answer is option (2)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 25,
+      "page": 15,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "interactions-magnets",
+      "subtypes": [
+        "magnetic-materials"
+      ],
+      "stem": "Sheila glued a magnet on top of a balance as shown in Diagram 1.\n[[img1]]\nNext, Sheila placed object A above the magnet as shown in Diagram 2. She repeated the experiment with object B as shown in Diagram 3.\n[[img2]]\nWhat can Sheila conclude about objects A and B?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Diagram 1: a bar magnet standing upright on the pan of a balance. The balance reads 40.0 g.",
+          "page": 15,
+          "box": [
+            395,
+            125,
+            570,
+            262
+          ]
+        },
+        {
+          "id": "img2",
+          "alt": "Diagram 2: object A is held by a clamp on a stand just above the magnet on the balance; the balance reads 40.0 g. Diagram 3: object B is held in the same way above the magnet; the balance reads 60.0 g.",
+          "page": 15,
+          "box": [
+            160,
+            345,
+            760,
+            590
+          ]
+        }
+      ],
+      "options": [
+        "A: not a magnet. B: non-magnetic material.",
+        "A: non-magnetic material. B: magnet.",
+        "A: not a magnet. B: magnetic material.",
+        "A: magnetic material. B: magnet."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "A magnet attracts magnetic materials and the unlike pole of another magnet. Only another magnet can repel it (like poles repel).",
+            "With object A above the magnet the reading stays at 40.0 g. There is no pull or push on the magnet, so A is a non-magnetic material.",
+            "With object B the reading rises to 60.0 g. The magnet is being pushed down onto the balance, so B repels it. Only a magnet can repel a magnet, so B is a magnet.",
+            "Option (4) is tempting, but a magnetic material would attract the magnet upwards and the reading would become less than 40.0 g. The answer is option (2)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 26,
+      "page": 16,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "systems-electrical",
+      "subtypes": [
+        "series-and-parallel",
+        "brightness-of-bulbs"
+      ],
+      "stem": "Vivien sets up four circuits using identical batteries and bulbs in working condition.\n[[img1]]\nIn which circuits will bulb L have the same brightness?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Four circuit diagrams, each with one battery. Circuit A: two bulbs in series on the same side of the loop; the lower one is L. Circuit B: two bulbs in series, one at the top next to the battery and L at the bottom. Circuit C: three bulbs in parallel, each on its own branch; the middle one is L. Circuit D: two bulbs in parallel, each on its own branch; the upper one is L.",
+          "page": 16,
+          "box": [
+            280,
+            150,
+            670,
+            630
+          ]
+        }
+      ],
+      "options": [
+        "A and B only",
+        "B and D only",
+        "A, B and D only",
+        "A, B, C and D"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 1
+          },
+          "explanation": [
+            "Bulbs in series share the energy from the battery, so each one is dimmer. Bulbs in parallel each have their own path to the battery, so each is as bright as a single bulb on its own.",
+            "Circuits A and B each have one battery and two bulbs in series. The bulbs are only drawn in different places. So bulb L is equally dim in A and B.",
+            "In circuits C and D the bulbs are in parallel, so bulb L is brighter there than in A and B.",
+            "Option (2) is tempting because B and D both have two bulbs, but B is a series circuit and D is a parallel circuit. The answer is option (1)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "1",
+        "solvedAnswer": "1",
+        "status": "verified",
+        "note": "Bulb L is also equally bright in C and D (both parallel), but no option offers that pair; among the four options only 'A and B only' is a correct statement."
+      }
+    },
+    {
+      "section": "a",
+      "number": 27,
+      "page": 17,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "systems-electrical",
+      "subtypes": [
+        "switches",
+        "series-and-parallel"
+      ],
+      "stem": "The diagram shows a hair dryer with two switches.\nSwitch A turns on the fan for cool air. Switch B turns on the heater for hot air.\n[[img1]]\nSiti wants to dry her hair using only cool air without turning on the heater. Which circuit matches the description on how the hair dryer works?\n[[img2]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A hair dryer with two switches on its handle, labelled switch A and switch B.",
+          "page": 17,
+          "box": [
+            295,
+            140,
+            620,
+            335
+          ]
+        },
+        {
+          "id": "img2",
+          "alt": "Four circuit diagrams, each with a box labelled power. (1): switch B, the fan, switch A and the heater all in one loop in series. (2): switch B and the heater on the main wires from the power box; the fan and switch A are in series on a branch, with a second plain wire branch across them. (3): switch A, then the fan and heater in parallel with each other, then switch B, all on one loop. (4): switch A on the main wire; after it the circuit splits into two branches, one with the fan only and one with the heater and switch B in series.",
+          "page": 17,
+          "box": [
+            165,
+            410,
+            768,
+            900
+          ]
+        }
+      ],
+      "options": [
+        "Option (1)",
+        "Option (2)",
+        "Option (3)",
+        "Option (4)"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 4
+          },
+          "explanation": [
+            "For cool air only, closing switch A alone must make a closed circuit through the fan but not through the heater. Switch B must control only the heater.",
+            "In circuit (4), switch A is on the main wire and the fan is on its own branch. Closing A lets electricity flow through the fan. The heater is on a second branch with switch B, so it stays off until B is closed.",
+            "Circuit (2) is tempting because it also has two branches, but there switch B is on the main wire and switch A is on the fan's branch, so the fan cannot run with switch A alone.",
+            "In circuits (1) and (3) both switches are in series, so nothing works until both are closed. The answer is option (4)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 28,
+      "page": 18,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "energy-light-heat",
+      "subtypes": [
+        "shadows"
+      ],
+      "stem": "Alan used his smartphone flashlight to make a shadow.\n[[img1]]\nWhich action makes the shadow bigger?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A boy holding a smartphone in one hand as a light source and shining it at his other hand. A dark shadow of the hand, shaped like an animal's head, falls on a screen in front of him. Labels: light source, screen, shadow.",
+          "page": 18,
+          "box": [
+            280,
+            110,
+            730,
+            360
+          ]
+        }
+      ],
+      "options": [
+        "Move his hand closer to the screen.",
+        "Move his hand further from his flashlight.",
+        "Move the smartphone closer to his hand.",
+        "Move the screen closer to his smartphone."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "A shadow forms when an object blocks light. The closer the object is to the light source, the more light it blocks, so the bigger the shadow.",
+            "Moving the smartphone closer to his hand shortens the distance between the light source and the object, so the shadow becomes bigger.",
+            "Options (1) and (2) both put the hand further from the light and nearer the screen, which makes the shadow smaller. Moving the screen closer to the smartphone, option (4), also makes the shadow smaller.",
+            "The answer is option (3)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified",
+        "note": "The boy's name in the stem is smudged in the scan and was read as 'Alan'."
+      }
+    },
+    {
+      "section": "a",
+      "number": 29,
+      "page": 18,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "interactions-forces",
+      "subtypes": [
+        "gravity",
+        "elastic-spring-force"
+      ],
+      "stem": "When the button of the toy is pushed, the pellet moved as shown.\n[[img1]]\nWhich statement on forces is **not** correct?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A toy launcher on a stand, tilted upwards. A finger pushes a button at the back. Inside the tube is a spring. A pellet has left the front of the tube at point P and follows a dashed path that curves over to point Q further away. Labels: button, spring, path of the pellet, pellet, P, Q.",
+          "page": 18,
+          "box": [
+            265,
+            680,
+            620,
+            855
+          ]
+        }
+      ],
+      "options": [
+        "A force is pushing the pellet up at P",
+        "A force is pulling the pellet downwards at Q.",
+        "The pellet slowed down from P to Q because of gravity.",
+        "There is no force acting on the pellet between P and Q."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 4
+          },
+          "explanation": [
+            "Gravitational force pulls every object towards the Earth all the time, whether the object is at rest or moving through the air.",
+            "So between P and Q gravity is still pulling the pellet downwards. That is why its path curves downwards. Statement (4) says there is no force, so it is not correct.",
+            "Statement (1) is true: the elastic spring force of the compressed spring pushes the pellet up and out at P. Statements (2) and (3) are true because gravity pulls the pellet down and slows it as it moves upwards.",
+            "The answer is option (4)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified",
+        "note": "Questions 29 and 30 share one stimulus; it is repeated in both. In option (2) the printed word 'dart' is crossed out by hand in the scan; it is transcribed as 'pellet', the word the rest of the question uses."
+      }
+    },
+    {
+      "section": "a",
+      "number": 30,
+      "page": 19,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "interactions-forces",
+      "subtypes": [
+        "springs",
+        "elastic-spring-force",
+        "reading-graphs"
+      ],
+      "stem": "When the button of the toy is pushed, the pellet moved as shown.\n[[img1]]\nIan managed to push one pellet after another into the toy as shown.\n[[img2]]\nWhich graph shows the relationship between Ian's force when pushing the pellets and the compression of the spring?\n[[img3]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A toy launcher on a stand, tilted upwards. A finger pushes a button at the back. Inside the tube is a spring. A pellet has left the front of the tube at point P and follows a dashed path that curves over to point Q further away. Labels: button, spring, path of the pellet, pellet, P, Q.",
+          "page": 18,
+          "box": [
+            265,
+            680,
+            620,
+            855
+          ]
+        },
+        {
+          "id": "img2",
+          "alt": "The toy launcher with one pellet already inside the tube, resting against the compressed spring. A hand on the right is pushing another pellet into the front of the tube. A hand on the left holds the button at the back.",
+          "page": 19,
+          "box": [
+            295,
+            150,
+            620,
+            275
+          ]
+        },
+        {
+          "id": "img3",
+          "alt": "Four graphs of Compression (vertical axis) against Force (horizontal axis), each starting from 0. (1): a straight line rising from the origin. (2): a straight line that starts part-way up the Compression axis and rises. (3): a horizontal line part-way up the Compression axis. (4): a straight line that starts high on the Compression axis and slopes downwards.",
+          "page": 19,
+          "box": [
+            150,
+            350,
+            700,
+            695
+          ]
+        }
+      ],
+      "options": [
+        "Option (1)",
+        "Option (2)",
+        "Option (3)",
+        "Option (4)"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "The greater the force pushing on a spring, the more the spring is compressed. So the line must slope upwards, which rules out graphs (3) and (4).",
+            "Look at the picture: there is already a pellet inside the toy and the spring is already compressed before Ian pushes the next pellet in.",
+            "So when Ian's force is still zero, the compression is already more than zero. The line starts above 0 and then goes up as he pushes harder. That is graph (2).",
+            "Graph (1) is tempting because it also slopes upwards, but it starts at zero compression, which would mean the spring was not compressed at all before Ian pushed. The answer is option (2)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "1",
+        "status": "needs-review",
+        "note": "Solved independently as (1): compression increases with force starting from zero. The key says (2). On re-reading, (2) can be justified because the picture shows a pellet already in the toy with the spring already compressed, so the compression is above zero before Ian applies any force for the next pellet; the answer and explanation follow the key on that reading. The question does not state this, so a teacher should confirm. Questions 29 and 30 share one stimulus; it is repeated in both."
+      }
+    },
+    {
+      "section": "b",
+      "number": 31,
+      "page": 21,
+      "format": "structured",
+      "marks": 3,
+      "topic": "systems-human",
+      "subtypes": [
+        "digestive-system"
+      ],
+      "stem": "The diagram shows a human body system.\n[[img1]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Outline of a human body showing the mouth, a tube leading down to the stomach, a long coiled tube in the middle of the abdomen and a wider tube that goes around the coiled tube. The wider tube around the outside is labelled E.",
+          "page": 21,
+          "box": [
+            320,
+            215,
+            610,
+            590
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "Identify the system and state the function of this system.",
+          "marks": 2,
+          "answer": {
+            "type": "self",
+            "value": "It is the digestive system. It breaks down food into simpler substances that the body can absorb and use."
+          },
+          "explanation": [
+            "The diagram shows the mouth, gullet, stomach, small intestine and large intestine, which make up the digestive system. Naming the system earns one mark.",
+            "The function earns the second mark: it breaks down food into simpler substances.",
+            "Write 'simpler substances', not 'smaller pieces' or 'smaller substances'. 'Smaller pieces' only describes food being cut up physically, as when we chew."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "Part E is not working properly. Explain why the waste is watery.",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "Part E is the large intestine, which absorbs water from the undigested food. Since it is not working properly, less water is absorbed from the undigested food, so the waste is watery."
+          },
+          "explanation": [
+            "First identify part E: it is the large intestine, and its function is to absorb water from undigested food.",
+            "Link the function to the problem: less water is absorbed from the undigested food, so more water stays in the waste.",
+            "Do not write 'excess water'. That suggests the large intestine only removes extra water that the body does not need."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) Digestive system. It breaks down food into simpler substances. (Do not write 'smaller pieces' or 'smaller substances'.)  b) Since Part E is not working properly, less water is absorbed from the undigested food. (Part E is the large intestine. Do not write 'excess water'.)",
+        "solvedAnswer": "agrees with key",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 32,
+      "page": 22,
+      "format": "structured",
+      "marks": 3,
+      "topic": "interactions-environment",
+      "subtypes": [
+        "food-web",
+        "population-change",
+        "human-impact"
+      ],
+      "stem": "Four organisms P, Q, R and S live in a pond.\n• S is a producer.\n• S is eaten by Q and R.\n• P eats R only.",
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "Using the information given above, draw a food web to show the food relationships among organisms P, Q, R and S. (Draw it on your canvas.)",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "The food web has an arrow from S to Q, an arrow from S to R, and an arrow from R to P. (S → Q; S → R → P.)"
+          },
+          "explanation": [
+            "A food web starts with the producer, so S is at the start.",
+            "Each arrow points from the organism that is eaten to the organism that eats it, because it shows the direction of energy flow. The arrow means 'is eaten by'.",
+            "S is eaten by Q and R, so draw S → Q and S → R. P eats R only, so draw R → P. There must be no arrow between Q and P."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "Global warming causes drought, where there is very little rainfall over a long period of time. Using the food web in (a), explain how global warming affects the population of organism P.",
+          "marks": 2,
+          "answer": {
+            "type": "self",
+            "value": "Drought causes the amount of water in the pond to decrease. Organism S will have less water to photosynthesise, so it cannot survive and its population decreases. With less S available as food for R, the population of R decreases. With less R available as food for P, the population of P decreases."
+          },
+          "explanation": [
+            "Link the drought to the pond first: very little rainfall means less water in the pond.",
+            "S is the producer and needs water to photosynthesise, so there is less S.",
+            "Then follow the food web one step at a time: less S means less food for R, so R decreases; less R means less food for P, so P decreases.",
+            "The marker looks for the whole chain of reasoning and the final statement that the population of P decreases."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) Food web: S → Q; S → R → P (arrows show the direction of energy flow, '→' means 'eaten by').  b) Drought causes the amount of water in the pond to decrease. Organism S will have less water to photosynthesise so they cannot survive. With less S available as food for R, the population of R decreases. With less R available as food for P, the population of P decreases.",
+        "solvedAnswer": "agrees with key",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 33,
+      "page": 23,
+      "format": "structured",
+      "marks": 5,
+      "topic": "energy-photosynthesis",
+      "subtypes": [
+        "rate-of-photosynthesis",
+        "experiment-design",
+        "reliability"
+      ],
+      "stem": "Faith sets up an experiment using a water plant in a dark room.\n[[img1]]\nShe changed distance d and counted the number of gas bubbles produced per minute. Her results are as shown.\n[[table1]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A beaker of water on a stand. Inside it a water plant sits under an upturned funnel, and an inverted test tube filled with water is placed over the funnel stem. Bubbles rise up the tube and gas X collects at the top of the inverted test tube. A thermometer held by a retort stand dips into the water. A lamp on a stand shines at the beaker from the side; the gap between the lamp and the beaker is labelled distance d. A ruler lies on the table below.",
+          "page": 23,
+          "box": [
+            140,
+            140,
+            725,
+            580
+          ]
+        }
+      ],
+      "tables": [
+        {
+          "id": "table1",
+          "header": [
+            "Distance d (cm)",
+            "Number of bubbles produced per minute"
+          ],
+          "rows": [
+            [
+              "20",
+              "82"
+            ],
+            [
+              "40",
+              "63"
+            ],
+            [
+              "60",
+              "47"
+            ],
+            [
+              "80",
+              "29"
+            ],
+            [
+              "100",
+              "11"
+            ]
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "Name gas X.",
+          "marks": 1,
+          "answer": {
+            "type": "text",
+            "value": "Oxygen",
+            "accept": [
+              "oxygen",
+              "oxygen gas",
+              "o2",
+              "the oxygen",
+              "it is oxygen",
+              "gas x is oxygen"
+            ]
+          },
+          "explanation": [
+            "The water plant photosynthesises when light shines on it.",
+            "During photosynthesis a plant takes in carbon dioxide and gives out oxygen. The bubbles rise and collect at the top of the inverted test tube, so gas X is oxygen."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "Using the results in the table, state the relationship between the intensity of light and the number of bubbles produced per minute.",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "As the intensity of light decreases, the number of bubbles produced per minute decreases. (Or: as the intensity of light increases, the number of bubbles produced per minute increases.)"
+          },
+          "explanation": [
+            "This is a relationship question: say how the measured variable changes as the changed variable changes.",
+            "The table gives distance, but the question asks about intensity of light. The further the lamp, the lower the intensity of light on the plant.",
+            "From 20 cm to 100 cm the bubbles fall from 82 to 11, so as the light intensity decreases, the number of bubbles decreases.",
+            "Do not answer in terms of distance from the lamp."
+          ]
+        },
+        {
+          "label": "ci",
+          "prompt": "Faith wanted to investigate if the intensity of light affects the rate of photosynthesis.\nInstead of counting the number of bubbles, suggest how she can obtain a more accurate result using the same set-up.",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "She can measure the height (or volume) of gas X collected in the inverted test tube using a ruler, over the same period of time."
+          },
+          "explanation": [
+            "Counting bubbles is not very accurate because bubbles can be different sizes, can join together or can be miscounted.",
+            "A more accurate method must state something that can be measured: the height or volume of gas collected in the inverted test tube.",
+            "Do not write 'observe the gas'. That does not measure how much gas was produced."
+          ]
+        },
+        {
+          "label": "cii",
+          "prompt": "State how she can ensure her results are reliable.",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "She can repeat the experiment 3 more times to check for consistent readings and take the average reading."
+          },
+          "explanation": [
+            "Reliability comes from repeating the experiment and checking that the readings are consistent, then taking the average.",
+            "Do not write about accuracy here. Accuracy is about using a suitable measuring instrument and measuring carefully.",
+            "Do not confuse it with a fair test either, which means keeping all the other variables the same."
+          ]
+        },
+        {
+          "label": "d",
+          "prompt": "Explain why the experiment was carried out in a dark room.",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "This ensures that the difference in the number of bubbles produced was only due to the intensity of light from the lamp and not due to light from the surroundings."
+          },
+          "explanation": [
+            "This is a fair-test question. Light is the variable being changed, so the lamp must be the only source of light.",
+            "In a dark room no other light can reach the plant and affect its rate of photosynthesis.",
+            "The answer must mention the measured variable: the difference in the number of bubbles produced is then due only to the intensity of light from the lamp."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) Gas X is oxygen.  b) As the intensity of light decreases, the number of bubbles produced per minute decreases. (Do not answer in terms of distance from the lamp.)  c)(i) Measure the height of gas X collected in the inverted test tube using a ruler. (Height / volume of gas collected.)  c)(ii) Repeat the experiment 3 more times to check for consistent readings and take the average reading.  d) This ensures that the difference in the number of bubbles produced was only due to the intensity of light from the lamp and not due to light from the surroundings.",
+        "solvedAnswer": "agrees with key",
+        "status": "verified",
+        "note": "The key for 33(c)(i), 33(c)(ii), 33(d) and 34 is partly covered by a watermark. The words 'height', '3', 'consistent' and 'average' were read at zoom around the watermark and fit the printed remarks beside them."
+      }
+    },
+    {
+      "section": "b",
+      "number": 34,
+      "page": 25,
+      "format": "structured",
+      "marks": 3,
+      "topic": "interactions-environment",
+      "subtypes": [
+        "decomposers",
+        "control-set-up",
+        "fair-test"
+      ],
+      "stem": "Gaya wants to investigate if water will help dead leaves to break down more quickly. She used two identical containers for her investigation as shown.\n[[img1]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Two identical empty jars, each closed with a lid that has many small holes, labelled lid with holes. The left jar is labelled experimental set-up and the right jar is labelled control set-up.",
+          "page": 25,
+          "box": [
+            205,
+            170,
+            660,
+            370
+          ]
+        }
+      ],
+      "tables": [
+        {
+          "id": "table1",
+          "header": [
+            "Item",
+            "Quantity"
+          ],
+          "rows": [
+            [
+              "dry soil",
+              "1 packet"
+            ],
+            [
+              "wet soil",
+              "1 packet"
+            ],
+            [
+              "dead leaves",
+              "40 g"
+            ]
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "Explain why Gaya used containers with a lid that has holes.",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "The lid with holes allows air (oxygen) to enter the set-ups. Decomposers such as bacteria and fungi need oxygen to respire and break down the dead leaves."
+          },
+          "explanation": [
+            "Dead leaves are broken down by decomposers such as bacteria and fungi. Decomposers are living things, so they need oxygen to respire.",
+            "The holes let air (oxygen) enter the containers.",
+            "Do not say the dead leaves need air to decompose. The dead leaves are not living; it is the decomposers that need oxygen."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "She has **only** the items below. She may use some or all of them.\n[[table1]]\nWhat items should she put inside the container for each set-up? (Write what goes into the experimental set-up and what goes into the control set-up.)",
+          "marks": 2,
+          "answer": {
+            "type": "self",
+            "value": "Experimental set-up: 1 packet of wet soil and 20 g of dead leaves. Control set-up: 1 packet of dry soil and 20 g of dead leaves."
+          },
+          "explanation": [
+            "The changed variable is the presence of water. The wet soil provides water in the experimental set-up.",
+            "A control set-up does not contain the changed variable, so the control uses dry soil, which has no water.",
+            "Everything else must be kept the same for a fair test: the same amount of soil (1 packet each) and the same mass of dead leaves.",
+            "There are only 40 g of dead leaves, so each set-up gets 40 ÷ 2 = 20 g."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) The lid with holes allows air / oxygen to enter the set-ups. Decomposers such as bacteria and fungi need oxygen to respire and break down the dead leaves. (Do not say the dead leaves need air to decompose.)  b) Experimental set-up: 1 packet wet soil + 20 g of dead leaves. Control set-up: 1 packet dry soil + 20 g of dead leaves.",
+        "solvedAnswer": "agrees with key",
+        "status": "verified",
+        "note": "Part of the key is under a watermark; '1 packet wet', '1 packet dry' and '20' were read at zoom and agree with the remarks column."
+      }
+    },
+    {
+      "section": "b",
+      "number": 35,
+      "page": 26,
+      "format": "structured",
+      "marks": 3,
+      "topic": "interactions-environment",
+      "subtypes": [
+        "adaptations",
+        "behavioural-adaptations"
+      ],
+      "stem": "Animal W builds its nest on plant A. Plant A has sharp thorns. Animal W often leaves droppings near plant A.\n[[img1]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A small bird, labelled animal W, perched on a branch of plant A. The branches have leaves and long sharp thorns. A woven nest hangs from the branches; an opening at the bottom of the nest, facing the ground, is labelled entrance. Labels: plant A, animal W, nest, thorn, entrance.",
+          "page": 26,
+          "box": [
+            155,
+            150,
+            690,
+            435
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "Animal W lays eggs in its nest. The nest has two narrow entrances that face the ground. Suggest how the narrow entrances help animal W survive.",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "The narrow entrances make it difficult for larger predators to enter through them, protecting animal W and its young (eggs) from predators."
+          },
+          "explanation": [
+            "Choose a feature of the entrances and link it to protection from predators.",
+            "Narrow entrances: larger predators cannot get through, so animal W and its eggs or young are protected.",
+            "Other accepted answers: the two entrances confuse the predator, so the eggs in the nest are safe; or the entrances face the ground, making it difficult for predators to climb in.",
+            "Do not only describe the nest. You must say how the feature protects animal W, its eggs or its young from predators."
+          ]
+        },
+        {
+          "label": "bi",
+          "prompt": "How does plant A and animal W benefit from this relationship?\nBenefit for plant A:",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "Animal W's droppings provide minerals (mineral salts) to the soil, which helps plant A grow better."
+          },
+          "explanation": [
+            "The stem says animal W often leaves droppings near plant A. Droppings add mineral salts to the soil.",
+            "The roots of plant A absorb the mineral salts, so the plant grows better.",
+            "Do not say the droppings are food for the plant. Plants make their own food."
+          ]
+        },
+        {
+          "label": "bii",
+          "prompt": "Benefit for animal W:",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "Plant A's sharp thorns deter predators from trying to reach the nest. This helps to protect animal W's nest and eggs from predators."
+          },
+          "explanation": [
+            "Use the information given: animal W builds its nest on plant A, and plant A has sharp thorns.",
+            "The sharp thorns make it difficult for predators to reach the nest.",
+            "Do not only write 'the thorns protect the nest'. You must state what the nest is protected from: predators."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) The narrow entrances make it difficult for larger predators to enter through, protecting animal W and its young from predators. OR The two entrances confuse the predator, which ensures the eggs in the nest are safe. OR The entrances face the ground, making it difficult for predators to climb in.  b)(i) Animal W's droppings provide minerals to the soil, which helps Plant A grow better. (Do not say the droppings are food for the plant.)  b)(ii) Plant A's sharp thorns deter predators from trying to reach the nest. This helps to protect Animal W's nest / eggs from predators.",
+        "solvedAnswer": "agrees with key",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 36,
+      "page": 27,
+      "format": "structured",
+      "marks": 4,
+      "topic": "energy-light-heat",
+      "subtypes": [
+        "heat-conductors",
+        "heat-gain",
+        "structural-adaptations"
+      ],
+      "stem": "Joe baked two similar pieces of bread. One was mixed with 20 g of substance S while the other was not. Substance S is a type of fat used in baking.\nImmediately, after removing the bread from the oven, he placed an identical piece of chocolate on top of each bread.\n[[img1]]\nHe observed and recorded what happened to the chocolate after 5 minutes.\n[[table1]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A loaf of bread labelled Bread A with a small bar of chocolate lying on top, labelled chocolate. Beside it is the caption Bread B with a second chocolate label line, but the picture of bread B is missing from the scan.",
+          "page": 27,
+          "box": [
+            225,
+            220,
+            590,
+            385
+          ]
+        },
+        {
+          "id": "img2",
+          "alt": "Two penguins, L and M, each with an enlarged circle showing a section through its body covering. L is labelled thin fat layer. M is labelled thick fat layer, and the fat layer in its circle is much wider.",
+          "page": 28,
+          "box": [
+            185,
+            145,
+            680,
+            395
+          ]
+        }
+      ],
+      "tables": [
+        {
+          "id": "table1",
+          "header": [
+            "Bread",
+            "Amount of substance S (g)",
+            "Observation of chocolate"
+          ],
+          "rows": [
+            [
+              "A",
+              "0",
+              "Melted a lot"
+            ],
+            [
+              "B",
+              "20",
+              "Melted slightly"
+            ]
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "Give a reason why the chocolate melted on the bread.",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "The chocolate gained heat from the hot bread. (Heat was transferred from the hot bread to the cooler chocolate.)"
+          },
+          "explanation": [
+            "Heat always flows from a hotter object to a cooler one.",
+            "The bread had just come out of the oven, so it was hotter than the chocolate. The bread lost heat and the chocolate gained heat, so the chocolate melted.",
+            "Show the direction of heat transfer clearly: from the bread to the chocolate."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "Based on his observations, what can Joe conclude about the effect of substance S on the transfer of heat?",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "Substance S slows down the transfer of heat from the bread to the chocolate. (Substance S is a poor conductor of heat.)"
+          },
+          "explanation": [
+            "Compare the two breads: the only difference is that bread B has substance S.",
+            "The chocolate on bread B melted only slightly, so less heat was transferred from bread B to the chocolate in the 5 minutes.",
+            "Conclusion: substance S slows down (decreases) the transfer of heat.",
+            "Do not only write 'the chocolate melted less'. That is the observation, not the conclusion."
+          ]
+        },
+        {
+          "label": "c",
+          "prompt": "Joe read about different penguin species, L and M, with different thicknesses of fat.\n[[img2]]\nWhich penguin species, L or M, is better adapted to living in a colder environment? Explain your answer.",
+          "marks": 2,
+          "answer": {
+            "type": "self",
+            "value": "Penguin species M. It has a thicker fat layer, and fat is a poor conductor of heat. So M loses heat from its body to the cold surroundings more slowly and can keep warm."
+          },
+          "explanation": [
+            "Claim: penguin M.",
+            "Evidence: the diagram shows that M has a thicker fat layer than L.",
+            "Reasoning: fat is a poor conductor of heat (as Joe found with substance S), so the thicker layer makes M lose heat from its body to the cool surroundings more slowly.",
+            "The marker looks for the choice of M, the comparison of fat layers and the link to slower heat loss."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) The chocolate gained heat from the hot bread roll. OR Heat was transferred from the bread roll to the chocolate.  b) Substance S slows down the transfer of heat from the bread to the chocolate. (S is a poor conductor of heat.)  c) Claim: Penguin species M. Evidence: It has a thicker fat layer, which is a poor conductor of heat. Reasoning: M loses heat slower from its body to the cool surroundings.",
+        "solvedAnswer": "agrees with key",
+        "status": "verified",
+        "note": "The picture of Bread B did not come out in the scan (only its caption and label line are there). It is the same drawing as Bread A and is not needed to answer, so the question is kept as verified."
+      }
+    },
+    {
+      "section": "b",
+      "number": 37,
+      "page": 29,
+      "format": "structured",
+      "marks": 3,
+      "topic": "energy-light-heat",
+      "subtypes": [
+        "expansion-and-contraction",
+        "heat-gain",
+        "evaporation-rate"
+      ],
+      "stem": "A school was having a carnival and set up an inflatable decoration the previous evening. It rained the night before and water droplets were observed on the inflatable.\n[[img1]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Two pictures of a large inflatable figure of a schoolgirl tied down with ropes in front of a school building. Left, labelled before the carnival (at night): the moon is out, the inflatable is smaller and has water droplets from rain on it, and there are puddles on the ground. Right, labelled during the carnival (at noon): the sun is out, the inflatable is bigger and there are no water droplets.",
+          "page": 29,
+          "box": [
+            180,
+            170,
+            705,
+            555
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "Anna observed that the inflatable decoration had increased in size the next day. Explain her observation.",
+          "marks": 2,
+          "answer": {
+            "type": "self",
+            "value": "The air in the inflatable decoration gained heat from the warmer surroundings and expanded, so it took up more space and the inflatable increased in size."
+          },
+          "explanation": [
+            "Say what gained heat and from where: the air inside the inflatable gained heat from the warmer surroundings at noon.",
+            "Say what happened to it: the air expanded and took up more space, so the inflatable became bigger.",
+            "It is the air inside that expands, like a balloon on a bottle placed in hot water.",
+            "Do not say 'more air entered the inflatable'. The question does not say that extra air was pumped in."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "Anna also observed that the water droplets on the inflatable decoration had disappeared the next morning. Give a reason for her observation.",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "The water droplets gained heat from the surroundings and evaporated to become water vapour."
+          },
+          "explanation": [
+            "Evaporation is the change of state from liquid water to water vapour. It happens at any temperature when water gains heat.",
+            "The droplets gained heat from the warmer surroundings and evaporated, so they could no longer be seen.",
+            "Do not say the inflatable absorbed the water. Nothing in the question suggests that."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) Air in the inflatable decoration had gained heat from the warmer surroundings and expanded. (Do not say 'more air entered the inflatable'.)  b) The water droplets evaporated. OR The water gained heat and became water vapour.",
+        "solvedAnswer": "agrees with key",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 38,
+      "page": 30,
+      "format": "structured",
+      "marks": 4,
+      "topic": "interactions-forces",
+      "subtypes": [
+        "friction",
+        "gravity",
+        "ramps"
+      ],
+      "stem": "The diagram shows a robot vacuum cleaner moving around a room.\n[[img1]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A round robot vacuum cleaner on the smooth floor of a room, between a carpet in front of a cabinet and a slope (ramp). A dashed arrow points up the slope. An enlarged view shows one of the cleaner's rubber wheels. Labels: carpet, smooth floor, robot vacuum cleaner, rubber wheels, slope.",
+          "page": 30,
+          "box": [
+            195,
+            135,
+            680,
+            390
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "Explain why the robot vacuum cleaner moves slower over the carpet than the smooth floor.",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "There is more friction between the robot vacuum cleaner's wheels and the carpet than between the wheels and the smooth floor."
+          },
+          "explanation": [
+            "Friction is a force that opposes motion. It acts between two surfaces in contact.",
+            "The carpet is rougher than the smooth floor, so there is more friction between the wheels and the carpet, and the robot moves slower.",
+            "You must name both surfaces: the robot vacuum cleaner's wheels and the carpet (or the smooth floor)."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "Will the robot vacuum cleaner speed up, slow down or remain at the same speed when moving up the slope? Explain your answer in terms of forces.",
+          "marks": 2,
+          "answer": {
+            "type": "self",
+            "value": "It will slow down. It is moving up the slope, so it is moving against the downward pull of gravitational force."
+          },
+          "explanation": [
+            "Claim: the robot vacuum cleaner will slow down.",
+            "Evidence: it is moving up the slope.",
+            "Reasoning: gravitational force pulls it downwards, so it is moving against the downward pull of gravitational force.",
+            "Do not write only 'gravity acts on it', and avoid 'overcome gravitational force'. Say it is moving against gravitational force."
+          ]
+        },
+        {
+          "label": "c",
+          "prompt": "After a few months, Mrs Lim replaced the rubber wheels.\nState and explain what caused the old wheels to become damaged after repeated use.",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "The old wheels rubbed against the ground repeatedly. This caused frictional force to act between the wheels and the ground, which made the wheels wear out."
+          },
+          "explanation": [
+            "State the cause: the wheels rubbed against the ground (floor and carpet) again and again.",
+            "Explain: frictional force acts between the wheels and the ground whenever they rub, and friction causes wear and tear, so the wheels wore out.",
+            "Both parts are needed: the rubbing, and friction wearing the wheels out."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) There is more friction between the robot vacuum cleaner's wheels and the carpet than between the wheels and the smooth floor.  b) Claim: The robot vacuum cleaner will slow down. Evidence: It is moving up the slope. Reasoning: It is moving against the downward pull of gravitational force.  c) The old wheels became damaged because they rubbed against the ground repeatedly. This caused frictional force to act between the wheels and the ground, causing the wheels to wear out.",
+        "solvedAnswer": "agrees with key",
+        "status": "verified",
+        "note": "The key prints 'frictional foce'; it is transcribed as 'frictional force'."
+      }
+    },
+    {
+      "section": "b",
+      "number": 39,
+      "page": 31,
+      "format": "structured",
+      "marks": 4,
+      "topic": "interactions-magnets",
+      "subtypes": [
+        "electromagnet",
+        "magnetic-materials",
+        "closed-circuit"
+      ],
+      "stem": "Study the toy claw machine.\n[[img1]]\nThe claw successfully picked up a prize when the button was pressed but dropped it when the button was released.",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A toy claw machine: a glass case full of prizes with a claw hanging above them and a button on the front. An enlarged view shows the circuit: a battery, a button (switch) and a coil of wire wound around a rod just above the claw, labelled electromagnet. Labels: electromagnet, battery, claw, button, prizes with steel strip.",
+          "page": 31,
+          "box": [
+            158,
+            128,
+            700,
+            430
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "Describe how the claw machine works when the button is pressed and then later released.",
+          "marks": 2,
+          "answer": {
+            "type": "self",
+            "value": "When the button is pressed, a closed circuit is formed and electricity flows through the circuit. The electromagnet becomes magnetised and attracts the steel strip on the prize, so the prize is picked up. When the button is released, the circuit becomes open and no electricity flows. The electromagnet loses its magnetism and no longer attracts the steel strip, so the prize drops."
+          },
+          "explanation": [
+            "Explain both situations: button pressed and button released.",
+            "Pressed: the circuit is closed, electricity flows, and the electromagnet attracts the steel strip on the prize.",
+            "Released: the circuit is open, electricity stops flowing, the electromagnet is demagnetised and no longer attracts the steel strip.",
+            "An electromagnet is a magnet only while electricity flows through its coil."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "The steel strips on the prizes were replaced with copper strips. The claw was unable to pick up the prizes. Give a reason for this observation.",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "Copper is a non-magnetic material, so it cannot be attracted by the electromagnet."
+          },
+          "explanation": [
+            "Not all metals are magnetic. Iron, steel, nickel and cobalt are magnetic materials.",
+            "Copper, aluminium and gold are non-magnetic, so a magnet cannot attract them.",
+            "The key phrase is 'non-magnetic material'."
+          ]
+        },
+        {
+          "label": "c",
+          "prompt": "The prizes were replaced with heavier ones. State one change that can be made to the electrical circuit so that heavier prizes can be picked up by the claw.",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "Increase the number of coils of wire around the electromagnet. (Or: increase the number of batteries connected in series in the circuit.)"
+          },
+          "explanation": [
+            "Heavier prizes need a stronger electromagnet.",
+            "An electromagnet becomes stronger when there are more coils of wire around it, or when more batteries are connected in series so that more electricity flows.",
+            "Either change earns the mark."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) When the button is pushed, a closed circuit is formed and electricity flows through the circuit. The electromagnet attracts the steel strip on the prize. When the button is released, the circuit becomes open. The electromagnet is demagnetized and no longer attracts the steel strip.  b) Copper is a non-magnetic material, so it cannot be attracted by a magnet.  c) Increase the number of coils of wire around the electromagnet. OR Increase the number of batteries in the circuit.",
+        "solvedAnswer": "agrees with key",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 40,
+      "page": 32,
+      "format": "structured",
+      "marks": 4,
+      "topic": "cycles-matter-water",
+      "subtypes": [
+        "condensation",
+        "evaporation-rate",
+        "decomposers"
+      ],
+      "stem": "Tom has a food composter in his kitchen.\n[[img1]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A food composter: a tray filled with leaves and fruit peels, covered by a clear dome lid with small drops on its inside. Labels: transparent plastic lid, water droplets on the inner surface of the lid, food waste consisting of leaves and fruit peels.",
+          "page": 32,
+          "box": [
+            180,
+            125,
+            710,
+            330
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "Tom observed water droplets on the inner surface of the transparent plastic lid after a few hours. Explain how the water droplets were formed.",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "Water from the food waste evaporated into water vapour. The water vapour came into contact with the cooler inner surface of the lid, lost heat and condensed to form water droplets."
+          },
+          "explanation": [
+            "Explain both processes: evaporation, then condensation.",
+            "Say where the water vapour came from: water in the food waste gained heat and evaporated.",
+            "The warmer water vapour touched the cooler inner surface of the lid, lost heat to it and condensed into water droplets."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "Tom moved the food composter into an air-conditioned room. He observed fewer water droplets on the inner surface of the lid. Explain.",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "In the air-conditioned room the temperature of the surroundings is lower. Water from the food waste evaporates more slowly, so less water vapour is formed. Less water vapour condenses on the lid, so fewer water droplets are formed."
+          },
+          "explanation": [
+            "What changed: the temperature of the surroundings became lower, so the food waste and the air in the composter became cooler.",
+            "The lower the temperature, the slower the rate of evaporation, so less water from the food waste becomes water vapour.",
+            "With less water vapour, less can condense on the lid, so there are fewer water droplets."
+          ]
+        },
+        {
+          "label": "c",
+          "prompt": "After a few weeks, the leaves and fruit peels from the food waste became a soil-like substance. State the process that caused this change.",
+          "marks": 1,
+          "answer": {
+            "type": "text",
+            "value": "Decomposition",
+            "accept": [
+              "decomposition",
+              "decomposing",
+              "decompose",
+              "decomposition by decomposers",
+              "the process is decomposition",
+              "decay",
+              "decaying"
+            ]
+          },
+          "explanation": [
+            "Leaves and fruit peels are dead plant matter.",
+            "Decomposers such as bacteria and fungi break dead matter down into simpler substances. This process is called decomposition."
+          ]
+        },
+        {
+          "label": "d",
+          "prompt": "Tom used to add whole leaves and fruit peels into the composter. He then decided to cut them into smaller pieces before adding them in. Explain how this change would affect the process in (c).",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "Cutting the leaves and fruit peels into smaller pieces increases the exposed surface area of the food waste in contact with the decomposers. This allows the decomposers to break down the food waste faster."
+          },
+          "explanation": [
+            "A surface-area answer must say the surface area of what, in contact with what.",
+            "Smaller pieces have a larger exposed surface area of food waste in contact with the decomposers.",
+            "More of the food waste can be acted on at the same time, so decomposition happens faster."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) Water from the food waste evaporated into water vapour. The water vapour came into contact with the cooler inner surface of the lid, lost heat and condensed to form water droplets.  b) In the air-conditioned room, the temperature of the surroundings is lower. Water from the food waste evaporates less into water vapour. Water vapour condenses more slowly into fewer water droplets which are formed on the lid.  c) The process is decomposition.  d) Cutting the leaves and fruit peels into smaller pieces increases the exposed surface area of the food waste in contact with the decomposers. This allows decomposers to break down the food waste faster.",
+        "solvedAnswer": "agrees with key",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 41,
+      "page": 33,
+      "format": "structured",
+      "marks": 4,
+      "topic": "energy-forms",
+      "subtypes": [
+        "energy-conversion"
+      ],
+      "stem": "Ahmad built a model for his project to light up a table lamp as shown in the diagram below. He placed the model under the sun for it to work.\n[[img1]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A model block of flats with a solar panel on its roof. A wire runs from the solar panel down to a table lamp standing beside the block; lines under the lamp head show it is lit. The sun is drawn above. Labels: solar panel, table lamp.",
+          "page": 33,
+          "box": [
+            150,
+            148,
+            665,
+            372
+          ]
+        },
+        {
+          "id": "img2",
+          "alt": "The table lamp drawn with dashed outlines, showing the circuit inside it: a bulb in the lamp head joined by wires that run down the stand to the base, where a rechargeable battery and a switch are connected. A wire leads in from the left.",
+          "page": 33,
+          "box": [
+            250,
+            718,
+            610,
+            928
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "State the energy conversion of the model by filling in the boxes below. (Type the four missing words in order.)\n___ energy received by solar panel → ___ energy in circuit → ___ energy of table lamp + ___ energy of table lamp",
+          "marks": 2,
+          "answer": {
+            "type": "self",
+            "value": "Light energy received by solar panel → Electrical energy in circuit → Light energy of table lamp + Heat energy of table lamp"
+          },
+          "explanation": [
+            "The solar panel needs light from the Sun to work, so it receives light energy.",
+            "The solar panel converts the light energy into electrical energy, which flows in the circuit to the lamp.",
+            "The lamp converts electrical energy into light energy, which is useful, and heat energy, which is given off as well."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "Ahmad suggests installing more solar panels on the roofs of HDB blocks. Give a reason why solar energy is a better energy source than fossil fuels for generating electricity.",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "Solar energy is renewable. It will not run out, unlike fossil fuels such as coal, oil and natural gas."
+          },
+          "explanation": [
+            "Renewable energy sources, such as solar energy, wind energy and energy from moving water, can be replaced naturally and will not be used up.",
+            "Fossil fuels are non-renewable: once they are used up they cannot be replaced.",
+            "Do not only write 'solar energy is from the Sun'. You must say why that makes it better: it is renewable."
+          ]
+        },
+        {
+          "label": "c",
+          "prompt": "Ahmad installs a rechargeable battery in his model so that the table lamp is still able to work at night as shown below.\n[[img2]]\nExplain how this rechargeable battery allows the table lamp to work at night.",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "The rechargeable battery stores chemical potential energy during the day. At night, this potential energy in the battery is converted into electrical energy in the circuit, which is converted into light energy in the lamp, allowing the lamp to light up."
+          },
+          "explanation": [
+            "The solar panel cannot work at night because there is no sunlight.",
+            "During the day the battery is charged and stores energy as chemical potential energy.",
+            "At night the stored chemical potential energy is converted into electrical energy, which the lamp converts into light energy.",
+            "Do not say the battery stores electrical energy. It stores (chemical) potential energy."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) Light energy received by solar panel → Electrical energy in circuit → Light energy of lamp + Heat energy of lamp.  b) Solar energy is renewable.  c) The rechargeable battery stores chemical potential energy. At night, this potential energy of the battery is converted into electrical energy in the circuit which is converted into light energy in the lamp, allowing the lamp to light up. (Do not say the battery stores electrical energy.)",
+        "solvedAnswer": "agrees with key",
+        "status": "verified"
+      }
+    }
+  ]
+}

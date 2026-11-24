@@ -1,0 +1,487 @@
+{
+  "paper": {
+    "id": "2026-prelim-acsj",
+    "subject": "maths",
+    "year": 2026,
+    "exam": "Prelim",
+    "school": "ACSJ",
+    "schoolFull": "Anglo-Chinese School (Junior)",
+    "file": "PSLE-2026-P6-papers/Maths/P6-Maths-Prelim-2026-ACSJ-Paper.pdf",
+    "coordDpi": 100
+  },
+  "questions": [
+    {
+      "section": "p1a", "number": 1, "page": 2, "format": "mcq", "marks": 1,
+      "topic": "whole-numbers", "subtypes": ["numbers-in-words"],
+      "stem": "Ninety thousand and seventy-five in numerals is ______.",
+      "options": ["9075", "90 075", "90 750", "900 075"],
+      "parts": [{ "label": "", "answer": { "type": "mcq", "value": 2 },
+        "explanation": ["Ninety thousand = 90 000.", "Seventy-five = 75.", "90 000 + 75 = 90 075, which is option (2)."] }],
+      "review": { "keyAnswer": "2", "solvedAnswer": "2", "status": "verified" }
+    },
+    {
+      "section": "p1a", "number": 2, "page": 2, "format": "mcq", "marks": 1,
+      "topic": "decimals", "subtypes": ["comparing-decimals"],
+      "stem": "Which decimal is the smallest?",
+      "options": ["0.13", "0.31", "0.103", "0.301"],
+      "parts": [{ "label": "", "answer": { "type": "mcq", "value": 3 },
+        "explanation": ["Write every number with 3 decimal places: 0.130, 0.310, 0.103, 0.301.", "Compare the tenths first: 0.130 and 0.103 both have 1 tenth, the others have 3 tenths.", "Compare the hundredths: 0.103 has 0 hundredths, 0.130 has 3 hundredths.", "So 0.103 is the smallest, option (3)."] }],
+      "review": { "keyAnswer": "3", "solvedAnswer": "3", "status": "verified" }
+    },
+    {
+      "section": "p1a", "number": 3, "page": 2, "format": "mcq", "marks": 1,
+      "topic": "measurement", "subtypes": ["estimation"],
+      "stem": "What is the estimated mass of ten 30-cm plastic rulers?",
+      "images": [{ "id": "img1", "alt": "A 30-cm plastic ruler", "page": 2, "box": [480, 755, 655, 940] }],
+      "options": ["20 g", "200 g", "2000 g", "20 000 g"],
+      "parts": [{ "label": "", "answer": { "type": "mcq", "value": 2 },
+        "explanation": ["One plastic ruler is light, about 20 g (roughly the mass of four 20-cent coins).", "Ten rulers: 10 × 20 g = 200 g.", "2000 g is 2 kg, which is far too heavy for ten rulers. The answer is option (2)."] }],
+      "review": { "keyAnswer": "2", "solvedAnswer": "2", "status": "verified" }
+    },
+    {
+      "section": "p1a", "number": 4, "page": 3, "format": "mcq", "marks": 1,
+      "topic": "geometry", "subtypes": ["symmetry"],
+      "stem": "Which of the following logos is **not** symmetrical?",
+      "images": [{ "id": "img1", "alt": "Four logos labelled (1) to (4)", "page": 3, "box": [245, 195, 435, 705] }],
+      "options": ["Logo (1)", "Logo (2)", "Logo (3)", "Logo (4)"],
+      "parts": [{ "label": "", "answer": { "type": "mcq", "value": 3 },
+        "explanation": ["A symmetrical figure can be folded along a line so that the two halves match exactly.", "Logo (1) folds down the middle. Logo (2) folds down the middle. Logo (4) folds down the middle and across the middle.", "Logo (3) has a slanted white band, so no fold line makes the two halves match.", "The answer is option (3)."] }],
+      "review": { "keyAnswer": "3", "solvedAnswer": "3", "status": "verified" }
+    },
+    {
+      "section": "p1a", "number": 5, "page": 3, "format": "mcq", "marks": 1,
+      "topic": "measurement", "subtypes": ["time-24-hour"],
+      "stem": "The boarding time for a flight to Bangkok was 10:00 pm. Kai Qing arranged to meet her friend at the airport 2 hours before boarding time. What time did Kai Qing meet her friend at the airport?",
+      "options": ["08 00", "12 00", "20 00", "23 00"],
+      "parts": [{ "label": "", "answer": { "type": "mcq", "value": 3 },
+        "explanation": ["2 hours before 10:00 pm is 8:00 pm.", "For pm times in 24-hour time, add 12 to the hours: 8 + 12 = 20.", "8:00 pm = 20 00, option (3)."] }],
+      "review": { "keyAnswer": "3", "solvedAnswer": "3", "status": "verified" }
+    },
+    {
+      "section": "p1a", "number": 6, "page": 4, "format": "mcq", "marks": 1,
+      "topic": "fractions", "subtypes": ["comparing-fractions"],
+      "stem": "Arrange these fractions from the smallest to the largest: {5/9}, {2/5}, {5/11}",
+      "options": ["{2/5}, {5/9}, {5/11}", "{5/11}, {5/9}, {2/5}", "{5/9}, {5/11}, {2/5}", "{2/5}, {5/11}, {5/9}"],
+      "parts": [{ "label": "", "answer": { "type": "mcq", "value": 4 },
+        "explanation": ["{5/9} and {5/11} have the same numerator. The bigger the denominator, the smaller the fraction, so {5/11} is smaller than {5/9}.", "Compare {2/5} with {5/11}: {2/5} = {22/55} and {5/11} = {25/55}, so {2/5} is smaller than {5/11}.", "Order from smallest: {2/5}, {5/11}, {5/9}. This is option (4)."] }],
+      "review": { "keyAnswer": "4", "solvedAnswer": "4", "status": "verified" }
+    },
+    {
+      "section": "p1a", "number": 7, "page": 4, "format": "mcq", "marks": 1,
+      "topic": "decimals", "subtypes": ["reading-scales"],
+      "stem": "Part of a scale is shown below. What is the value of the reading at K?",
+      "images": [{ "id": "img1", "alt": "A scale marked 6.7, 6.8, 6.9 and 7.0 with five small intervals between each pair of marks. K is two small intervals after 7.0.", "page": 4, "box": [250, 580, 595, 690] }],
+      "options": ["7.02", "7.04", "7.2", "7.4"],
+      "parts": [{ "label": "", "answer": { "type": "mcq", "value": 2 },
+        "explanation": ["From 6.7 to 6.8 is 0.1, and it is divided into 5 small intervals.", "Each small interval = 0.1 ÷ 5 = 0.02.", "K is 2 small intervals after 7.0: 7.0 + 2 × 0.02 = 7.04.", "The answer is option (2)."] }],
+      "review": { "keyAnswer": "2", "solvedAnswer": "2", "status": "verified" }
+    },
+    {
+      "section": "p1a", "number": 8, "page": 5, "format": "mcq", "marks": 1,
+      "topic": "whole-numbers", "subtypes": ["order-of-operations"],
+      "stem": "What is the value of 49 + (27 − 6 ÷ 3) × 2?",
+      "options": ["63", "72", "99", "148"],
+      "parts": [{ "label": "", "answer": { "type": "mcq", "value": 3 },
+        "explanation": ["Work inside the brackets first, doing division before subtraction: 6 ÷ 3 = 2, then 27 − 2 = 25.", "Next multiply: 25 × 2 = 50.", "Lastly add: 49 + 50 = 99.", "The answer is option (3)."] }],
+      "review": { "keyAnswer": "3", "solvedAnswer": "3", "status": "verified",
+        "note": "The sign between 6 and 3 is smudged in the scan. It is read as ÷ because that is the only reading that gives one of the four options and matches the key." }
+    },
+    {
+      "section": "p1a", "number": 9, "page": 5, "format": "mcq", "marks": 1,
+      "topic": "ratio", "subtypes": ["fraction-and-ratio"],
+      "stem": "The number of blue beads is {5/7} of the number of red beads in a bottle. What is the ratio of the number of red beads to the total number of beads in the bottle?",
+      "options": ["7 : 12", "7 : 5", "5 : 7", "5 : 12"],
+      "parts": [{ "label": "", "answer": { "type": "mcq", "value": 1 },
+        "explanation": ["Blue is {5/7} of red, so blue = 5 units and red = 7 units.", "Total = 5 + 7 = 12 units.", "Red : total = 7 : 12, option (1)."] }],
+      "review": { "keyAnswer": "1", "solvedAnswer": "1", "status": "verified" }
+    },
+    {
+      "section": "p1a", "number": 10, "page": 5, "format": "mcq", "marks": 1,
+      "topic": "geometry", "subtypes": ["angles-on-a-straight-line", "isosceles-triangle"],
+      "stem": "AOB and COD are straight lines. DO = DB and ∠AOD = 126°. Find ∠DBO.",
+      "images": [{ "id": "img1", "alt": "Straight lines AOB and COD cross at O. D is joined to B to form triangle DOB. Angle AOD is 126°.", "page": 5, "box": [430, 700, 655, 855] }],
+      "options": ["54°", "63°", "72°", "126°"],
+      "parts": [{ "label": "", "answer": { "type": "mcq", "value": 1 },
+        "explanation": ["AOB is a straight line, so ∠DOB = 180° − 126° = 54°.", "DO = DB, so triangle DOB is isosceles. The angles opposite the equal sides are equal: ∠DBO = ∠DOB.", "∠DBO = 54°, option (1)."] }],
+      "review": { "keyAnswer": "1", "solvedAnswer": "1", "status": "verified" }
+    },
+    {
+      "section": "p1a", "number": 11, "page": 6, "format": "mcq", "marks": 2,
+      "topic": "percentage", "subtypes": ["percentage-change"],
+      "stem": "The petrol price for ten litres of petrol in Singapore has increased from $28 in 2025 to $35 in 2026. Find the percentage increase in price for ten litres of petrol.",
+      "options": ["20%", "25%", "80%", "125%"],
+      "parts": [{ "label": "", "answer": { "type": "mcq", "value": 2 },
+        "explanation": ["Increase = $35 − $28 = $7.", "Percentage increase is compared with the original price: {7/28} × 100% = {1/4} × 100% = 25%.", "The answer is option (2)."] }],
+      "review": { "keyAnswer": "2", "solvedAnswer": "2", "status": "verified" }
+    },
+    {
+      "section": "p1a", "number": 12, "page": 6, "format": "mcq", "marks": 2,
+      "topic": "rate-speed", "subtypes": ["part-thereof-charges", "duration"],
+      "stem": "Mohan parked his electric car at a charging station and charged it from 13 45 to 15 18. The charging rates at the station are shown in the table below.\n[[table1]]\nHow much did Mohan pay for charging his electric car?",
+      "tables": [{ "id": "table1", "header": ["Charging Duration", "Rate"], "rows": [["First 1 hour", "$8.50"], ["Every additional 10 minutes or part thereof", "$1.20"]] }],
+      "options": ["$12.10", "$13.30", "$17.00", "$18.10"],
+      "parts": [{ "label": "", "answer": { "type": "mcq", "value": 2 },
+        "explanation": ["From 13 45 to 15 18 is 1 hour 33 minutes.", "First 1 hour: $8.50.", "Remaining 33 minutes = 3 full blocks of 10 minutes and 3 minutes more. 'Part thereof' means the extra 3 minutes is charged as a full block, so 4 blocks.", "4 × $1.20 = $4.80.", "Total = $8.50 + $4.80 = $13.30, option (2)."] }],
+      "review": { "keyAnswer": "2", "solvedAnswer": "2", "status": "verified" }
+    },
+    {
+      "section": "p1a", "number": 13, "page": 7, "format": "mcq", "marks": 2,
+      "topic": "data", "subtypes": ["reading-tables"],
+      "stem": "The table shows the temperatures of cities W, X, Y and Z.\n[[table1]]\nWhen Raju was in two of these cities, the temperature was 10°C. Which two cities could he have been in?",
+      "tables": [{ "id": "table1", "header": ["City", "Lowest Temperature (°C)", "Highest Temperature (°C)"], "rows": [["W", "6", "14"], ["X", "11", "18"], ["Y", "16", "27"], ["Z", "8", "22"]] }],
+      "options": ["W and X", "W and Z", "X and Y", "Y and Z"],
+      "parts": [{ "label": "", "answer": { "type": "mcq", "value": 2 },
+        "explanation": ["10°C must lie between a city's lowest and highest temperature.", "W: 6 to 14, so 10 is possible. X: 11 to 18, 10 is too low. Y: 16 to 27, 10 is too low. Z: 8 to 22, so 10 is possible.", "The two cities are W and Z, option (2)."] }],
+      "review": { "keyAnswer": "2", "solvedAnswer": "2", "status": "verified" }
+    },
+    {
+      "section": "p1a", "number": 14, "page": 7, "format": "mcq", "marks": 2,
+      "topic": "volume", "subtypes": ["unit-cubes"],
+      "stem": "What is the least number of small cubes that would need to be added to the figure below to form a big cube?",
+      "images": [{ "id": "img1", "alt": "A solid built from small cubes in a corner: 3 cubes wide, 2 cubes deep and up to 3 cubes high.", "page": 7, "box": [450, 548, 608, 732] }],
+      "options": ["7", "11", "16", "27"],
+      "parts": [{ "label": "", "answer": { "type": "mcq", "value": 3 },
+        "explanation": ["Count the cubes in the figure. Left: 2 high and 2 deep = 4 cubes. Middle: 1 cube in front and a stack of 3 behind = 4 cubes. Right: a stack of 3 at the back = 3 cubes. Total = 11 cubes.", "The figure is 3 cubes wide and 3 cubes high, so the smallest big cube is 3 × 3 × 3 = 27 small cubes.", "Cubes to add = 27 − 11 = 16, option (3)."] }],
+      "review": { "keyAnswer": "3", "solvedAnswer": "3", "status": "verified" }
+    },
+    {
+      "section": "p1a", "number": 15, "page": 7, "format": "mcq", "marks": 2,
+      "topic": "geometry", "subtypes": ["angles-in-square", "angles-in-triangle"],
+      "stem": "PQRS is a square. PR, QS and PT are straight lines. ∠TPR = 19°. Find ∠y.",
+      "images": [{ "id": "img1", "alt": "Square PQRS with diagonals PR and QS. T is on SR. Line PT crosses diagonal QS; angle y is at that crossing, on the side facing SR. Angle TPR is 19°.", "page": 7, "box": [415, 800, 648, 1048] }],
+      "options": ["45°", "64°", "71°", "73°"],
+      "parts": [{ "label": "", "answer": { "type": "mcq", "value": 3 },
+        "explanation": ["A diagonal of a square cuts the corner angle in half, so ∠SPR = 45° and ∠PSQ = 45°.", "∠SPT = 45° − 19° = 26°.", "Call the point where PT crosses QS point X. In triangle PSX: ∠PXS = 180° − 26° − 45° = 109°.", "∠y and ∠PXS lie on the straight line PT: ∠y = 180° − 109° = 71°.", "The answer is option (3)."] }],
+      "review": { "keyAnswer": "3", "solvedAnswer": "3", "status": "verified" }
+    },
+    {
+      "section": "p1a", "number": 16, "page": 8, "format": "mcq", "marks": 2,
+      "topic": "heuristics", "subtypes": ["patterns", "intervals-and-gaps"],
+      "stem": "A string of beads is partly covered by a piece of cloth as shown. There are 3 white beads between every 2 black beads. There are 12 black beads altogether in this string. What is the total number of white beads?",
+      "images": [{ "id": "img1", "alt": "A string of beads that starts and ends with a black bead, with 3 white beads between black beads. The middle part is hidden under a cloth.", "page": 8, "box": [200, 195, 658, 362] }],
+      "options": ["18", "27", "33", "36"],
+      "parts": [{ "label": "", "answer": { "type": "mcq", "value": 3 },
+        "explanation": ["The string starts and ends with a black bead, so 12 black beads make 12 − 1 = 11 gaps.", "Each gap holds 3 white beads.", "White beads = 11 × 3 = 33, option (3)."] }],
+      "review": { "keyAnswer": "3", "solvedAnswer": "3", "status": "verified" }
+    },
+    {
+      "section": "p1a", "number": 17, "page": 8, "format": "mcq", "marks": 2,
+      "topic": "fractions", "subtypes": ["equal-quantity", "units-and-parts"],
+      "stem": "Mrs Tan bought some purple and blue pens. After giving away an equal number of purple and blue pens, she had {2/3} of the purple pens and {2/5} of the blue pens left. What fraction of the pens Mrs Tan bought were given away?",
+      "options": ["{1/2}", "{3/7}", "{3/14}", "{7/15}"],
+      "parts": [{ "label": "", "answer": { "type": "mcq", "value": 2 },
+        "explanation": ["Purple given away = 1 − {2/3} = {1/3} of the purple pens. Blue given away = 1 − {2/5} = {3/5} of the blue pens.", "These two amounts are equal, so make the numerators the same: {1/3} = {3/9}. So {3/9} of purple = {3/5} of blue.", "Purple = 9 units, blue = 5 units, and 3 units of each were given away.", "Total bought = 9 + 5 = 14 units. Given away = 3 + 3 = 6 units.", "Fraction given away = {6/14} = {3/7}, option (2)."] }],
+      "review": { "keyAnswer": "2", "solvedAnswer": "2", "status": "verified" }
+    },
+    {
+      "section": "p1a", "number": 18, "page": 9, "format": "mcq", "marks": 2,
+      "topic": "circles", "subtypes": ["semicircles", "perimeter-of-composite-figure"],
+      "stem": "The diameters of the big semi-circle and small semi-circle are 14 cm and 7 cm respectively. Find the perimeter of the shaded figure. (Take π = {22/7})",
+      "images": [{ "id": "img1", "alt": "A shaded arch: a big semicircle of diameter 14 cm with a small semicircle of diameter 7 cm removed from the middle of its base.", "page": 9, "box": [285, 200, 518, 380] }],
+      "options": ["33 cm", "40 cm", "66 cm", "73 cm"],
+      "parts": [{ "label": "", "answer": { "type": "mcq", "value": 2 },
+        "explanation": ["The perimeter has 4 pieces: the big curve, the small curve and two short straight pieces on the base.", "Big curve = {1/2} × {22/7} × 14 = 22 cm.", "Small curve = {1/2} × {22/7} × 7 = 11 cm.", "Two straight pieces together = 14 − 7 = 7 cm.", "Perimeter = 22 + 11 + 7 = 40 cm, option (2)."] }],
+      "review": { "keyAnswer": "2", "solvedAnswer": "2", "status": "verified" }
+    },
+
+    {
+      "section": "p1b", "number": 19, "page": 11, "format": "short", "marks": 2,
+      "topic": "decimals", "subtypes": ["decimal-to-fraction", "multiplying-decimals"],
+      "stem": "",
+      "parts": [
+        { "label": "a", "prompt": "Express 2.3 as a mixed number.", "marks": 1,
+          "answer": { "type": "fraction", "value": "2 3/10", "simplest": true },
+          "explanation": ["2.3 = 2 + 0.3.", "0.3 = 3 tenths = {3/10}.", "2.3 = 2{3/10}."] },
+        { "label": "b", "prompt": "Find the value of 7.2 × 300.", "marks": 1,
+          "answer": { "type": "number", "value": "2160" },
+          "explanation": ["7.2 × 3 = 21.6.", "21.6 × 100 = 2160."] }
+      ],
+      "review": { "keyAnswer": "a) 2 3/10  b) 2160", "solvedAnswer": "a) 2 3/10  b) 2160", "status": "verified" }
+    },
+    {
+      "section": "p1b", "number": 20, "page": 11, "format": "short", "marks": 2,
+      "topic": "algebra", "subtypes": ["simplifying-expressions", "evaluating-expressions"],
+      "stem": "",
+      "parts": [
+        { "label": "a", "prompt": "Simplify 16n + 7 − 4n + 11.", "marks": 1,
+          "answer": { "type": "expression", "value": "12n + 18", "accept": ["12n+18", "18+12n"] },
+          "explanation": ["Group the terms with n: 16n − 4n = 12n.", "Group the numbers: 7 + 11 = 18.", "Answer: 12n + 18."] },
+        { "label": "b", "prompt": "Find the value of {9h/2} − h when h = 4.", "marks": 1,
+          "answer": { "type": "number", "value": "14" },
+          "explanation": ["Replace h with 4: {9 × 4/2} − 4.", "9 × 4 = 36 and 36 ÷ 2 = 18.", "18 − 4 = 14."] }
+      ],
+      "review": { "keyAnswer": "a) 12n + 18  b) 14", "solvedAnswer": "a) 12n + 18  b) 14", "status": "verified" }
+    },
+    {
+      "section": "p1b", "number": 21, "page": 12, "format": "short", "marks": 2,
+      "topic": "geometry", "subtypes": ["cubes-and-cuboids"],
+      "stem": "A piece of wire is used to make the cube shown below. Each side of the cube is 4 cm long. What is the length of the wire?",
+      "images": [{ "id": "img1", "alt": "A wire-frame cube", "page": 12, "box": [205, 200, 332, 328] }],
+      "parts": [{ "label": "", "answer": { "type": "number", "value": "48", "unit": "cm" },
+        "explanation": ["A cube has 12 edges, all the same length.", "Length of wire = 12 × 4 cm = 48 cm."] }],
+      "review": { "keyAnswer": "48 cm", "solvedAnswer": "48", "status": "verified" }
+    },
+    {
+      "section": "p1b", "number": 22, "page": 12, "format": "short", "marks": 2,
+      "topic": "circles", "subtypes": ["quarter-circles", "cut-and-rearrange"],
+      "stem": "The figure is made up of a rectangle and 2 identical quarter circles. The breadth of the rectangle is 14 cm. What is the total area of the shaded parts? (Take π = {22/7})",
+      "images": [{ "id": "img1", "alt": "A rectangle with a diagonal from the top-left corner to the bottom-right corner. One quarter circle is centred at the top-left corner and one at the bottom-right corner. The part of each quarter circle below the diagonal is shaded.", "page": 12, "box": [195, 465, 388, 578] }],
+      "parts": [{ "label": "", "answer": { "type": "number", "value": "154", "unit": "cm²" },
+        "explanation": ["Each quarter circle has radius 14 cm, the breadth of the rectangle.", "The diagonal passes through the centres of both quarter circles and cuts each one into two pieces.", "The two quarter circles are identical and the diagonal cuts them at the same angle, so the shaded piece of one is exactly the unshaded piece of the other. Moving one shaded piece over fills up one whole quarter circle.", "Shaded area = area of one quarter circle = {1/4} × {22/7} × 14 × 14 = 154 cm²."] }],
+      "review": { "keyAnswer": "154 cm²", "solvedAnswer": "154", "status": "verified" }
+    },
+    {
+      "section": "p1b", "number": 23, "page": 12, "format": "short", "marks": 2,
+      "topic": "ratio", "subtypes": ["ratio-and-quantity", "limiting-ingredient"],
+      "stem": "A baker uses some flour and sugar in the ratio of 5 : 4 to bake a cake. Each cake uses 500 g of flour. She has 2 kg of flour and 900 g of sugar. What is the greatest number of cakes she can bake?",
+      "parts": [{ "label": "", "answer": { "type": "number", "value": "2" },
+        "explanation": ["Flour : sugar = 5 : 4. 5 units = 500 g, so 1 unit = 100 g and each cake needs 4 × 100 g = 400 g of sugar.", "Flour: 2 kg = 2000 g. 2000 ÷ 500 = 4 cakes.", "Sugar: 900 ÷ 400 = 2 remainder 100, so only 2 cakes.", "She runs out of sugar first, so the greatest number of cakes is 2."] }],
+      "review": { "keyAnswer": "2", "solvedAnswer": "2", "status": "verified" }
+    },
+    {
+      "section": "p1b", "number": 24, "page": 13, "format": "short", "marks": 2,
+      "topic": "data", "subtypes": ["line-graph"],
+      "stem": "The graph below shows the sale of mobile phones in a shop from July to December.\n[[img1]]\nDuring which 1-month period was the increase in the number of mobile phones sold the greatest? (Answer in the form: month to month)",
+      "images": [{ "id": "img1", "alt": "Line graph of mobile phones sold: Jul 20, Aug 26, Sep 48, Oct 58, Nov 34, Dec 54.", "page": 13, "box": [120, 175, 652, 497] }],
+      "parts": [{ "label": "", "answer": { "type": "text", "value": "August to September", "accept": ["august to september", "aug to sep", "aug to sept", "august - september", "aug - sep", "aug-sep", "august-september", "august september", "aug sep"] },
+        "explanation": ["Read the graph: Jul 20, Aug 26, Sep 48, Oct 58, Nov 34, Dec 54.", "Find each increase: Jul to Aug 6, Aug to Sep 22, Sep to Oct 10, Nov to Dec 20. (Oct to Nov is a decrease.)", "The greatest increase is 22, from August to September. On the graph it is the steepest line going up."] }],
+      "review": { "keyAnswer": "August to September", "solvedAnswer": "August to September", "status": "verified" }
+    },
+    {
+      "section": "p1b", "number": 25, "page": 13, "format": "short", "marks": 2,
+      "topic": "fractions", "subtypes": ["fraction-of-a-whole"],
+      "stem": "Mrs Wang made some coin purses in three colours: orange, blue and pink. {3/10} of the coin purses were blue. The number of blue coin purses was twice the number of orange coin purses. What fraction of the coin purses were pink?",
+      "parts": [{ "label": "", "answer": { "type": "fraction", "value": "11/20" },
+        "explanation": ["Blue = {3/10} = {6/20}.", "Blue is twice orange, so orange = half of {6/20} = {3/20}.", "Blue + orange = {6/20} + {3/20} = {9/20}.", "Pink = 1 − {9/20} = {11/20}."] }],
+      "review": { "keyAnswer": "11/20", "solvedAnswer": "11/20", "status": "verified" }
+    },
+    {
+      "section": "p1b", "number": 26, "page": 14, "format": "short", "marks": 2,
+      "topic": "heuristics", "subtypes": ["redistribution"],
+      "stem": "Mr Han placed all his marbles into 36 bottles with an equal number of marbles in each bottle. 6 of the bottles broke, and the marbles in these broken bottles were then placed into the remaining bottles. As a result, the number of marbles in each remaining bottle increased by 9. What was the number of marbles in each bottle at first?",
+      "parts": [{ "label": "", "answer": { "type": "number", "value": "45" },
+        "explanation": ["Bottles left = 36 − 6 = 30.", "Each of the 30 bottles received 9 more marbles: 30 × 9 = 270 marbles.", "These 270 marbles came from the 6 broken bottles.", "Marbles in each bottle at first = 270 ÷ 6 = 45."] }],
+      "review": { "keyAnswer": "45", "solvedAnswer": "45", "status": "verified" }
+    },
+    {
+      "section": "p1b", "number": 27, "page": 14, "format": "short", "marks": 2,
+      "topic": "data", "subtypes": ["average", "greatest-and-least"],
+      "stem": "The average of four 3-digit numbers is 240. Two of the numbers are 170 and 200. What is the largest possible difference between the other two numbers?",
+      "parts": [{ "label": "", "answer": { "type": "number", "value": "390" },
+        "explanation": ["Total of the four numbers = 4 × 240 = 960.", "Sum of the other two numbers = 960 − 170 − 200 = 590.", "For the largest difference, make one number as small as possible. The smallest 3-digit number is 100.", "The other number = 590 − 100 = 490.", "Largest difference = 490 − 100 = 390."] }],
+      "review": { "keyAnswer": "390", "solvedAnswer": "390", "status": "verified" }
+    },
+    {
+      "section": "p1b", "number": 28, "page": 15, "format": "short", "marks": 2,
+      "topic": "area-perimeter", "subtypes": ["area-of-triangle", "cut-and-rearrange"],
+      "stem": "Triangle RST is a right-angled triangle where RS = TS = 6 cm. Find the area of the shaded part.",
+      "images": [{ "id": "img1", "alt": "Right-angled isosceles triangle RST with the right angle at S on top and RT as the base. A shaded square stands on RT with its two top corners touching RS and TS.", "page": 15, "box": [185, 200, 538, 408] }],
+      "parts": [{ "label": "", "answer": { "type": "number", "value": "8", "unit": "cm²" },
+        "explanation": ["Area of triangle RST = {1/2} × 6 × 6 = 18 cm².", "The shaded part is a square. The corner angles at R and T are 45°, so the small triangle above the square is also a right-angled isosceles triangle.", "Cut the figure into copies of that small top triangle: the square holds 4 of them (cut it along both diagonals), and the triangle on each side of the square holds 2. With the 1 on top that is 4 + 2 + 2 + 1 = 9 identical small triangles.", "1 small triangle = 18 ÷ 9 = 2 cm².", "Shaded square = 4 × 2 = 8 cm²."] }],
+      "review": { "keyAnswer": "8 cm²", "solvedAnswer": "8", "status": "verified",
+        "note": "The question does not state that the shaded part is a square; the figure and the key both treat it as one." }
+    },
+    {
+      "section": "p1b", "number": 29, "page": 15, "format": "short", "marks": 2,
+      "topic": "area-perimeter", "subtypes": ["perimeter-of-composite-figure"],
+      "stem": "The figure below is made up of three identical rectangles. The breadth of the rectangle is 3 cm and the length is 3 times the breadth. Find the perimeter of the figure.",
+      "images": [{ "id": "img1", "alt": "Two upright rectangles joined by a third rectangle lying flat between them, like the letter H.", "page": 15, "box": [170, 660, 422, 862] }],
+      "parts": [{ "label": "", "answer": { "type": "number", "value": "60", "unit": "cm" },
+        "explanation": ["Length of each rectangle = 3 × 3 cm = 9 cm.", "Perimeter of one rectangle = 2 × (9 + 3) = 24 cm. Three rectangles = 72 cm.", "The middle rectangle touches each upright rectangle along a 3 cm side. Each join hides 3 cm from both rectangles: 2 joins × 2 × 3 cm = 12 cm.", "Perimeter of the figure = 72 − 12 = 60 cm."] }],
+      "review": { "keyAnswer": "60 cm", "solvedAnswer": "60", "status": "verified" }
+    },
+    {
+      "section": "p1b", "number": 30, "page": 16, "format": "short", "marks": 2,
+      "topic": "area-perimeter", "subtypes": ["area-on-grid", "drawing"],
+      "stem": "A square ABCD is drawn on a square grid. Draw a rectangle EFGH with the same area as square ABCD. (Draw it on your canvas, then check.)",
+      "images": [{ "id": "img1", "alt": "A tilted square ABCD on a square grid. Each side goes 3 squares along and 1 square up or down.", "page": 16, "box": [235, 240, 662, 452] }],
+      "parts": [{ "label": "", "answer": { "type": "self", "value": "Any rectangle with an area of 10 squares, for example 2 squares by 5 squares, or 1 square by 10 squares." },
+        "explanation": ["Draw the smallest upright square around ABCD. It is 4 squares by 4 squares = 16 squares.", "The four corners cut off are right-angled triangles, each {1/2} × 3 × 1 = 1{1/2} squares. Four of them = 6 squares.", "Area of ABCD = 16 − 6 = 10 squares.", "A rectangle with area 10 squares: 2 by 5 (or 1 by 10). The answer key draws a 2 by 5 rectangle."] }],
+      "review": { "keyAnswer": "2 by 5 rectangle drawn", "solvedAnswer": "area 10 squares, e.g. 2 by 5", "status": "verified" }
+    },
+
+    {
+      "section": "p2", "number": 1, "page": 18, "format": "structured", "marks": 2,
+      "topic": "whole-numbers", "subtypes": ["multiples", "guess-and-check"],
+      "stem": "Gopal bought some boxes of pencils. Each box contained 8 pencils. The total number of pencils Gopal bought was less than 50. Gopal kept 7 pencils for himself and gave the rest equally to his 5 cousins. How many pencils did Gopal buy?",
+      "parts": [{ "label": "", "answer": { "type": "number", "value": "32" },
+        "explanation": ["The total is a multiple of 8 that is less than 50: 8, 16, 24, 32, 40, 48.", "After keeping 7, the rest must divide equally by 5. Subtract 7 from each: 1, 9, 17, 25, 33, 41.", "Only 25 is a multiple of 5 (25 ÷ 5 = 5 pencils per cousin).", "Gopal bought 25 + 7 = 32 pencils."] }],
+      "review": { "keyAnswer": "32", "solvedAnswer": "32", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 2, "page": 18, "format": "structured", "marks": 2,
+      "topic": "algebra", "subtypes": ["algebra-word-problem"],
+      "stem": "Mrs Ong earned $y for each jar of cookies that she sold. She earned an additional $1 for every 4 jars of cookies sold. Mrs Ong sold 10 jars of cookies and earned $72. Find the value of y.",
+      "parts": [{ "label": "", "answer": { "type": "number", "value": "7" },
+        "explanation": ["10 jars ÷ 4 = 2 remainder 2, so she completed 2 groups of 4 jars and earned an additional 2 × $1 = $2.", "Money from the jars alone = $72 − $2 = $70.", "10 × y = 70, so y = 70 ÷ 10 = 7."] }],
+      "review": { "keyAnswer": "7", "solvedAnswer": "7", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 3, "page": 19, "format": "structured", "marks": 2,
+      "topic": "area-perimeter", "subtypes": ["area-of-triangle", "shaded-area"],
+      "stem": "In the figure below, EFGH and PQRG are squares with areas 36 cm² and 64 cm² respectively. Find the area of the shaded parts.",
+      "images": [{ "id": "img1", "alt": "Small square EFGH on the left and bigger square PQRG on the right share the base line HGR. Corner F of the small square lies on side PG of the big square. Two thin triangles are shaded: P-F-H and P-F-R.", "page": 19, "box": [300, 190, 608, 412] }],
+      "parts": [{ "label": "", "answer": { "type": "number", "value": "14", "unit": "cm²" },
+        "explanation": ["Side of square EFGH: 6 × 6 = 36, so 6 cm. Side of square PQRG: 8 × 8 = 64, so 8 cm.", "F lies on PG, so PF = 8 − 6 = 2 cm. Use PF as the base of both shaded triangles.", "Left triangle PFH: base PF = 2 cm, height = HG = 6 cm. Area = {1/2} × 2 × 6 = 6 cm².", "Right triangle PFR: base PF = 2 cm, height = GR = 8 cm. Area = {1/2} × 2 × 8 = 8 cm².", "Total shaded area = 6 + 8 = 14 cm²."] }],
+      "review": { "keyAnswer": "14 cm²", "solvedAnswer": "14", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 4, "page": 19, "format": "structured", "marks": 2,
+      "topic": "geometry", "subtypes": ["angles-in-trapezium", "angles-in-triangle", "vertically-opposite-angles"],
+      "stem": "ABCD is a trapezium with AB parallel to DG. DG, BE and AF are straight lines. Find ∠x.",
+      "images": [{ "id": "img1", "alt": "Trapezium ABCD with AB parallel to DC. Angle DAC is 28°, angle ADC is 112°, angle ABC is 67°. Lines AF, BE and DG all pass through C. Angle x is at C between CE and CF.", "page": 19, "box": [390, 668, 692, 852] }],
+      "parts": [{ "label": "", "answer": { "type": "number", "value": "73", "unit": "°" },
+        "explanation": ["AB is parallel to DC, so the angles between the parallel lines add up to 180°: ∠DAB = 180° − 112° = 68°.", "∠BAC = 68° − 28° = 40°.", "In triangle ABC: ∠BCA = 180° − 40° − 67° = 73°.", "∠x and ∠BCA are vertically opposite angles, so ∠x = 73°."] }],
+      "review": { "keyAnswer": "73°", "solvedAnswer": "73", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 5, "page": 20, "format": "structured", "marks": 2,
+      "topic": "data", "subtypes": ["pie-chart", "bar-graph", "percentage-of-a-quantity"],
+      "stem": "The pie chart represents the students' choices of snacks. Each student chose only one type of snack. Half of the students in the class chose popcorn.\n[[img1]]\nThe students' choices were also represented by a bar graph. Part of the graph had been torn off. How many students chose cookies?\n[[img2]]",
+      "images": [
+        { "id": "img1", "alt": "Pie chart: Popcorn (half), Cotton candy 35%, Cookies (the rest).", "page": 20, "box": [275, 153, 442, 322] },
+        { "id": "img2", "alt": "Torn bar graph of number of students. The Popcorn bar reaches 60. The Cotton candy and Cookies bars are torn.", "page": 20, "box": [190, 435, 528, 708] }
+      ],
+      "parts": [{ "label": "", "answer": { "type": "number", "value": "18" },
+        "explanation": ["Popcorn is half the class = 50%. Cotton candy = 35%.", "Cookies = 100% − 50% − 35% = 15%.", "From the bar graph, 60 students chose popcorn. 50% = 60, so 100% = 120 students.", "Cookies = 15% of 120 = {15/100} × 120 = 18 students."] }],
+      "review": { "keyAnswer": "18", "solvedAnswer": "18", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 6, "page": 21, "format": "structured", "marks": 3,
+      "topic": "geometry", "subtypes": ["equilateral-triangle", "isosceles-triangle", "angles-at-a-point"],
+      "stem": "In the figure below, AE = BC. AOB, EOD and DOC are identical equilateral triangles. Find ∠EAB.",
+      "images": [{ "id": "img1", "alt": "Pentagon EABCD with centre point O joined to all five corners, making triangles EOA, AOB, BOC, COD and DOE.", "page": 21, "box": [185, 290, 452, 522] }],
+      "parts": [{ "label": "", "answer": { "type": "number", "value": "105", "unit": "°" },
+        "explanation": ["Each angle of an equilateral triangle is 60°, so ∠AOB = ∠EOD = ∠DOC = 60°.", "Angles at point O add up to 360°: ∠EOA + ∠BOC = 360° − 60° − 60° − 60° = 180°.", "OE, OA, OB and OC are all the same length (sides of identical equilateral triangles) and AE = BC, so triangles EOA and BOC are identical. ∠EOA = 180° ÷ 2 = 90°.", "Triangle EOA is isosceles (OE = OA): ∠EAO = (180° − 90°) ÷ 2 = 45°.", "∠EAB = ∠EAO + ∠OAB = 45° + 60° = 105°."] }],
+      "review": { "keyAnswer": "105°", "solvedAnswer": "105", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 7, "page": 22, "format": "structured", "marks": 3,
+      "topic": "data", "subtypes": ["pie-chart", "fraction-of-a-whole"],
+      "stem": "The pie chart shows the favourite types of cakes of all the Primary 6 students in a school. Each student chose only one type of cake.",
+      "images": [{ "id": "img1", "alt": "Pie chart with sectors mango, pandan (3/20), chocolate, lychee (70 students) and durian. A right angle is marked for mango and pandan together, and another right angle is marked for lychee.", "page": 22, "box": [300, 165, 488, 357] }],
+      "parts": [
+        { "label": "a", "prompt": "What is the total number of students in Primary 6?", "marks": 1,
+          "answer": { "type": "number", "value": "280" },
+          "explanation": ["The lychee sector has a right angle, so lychee is {1/4} of the students.", "{1/4} of the students = 70.", "Total = 70 × 4 = 280 students."] },
+        { "label": "b", "prompt": "The number of students who like chocolate cake is twice the number of students who like mango cake. How many students like chocolate cake?", "marks": 2,
+          "answer": { "type": "number", "value": "56" },
+          "explanation": ["Mango and pandan together make a right angle, so together they are {1/4} = {5/20} of the students.", "Pandan is {3/20}, so mango = {5/20} − {3/20} = {2/20}.", "{1/20} of 280 = 14, so mango = 2 × 14 = 28 students.", "Chocolate = 2 × 28 = 56 students."] }
+      ],
+      "review": { "keyAnswer": "a) 280  b) 56", "solvedAnswer": "a) 280  b) 56", "status": "verified",
+        "note": "The label 3/20 sits between 'mango' and 'pandan'. It belongs to pandan: only that reading makes the sectors add up to the whole (durian 84) and matches the key." }
+    },
+    {
+      "section": "p2", "number": 8, "page": 23, "format": "structured", "marks": 4,
+      "topic": "geometry", "subtypes": ["angles-in-parallelogram", "angles-in-triangle", "angles-on-a-straight-line"],
+      "stem": "In the figure below, PQRS and DEFR are parallelograms. SRF is a straight line. ∠DRF = 105°, ∠GRS = 117° and ∠SDR = 72°.",
+      "images": [{ "id": "img1", "alt": "Parallelogram PQRS and parallelogram DEFR share the corner R on the straight line SRF. G is where QR crosses DE. D is joined to S. Angle SDR is 72°, angle GRS is 117°, angle DRF is 105°.", "page": 23, "box": [235, 178, 648, 392] }],
+      "parts": [
+        { "label": "a", "prompt": "Find ∠DRG.", "marks": 2,
+          "answer": { "type": "number", "value": "42", "unit": "°" },
+          "explanation": ["SRF is a straight line, so ∠DRS = 180° − 105° = 75°.", "∠GRS = 117° is made up of ∠DRS and ∠DRG.", "∠DRG = 117° − 75° = 42°."] },
+        { "label": "b", "prompt": "Find ∠PSD.", "marks": 2,
+          "answer": { "type": "number", "value": "30", "unit": "°" },
+          "explanation": ["In triangle SDR: ∠DSR = 180° − 72° − 75° = 33°.", "In parallelogram PQRS, angles next to each other add up to 180°: ∠PSR = 180° − 117° = 63°.", "∠PSD = ∠PSR − ∠DSR = 63° − 33° = 30°."] }
+      ],
+      "review": { "keyAnswer": "a) 42°  b) 30°", "solvedAnswer": "a) 42  b) 30", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 9, "page": 24, "format": "structured", "marks": 4,
+      "topic": "data", "subtypes": ["average", "bar-graph"],
+      "stem": "The graph shows the amount of money collected by 7 classes for charity. The bars for Class 6F and Class 6G are not shown.",
+      "images": [{ "id": "img1", "alt": "Bar graph of money collected: 6A $128, 6B $184, 6C $120, 6D $52, 6E $76. No bars for 6F and 6G.", "page": 24, "box": [165, 195, 678, 507] }],
+      "parts": [
+        { "label": "a", "prompt": "What was the average amount of money collected by the 5 classes, 6A to 6E?", "marks": 2,
+          "answer": { "type": "number", "value": "112", "unit": "$", "unitPos": "before" },
+          "explanation": ["Read the bars (each small line is $4): 6A $128, 6B $184, 6C $120, 6D $52, 6E $76.", "Total = 128 + 184 + 120 + 52 + 76 = $560.", "Average = 560 ÷ 5 = $112."] },
+        { "label": "b", "prompt": "The average amount of money collected by Class 6F and Class 6G was $56 more than the average amount of money collected by Classes 6A to 6E. Write down one possible set of values for the amount of money collected by Class 6F and Class 6G. (Type the two amounts separated by a comma.)", "marks": 2,
+          "answer": { "type": "sum", "count": 2, "sum": "336", "value": "any two amounts that add up to $336, for example $167 and $169", "unit": "$", "unitPos": "before" },
+          "explanation": ["Average of 6F and 6G = 112 + 56 = $168.", "Total of 6F and 6G = 2 × 168 = $336.", "Any two amounts that add up to $336 are correct, for example $167 and $169 (the answer key's example), or $160 and $176."] }
+      ],
+      "review": { "keyAnswer": "a) $112  b) $167, $169", "solvedAnswer": "a) 112  b) any pair with sum 336", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 10, "page": 25, "format": "structured", "marks": 4,
+      "topic": "heuristics", "subtypes": ["assumption-method", "fraction-of-remainder"],
+      "stem": "A company hired Mr Lim to deliver melons over two days. He delivered {3/7} of the melons on Monday and the remaining 120 melons on Tuesday.",
+      "parts": [
+        { "label": "a", "prompt": "How many melons did Mr Lim deliver in 2 days?", "marks": 1,
+          "answer": { "type": "number", "value": "210" },
+          "explanation": ["Tuesday = 1 − {3/7} = {4/7} of the melons.", "4 units = 120, so 1 unit = 30.", "Total = 7 units = 7 × 30 = 210 melons."] },
+        { "label": "b", "prompt": "The company paid Mr Lim $7 for every melon he delivered safely but charged a penalty of $2 for every melon he damaged. At the end of the two days, Mr Lim earned a total of $1344. How many melons did he damage?", "marks": 3,
+          "answer": { "type": "number", "value": "14" },
+          "explanation": ["Assume all 210 melons were delivered safely: 210 × $7 = $1470.", "He actually earned $1344. Shortfall = 1470 − 1344 = $126.", "Each damaged melon loses the $7 payment and adds a $2 penalty: 7 + 2 = $9 less.", "Number of damaged melons = 126 ÷ 9 = 14."] }
+      ],
+      "review": { "keyAnswer": "a) 210  b) 14", "solvedAnswer": "a) 210  b) 14", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 11, "page": 26, "format": "structured", "marks": 4,
+      "topic": "percentage", "subtypes": ["percentage-of-a-quantity", "one-quantity-unchanged"],
+      "stem": "An electronics store has 1500 digital devices for sale. 35% of them were smartwatches and the rest were fitness trackers.",
+      "parts": [
+        { "label": "a", "prompt": "How many smartwatches did the electronics store have?", "marks": 1,
+          "answer": { "type": "number", "value": "525" },
+          "explanation": ["35% of 1500 = {35/100} × 1500 = 525 smartwatches."] },
+        { "label": "b", "prompt": "Some fitness trackers were sold. In the end, 30% of the digital devices left in the store were fitness trackers. How many fitness trackers were sold?", "marks": 3,
+          "answer": { "type": "number", "value": "750" },
+          "explanation": ["Fitness trackers at first = 1500 − 525 = 975.", "No smartwatches were sold, so there are still 525 smartwatches. In the end they are 100% − 30% = 70% of the devices left.", "70% = 525, so 1% = 525 ÷ 70 = 7.5 and 30% = 7.5 × 30 = 225 fitness trackers left.", "Fitness trackers sold = 975 − 225 = 750."] }
+      ],
+      "review": { "keyAnswer": "a) 525  b) 750", "solvedAnswer": "a) 525  b) 750", "status": "verified",
+        "note": "The percentage in part (b) is hard to read in the scan (30% or 80%). The key's working (525 ÷ 70, × 30) confirms 30%." }
+    },
+    {
+      "section": "p2", "number": 12, "page": 27, "format": "structured", "marks": 4,
+      "topic": "volume", "subtypes": ["water-transfer", "equal-water-level"],
+      "stem": "G and H are two rectangular containers. The base of Container G measures 8 cm by 10 cm and it is filled with water to a height of 43 cm. Container H has a square base of sides 5 cm and it contains 760 cm³ of water.\n[[img1]]\nNigel poured water from Container G into Container H without spilling until the heights of the water level in both containers are the same. What is the volume of water poured into Container H?",
+      "images": [{ "id": "img1", "alt": "Container G with base 8 cm by 10 cm and water 43 cm high. Container H with a 5 cm square base and a little water.", "page": 27, "box": [220, 250, 548, 528] }],
+      "parts": [{ "label": "", "answer": { "type": "number", "value": "240", "unit": "cm³" },
+        "explanation": ["Water in G = 8 × 10 × 43 = 3440 cm³.", "Total water = 3440 + 760 = 4200 cm³. Pouring does not change the total.", "Base area of G = 8 × 10 = 80 cm². Base area of H = 5 × 5 = 25 cm². Total base area = 105 cm².", "When the heights are the same: height = 4200 ÷ 105 = 40 cm.", "Water in H in the end = 25 × 40 = 1000 cm³.", "Volume poured into H = 1000 − 760 = 240 cm³."] }],
+      "review": { "keyAnswer": "240 cm³", "solvedAnswer": "240", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 13, "page": 28, "format": "structured", "marks": 4,
+      "topic": "fractions", "subtypes": ["units-and-parts", "total-value"],
+      "stem": "A courier company charges the following postage fees for parcels sent to Japan in a particular month:\n[[table1]]\nThe number of big parcels sent was 3 times the number of small parcels sent. {4/9} of the big parcels sent weighed below 5 kg. A total of $2132 was collected from postage fees.",
+      "tables": [{ "id": "table1", "header": ["Parcel Type", "Weight category", "Postage Fee"], "rows": [[{ "t": "Big parcel", "rowspan": 2 }, "5 kg and above", "$17"], ["Below 5 kg", "$13"], ["Small parcel", "Below 2 kg", "$9"]] }],
+      "parts": [
+        { "label": "a", "prompt": "What fraction of the total number of parcels sent weighed 5 kg and above? Give your answer in the simplest form.", "marks": 1,
+          "answer": { "type": "fraction", "value": "5/12", "simplest": true },
+          "explanation": ["Big parcels are split into ninths, so let big parcels = 9 units. Small parcels = 9 ÷ 3 = 3 units.", "Big parcels below 5 kg = {4/9} × 9 = 4 units. Big parcels 5 kg and above = 9 − 4 = 5 units.", "Total = 9 + 3 = 12 units.", "Fraction = {5/12}."] },
+        { "label": "b", "prompt": "What was the total number of parcels sent?", "marks": 3,
+          "answer": { "type": "number", "value": "156" },
+          "explanation": ["Use the units from part (a): 5 units at $17, 4 units at $13, 3 units at $9.", "Fees for one set of units = 5 × 17 + 4 × 13 + 3 × 9 = 85 + 52 + 27 = $164.", "Number of sets = 2132 ÷ 164 = 13, so 1 unit = 13 parcels.", "Total parcels = 12 units = 12 × 13 = 156."] }
+      ],
+      "review": { "keyAnswer": "a) 5/12  b) 156", "solvedAnswer": "a) 5/12  b) 156", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 14, "page": 29, "format": "structured", "marks": 5,
+      "topic": "fractions", "subtypes": ["sum-and-difference", "units-and-parts", "total-value"],
+      "stem": "Jasmine bought some tuna pies and chicken pies. {3/8} of them were tuna pies and the rest were chicken pies. The cost of a chicken pie was $0.50 less than the cost of a tuna pie. She spent a total of $456 buying both tuna and chicken pies. The total cost of the chicken pies was $24 more than the total cost of the tuna pies.",
+      "parts": [
+        { "label": "a", "prompt": "What was the total cost of the tuna pies?", "marks": 1,
+          "answer": { "type": "number", "value": "216", "unit": "$", "unitPos": "before" },
+          "explanation": ["Tuna total + chicken total = $456, and chicken total is $24 more.", "Take away the extra $24: 456 − 24 = $432, which is 2 times the tuna total.", "Tuna total = 432 ÷ 2 = $216."] },
+        { "label": "b", "prompt": "How much did each tuna pie cost?", "marks": 4,
+          "answer": { "type": "number", "value": "1.50", "unit": "$", "unitPos": "before" },
+          "explanation": ["Chicken total = 216 + 24 = $240.", "Tuna pies = 3 units, chicken pies = 5 units.", "Cost of 3 units of tuna pies = $216, so 1 unit of tuna pies costs 216 ÷ 3 = $72. Cost of 1 unit of chicken pies = 240 ÷ 5 = $48.", "For 1 unit of pies, tuna costs 72 − 48 = $24 more than chicken. Each tuna pie costs $0.50 more, so 1 unit = 24 ÷ 0.50 = 48 pies.", "Each tuna pie = 72 ÷ 48 = $1.50."] }
+      ],
+      "review": { "keyAnswer": "a) $216  b) $1.50", "solvedAnswer": "a) 216  b) 1.50", "status": "verified" }
+    },
+    {
+      "section": "p2", "number": 15, "page": 30, "format": "structured", "marks": 5,
+      "topic": "circles", "subtypes": ["quarter-circles", "perimeter-of-composite-figure", "area-of-composite-figure"],
+      "stem": "The figure below is made up of a shaded right-angled triangle and quarter circle inside Rectangle ABCD. AB = 35 m, BC = 20 m and BF = 37 m. The perimeter of the shaded parts is 16 m more than the perimeter of the unshaded parts.",
+      "images": [{ "id": "img1", "alt": "Rectangle ABCD, 35 m by 20 m. F is on side AD and E is on side DC. Triangle ABF is shaded, with BF = 37 m. A shaded quarter circle with centre D goes from F to E.", "page": 30, "box": [265, 203, 578, 422] }],
+      "parts": [
+        { "label": "a", "prompt": "Find the perimeter of the shaded parts. (Take π = 3.14)", "marks": 3,
+          "answer": { "type": "number", "value": "112.56", "unit": "m" },
+          "explanation": ["Shaded perimeter = AB + BF + AF + FD + DE + curve. Unshaded perimeter = BF + curve + EC + CB.", "BF and the curve are in both. AF + FD = AD = 20 m, the same as CB. AB = 35 m, and EC = 35 − DE.", "So shaded − unshaded = 35 + DE − (35 − DE) = 2 × DE. 2 × DE = 16, so the radius DE = 8 m.", "Straight sides of shaded parts = 35 + 37 + 20 + 8 = 100 m.", "Curve = {1/4} × 2 × 3.14 × 8 = 12.56 m.", "Perimeter of shaded parts = 100 + 12.56 = 112.56 m."] },
+        { "label": "b", "prompt": "Find the area of the shaded parts. (Take π = 3.14)", "marks": 2,
+          "answer": { "type": "number", "value": "260.24", "unit": "m²" },
+          "explanation": ["AF = 20 − 8 = 12 m.", "Area of triangle ABF = {1/2} × 35 × 12 = 210 m².", "Area of quarter circle = {1/4} × 3.14 × 8 × 8 = 50.24 m².", "Total shaded area = 210 + 50.24 = 260.24 m²."] }
+      ],
+      "review": { "keyAnswer": "a) 112.56 m  b) 260.24 m²", "solvedAnswer": "a) 112.56  b) 260.24", "status": "verified" }
+    }
+  ]
+}

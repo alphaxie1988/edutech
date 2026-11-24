@@ -1,0 +1,1288 @@
+{
+  "paper": {
+    "id": "2026-prelim-red-swastika",
+    "subject": "science",
+    "year": 2026,
+    "exam": "Prelim",
+    "school": "Red Swastika",
+    "schoolFull": "Red Swastika School",
+    "file": "PSLE-2026-P6-papers/Science/P6-Science-Prelim-2026-Red-Swastika-Paper.pdf",
+    "coordDpi": 100
+  },
+  "questions": [
+    {
+      "section": "a", "number": 1, "page": 2, "format": "mcq", "marks": 2,
+      "topic": "diversity-living",
+      "subtypes": ["classifying-animals"],
+      "stem": "Study the classification chart and the three animals, A, B and C.\n[[img1]]\n[[img2]]\nWhich of the following shows the correct classification of animals in boxes X, Y and Z?",
+      "images": [
+        { "id": "img1", "alt": "Three animals in a row: a bird, a beetle and a turtle. Only the letter B, under the beetle in the middle, can be seen in the scan; the letters for the bird and the turtle are missing.", "page": 2, "box": [285, 265, 585, 405] },
+        { "id": "img2", "alt": "Classification chart. Body covering splits into 'have feathers' (box X) and 'do not have feathers'. 'Do not have feathers' splits into 'have shell' (an empty box, which is box Y) and 'no shell' (box Z).", "page": 2, "box": [70, 415, 760, 675] }
+      ],
+      "options": [
+        "X: A. Y: B. Z: C.",
+        "X: A. Y: C. Z: B.",
+        "X: B. Y: A. Z: C.",
+        "X: C. Y: B. Z: A."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 2 },
+          "explanation": [
+            "Animals are grouped here by their body covering. Only birds have feathers, so the bird goes in box X.",
+            "The turtle has no feathers but has a hard shell, so it goes in box Y.",
+            "The beetle (animal B) is an insect. It has no feathers and no shell, so it goes in box Z.",
+            "Only option (2) puts B in box Z, with the bird (A) in X and the turtle (C) in Y. Option (1) is wrong because a beetle does not have a shell like a turtle. The answer is option (2)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "2", "solvedAnswer": "2", "status": "needs-review", "note": "The letters A and C under the bird and the turtle, and the letter Y in the 'have shell' box, are missing from the scan; only a faint B under the beetle survives. The answer can still be worked out (the beetle B must go in Z, and only option (2) has Z = B, which makes the bird A and the turtle C), but a pupil cannot see which animal is A or C. Needs the labels from a clean copy." }
+    },
+    {
+      "section": "a", "number": 2, "page": 3, "format": "mcq", "marks": 2,
+      "topic": "diversity-living",
+      "subtypes": ["classifying-animals"],
+      "stem": "Study the flow chart below.\n[[img1]]\nWhich of the following statements is true about animals X, Y and Z?",
+      "images": [
+        { "id": "img1", "alt": "Flow chart starting from 'Animal'. First question: Does the animal breathe through lungs? No leads to X. Yes leads to the second question: Does the animal have 3 body parts? No leads to Y. Yes leads to Z.", "page": 3, "box": [170, 185, 680, 622] }
+      ],
+      "options": [
+        "X breathes through gills.",
+        "X and Z have 3 body parts.",
+        "Y does not have 3 body parts.",
+        "Y and Z do not breathe through lungs."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 3 },
+          "explanation": [
+            "Follow the arrows in the flow chart. X: does not breathe through lungs. Y: breathes through lungs and does not have 3 body parts. Z: breathes through lungs and has 3 body parts.",
+            "Y is reached by the 'No' arrow from 'Does the animal have 3 body parts?', so Y does not have 3 body parts.",
+            "Option (1) is tempting, but the chart only says X does not use lungs. It may breathe through gills, its skin or breathing holes, so we cannot be sure. The chart also does not tell us how many body parts X has.",
+            "The answer is option (3)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "3", "solvedAnswer": "3", "status": "verified", "note": "The first arrow, from 'Animal' to the first question, is printed with a 'Yes' label beside it, as in the paper." }
+    },
+    {
+      "section": "a", "number": 3, "page": 4, "format": "mcq", "marks": 2,
+      "topic": "cycles-life",
+      "subtypes": ["pollination"],
+      "stem": "The diagram below shows a flower of plant F.\n[[img1]]\nPlant F can be found in thick and dense rainforests which receives a lot of rain. The flower is brightly-coloured and gives off a strong smell similar to the smell of dead animals.\n\nHow is plant F pollinated?",
+      "images": [
+        { "id": "img1", "alt": "A flower of plant F with a tall central spike and a large frilly petal wrapped around its base.", "page": 4, "box": [350, 230, 520, 475] }
+      ],
+      "options": ["Wind", "Water", "Insect", "Splitting"],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 3 },
+          "explanation": [
+            "Pollination is the transfer of pollen grains from the anther to the stigma. Flowers are pollinated mainly by wind or by animals such as insects.",
+            "Flowers that are brightly coloured and have a strong smell attract insects. The smell of dead animals attracts insects such as flies, which carry the pollen.",
+            "Wind-pollinated flowers are usually small and dull with no smell, and a thick, dense rainforest has little wind. Splitting is a way of dispersing seeds, not of pollination.",
+            "The answer is option (3)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "3", "solvedAnswer": "3", "status": "verified" }
+    },
+    {
+      "section": "a", "number": 4, "page": 5, "format": "mcq", "marks": 2,
+      "topic": "systems-plants",
+      "subtypes": ["fair-test", "control-set-up", "experiment-design"],
+      "stem": "A farmer has a plot of land where he grows similar tomato plants as shown below.\n[[img1]]\nHe predicts that more tomatoes will be produced by adding 5 g of fertiliser to the soil around each plant. He wants to conduct an experiment to find out if his prediction is correct.\n\nWhich of the following arrangements should the farmer use to ensure a fair test for his experiment?\n[[img2]]",
+      "images": [
+        { "id": "img1", "alt": "A rectangular plot of land with six tomato plants (triangles) in two rows of three. One triangle is labelled '1 tomato plant'.", "page": 5, "box": [320, 225, 570, 335] },
+        { "id": "img2", "alt": "Key: a shaded square means 5 g of fertiliser added. Four plots, each with six tomato plants in two rows of three. (1): the three plants in the top row have fertiliser, the three in the bottom row do not. (2): the two plants on the left have fertiliser, the other four do not. (3): all six plants have fertiliser. (4): no plant has fertiliser.", "page": 5, "box": [150, 520, 610, 825] }
+      ],
+      "options": ["Arrangement (1)", "Arrangement (2)", "Arrangement (3)", "Arrangement (4)"],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 1 },
+          "explanation": [
+            "To test if fertiliser makes a difference, the farmer must compare plants with fertiliser against plants without fertiliser. In a fair test only that one variable is changed.",
+            "Arrangement (1) has three plants with fertiliser and three plants without, so the two groups are the same size and their tomatoes can be compared fairly.",
+            "Arrangements (3) and (4) have only one kind of plant (all with or all without), so there is nothing to compare with. Arrangement (2) compares two plants with four plants, which is not a fair comparison.",
+            "The answer is option (1)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "1", "solvedAnswer": "1", "status": "verified" }
+    },
+    {
+      "section": "a", "number": 5, "page": 6, "format": "mcq", "marks": 2,
+      "topic": "cycles-life",
+      "subtypes": ["seed-dispersal", "reading-graphs"],
+      "stem": "The diagram below shows fruits G and H. G is heavier than H.\n[[img1]]\nHassan conducted an experiment to find out if the amount of wind affects the distance moved by H as shown.\n[[img2]]\nHe repeated the experiment with fruit G.\n\nWhich of the following graphs correctly shows the distance moved by G and H when the amount of wind increases?\n[[img3]]",
+      "images": [
+        { "id": "img1", "alt": "Fruit G is a large, heavy fruit like a pineapple. Fruit H is a small, light fruit on a thin stalk with a tuft of fine hairs at the top, like a parachute.", "page": 6, "box": [340, 190, 530, 335] },
+        { "id": "img2", "alt": "A standing fan blows wind towards fruit H. Key: solid line is Fruit H, dashed line is Fruit G.", "page": 6, "box": [170, 385, 670, 520] },
+        { "id": "img3", "alt": "Four graphs of distance travelled by fruit against amount of wind. Graph (1): H is a solid line that rises steadily; G is a flat dashed line near the bottom. Graph (2): G is a dashed line that rises steadily; H is a flat solid line. Graph (3): H is a solid line that falls steadily; G is a flat dashed line near the bottom. Graph (4): G is a dashed line that falls steadily; H is a flat solid line.", "page": 6, "box": [60, 605, 720, 960] }
+      ],
+      "options": ["Graph (1)", "Graph (2)", "Graph (3)", "Graph (4)"],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 1 },
+          "explanation": [
+            "Fruit H is light and has a tuft of fine hairs, so it is dispersed by wind. The more wind there is, the further H is carried, so the line for H goes up.",
+            "Fruit G is heavy and has no wing-like or hair-like structures, so wind cannot carry it. Its distance stays the same (very small) even when there is more wind, so the line for G is flat.",
+            "Graph (2) is the tempting mistake: it has the same shapes but with G and H swapped.",
+            "The answer is option (1)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "1", "solvedAnswer": "1", "status": "verified" }
+    },
+    {
+      "section": "a", "number": 6, "page": 7, "format": "mcq", "marks": 2,
+      "topic": "systems-human",
+      "subtypes": ["circulatory-system", "reading-graphs"],
+      "stem": "Blood samples were taken from the blood vessels, P and Q, in a human circulatory system.\n[[img1]]\nWhich graph correctly represents the amount of carbon dioxide in the blood vessels?\n[[img2]]",
+      "images": [
+        { "id": "img1", "alt": "Blood vessel Q carries blood flowing from the heart to the rest of the body. Blood vessel P carries blood flowing from the rest of the body back to the heart.", "page": 7, "box": [188, 225, 705, 465] },
+        { "id": "img2", "alt": "Four bar graphs of amount of carbon dioxide in blood vessels P and Q. Graph (1), top left: P high, Q low. Graph (2), bottom left: P high, Q high. Graph (3), top right: P low, Q low. Graph (4), bottom right (its number is not printed in the scan): P low, Q high.", "page": 7, "box": [140, 510, 720, 900] }
+      ],
+      "options": ["Graph (1)", "Graph (2)", "Graph (3)", "Graph (4)"],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 1 },
+          "explanation": [
+            "Blood flowing from the heart to the rest of the body (vessel Q) is rich in oxygen and has little carbon dioxide.",
+            "The body cells use the oxygen for respiration and give out carbon dioxide into the blood. So the blood flowing back to the heart (vessel P) has a lot of carbon dioxide.",
+            "P must be high and Q must be low. Graph (4) shows the opposite, which would be the graph for oxygen.",
+            "The answer is option (1)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "1", "solvedAnswer": "1", "status": "verified", "note": "The label '(4)' beside the bottom-right graph is missing from the scan; the graph is identified by its position." }
+    },
+    {
+      "section": "a", "number": 7, "page": 8, "format": "mcq", "marks": 2,
+      "topic": "energy-photosynthesis",
+      "subtypes": ["conditions-for-growth", "photosynthesis"],
+      "stem": "Germaine placed a bench on the grass patch in her garden. After one month, she noticed that the grass patch under the bench turned yellow while the surrounding grass was green.\n[[img1]]\nWhich of the following best explains why the grass patch under the bench turned yellow?",
+      "images": [
+        { "id": "img1", "alt": "A wooden bench standing on a grass patch. Grass grows under and around the bench.", "page": 8, "box": [270, 225, 580, 365] }
+      ],
+      "options": [
+        "There was not enough water for the grass.",
+        "There was not enough oxygen for the grass.",
+        "There was not enough sunlight for the grass.",
+        "There was not enough mineral salts for the grass."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 3 },
+          "explanation": [
+            "Plants need sunlight to make food by photosynthesis and to stay green.",
+            "The bench is opaque, so it blocked sunlight from reaching the grass under it. Without enough light the grass could not make enough food and turned yellow.",
+            "The grass under the bench grows in the same soil and the same air as the green grass around it, so it gets the same water, mineral salts and oxygen. Only the sunlight is different.",
+            "The answer is option (3)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "3", "solvedAnswer": "3", "status": "verified", "note": "The question number 7 is not printed in the scan; it is inferred from its position between questions 6 and 8." }
+    },
+    {
+      "section": "a", "number": 8, "page": 8, "format": "mcq", "marks": 2,
+      "topic": "cycles-life",
+      "subtypes": ["life-cycle-of-insects"],
+      "stem": "Study the life cycles of two organisms below.\n[[img1]]\nWhich of the following statements is correct about the life cycles?",
+      "images": [
+        { "id": "img1", "alt": "Two life cycles. Grasshopper: egg, then stage B, then adult, then back to egg. Beetle: egg, then stage C, then stage D, then adult, then back to egg.", "page": 8, "box": [268, 585, 600, 705] }
+      ],
+      "options": [
+        "Stage C does not eat.",
+        "Stages B and D involve molting.",
+        "The young of both organisms look like their adult.",
+        "The beetle has more stages in its life cycle than the grasshopper."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 4 },
+          "explanation": [
+            "Count the stages. Grasshopper: egg, B (nymph), adult. That is 3 stages. Beetle: egg, C (larva), D (pupa), adult. That is 4 stages.",
+            "So the beetle has more stages in its life cycle than the grasshopper.",
+            "Stage C is the larva, which eats a lot, so (1) is wrong. Stage D is the pupa, which does not moult, so (2) is wrong. The beetle larva does not look like the adult beetle, so (3) is wrong.",
+            "The answer is option (4)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "4", "solvedAnswer": "4", "status": "verified" }
+    },
+    {
+      "section": "a", "number": 9, "page": 9, "format": "mcq", "marks": 2,
+      "topic": "interactions-environment",
+      "subtypes": ["food-web", "food-chain"],
+      "stem": "The food web below is used for questions 9, 10 and 11.\n[[img1]]\nWhich food chain shows a correct flow of energy through the web?",
+      "images": [
+        { "id": "img1", "alt": "Food web. Arrows: grass to rabbit, grass to grasshopper, corn to grasshopper, rabbit to hawk, grasshopper to hawk, grasshopper to lizard, lizard to hawk.", "page": 9, "box": [255, 188, 615, 353] }
+      ],
+      "options": [
+        "grass → rabbit → lizard",
+        "corn → grasshopper → hawk",
+        "grasshopper → lizard → hawk → rabbit",
+        "hawk → rabbit → grasshopper → grass"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 2 },
+          "explanation": [
+            "A food chain starts with a food producer (a plant), and each arrow points from the organism that is eaten to the organism that eats it. Energy flows along the arrows.",
+            "In the web there is an arrow from corn to grasshopper and an arrow from grasshopper to hawk, so corn → grasshopper → hawk is correct.",
+            "Option (1) is wrong because there is no arrow from rabbit to lizard. Options (3) and (4) do not start with a plant, and their arrows go the wrong way.",
+            "The answer is option (2)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "2", "solvedAnswer": "2", "status": "verified" }
+    },
+    {
+      "section": "a", "number": 10, "page": 9, "format": "mcq", "marks": 2,
+      "topic": "interactions-environment",
+      "subtypes": ["food-web"],
+      "stem": "The food web below is used for questions 9, 10 and 11.\n[[img1]]\nWhich of the following shows the correct classification of the organisms in the food web?",
+      "images": [
+        { "id": "img1", "alt": "Food web. Arrows: grass to rabbit, grass to grasshopper, corn to grasshopper, rabbit to hawk, grasshopper to hawk, grasshopper to lizard, lizard to hawk.", "page": 9, "box": [255, 188, 615, 353] }
+      ],
+      "options": [
+        "Producer: grass. Predator: rabbit. Prey: corn.",
+        "Producer: corn. Predator: hawk. Prey: lizard.",
+        "Producer: hawk. Predator: lizard. Prey: grasshopper.",
+        "Producer: rabbit. Predator: grass. Prey: hawk."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 2 },
+          "explanation": [
+            "A producer is a plant that makes its own food. A predator is an animal that hunts and eats other animals. A prey is an animal that is eaten by another animal.",
+            "Corn is a plant, so it is a producer. The hawk eats the rabbit, grasshopper and lizard, so it is a predator. The lizard is eaten by the hawk, so it is a prey.",
+            "Option (1) is wrong because the rabbit eats only grass, so it is not a predator, and corn is a plant, not a prey.",
+            "The answer is option (2)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "2", "solvedAnswer": "2", "status": "verified" }
+    },
+    {
+      "section": "a", "number": 11, "page": 9, "format": "mcq", "marks": 2,
+      "topic": "interactions-environment",
+      "subtypes": ["food-web", "population-change", "human-impact"],
+      "stem": "The food web below is used for questions 9, 10 and 11.\n[[img1]]\nTrees were cut down to create roads for vehicles in a town. This caused the population of grasshopper to decrease.\n\nWhich of the following statements are true?\nA  The population of grass would increase.\nB  The population of lizards would increase.\nC  The population of hawks would decrease.",
+      "images": [
+        { "id": "img1", "alt": "Food web. Arrows: grass to rabbit, grass to grasshopper, corn to grasshopper, rabbit to hawk, grasshopper to hawk, grasshopper to lizard, lizard to hawk.", "page": 9, "box": [255, 188, 615, 353] }
+      ],
+      "options": ["A and B only", "A and C only", "B and C only", "A, B and C"],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 2 },
+          "explanation": [
+            "Use the food web: grasshoppers eat grass (and corn), and grasshoppers are eaten by lizards and hawks.",
+            "A: with fewer grasshoppers, less grass is eaten, so the population of grass would increase. A is true.",
+            "B: lizards feed only on grasshoppers. With less food, the population of lizards would decrease, not increase. B is false.",
+            "C: hawks feed on grasshoppers and lizards, which have both decreased, so hawks have less food and their population would decrease. C is true. The answer is option (2)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "2", "solvedAnswer": "2", "status": "verified" }
+    },
+    {
+      "section": "a", "number": 12, "page": 10, "format": "mcq", "marks": 2,
+      "topic": "interactions-environment",
+      "subtypes": ["adaptations", "structural-adaptations", "camouflage"],
+      "stem": "Three organisms, J, K and L, have characteristics that help them survive in their habitats as shown below.\n[[img1]]\nWhich of the following organisms' characteristics have been correctly matched to their functions?",
+      "images": [
+        { "id": "img1", "alt": "Table with rows Organism, Diagram and Characteristic. J: a frog with very large webbed feet spread out; characteristic: webbed feet. K: a turtle; characteristic: hard shell. L: a stick insect; characteristic: brown and thin body.", "page": 10, "box": [155, 200, 715, 435] }
+      ],
+      "options": [
+        "To blend in with the surroundings: K. To escape from predators' bites: J. To glide further: L.",
+        "To blend in with the surroundings: J. To escape from predators' bites: L. To glide further: K.",
+        "To blend in with the surroundings: L. To escape from predators' bites: J. To glide further: K.",
+        "To blend in with the surroundings: L. To escape from predators' bites: K. To glide further: J."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 4 },
+          "explanation": [
+            "A structural adaptation is a body part or body covering that helps an organism survive.",
+            "L has a brown and thin body, so it looks like a twig. This helps it blend in with its surroundings (camouflage).",
+            "K has a hard shell, which protects its body from predators' bites. J has large webbed feet, which act like parachutes with a big surface area to catch the air so it can glide further.",
+            "The answer is option (4). Option (3) also starts with L, but it wrongly gives the hard shell the job of gliding."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "4", "solvedAnswer": "4", "status": "verified" }
+    },
+    {
+      "section": "a", "number": 13, "page": 11, "format": "mcq", "marks": 2,
+      "topic": "energy-photosynthesis",
+      "subtypes": ["photosynthesis"],
+      "stem": "Plants carry out photosynthesis in their leaves.\n[[img1]]\nBased on the diagram, which of the following best represents A, B, C, D and E?",
+      "images": [
+        { "id": "img1", "alt": "A leaf and the Sun. Arrow A goes from the Sun to the leaf. Arrow B goes out of the leaf into the air. Arrow C goes from the air into the leaf. Arrow D goes into the leaf through the leaf stalk. Arrow E goes out of the leaf through the leaf stalk.", "page": 11, "box": [290, 200, 640, 370] }
+      ],
+      "options": [
+        "A: heat. B: oxygen. C: carbon dioxide. D: water. E: sugar.",
+        "A: sunlight. B: carbon dioxide. C: oxygen. D: water vapour. E: mineral salts.",
+        "A: heat. B: carbon dioxide. C: oxygen. D: water vapour. E: mineral salts.",
+        "A: sunlight. B: oxygen. C: carbon dioxide. D: water. E: sugar."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 4 },
+          "explanation": [
+            "In photosynthesis, a leaf uses light energy from the Sun, carbon dioxide and water to make food (sugar), and gives out oxygen.",
+            "A comes from the Sun, so it is sunlight. C enters the leaf from the air, so it is carbon dioxide. B leaves the leaf into the air, so it is oxygen.",
+            "D enters through the leaf stalk, so it is water from the roots. E leaves through the leaf stalk, so it is the sugar made in the leaf, which is carried to other parts of the plant.",
+            "Option (1) is the same except that A is heat. Photosynthesis needs light, not heat. The answer is option (4)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "4", "solvedAnswer": "4", "status": "verified" }
+    },
+    {
+      "section": "a", "number": 14, "page": 12, "format": "mcq", "marks": 2,
+      "topic": "energy-photosynthesis",
+      "subtypes": ["photosynthesis", "experiment-design", "control-set-up"],
+      "stem": "Jett conducted an experiment to find out if carbon dioxide is needed for photosynthesis. He kept the plant in the dark for 24 hours to remove any starch. Then, he placed the plant in light, as shown in the diagram below.\n[[img1]]\nAfter 10 hours, leaves X and Y were tested for starch. Jett recorded his results.\nWhat were the results recorded?",
+      "images": [
+        { "id": "img1", "alt": "A potted plant in sunlight. Leaf X is an ordinary leaf on the plant, in the open air (it has been shaded black by hand in the scan). Leaf Y, still attached to the plant, is sealed inside a flask that contains a solution that absorbs carbon dioxide.", "page": 12, "box": [270, 230, 620, 445] }
+      ],
+      "options": [
+        "Presence of starch in leaf X: No. In leaf Y: Yes.",
+        "Presence of starch in leaf X: No. In leaf Y: No.",
+        "Presence of starch in leaf X: Yes. In leaf Y: Yes.",
+        "Presence of starch in leaf X: Yes. In leaf Y: No."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 4 },
+          "explanation": [
+            "Plants need light, water and carbon dioxide for photosynthesis. The sugar made is stored as starch, so a leaf that has photosynthesised contains starch.",
+            "Leaf X is in the open air and in light, so it has carbon dioxide. It photosynthesised and made starch: Yes.",
+            "Leaf Y is sealed in a flask where the solution absorbed the carbon dioxide. Without carbon dioxide it could not photosynthesise, so it has no starch: No.",
+            "The answer is option (4)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "4", "solvedAnswer": "4", "status": "needs-review", "note": "In the scan leaf X has been shaded solid black by hand (the shading spills over the leaf outline). It is probably a pupil's mark for 'starch present', which hints at the answer; it could also be misread as a leaf covered with black paper, which would lead to option (2). The question text says nothing about covering leaf X, so X is taken as an ordinary uncovered leaf, and that reading matches the key. Needs a clean copy of the diagram." }
+    },
+    {
+      "section": "a", "number": 15, "page": 13, "format": "mcq", "marks": 2,
+      "topic": "diversity-materials",
+      "subtypes": ["properties-of-materials", "conductors-and-insulators"],
+      "stem": "Electrical wires are usually covered with an additional layer of material, part X, as shown.\n[[img1]]\nPart X acts as a protective layer around the metal wire inside, preventing people from touching the metal directly and reducing the risk of electric shock.\n\nWhich material is most suitable for making part X?",
+      "images": [
+        { "id": "img1", "alt": "A cable cut open at one end. Three electrical wires stick out of the outer covering, which is labelled part X.", "page": 13, "box": [280, 195, 595, 325] }
+      ],
+      "options": [
+        "Material A: not flexible, waterproof, good conductor of electricity.",
+        "Material B: flexible, waterproof, not a good conductor of electricity.",
+        "Material C: flexible, not waterproof, good conductor of electricity.",
+        "Material D: flexible, waterproof, good conductor of electricity."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 2 },
+          "explanation": [
+            "Part X must stop electricity from reaching a person's hand, so it must be an electrical insulator: not a good conductor of electricity.",
+            "Wires need to bend, so part X should be flexible. It should also be waterproof to keep water away from the metal wire.",
+            "Only material B is flexible, waterproof and not a good conductor of electricity. Material D is flexible and waterproof too, but it conducts electricity, so a person touching it could get an electric shock.",
+            "The answer is option (2)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "2", "solvedAnswer": "2", "status": "verified", "note": "The options are rows of a table of ticks and crosses (key: tick = yes, X = no) with columns material, flexible, waterproof, good conductor of electricity. They are written out in words." }
+    },
+    {
+      "section": "a", "number": 16, "page": 13, "format": "mcq", "marks": 2,
+      "topic": "energy-light-heat",
+      "subtypes": ["heat-loss", "reading-graphs"],
+      "stem": "Arun placed a cup of warm water in the refrigerator and measured its temperature. His results are as shown.\n[[img1]]\nWhich statement best describes the water at AB?",
+      "images": [
+        { "id": "img1", "alt": "Graph of temperature (°C) against time (min). The temperature falls quickly at first, then more slowly, and then stays level between points A and B. The level part is a little above the bottom of the graph.", "page": 13, "box": [310, 665, 570, 815] }
+      ],
+      "options": [
+        "It is getting cooler.",
+        "It has turned into ice.",
+        "It has stopped losing heat.",
+        "It is changing from a liquid to a solid state."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 3 },
+          "explanation": [
+            "Heat flows from a hotter place to a colder place. The warm water loses heat to the cooler air in the refrigerator, so its temperature drops.",
+            "At AB the line is flat, so the temperature is no longer changing. The water has reached the same temperature as the air in the refrigerator, so it has stopped losing heat.",
+            "A refrigerator (not a freezer) keeps things cold but above 0°C, so the water does not freeze. That rules out options (2) and (4). Option (1) is wrong because the temperature is not falling at AB.",
+            "The answer is option (3)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "3", "solvedAnswer": "3", "status": "verified" }
+    },
+    {
+      "section": "a", "number": 17, "page": 14, "format": "mcq", "marks": 2,
+      "topic": "cycles-matter-water",
+      "subtypes": ["air-can-be-compressed", "properties-of-matter"],
+      "stem": "Sarah conducts an experiment using three syringes, P, Q and R. The total volume of each syringe is 80 ml.\n\n• Syringe P contains 80 ml of air and its nozzle is sealed.\n• Syringe Q contains 80 ml of water and its nozzle is sealed.\n• Syringe R contains 40 ml of water and 40 ml of air and its nozzle is sealed.\n[[img1]]\nSarah pushes the plunger fully for all three syringes with the same amount of force and records the new volume of the contents.\n[[table1]]\nWhat is the new volume of the contents for the three syringes?",
+      "images": [
+        { "id": "img1", "alt": "Three syringes with plungers and sealed nozzles. P is filled with air. Q is filled with water. R is half filled with water, with air above the water.", "page": 14, "box": [298, 300, 580, 500] }
+      ],
+      "tables": [
+        { "id": "table1", "header": ["Syringe", "Contents", "Volume before (ml)", "Volume after (ml)"], "rows": [["P", "Air", "80", "?"], ["Q", "Water", "80", "?"], ["R", "Water and Air", "80", "?"]] }
+      ],
+      "options": [
+        "Volume after (ml): P 80, Q 40, R 50.",
+        "Volume after (ml): P 60, Q 40, R 30.",
+        "Volume after (ml): P 60, Q 80, R 30.",
+        "Volume after (ml): P 30, Q 80, R 60."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 4 },
+          "explanation": [
+            "Air (a gas) has no definite volume and can be compressed. Water (a liquid) has a definite volume and cannot be compressed.",
+            "Q holds only water, so its volume stays at 80 ml. That rules out options (1) and (2).",
+            "P holds only air, so it can be compressed to less than 80 ml. In R only the 40 ml of air can be compressed; the 40 ml of water cannot. So R must end up with more than 40 ml but less than 80 ml.",
+            "Option (3) gives R as 30 ml, which is less than the 40 ml of water alone, so it is impossible. Option (4), P 30, Q 80, R 60, is the answer."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "4", "solvedAnswer": "4", "status": "verified" }
+    },
+    {
+      "section": "a", "number": 18, "page": 15, "format": "mcq", "marks": 2,
+      "topic": "cycles-matter-water",
+      "subtypes": ["evaporation-rate", "reading-graphs"],
+      "stem": "Three identical pieces of wet cloth were hung in different places. Each cloth contained the same amount of water at the start.\n[[table1]]\nThe mass of the cloth was measured and recorded at regular intervals. Which graph best matches the observations from the experiment?\n[[img1]]",
+      "tables": [
+        { "id": "table1", "header": ["Cloth", "Conditions"], "rows": [["P", "Folded and hung indoors in a closed room"], ["Q", "Hung outdoors under the sun on a windy day"], ["R", "Folded and hung outdoors under the sun"]] }
+      ],
+      "images": [
+        { "id": "img1", "alt": "Four graphs of mass of cloth against time, each with lines P (dotted), R (dashed) and Q (solid). Graph (1): the three lines start at different masses, then all fall and level off, with P highest, R in the middle and Q lowest. Graph (2): the three lines start at the same mass and fall, with P highest and R in the middle; Q falls fastest, all the way down to zero. Graph (3): the three lines start at the same mass and fall, with P highest, R in the middle and Q lowest, and Q levels off above zero. Graph (4): the three lines start at different masses, stay level and then rise.", "page": 15, "box": [170, 385, 700, 665] }
+      ],
+      "options": ["Graph (1)", "Graph (2)", "Graph (3)", "Graph (4)"],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 3 },
+          "explanation": [
+            "Water evaporates from the wet cloth, so the mass of each cloth decreases. Evaporation is faster with more heat, more wind and a larger exposed surface area.",
+            "Q is unfolded (largest exposed surface), under the sun and in the wind, so it loses water fastest. R is under the sun but folded, so it is slower. P is folded and indoors, so it is slowest. At any time P is heaviest and Q is lightest.",
+            "The cloths are identical and hold the same amount of water, so all three lines must start at the same mass. That rules out graphs (1) and (4). In graph (2) the mass of Q drops to zero, but a dry cloth still has mass.",
+            "The answer is option (3)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "3", "solvedAnswer": "3", "status": "verified", "note": "The scan has a pen circle drawn around the starting points of the lines in graph (1). It is a stray mark on a wrong option and could not be cropped out." }
+    },
+    {
+      "section": "a", "number": 19, "page": 16, "format": "mcq", "marks": 2,
+      "topic": "systems-electrical",
+      "subtypes": ["electrical-safety"],
+      "stem": "Four statements are made about safe practices when using electricity at home and in school.\nA  Unplugging appliances by holding the plug, not the wire.\nB  Using a socket that has many plugs connected to one extension adaptor.\nC  Turning off the switch before removing a light bulb.\nD  Using appliances with damaged wires while they are still working.\n\nWhich of the following statements show safe use of electricity?",
+      "options": ["A and B only", "A and C only", "B and C only", "C and D only"],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 2 },
+          "explanation": [
+            "A is safe: pulling the wire can damage it and expose the metal inside, so we hold the plug.",
+            "C is safe: with the switch off, no current flows, so there is no risk of an electric shock when the bulb is removed.",
+            "B is unsafe: too many plugs on one socket overload it. The wires can overheat and start a fire. D is unsafe: damaged wires can give an electric shock or start a fire.",
+            "A and C only: option (2)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "2", "solvedAnswer": "2", "status": "verified" }
+    },
+    {
+      "section": "a", "number": 20, "page": 16, "format": "mcq", "marks": 2,
+      "topic": "systems-electrical",
+      "subtypes": ["series-and-parallel", "switches", "closed-circuit"],
+      "stem": "Five bulbs are connected in a circuit as shown.\n[[img1]]\nHow many more bulbs will light up when the switch is closed?",
+      "images": [
+        { "id": "img1", "alt": "Circuit with two batteries and five bulbs between a wire on the left and a wire on the right. The batteries are joined in a row to one bulb at the top right. One bulb at the bottom is connected straight across from the left wire to the right wire. A middle branch has one bulb, then a switch, then two bulbs side by side in parallel. In the scan the three bulbs in the middle branch have been shaded black by hand and a line has been drawn across the switch.", "page": 16, "box": [295, 535, 575, 860] }
+      ],
+      "options": ["1", "2", "3", "4"],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 3 },
+          "explanation": [
+            "A bulb lights up only when it is in a closed circuit, so that current can flow from the batteries through the bulb and back.",
+            "Before the switch is closed, the bulb next to the batteries and the bulb at the bottom are already in closed circuits, so these two are lit.",
+            "The switch is in the middle branch. That branch has one bulb joined to two bulbs in parallel. While the switch is open there is a gap, so none of these three bulbs is lit.",
+            "Closing the switch closes the middle branch, so its three bulbs light up. Three more bulbs light up: option (3). It is not 4, because two of the five bulbs were already lit."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "3", "solvedAnswer": "3 (reading the left, right and bottom edges of the frame as wires)", "status": "needs-review", "note": "The scanned diagram has been drawn on: the three bulbs in the switch branch are shaded black by hand, a line is drawn across the switch, and the left, bottom and right edges of the frame are traced over heavily. The shading gives the answer away and cannot be cropped out. The wiring is also uncertain: if the thin top edge of the frame is a wire too, the left and right sides would be joined directly and closing the switch would light no extra bulb, which is not an option. The answer 3 assumes the top edge is only a picture border. Needs a clean copy of the diagram." }
+    },
+    {
+      "section": "a", "number": 21, "page": 17, "format": "mcq", "marks": 2,
+      "topic": "systems-electrical",
+      "subtypes": ["closed-circuit", "reading-tables"],
+      "stem": "Nurul set up a card with metal clips A, B, C and D as shown in Figure 1. The metal clips were connected using wires at the back of the card. She set up a circuit tester as shown in Figure 2 and connected X and Y to the metal clips.\n[[img1]]\nShe recorded her observations in the table below.\n[[table1]]\nWhich diagram(s) shows how the wires were connected at the back of the card?\n[[img2]]",
+      "images": [
+        { "id": "img1", "alt": "Figure 1: a card with metal clips A and B at the top and C and D at the bottom. Figure 2: a circuit tester made of batteries and wires with two free ends, X and Y.", "page": 17, "box": [185, 240, 700, 390] },
+        { "id": "img2", "alt": "Four diagrams of the back of the card, each with clips A and B at the top and C and D at the bottom. Diagram P: a wire joins A and B, and a wire joins A and C. Diagram Q: a wire joins A and B, and a wire joins B and C. Diagram R: a wire joins A and B only. Diagram S: a wire joins A and B, and a wire joins A and D.", "page": 17, "box": [185, 585, 700, 890] }
+      ],
+      "tables": [
+        { "id": "table1", "header": ["Clips connected", "Observation"], "rows": [["A and B", "The bulb lit up."], ["A and C", "The bulb lit up."], ["B and C", "The bulb lit up."], ["C and D", "The bulb did not light up."]] }
+      ],
+      "options": ["P and Q only", "P and R only", "R and S only", "Q and S only"],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 1 },
+          "explanation": [
+            "The bulb lights up only when the two clips are joined by wires, directly or through another clip, so that the circuit is closed.",
+            "From the table, A, B and C must all be joined together, and D must not be joined to C.",
+            "Diagram P joins A to B and A to C. Diagram Q joins A to B and B to C. In both, A, B and C are all connected and D is left out, so both fit the table.",
+            "Diagram R joins only A and B, so 'A and C' would not light up. Diagram S joins A, B and D but not C, so 'A and C' would not light up. The answer is P and Q only: option (1)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "1", "solvedAnswer": "1", "status": "verified" }
+    },
+    {
+      "section": "a", "number": 22, "page": 18, "format": "mcq", "marks": 2,
+      "topic": "interactions-magnets",
+      "subtypes": ["magnetic-materials", "reading-tables"],
+      "stem": "Three objects were tested during an experiment and the results are shown below.\n[[table1]]\nWhich statement is correct?",
+      "tables": [
+        { "id": "table1", "header": ["Test", "Object E", "Object F", "Object G"], "rows": [["Attracted to a magnet", "Yes", "Yes", "Yes"], ["Attracts iron nails", "Yes", "Yes", "No"], ["Repels one pole of a magnet", "No", "Yes", "No"]] }
+      ],
+      "options": [
+        "E and F are magnets.",
+        "G is a magnet because it is attracted to a magnet.",
+        "F is a magnet while E may be a magnet or magnetic material.",
+        "E and G are magnetic materials because they cannot repel a magnet."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 3 },
+          "explanation": [
+            "Both magnets and magnetic materials are attracted to a magnet. Only a magnet can repel another magnet, when like poles face each other. So repulsion is the only sure test for a magnet.",
+            "F repels one pole of a magnet, so F is definitely a magnet.",
+            "E attracts iron nails, which suggests it is a magnet, but it did not show repulsion, so we cannot be sure. E may be a magnet or a magnetic material. Option (1) says E is a magnet for certain, which the results do not prove.",
+            "G is attracted to a magnet but does not attract nails or repel, so it is a magnetic material, not a magnet. The answer is option (3)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "3", "solvedAnswer": "3", "status": "verified", "note": "First attempt was option (1), because an object that attracts iron nails is normally a magnet. On re-thinking, the table also says E does not repel a pole of a magnet, so option (1) claims more than the results prove, and option (3) is the only statement not contradicted by the table. The data for E is a little inconsistent in the paper itself." }
+    },
+    {
+      "section": "a", "number": 23, "page": 18, "format": "mcq", "marks": 2,
+      "topic": "interactions-forces",
+      "subtypes": ["elastic-spring-force", "gravity"],
+      "stem": "In the set up below, a compressed spring is used to push a block. Once the spring is released, the box moves along the table until it comes to a stop.\n[[img1]]\nWhich is/are the force(s) that acted on the block at point C?",
+      "images": [
+        { "id": "img1", "alt": "A compressed spring is fixed to a wall on the left. A block rests against the free end of the compressed spring; this position is marked point C. Arrows show the block moving to the right along the table ('block is moving') and then at rest further right ('block stops moving').", "page": 18, "box": [190, 565, 680, 705] }
+      ],
+      "options": [
+        "Elastic spring force: yes. Gravitational force: yes.",
+        "Elastic spring force: yes. Gravitational force: no.",
+        "Elastic spring force: no. Gravitational force: yes.",
+        "Elastic spring force: no. Gravitational force: no."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 1 },
+          "explanation": [
+            "At point C the block is touching the compressed spring. A compressed spring pushes back on whatever is pressing on it, so elastic spring force acts on the block.",
+            "Gravitational force pulls every object towards the Earth all the time, whether the object is moving or not. So gravitational force also acts on the block.",
+            "Option (2) is the tempting mistake: gravity does not stop acting just because the block is resting on a table.",
+            "The answer is option (1)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "1", "solvedAnswer": "1", "status": "verified" }
+    },
+    {
+      "section": "a", "number": 24, "page": 19, "format": "mcq", "marks": 2,
+      "topic": "interactions-magnets",
+      "subtypes": ["electromagnet", "making-magnets"],
+      "stem": "Qianzheng used the electrical method to magnetise an iron rod.\nThe diagrams below shows the set up he used to magnetise the iron rod.\n[[img1]]\nAfter the switch was closed for two minutes, the iron rod was able to attract 8 paper clips. Qianzheng repeated the experiment using a steel rod and observed that the steel rod attracted 6 paper clips.\n[[img2]]\nAfter the switch was open, the number of paper clips attracted by each rod is shown below.\n[[img3]]\nQianzheng made four statements about iron and steel based on his observations above.\nA  Both iron and steel can be magnetised\nB  Iron gets magnetised more slowly than steel.\nC  Steel loses its magnetism more slowly than iron.\nD  Steel is able to remain magnetised when current stops flowing in the circuit\n\nBased on Qianzheng's experiment, which statements are correct?",
+      "images": [
+        { "id": "img1", "alt": "An iron rod with a wire coiled around it. The wire is connected to a battery and an open switch.", "page": 19, "box": [340, 210, 610, 320] },
+        { "id": "img2", "alt": "Two set-ups with the switch closed. Left: the iron rod in the coil has a chain of 4 paper clips hanging from each end, 8 in all. Right: the steel rod in the coil has a chain of 3 paper clips hanging from each end, 6 in all.", "page": 19, "box": [205, 385, 735, 510] },
+        { "id": "img3", "alt": "The same two set-ups with the switch open. Left: the iron rod has no paper clips hanging from it. Right: the steel rod still has paper clips hanging from both ends, but fewer than before.", "page": 19, "box": [235, 565, 730, 690] }
+      ],
+      "options": ["A and B only", "B and C only", "A, B and C only", "A, C and D only"],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 4 },
+          "explanation": [
+            "When current flows in the coil, the rod inside becomes an electromagnet. Both the iron rod and the steel rod attracted paper clips, so both can be magnetised. A is correct.",
+            "After the same two minutes, iron attracted 8 clips and steel only 6, so iron was magnetised more quickly, not more slowly. B is wrong.",
+            "When the switch was opened, the iron rod dropped all its clips but the steel rod still held some. So steel loses its magnetism more slowly (C is correct) and remains magnetised after the current stops (D is correct).",
+            "A, C and D only: option (4)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "4", "solvedAnswer": "4", "status": "verified" }
+    },
+    {
+      "section": "a", "number": 25, "page": 20, "format": "mcq", "marks": 2,
+      "topic": "interactions-forces",
+      "subtypes": ["springs", "elastic-spring-force", "reading-graphs"],
+      "stem": "Shuying used the set up below to study four different springs, J, K, L and M.\n[[img1]]\nShe hung objects of different mass on each spring and measured the length of the spring. The results are shown in the graph.\n[[img2]]\nUsing the same setup, Shuying wanted to compare the masses of the two mangoes by observing how much the spring extended when each mango was hung.\n[[img3]]\nWhich spring, J, K, L or M, is most suitable for her set up?",
+      "images": [
+        { "id": "img1", "alt": "A spring hanging from a support with an object hung at its lower end. The length of the spring is marked.", "page": 20, "box": [365, 200, 500, 360] },
+        { "id": "img2", "alt": "Graph of length of spring (cm) against mass of object (kg) with four straight lines. K, L and M start at the same short length. K rises the most steeply, L less steeply and M the least steeply. J starts at a longer length and rises gently, less steeply than K, meeting K at the far right.", "page": 20, "box": [305, 435, 580, 585] },
+        { "id": "img3", "alt": "Two mangoes that look the same. One is labelled 200 g and the other 210 g.", "page": 20, "box": [320, 675, 540, 770] }
+      ],
+      "options": ["J", "K", "L", "M"],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 2 },
+          "explanation": [
+            "The two mangoes differ by only 10 g. To see the difference, Shuying needs the spring that stretches the most for each extra bit of mass.",
+            "On the graph, a steeper line means the spring gets longer by more for the same increase in mass.",
+            "The line for K is the steepest, so spring K extends the most and will show the biggest difference between the two mangoes.",
+            "J is tempting because its line is the highest, but that only means J is a longer spring to begin with. Its line is less steep than K's. The answer is option (2)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "2", "solvedAnswer": "2", "status": "verified" }
+    },
+    {
+      "section": "a", "number": 26, "page": 21, "format": "mcq", "marks": 2,
+      "topic": "energy-light-heat",
+      "subtypes": ["reflection-of-light", "how-we-see"],
+      "stem": "Zhi Qing looked at a clean glass window during the day. She could see the buildings outside the window and also faintly see her own reflection on the glass.\n[[img1]]\nWhich statement best explains this observation?",
+      "images": [
+        { "id": "img1", "alt": "A girl stands facing a glass window. On the glass is a faint image of her, labelled 'her own reflection'. Buildings and a tree can be seen outside the window.", "page": 21, "box": [290, 235, 600, 385] }
+      ],
+      "options": [
+        "All the light passed through the glass window",
+        "Light from her eyes travelled to the glass and bounced back.",
+        "The glass produced light which allowed her to see the buildings and her own reflection.",
+        "Some light passed through the glass while some light was reflected by the glass into her eyes."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 4 },
+          "explanation": [
+            "We see an object when light from it enters our eyes.",
+            "She sees the buildings because light reflected from the buildings passes through the transparent glass into her eyes.",
+            "She sees her own reflection faintly because a little of the light reflected from her body is reflected by the glass back into her eyes.",
+            "Eyes and glass do not give out light, so (2) and (3) are wrong. If all the light passed through, there would be no reflection, so (1) is wrong. The answer is option (4)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "4", "solvedAnswer": "4", "status": "verified" }
+    },
+    {
+      "section": "a", "number": 27, "page": 22, "format": "mcq", "marks": 2,
+      "topic": "energy-light-heat",
+      "subtypes": ["shadows", "reading-graphs"],
+      "stem": "Gopal investigated how the position of a torch affects the length of the shadow formed by a pencil. He kept the pencil and screen in the same position throughout the experiment.\n[[img1]]\nHe repeated the experiment by placing the torch at positions Q and R. He measured and recorded the length of the shadow formed on the screen. His observations are shown in the graph below.\n[[img2]]\nWhich diagram shows correctly the positions P, Q and R?\n[[img3]]",
+      "images": [
+        { "id": "img1", "alt": "A torch at position P shines on an upright pencil. The shadow of the pencil falls on a screen behind it, and the length of the shadow is marked.", "page": 22, "box": [258, 221, 600, 357] },
+        { "id": "img2", "alt": "Bar graph of length of shadow (cm) against position of torch. P has the tallest bar, R is in the middle and Q has the shortest bar.", "page": 22, "box": [285, 425, 560, 585] },
+        { "id": "img3", "alt": "Four diagrams, each with three torch positions in a row to the left of the pencil and screen. Listed from furthest from the pencil to nearest to the pencil: (1) Q, R, P. (2) P, Q, R. (3) R, Q, P. (4) R, P, Q.", "page": 22, "box": [160, 625, 570, 985] }
+      ],
+      "options": ["Diagram (1)", "Diagram (2)", "Diagram (3)", "Diagram (4)"],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 1 },
+          "explanation": [
+            "A shadow forms when an object blocks light. The nearer the light source is to the object, the bigger (longer) the shadow on the screen.",
+            "From the graph, the shadow is longest for P, then R, and shortest for Q.",
+            "So P is nearest to the pencil, R is in the middle and Q is furthest away.",
+            "Diagram (1) shows Q furthest, then R, then P nearest the pencil. Diagram (3) also has P nearest but swaps Q and R. The answer is option (1)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "1", "solvedAnswer": "1", "status": "verified" }
+    },
+    {
+      "section": "a", "number": 28, "page": 23, "format": "mcq", "marks": 2,
+      "topic": "energy-light-heat",
+      "subtypes": ["heat-conductors", "reading-tables", "fair-test"],
+      "stem": "Four rods, made of different materials and thickness, but of equal length, were placed with one end in hot water at 90 °C. The temperature of the other end of the rods was measured with a thermometer after five minutes.\n[[img1]]\nThe table below shows results of the experiment.\n[[table1]]\nBased on the results of the experiment above, which of the statement(s) is/are correct?\nA  Not all metals conduct heat equally well\nB  Copper is a better conductor of heat than steel and wood.\nC  Steel is a better conductor than copper because it gained less heat.\nD  Thin rods are always better conductors than thick rods, regardless of material.",
+      "images": [
+        { "id": "img1", "alt": "A beaker of water at 90 °C with four upright rods standing in it: copper (thin), copper (thick), steel (thin) and wood (thin). A thermometer is attached to the top end of each rod.", "page": 23, "box": [295, 280, 590, 550] }
+      ],
+      "tables": [
+        { "id": "table1", "header": ["Rod", "Temperature at the other end (°C)"], "rows": [["copper (thin)", "65"], ["copper (thick)", "54"], ["steel (thin)", "46"], ["wood (thin)", "32"]] }
+      ],
+      "options": ["A and B only", "B and C only", "A, B and D only", "A, C and D only"],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 1 },
+          "explanation": [
+            "A better conductor of heat lets heat travel through it faster, so its other end becomes hotter in the same time. For a fair comparison, compare rods of the same thickness.",
+            "Thin copper (65 °C) is hotter than thin steel (46 °C). Both are metals, so not all metals conduct heat equally well: A is correct.",
+            "Thin copper (65 °C) is hotter than thin steel (46 °C) and thin wood (32 °C), so copper is the best conductor of the three: B is correct. C is wrong because gaining less heat means steel is a poorer conductor.",
+            "D is wrong: the thick copper rod (54 °C) is hotter than the thin steel and thin wood rods, so thin rods are not always better. A and B only: option (1)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "1", "solvedAnswer": "1", "status": "verified" }
+    },
+    {
+      "section": "a", "number": 29, "page": 24, "format": "mcq", "marks": 2,
+      "topic": "energy-forms",
+      "subtypes": ["energy-conversion"],
+      "stem": "A girl switches on a battery-operated toy train. The toy train moves forward and produces sound.\n[[img1]]\nWhich of the following shows how the energy changes when the toy train is switched on?",
+      "images": [
+        { "id": "img1", "alt": "A toy train with an engine and two carriages moving on a track. Musical notes above the engine show that it is producing sound.", "page": 24, "box": [280, 235, 570, 415] }
+      ],
+      "options": [
+        "electrical energy → kinetic energy → sound energy",
+        "potential energy → electrical energy → kinetic energy",
+        "electrical energy → potential energy → kinetic and sound energy",
+        "potential energy → electrical energy → kinetic and sound energy"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 4 },
+          "explanation": [
+            "A battery stores chemical potential energy. When the train is switched on, this potential energy is converted to electrical energy.",
+            "The electrical energy is then converted to kinetic energy (the train moves) and sound energy (the train produces sound).",
+            "Option (2) leaves out the sound energy. Option (1) does not start with the energy stored in the battery.",
+            "The answer is option (4)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "4", "solvedAnswer": "4", "status": "verified" }
+    },
+    {
+      "section": "a", "number": 30, "page": 25, "format": "mcq", "marks": 2,
+      "topic": "energy-forms",
+      "subtypes": ["energy-conversion", "potential-and-kinetic-energy"],
+      "stem": "A wound-up toy car has a spring inside it. Liam wound-up a toy car by compressing the spring and released it at point A. The spring returned to its original length before reaching point B. The toy car moved along the floor, passed point B and stopped at point C.\n[[img1]]\nDifferent types of energy are represented using the shading below.\n[[img2]]\nThe chart below shows the amount and type of energy the wound-up car at point A.\n[[img3]]\nWhich chart best represents the energy the wound-up car has at point B?\n[[img4]]",
+      "images": [
+        { "id": "img1", "alt": "A toy car on the floor at three points. At A a hand is winding the key at the back of the car. At B the car is moving. At C the car has stopped.", "page": 25, "box": [180, 265, 710, 378] },
+        { "id": "img2", "alt": "Key to the shading: dark shading is potential energy, diagonal lines are kinetic energy, horizontal lines are heat energy.", "page": 25, "box": [245, 425, 640, 462] },
+        { "id": "img3", "alt": "Chart for point A: one bar that is all dark shading (potential energy).", "page": 25, "box": [210, 515, 445, 552] },
+        { "id": "img4", "alt": "Four bar charts. (1): about half potential energy and half kinetic energy. (2): about a quarter potential energy and three quarters heat energy. (3): about two thirds kinetic energy and one third heat energy, with no potential energy. (4): about a quarter potential energy, half kinetic energy and a quarter heat energy.", "page": 25, "box": [175, 590, 445, 725] }
+      ],
+      "options": ["Chart (1)", "Chart (2)", "Chart (3)", "Chart (4)"],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 3 },
+          "explanation": [
+            "At A the compressed spring stores elastic potential energy. When the car is released, this is converted to kinetic energy of the moving car.",
+            "The spring returned to its original length before the car reached B, so at B there is no potential energy left. Charts (1), (2) and (4) all still show potential energy.",
+            "At B the car is moving, so it has kinetic energy. Friction between the car and the floor has converted some of the energy to heat energy.",
+            "Chart (3) shows only kinetic energy and heat energy. The answer is option (3)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "3", "solvedAnswer": "3", "status": "verified" }
+    },
+    {
+      "section": "b", "number": 31, "page": 27, "format": "structured", "marks": 4,
+      "topic": "systems-plants",
+      "subtypes": ["plant-transport-system", "reading-tables"],
+      "stem": "",
+      "images": [
+        { "id": "img1", "alt": "Organism A, an insect, clings to the side of a plant stem. Its mouth part pierces the stem and reaches the food-carrying tube inside the stem.", "page": 27, "box": [195, 300, 690, 485] }
+      ],
+      "tables": [
+        { "id": "table1", "header": [{ "t": "Number of organism A on plant", "rowspan": 2 }, { "t": "Mass of fruits harvested from plant (g)", "colspan": 4 }], "rows": [["**Plant 1**", "**Plant 2**", "**Plant 3**", "**Average**"], ["0", "455", "460", "450", "455"], ["20", "445", "450", "440", "445"], ["40", "430", "435", "440", "435"], ["60", "415", "425", "435", "425"]] }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "Name 2 systems in humans that allow them to carry out life processes.",
+          "marks": 1,
+          "answer": { "type": "self", "value": "Any two of: the digestive system, the respiratory system, the circulatory system, the muscular system, the skeletal system, the reproductive system. For example: the digestive system and the respiratory system." },
+          "explanation": [
+            "A system is a group of parts (organs) that work together to carry out a function.",
+            "Any two human body systems are accepted: digestive, respiratory, circulatory, muscular, skeletal or reproductive.",
+            "Name the system, not a single organ. 'The heart' or 'the lungs' is not a system."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "The diagram below shows Organism A feeding on the stem of a plant during the day.\n[[img1]]\nName 2 substances that are transported in the stem of the plant.",
+          "marks": 1,
+          "answer": { "type": "self", "value": "Any two of: water, mineral salts, food (sugar). For example: water and food." },
+          "explanation": [
+            "The stem has water-carrying tubes, which carry water and mineral salts from the roots to all parts of the plant.",
+            "It also has food-carrying tubes, which carry food (sugar) made in the leaves to all parts of the plant.",
+            "Any two of water, mineral salts and food (sugar) are accepted."
+          ]
+        },
+        {
+          "label": "c",
+          "prompt": "Farmer Bob conducted an experiment to find out if the number of organism A present affects the mass of fruits produced from his plants. He recorded his findings below.\n[[table1]]\nOrganism A does not feed on the leaves and fruits of plants.\nExplain how the number of organism A on plant affects the mass of fruits harvested from the plant.",
+          "marks": 2,
+          "answer": { "type": "self", "value": "As the number of organism A on the plant increases, the mass of fruits harvested from the plant decreases. Organism A feeds on the food in the food-carrying tubes of the stem (it eats the food produced by the leaves, or damages the food-carrying tubes). Thus, less food is transported to the fruits, causing the fruits to be smaller." },
+          "explanation": [
+            "First state the relationship from the table: as the number of organism A increases from 0 to 60, the average mass of fruits decreases from 455 g to 425 g.",
+            "Then explain it. The diagram shows the mouth part of organism A reaching the food-carrying tube, so it takes the food made by the leaves (or damages the food-carrying tubes).",
+            "Link it to the fruits: less food is transported to the fruits, so the fruits are smaller and their mass is lower.",
+            "One mark is for the relationship and one mark is for the explanation. Key phrases: number, mass, eats the food or damages the food-carrying tubes, less food."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "a) Digestive, respiratory, circulatory, muscular, skeletal or reproductive system.  b) Water, mineral salts, sugar / food.  c) State relationship: As the number of organism A on the plant increases, the mass of fruits harvested from the plant decreases. Explain: Organism A eats the food produced by the leaves of the plant. / Organism A damages the food-carrying tubes. Thus, less food is transported to the fruits, causing the fruits to decrease in size.", "solvedAnswer": "agrees with key", "status": "verified" }
+    },
+    {
+      "section": "b", "number": 32, "page": 28, "format": "structured", "marks": 5,
+      "topic": "interactions-environment",
+      "subtypes": ["population-change", "reading-graphs", "human-impact"],
+      "stem": "",
+      "images": [
+        { "id": "img1", "alt": "A tree habitat. A monkey sits on a branch of a leafy tree with fruits hanging from it. Small plants and other organisms live on the trunk and around the roots.", "page": 28, "box": [355, 225, 545, 430] },
+        { "id": "img2", "alt": "Line graph of number of organisms against month (Jan, Mar, Sep). The solid line (monkey) rises from January to March, then falls slowly from March to September. The dashed line (fruit) falls steeply from January to March, then rises from March to September.", "page": 28, "box": [205, 470, 610, 660] }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "Describe the term 'habitat'.",
+          "marks": 1,
+          "answer": { "type": "self", "value": "A habitat is the place where an organism lives." },
+          "explanation": [
+            "The key idea is that a habitat is a place where an organism lives.",
+            "Do not mix it up with a population (organisms of the same kind living together) or a community (all the different populations living in one habitat)."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "The diagram below shows some organisms living in a tree habitat.\n[[img1]]\nThe number of monkeys and fruits in the habitat were monitored for several months. The results are shown below.\n[[img2]]\nBased on the graph above, state how the number of monkeys affected the number of fruits in the tree habitat from January to September.",
+          "marks": 2,
+          "answer": { "type": "self", "value": "As the number of monkeys increased from January to March, the number of fruits decreased. As the number of monkeys decreased from March to September, the number of fruits increased." },
+          "explanation": [
+            "Read the graph in two parts, because both lines change direction in March.",
+            "January to March: the monkey line goes up and the fruit line goes down. More monkeys eat more fruits.",
+            "March to September: the monkey line goes down and the fruit line goes up. Fewer monkeys eat fewer fruits.",
+            "One mark is for each period. Name the months in your answer."
+          ]
+        },
+        {
+          "label": "c",
+          "prompt": "Trees and plants were cut down to clear the land to build homes.\nExplain how clearing trees would lead to global warming.",
+          "marks": 2,
+          "answer": { "type": "self", "value": "With fewer trees, less carbon dioxide is taken in by the trees to carry out photosynthesis. Thus, there will be more carbon dioxide in the air. Since carbon dioxide traps heat, the temperature of the surroundings increases." },
+          "explanation": [
+            "Trees take in carbon dioxide from the air for photosynthesis. Fewer trees means less carbon dioxide is taken in.",
+            "So the amount of carbon dioxide in the air increases.",
+            "Carbon dioxide traps heat, so the temperature of the Earth's surroundings rises. This is global warming.",
+            "Key phrases: less carbon dioxide taken in, photosynthesis, more carbon dioxide, carbon dioxide traps heat."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "a) The place where an organism lives.  b) As the number of monkeys increased from January to March, the number of fruits decreased. As the number of monkeys decreased from March to September, the population of fruits increased.  c) There will be less carbon dioxide taken in by the trees to carry out photosynthesis. Thus, there will be more carbon dioxide. Since carbon dioxide traps heat, the temperature of the surroundings increases.", "solvedAnswer": "agrees with key", "status": "verified" }
+    },
+    {
+      "section": "b", "number": 33, "page": 29, "format": "structured", "marks": 5,
+      "topic": "interactions-environment",
+      "subtypes": ["structural-adaptations", "food-chain", "drawing"],
+      "stem": "The diagram below shows a leaf of a pitcher plant. The plant traps insects in its leaves and uses digestive juices to digest the organisms trapped in it.\n[[img1]]\nThe inside of the pitcher plant is slippery.",
+      "images": [
+        { "id": "img1", "alt": "A leaf of a pitcher plant, shaped like a deep cup or jug with an open top and a small lid above the opening.", "page": 29, "box": [395, 175, 490, 315] },
+        { "id": "img2", "alt": "Food chain in boxes: pitcher plant → fly → crab spider → birds.", "page": 29, "box": [160, 565, 725, 605] }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "Based on the information above, what type of adaptation is the slippery inner part of the pitcher plant?",
+          "marks": 1,
+          "answer": { "type": "text", "value": "Structural adaptation", "accept": ["structural adaptation", "structural", "a structural adaptation", "structural adaptations", "it is a structural adaptation", "structure", "structural adaption"] },
+          "explanation": [
+            "A structural adaptation is a physical feature of an organism's body. A behavioural adaptation is something the organism does.",
+            "The slippery inner surface is part of the plant's body, so it is a structural adaptation."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "How does this adaptation benefit the pitcher plant?",
+          "marks": 1,
+          "answer": { "type": "self", "value": "The slippery inner surface makes it more difficult for insects to escape from the leaf, so the pitcher plant can trap and digest more insects." },
+          "explanation": [
+            "An insect that falls in cannot grip the slippery wall to climb out.",
+            "So it is more difficult for the insect to escape, and the plant can digest it.",
+            "Use a comparing word such as 'more difficult'; the key underlines 'more'."
+          ]
+        },
+        {
+          "label": "c",
+          "prompt": "Study the food chain below.\n[[img2]]\nList down the predator(s) in the food chain.",
+          "marks": 1,
+          "answer": { "type": "self", "value": "The crab spider and the bird." },
+          "explanation": [
+            "A predator is an animal that hunts and eats other animals.",
+            "The crab spider eats the fly, and the bird eats the crab spider, so both are predators.",
+            "The fly is not a predator here because it feeds on the pitcher plant, which is a plant."
+          ]
+        },
+        {
+          "label": "d",
+          "prompt": "Based on the food chain above, how does the pitcher plant directly benefit the bird?",
+          "marks": 1,
+          "answer": { "type": "self", "value": "The pitcher plant photosynthesises and produces oxygen for the bird to breathe." },
+          "explanation": [
+            "The bird does not eat the pitcher plant, so food reaches the bird only indirectly, through the fly and the crab spider.",
+            "The question asks for a direct benefit. Plants give out oxygen during photosynthesis, and the bird takes in this oxygen to breathe.",
+            "Key words: photosynthesises, oxygen."
+          ]
+        },
+        {
+          "label": "e",
+          "prompt": "Geckos were introduced into the habitat. Geckos eat flies. On the food chain above, add where gecko would be in the food chain. (Draw it on your canvas.)",
+          "marks": 1,
+          "answer": { "type": "self", "value": "Write 'gecko' and draw an arrow from the fly to the gecko. The rest of the chain stays the same: pitcher plant → fly, fly → crab spider, fly → gecko, crab spider → birds." },
+          "explanation": [
+            "In a food chain the arrow points from the organism that is eaten to the organism that eats it.",
+            "Geckos eat flies, so the arrow goes from the fly to the gecko.",
+            "Nothing in the question says what eats the gecko, so no other arrow is added."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "a) Structural adaptation.  b) The slippery inner surface would make it more difficult for insects to escape from the leaf.  c) Crab spider and bird.  d) The pitcher plant photosynthesises to produce oxygen for the bird to breathe.  e) Food web: pitcher plant -> fly; fly -> crab spider; fly -> gecko; crab spider -> birds.", "solvedAnswer": "agrees with key", "status": "verified" }
+    },
+    {
+      "section": "b", "number": 34, "page": 30, "format": "structured", "marks": 4,
+      "topic": "energy-photosynthesis",
+      "subtypes": ["rate-of-photosynthesis", "experiment-design", "reading-tables"],
+      "stem": "Ali conducted an experiment. His set up is shown below.\n[[img1]]\nAli measured the volume of gas collected. He recorded his results in the table below.\n[[table1]]",
+      "images": [
+        { "id": "img1", "alt": "Water plants under an upside-down funnel in a beaker of water. A measuring tube over the funnel collects the gas given off ('gas collected'). A torchlight shines at the beaker from the side, and a ruler marked 0 to 10 on the table measures the distance between the torchlight and the beaker.", "page": 30, "box": [245, 140, 605, 345] }
+      ],
+      "tables": [
+        { "id": "table1", "header": ["Distance between torchlight and beaker (cm)", "Volume of gas collected (cm³)"], "rows": [["1", "20"], ["3", "17"], ["5", "15"], ["7", "12"], ["9", "9"]] }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "What was the aim of Ali's experiment?",
+          "marks": 1,
+          "answer": { "type": "self", "value": "He wanted to find out if the amount of light affects the rate of photosynthesis of the water plants." },
+          "explanation": [
+            "An aim links the variable that is changed to the variable that is measured.",
+            "Ali changed the distance of the torchlight, which changes the amount of light the plants receive. He measured the volume of gas collected, which shows the rate of photosynthesis.",
+            "So the aim is to find out if (or how) the amount of light affects the rate of photosynthesis."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "Name the process carried out by the plant and the gas collected.\nProcess: ___\nGas collected: ___",
+          "marks": 1,
+          "answer": { "type": "self", "value": "Process: Photosynthesis. Gas collected: Oxygen." },
+          "explanation": [
+            "The water plants receive light from the torchlight, so they carry out photosynthesis.",
+            "During photosynthesis the plants take in carbon dioxide and water and give out oxygen, which rises and is collected in the tube.",
+            "Both the process and the gas are needed for the mark."
+          ]
+        },
+        {
+          "label": "c",
+          "prompt": "Based on the table above, explain how the distance between the torchlight and beaker affects the volume of gas collected.",
+          "marks": 2,
+          "answer": { "type": "self", "value": "As the distance between the torchlight and the beaker increases, the volume of gas collected decreases. When the torchlight is further away, the water plants receive less light, so the rate of photosynthesis decreases and less oxygen is produced." },
+          "explanation": [
+            "First state the relationship from the table: as the distance increases from 1 cm to 9 cm, the volume of gas decreases from 20 cm³ to 9 cm³.",
+            "Then explain it: the further the torchlight, the less light reaches the water plants.",
+            "With less light the rate of photosynthesis is lower, so less oxygen is produced and collected.",
+            "A likely split is one mark for the relationship and one mark for the reason (less light, lower rate of photosynthesis, less oxygen)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "a) He wanted to find out if the amount of light affects the rate of photosynthesis.  b) Process: Photosynthesis. Gas collected: Oxygen.  c) (not given in the answer key)", "solvedAnswer": "a) and b) agree with key; c) own answer", "status": "needs-review", "note": "The answer key has no entry for 34(c): it goes from 34(b) straight to 35(a). The model answer and marking points for part (c) are my own, not the school's wording, and need checking against the school's key." }
+    },
+    {
+      "section": "b", "number": 35, "page": 31, "format": "structured", "marks": 5,
+      "topic": "cycles-matter-water",
+      "subtypes": ["properties-of-matter", "planning-an-experiment", "condensation"],
+      "stem": "Mary wants to test her hypothesis that air has mass. She has some apparatus as shown.\n[[img1]]",
+      "images": [
+        { "id": "img1", "alt": "Five pieces of apparatus: string, an electronic balance, a measuring tape, a spring balance and an inflated beach ball.", "page": 31, "box": [225, 180, 690, 340] },
+        { "id": "img2", "alt": "Warm water is poured from a jug into a tall bottle. A close-up of the upper part of the bottle shows a layer of mist, made of tiny water droplets, on its inner surface.", "page": 32, "box": [278, 180, 590, 395] }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "Describe how she can test her hypothesis that air has mass using the apparatus selected.\n\nYou may use a labelled diagram along with your answer. (Do not draw the scale on the measuring tape and spring balance if used).\n(Type the steps. You may also draw a labelled diagram on your canvas.)",
+          "marks": 2,
+          "answer": { "type": "self", "value": "1. Measure and record the mass of the inflated beach ball using the electronic balance.\n2. Deflate the beach ball.\n3. Measure and record the mass of the beach ball again.\n4. Compare the two masses. If air has mass, the inflated beach ball will be heavier than the deflated beach ball." },
+          "explanation": [
+            "Mass is measured with the electronic balance, so that is the apparatus to choose. The measuring tape measures length, not mass.",
+            "The only difference between the inflated ball and the deflated ball is the air inside. So measure the mass of the ball with air, let the air out, and measure the mass again.",
+            "State what result supports the hypothesis: the inflated ball has a greater mass, so air has mass.",
+            "The marker looks for: electronic balance, deflate, measure the mass again, and compare the two masses."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "Mary poured warm water into her bottle. As she was pouring the warm water, she noticed that the upper inner surface of the bottle had a layer of mist formed over it.\n[[img2]]\nExplain why a layer of mist was observed on the inner surface of the bottle.",
+          "marks": 2,
+          "answer": { "type": "self", "value": "As she poured the warm water into the bottle, some of the water gained heat and evaporated to form water vapour. The warmer water vapour came into contact with the cooler inner surface of the bottle, lost heat to it and condensed into tiny water droplets, forming a layer of mist." },
+          "explanation": [
+            "Say where the water vapour comes from: the warm water evaporates to form water vapour.",
+            "The warm water vapour touches the cooler inner surface at the top of the bottle and loses heat to it.",
+            "The water vapour condenses into tiny water droplets. These droplets are the mist.",
+            "Key phrases: gained heat and evaporated, warmer water vapour, cooler inner surface, lost heat to it, condensed."
+          ]
+        },
+        {
+          "label": "c",
+          "prompt": "After a while, Mary noticed that the layer of mist disappeared. Explain what happened to it.",
+          "marks": 1,
+          "answer": { "type": "self", "value": "The water droplets gained heat from the surroundings and evaporated to become water vapour." },
+          "explanation": [
+            "The mist is made of tiny droplets of liquid water.",
+            "The droplets gained heat from the surroundings (the warm bottle and warm water) and evaporated into water vapour, which cannot be seen.",
+            "Key words: gained heat, evaporated."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "a) 1. Measure and record the mass of the inflated beach ball using the electronic balance. 2. Deflate the beach ball. 3. Measure and record the mass of the beach ball again. 4. Compare the two masses. If air has mass, the inflated beach ball will be heavier.  b) As she poured the warm water into the bottle, some of the water gained heat and evaporated to form water vapour. / The water vapour in the bottle gained heat from the warm water. The warmer water vapour came into contact with the cooler inner surface, lost heat to it and condensed into tiny water droplets, forming a layer of mist.  c) The water droplets gained heat from the surroundings and evaporated.", "solvedAnswer": "agrees with key", "status": "verified", "note": "The paper prints the number 35 twice: part (a) is on page 29 of the paper (2 marks) and parts (b) and (c) are on page 30 (3 marks). They are kept as one question worth 5 marks, which makes Booklet B total 40." }
+    },
+    {
+      "section": "b", "number": 36, "page": 33, "format": "structured", "marks": 4,
+      "topic": "systems-electrical",
+      "subtypes": ["switches", "series-and-parallel", "closed-circuit"],
+      "stem": "A roller coaster ride in the amusement park will only move when all the safety bars are locked. The safety bars act as switches for the electrical circuit.\n[[img1]]\nThe diagram below shows the electrical circuit for a roller coast ride.\n[[img2]]",
+      "images": [
+        { "id": "img1", "alt": "Two children sitting in a roller coaster car on a track, with a safety bar across their laps.", "page": 33, "box": [375, 175, 550, 330] },
+        { "id": "img2", "alt": "Circuit diagram. Two ends at the top are connected to a power source. The circuit is a single loop with a buzzer and four open switches in a row, labelled safety bar 1, safety bar 2, safety bar 3 and safety bar 4.", "page": 33, "box": [335, 370, 570, 555] }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "Will the ride be able to start when one of the safety bars is not locked? Explain your answer.",
+          "marks": 1,
+          "answer": { "type": "self", "value": "No. The circuit remains an open circuit, so current is unable to flow through it and the ride cannot start." },
+          "explanation": [
+            "The four safety bars are switches connected in series, in one single path.",
+            "If one bar is not locked, that switch is open, so there is a gap in the circuit. It is an open circuit.",
+            "Electric current cannot flow through an open circuit, so the ride cannot start. Key word: current."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "The amusement park wants to add two more safety bars to the ride. How should the two additional bars be connected in the circuit?",
+          "marks": 1,
+          "answer": { "type": "self", "value": "The two additional safety bars should be connected in series with the other four safety bars." },
+          "explanation": [
+            "The ride must start only when every safety bar is locked.",
+            "Switches in series must all be closed before current can flow, so the new bars must be in series with the other four.",
+            "If they were connected in parallel, current could still flow through another path even when a new bar was not locked."
+          ]
+        },
+        {
+          "label": "c",
+          "prompt": "Explain why a buzzer is connected to the electrical circuit for the ride.",
+          "marks": 1,
+          "answer": { "type": "self", "value": "The buzzer sounds when the circuit is closed, so it alerts the ride operator that all the safety bars have been locked." },
+          "explanation": [
+            "The buzzer is in the same single loop as the four switches, so it sounds only when all the switches are closed.",
+            "The sound tells (alerts) the ride operator that all the safety bars have been locked and it is safe to start the ride."
+          ]
+        },
+        {
+          "label": "d",
+          "prompt": "The amusement park wants to replace the buzzer with another device that serves the same purpose. Suggest one suitable device.",
+          "marks": 1,
+          "answer": { "type": "self", "value": "A lamp (light bulb). Other accepted answers: a light, a bell, a siren, an alarm or a music box." },
+          "explanation": [
+            "The device must give a signal that the operator can notice when current flows in the circuit.",
+            "A light bulb lights up, and a bell, siren or alarm makes a sound, when the circuit is closed. Any one of these is accepted."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "a) No. The circuit remains an open circuit and the ride cannot start because current is unable to flow through.  b) The two additional safety bars should be connected in series with the other four safety bars.  c) The buzzer alerts the ride operator that all safety bars have been locked.  d) The ride operator can add a lamp / light bulb / light / bell / siren / alarm / music box.", "solvedAnswer": "agrees with key", "status": "verified" }
+    },
+    {
+      "section": "b", "number": 37, "page": 34, "format": "structured", "marks": 2,
+      "topic": "interactions-forces",
+      "subtypes": ["elastic-spring-force", "reading-tables", "reliability"],
+      "stem": "Ali used the launcher shown below to launch rubber balls of different masses. The spring in the launcher was compressed by the same distance before the ball was released.\n[[img1]]\nThe distance travelled by the ball was measured and recorded in the table below.\n[[table1]]",
+      "images": [
+        { "id": "img1", "alt": "A sloping launcher on a table with a compressed spring and a ball at its upper end. A dotted curve shows the ball flying through the air and landing on the hard floor. A long ruler on the floor, marked 0 to 200 cm, measures the distance moved by the ball.", "page": 34, "box": [180, 205, 690, 385] }
+      ],
+      "tables": [
+        { "id": "table1", "header": ["Mass of ball (g)", "Distance travelled by the ball (cm)"], "rows": [["10", "120"], ["20", "118"], ["30", "94"], ["40", "88"]] }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "State the relationship between the distance travelled by the ball and the mass of the ball.",
+          "marks": 1,
+          "answer": { "type": "self", "value": "As the mass of the ball increases, the distance travelled by the ball decreases." },
+          "explanation": [
+            "Read down the table: the mass goes up from 10 g to 40 g, and the distance goes down from 120 cm to 88 cm.",
+            "Write the relationship as 'As the mass of the ball increases, the distance travelled by the ball decreases.' Start with the variable that was changed (mass)."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "Suggest why it was difficult to get accurate readings for the distance moved by the ball.",
+          "marks": 1,
+          "answer": { "type": "self", "value": "The rubber ball bounces off as soon as it hits the hard floor, so it is difficult to determine the exact position at which it landed." },
+          "explanation": [
+            "The distance is measured to the spot where the ball first lands.",
+            "A rubber ball bounces off a hard floor at once and leaves no mark, so it is hard to tell exactly where it landed.",
+            "Mention both ideas: the ball bounces, and the exact landing position is hard to determine."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "a) As the mass of the ball increases, the distance moved by the ball decreases.  b) The ball will bounce off as it hits the hard floor, and it is difficult to determine the exact position at which it landed.", "solvedAnswer": "agrees with key", "status": "verified" }
+    },
+    {
+      "section": "b", "number": 38, "page": 35, "format": "structured", "marks": 4,
+      "topic": "interactions-magnets",
+      "subtypes": ["magnetic-materials", "poles-of-magnets"],
+      "stem": "Four rings, P, Q, R and S, are placed one at a time on a holder. The rings may be ring magnets, iron rings or plastic rings.\n[[img1]]",
+      "images": [
+        { "id": "img1", "alt": "Four rings on an upright holder. Ring S is at the bottom. Ring R floats just above ring S with a gap between them. Ring Q floats above ring R with a bigger gap between them. Ring P rests directly on top of ring Q. (The scan has the numbers 1, 2 and 3 handwritten on rings Q, R and S.)", "page": 35, "box": [335, 165, 580, 375] },
+        { "id": "img2", "alt": "Two ring magnets on the holder. Ring magnet 1 floats above ring magnet 2 with a gap between them. Four empty boxes are to be labelled: the top of ring magnet 1, the bottom of ring magnet 1, the top of ring magnet 2 and the bottom of ring magnet 2.", "page": 35, "box": [212, 740, 640, 945] }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "What is the least number of ring magnets for the observation above to be possible? Explain your answer.",
+          "marks": 2,
+          "answer": { "type": "self", "value": "3. Ring R is floating above ring S, so R and S are repelling each other and both must be magnets. Ring Q is floating above ring R, so Q is repelling R and must also be a magnet. Ring P is resting on ring Q, so it need not be a magnet." },
+          "explanation": [
+            "A ring can float above another ring only if the two rings repel each other. Only two magnets with like poles facing can repel.",
+            "R floats above S, so R and S are both magnets. Q floats above R, so Q is a magnet too.",
+            "P rests on Q. An iron ring or a plastic ring would also rest there, so P does not have to be a magnet.",
+            "The least number of magnets is 3 (Q, R and S)."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "Sarah removed one ring magnet and placed a steel clip near it. What will she observe? Explain your answer.",
+          "marks": 1,
+          "answer": { "type": "self", "value": "The steel clip will be attracted by the ring magnet, because steel is a magnetic material." },
+          "explanation": [
+            "Magnets attract magnetic materials: iron, steel, nickel and cobalt.",
+            "Steel is a magnetic material, so the clip is attracted to the magnet.",
+            "Give both the observation (attracted) and the reason (steel is a magnetic material)."
+          ]
+        },
+        {
+          "label": "c",
+          "prompt": "Sarah removed two of the rings, leaving behind two ring magnets in the holder.\nLabel the poles of the magnets, using N and S, in the diagram below.\n[[img2]]\n(Type the four labels from top to bottom, for example S, N, N, S, or write them on your canvas.)",
+          "marks": 1,
+          "answer": { "type": "self", "value": "Either of these, from top to bottom: S, N, N, S (ring magnet 1 has S on top and N below; ring magnet 2 has N on top and S below) or N, S, S, N (ring magnet 1 has N on top and S below; ring magnet 2 has S on top and N below). The two poles that face each other must be the same." },
+          "explanation": [
+            "Ring magnet 1 floats above ring magnet 2, so the two magnets repel each other.",
+            "Like poles repel. So the bottom of ring magnet 1 and the top of ring magnet 2 must be the same pole: both N or both S.",
+            "Each magnet has one N pole and one S pole, so the other face of each magnet is the opposite pole. This gives S, N, N, S or N, S, S, N."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "a) Option 3: R is floating above S, and Q is floating above R.  b) The steel clip will be attracted by the magnet as steel is a magnetic material.  c) Either arrangement is accepted: 1. Ring magnet 1: S on top, N below; ring magnet 2: N on top, S below (N faces N). 2. Ring magnet 1: N on top, S below; ring magnet 2: S on top, N below (S faces S).", "solvedAnswer": "agrees with key", "status": "needs-review", "note": "The scanned diagram for part (a) has the numbers 1, 2 and 3 handwritten on rings Q, R and S, which is a pupil counting the three magnets. This gives the answer to part (a) away and cannot be cropped out; needs a clean copy of the diagram. The key words the answer as 'Option 3', taken to mean 3 magnets. Part of the key for (c) is under the watermark; the words in brackets were read from what is visible." }
+    },
+    {
+      "section": "b", "number": 39, "page": 36, "format": "structured", "marks": 3,
+      "topic": "energy-forms",
+      "subtypes": ["energy-conversion", "potential-and-kinetic-energy"],
+      "stem": "Hydroelectric dams are usually built in mountainous areas where large amounts of water can be stored at a high level behind the dam. When the dam is opened, the water rushes down through pipes and turns turbines to generate electricity.\n\nThe diagram below shows water flowing from a high level through turbines before electricity is produced.\n[[img1]]",
+      "images": [
+        { "id": "img1", "alt": "A hydroelectric dam on a mountain slope. Water is stored behind the dam at the top. The water flows down through a pipe to turbines at the bottom. The turbines are connected to a generator, which is connected to power lines.", "page": 36, "box": [255, 265, 635, 485] }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "Fill in the boxes to show the energy conversion when the water flows from the hydroelectric dam.\nwater: ___ energy → water: ___ energy → turbines: ___ energy → generator: ___ energy",
+          "marks": 1,
+          "answer": { "type": "self", "value": "water: (gravitational) potential energy → water: kinetic energy → turbines: kinetic energy → generator: electrical energy" },
+          "explanation": [
+            "Water stored at a high level behind the dam has gravitational potential energy.",
+            "As the water rushes down the pipe, its potential energy is converted to kinetic energy.",
+            "The moving water turns the turbines, so the turbines have kinetic energy.",
+            "The generator converts the kinetic energy of the turbines to electrical energy."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "During a period of low rainfall, less electrical energy was produced by the hydroelectric dam. Using energy conversion, explain why this happened.",
+          "marks": 2,
+          "answer": { "type": "self", "value": "During a period of low rainfall, there is less water behind the dam and less water flows through it. Less water at the same height possesses less (gravitational) potential energy. So less potential energy is converted to kinetic energy of the water, less kinetic energy is transferred to the turbines, and less kinetic energy of the turbines is converted to electrical energy in the generator." },
+          "explanation": [
+            "Start with the cause: low rainfall means less water behind the dam, so less water flows down.",
+            "Less water at the same height has less potential energy.",
+            "Follow the chain: less potential energy is converted to less kinetic energy of the water, so less kinetic energy is transferred to the turbines, and less is converted to electrical energy by the generator.",
+            "Key words: less potential energy, converted, kinetic energy, electrical energy."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "a) Potential energy (water) -> kinetic energy (water) -> kinetic energy (turbines) -> electrical energy (generator).  b) Less water flows through the dam during a period with low rainfall. Less water at the same height possesses less potential energy. There was less potential energy in the water being converted to kinetic energy in the water. Less kinetic energy in the water was transferred to the turbines. Less kinetic energy in the turbines was converted to less electrical energy in the generator.", "solvedAnswer": "agrees with key", "status": "verified", "note": "A few words of the key for 39(a) and 39(b) are under the watermark ('kinetic energy (turbines)', 'period with', 'potential energy', 'Less kinetic'); they were read from the visible parts of the letters and fit the sentences." }
+    },
+    {
+      "section": "b", "number": 40, "page": 37, "format": "structured", "marks": 4,
+      "topic": "energy-light-heat",
+      "subtypes": ["heat-gain", "expansion-and-contraction", "reading-graphs"],
+      "stem": "",
+      "images": [
+        { "id": "img1", "alt": "Line graph of temperature (°C, scale 0 to 200 in steps of 20) against time (min, 0 to 60 in steps of 5). The temperature starts at about 30 °C at 0 min and rises: about 60 °C at 5 min, 85 °C at 10 min, 108 °C at 15 min, 132 °C at 20 min, 152 °C at 25 min and 160 °C at 30 min. From 30 min to 60 min it stays at 160 °C.", "page": 37, "box": [205, 294, 595, 507] },
+        { "id": "img2", "alt": "Two pictures of an oven with bread dough inside. 'At the start': the bread dough is small. 'During heating': the bread dough is much bigger.", "page": 37, "box": [265, 664, 660, 845] }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "State what is temperature.",
+          "marks": 1,
+          "answer": { "type": "self", "value": "Temperature is a measure of how hot or cold an object is." },
+          "explanation": [
+            "Temperature tells us the degree of hotness or coldness of an object. It is measured with a thermometer in degrees Celsius (°C).",
+            "Do not mix it up with heat, which is a form of energy that flows from a hotter place to a colder place."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "An oven was switched on and set to a fixed temperature. A thermometer was placed inside the oven to record the temperature at 5-minute intervals, starting from the moment the oven was switched on.\n\nThe graph below shows how the temperature changes with time.\n[[img1]]\nBased on the graph, what was the temperature setting of the oven?",
+          "marks": 1,
+          "answer": { "type": "number", "value": "160", "unit": "°C" },
+          "explanation": [
+            "The oven heats up until it reaches the temperature it was set to, and then it stays at that temperature.",
+            "On the graph the temperature rises for the first 30 minutes and then the line becomes flat.",
+            "The flat part of the line is at 160 °C, so the oven was set to 160 °C."
+          ]
+        },
+        {
+          "label": "c",
+          "prompt": "A baker knead a piece of bread dough before placing the bread dough in an oven. Air is allowed to enter the bread dough during kneading. During heating, the dough increased in size. After the oven was switched off, the dough returned to its original size.\n[[img2]]\nExplain why the bread dough increased in size during heating and returned to its original size after the oven was switched off.",
+          "marks": 2,
+          "answer": { "type": "self", "value": "During heating, the air inside the dough gained heat from the oven and expanded, causing the dough to increase in size. After the oven was switched off, the air inside the dough lost heat to the surrounding air and contracted. As the air occupied less space, the dough returned to its original size." },
+          "explanation": [
+            "The question tells us that air entered the dough during kneading, so the answer is about that air.",
+            "During heating: the air inside the dough gained heat and expanded, so it took up more space and the dough became bigger.",
+            "After the oven was switched off: the air inside the dough lost heat to the cooler surrounding air and contracted, so it took up less space and the dough returned to its original size.",
+            "One mark is for each half. Key phrases: gained heat and expanded, lost heat and contracted."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "a) Temperature is a measure of how hot or cold an object is.  b) 160 deg C.  c) During heating, the air inside the dough gained heat from the oven and expanded, causing the dough to increase in size. After the oven was switched off, the air inside the dough lost heat to the surrounding air and contracted. As it occupied less space, the dough returned to its original size.", "solvedAnswer": "agrees with key", "status": "verified", "note": "A few words of the key for 40(a) and 40(c) are under the watermark; they were read from the visible parts and fit the sentences." }
+    }
+  ]
+}

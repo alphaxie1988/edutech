@@ -1,0 +1,2627 @@
+{
+  "paper": {
+    "id": "2026-prelim-tao-nan",
+    "subject": "science",
+    "year": 2026,
+    "exam": "Prelim",
+    "school": "Tao Nan",
+    "schoolFull": "Tao Nan School",
+    "file": "PSLE-2026-P6-papers/Science/P6-Science-Prelim-2026-Tao-Nan-Paper.pdf",
+    "coordDpi": 100
+  },
+  "questions": [
+    {
+      "section": "a",
+      "number": 1,
+      "page": 2,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "diversity-living",
+      "subtypes": [
+        "classifying-animals"
+      ],
+      "stem": "Which of the following characteristics can be used to differentiate reptiles and mammals?",
+      "options": [
+        "way of moving",
+        "number of legs",
+        "method of breathing",
+        "method of reproduction"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 4
+          },
+          "explanation": [
+            "To tell two groups of animals apart, we need a characteristic that is different for the two groups.",
+            "Reptiles lay eggs, while mammals give birth to their young alive. So the method of reproduction is different.",
+            "Both reptiles and mammals breathe with lungs, so the method of breathing (the most tempting wrong option) cannot tell them apart. The way of moving and the number of legs vary within each group.",
+            "The answer is option (4)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 2,
+      "page": 2,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "cycles-life",
+      "subtypes": [
+        "fertilisation",
+        "parts-of-a-flower",
+        "human-reproductive-system"
+      ],
+      "stem": "Which of the following is true about reproduction in plants but not in humans?",
+      "options": [
+        "The egg is produced in the ovary.",
+        "Reproductive cells are produced in testes.",
+        "The ovule protects the female reproductive cell.",
+        "Fertilisation occurs in the female reproductive part."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "Compare sexual reproduction in flowering plants and in humans. We want a statement that is true for plants only.",
+            "Only plants have ovules. The ovule is found inside the ovary of a flower and it contains and protects the egg cell (the female reproductive cell). Humans do not have ovules.",
+            "Eggs are produced in the ovary in both plants and humans, and fertilisation happens in the female part in both, so options (1) and (4) are true for both. Testes are found in humans only.",
+            "The answer is option (3)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 3,
+      "page": 3,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "cycles-life",
+      "subtypes": [
+        "life-cycle-of-plants"
+      ],
+      "stem": "Which of the following correctly shows the life cycle of a flowering plant?\n[[img1]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Four life cycle diagrams. (1): young plant → adult plant → fruit → seed → young plant. (2): young plant → adult plant → flower → seed → young plant. (3): egg → young plant → adult plant → egg. (4): seed → young plant → adult plant → seed.",
+          "page": 3,
+          "box": [
+            160,
+            172,
+            560,
+            862
+          ]
+        }
+      ],
+      "options": [
+        "Option (1)",
+        "Option (2)",
+        "Option (3)",
+        "Option (4)"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 4
+          },
+          "explanation": [
+            "The life cycle of a flowering plant has three stages: seed, young plant and adult plant.",
+            "The seed germinates into a young plant, the young plant grows into an adult plant, and the adult plant produces seeds again. Diagram (4) shows this.",
+            "Fruits and flowers are parts of the adult plant, not stages of the life cycle, so (1) and (2) are wrong. Flowering plants grow from seeds, not eggs, so (3) is wrong.",
+            "The answer is option (4)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 4,
+      "page": 4,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "cycles-life",
+      "subtypes": [
+        "life-cycle-of-insects",
+        "life-cycle-of-animals"
+      ],
+      "stem": "Study the diagram below.\n[[img1]]\nWhich of the following correctly represents questions A and B?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Classification chart. First box: Does it have a 3-stage life cycle? Yes leads to Question A; from Question A, Yes leads to cockroach and No leads to frog. No leads to Question B; from Question B, Yes leads to butterfly and No leads to mosquito.",
+          "page": 4,
+          "box": [
+            195,
+            155,
+            660,
+            350
+          ]
+        }
+      ],
+      "options": [
+        "Question A: Does the adult have wings? Question B: Does the young resemble the adult?",
+        "Question A: Does the young live on land? Question B: Does the adult have wings?",
+        "Question A: Does the young resemble the adult? Question B: Does the young live on land?",
+        "Question A: Does the adult live on land? Question B: Does the young resemble the adult?"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "Question A must give 'yes' for the cockroach and 'no' for the frog. A cockroach nymph looks like the adult, but a tadpole does not look like a frog. So 'Does the young resemble the adult?' works.",
+            "Question B must give 'yes' for the butterfly and 'no' for the mosquito. A caterpillar lives on land, but mosquito larvae live in water. So 'Does the young live on land?' works.",
+            "Option (2) is tempting because its Question A also works, but both the adult butterfly and the adult mosquito have wings, so its Question B cannot separate them.",
+            "The answer is option (3)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 5,
+      "page": 4,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "systems-plants",
+      "subtypes": [
+        "plant-transport-system"
+      ],
+      "stem": "Study the diagram below.\n[[img1]]\nWhich of the following correctly shows the arrows and substances transported?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Boxes labelled stem, roots, flowers and leaves joined by arrows. Arrow A goes from the stem to the roots. Arrow B goes from the roots to the stem. Arrow C goes from the stem to the leaves. Arrow D goes from the leaves to the stem. Arrow E goes from the stem to the flowers.",
+          "page": 4,
+          "box": [
+            300,
+            628,
+            572,
+            756
+          ]
+        }
+      ],
+      "options": [
+        "Arrows: B and D. Substance transported: water.",
+        "Arrows: A and E. Substance transported: water.",
+        "Arrows: A and D. Substance transported: food.",
+        "Arrows: B and C. Substance transported: food."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "Water is taken in by the roots and carried up the stem to the leaves and flowers. Food is made in the leaves and carried through the stem to all the other parts.",
+            "Arrow D (leaves to stem) and arrow A (stem to roots) both show food moving away from the leaves, so 'A and D: food' is correct.",
+            "Arrow B (roots to stem) is water, but arrow D goes away from the leaves, so it cannot be water. That rules out option (1). Arrow A goes down to the roots, so it is not water, which rules out option (2).",
+            "The answer is option (3)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified",
+        "note": "In the scan the label C has a stray pen mark over it and the option label (3) is smudged; both are still readable from their positions."
+      }
+    },
+    {
+      "section": "a",
+      "number": 6,
+      "page": 5,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "systems-human",
+      "subtypes": [
+        "digestive-system"
+      ],
+      "stem": "Which statement about the human digestive system is correct?",
+      "options": [
+        "The small intestine absorbs digested food.",
+        "Digestion is completed in the large intestine.",
+        "The large intestine digests food and absorbs excess water.",
+        "Food is digested and absorbed into the bloodstream in the stomach."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 1
+          },
+          "explanation": [
+            "Digestion takes place in the mouth, the stomach and the small intestine. It is completed in the small intestine, where digested food is absorbed into the bloodstream.",
+            "So option (1) is correct.",
+            "The large intestine only absorbs water from the undigested food. No digestion happens there, so options (2) and (3) are wrong. The stomach digests food but does not absorb it into the blood.",
+            "The answer is option (1)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "1",
+        "solvedAnswer": "1",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 7,
+      "page": 5,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "cycles-life",
+      "subtypes": [
+        "seed-dispersal",
+        "reading-graphs"
+      ],
+      "stem": "The graph below shows the number of young plants growing at different distances from their parent plants, S and T.\n[[img1]]\nWhich of the statements can be concluded about the fruits of plants S and T based on the information in the graph?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Bar graph of number of young plants against distance from parent plant (m), with a key: young of plant S are white bars, young of plant T are striped bars. At 2 m: S is the tallest bar, T is a little shorter. At 4 m: S is shorter than at 2 m, T is shorter than S. At 6 m: S is very short, T is tall. At 8 m: there is no bar for S, and T is the tallest T bar.",
+          "page": 5,
+          "box": [
+            150,
+            388,
+            700,
+            600
+          ]
+        }
+      ],
+      "options": [
+        "Fruit of plant S is heavier than fruit of plant T.",
+        "Fruit of plant S throws its seeds out forcefully.",
+        "Fruit of plant T has fruit walls that dry up and split open.",
+        "Fruit of plant T is juicy whereas fruit of plant S has wing-like structures."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "The pattern of where the young plants grow tells us how the seeds are dispersed.",
+            "Most young plants of S grow near the parent, fewer grow further away and none at 8 m. This is the pattern for dispersal by splitting: the fruit throws its seeds out forcefully, but only for a short distance.",
+            "Young plants of T are found in large numbers far away, so T is not dispersed by splitting, which rules out option (3). Wing-like structures would carry the seeds of S far away, so option (4) does not fit. The graph says nothing about how heavy the fruits are.",
+            "The answer is option (2)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 8,
+      "page": 6,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "interactions-environment",
+      "subtypes": [
+        "human-impact"
+      ],
+      "stem": "Plant A only grows in places with clean air. The diagram shows plant A growing near four factories, W, X, Y and Z, some of which give out polluted gases.\n[[img1]]\nWhich two factories do not give out polluted gases?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Map with four factories and dots showing plant A (key: dot = plant A). An arrow shows the direction of wind, blowing from right to left. Factory X is at the top, with many plants growing just to its left and below it. Factory Y is in the middle, with plants growing just to its left and also to its right. Factory W is on the far left, with no plants to its left; plants grow only to its right. Factory Z is at the bottom left, with no plants to its left; plants grow only to its right.",
+          "page": 6,
+          "box": [
+            185,
+            195,
+            715,
+            385
+          ]
+        }
+      ],
+      "options": [
+        "X and Y",
+        "W and X",
+        "W and Z",
+        "Y and Z"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 1
+          },
+          "explanation": [
+            "The wind blows from right to left, so any polluted gases from a factory are blown to the left of that factory.",
+            "Plant A grows just to the left of factories X and Y. Plant A only grows in clean air, so the air blown from X and Y is clean. X and Y do not give out polluted gases.",
+            "No plant A grows to the left of W or Z, so these are the factories that give out polluted gases. The plants on their right are not affected because the wind carries the gases the other way.",
+            "The answer is option (1)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "1",
+        "solvedAnswer": "1",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 9,
+      "page": 6,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "systems-human",
+      "subtypes": [
+        "respiratory-system",
+        "reading-tables"
+      ],
+      "stem": "The table shows the breathing rates of Ali and Jason after exercising.\n[[table1]]\nWhich statement is definitely correct?",
+      "tables": [
+        {
+          "id": "table1",
+          "header": [
+            {
+              "t": "Time / min",
+              "rowspan": 2
+            },
+            {
+              "t": "Breathing rate / breaths per min",
+              "colspan": 2
+            }
+          ],
+          "rows": [
+            [
+              "**Ali**",
+              "**Jason**"
+            ],
+            [
+              "0",
+              "31",
+              "31"
+            ],
+            [
+              "2",
+              "26",
+              "27"
+            ],
+            [
+              "4",
+              "21",
+              "23"
+            ],
+            [
+              "6",
+              "17",
+              "20"
+            ],
+            [
+              "8",
+              "13",
+              "17"
+            ]
+          ]
+        }
+      ],
+      "options": [
+        "Jason's breath contained more water vapour than Ali's breath.",
+        "Jason's breathing rate decreased slower than Ali's breathing rate.",
+        "Jason breathed out more carbon dioxide per breath compared to Ali.",
+        "Ali's breathing rate increased more than Jason's breathing rate during the exercise."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "Only use what the table shows: breathing rates after the exercise.",
+            "Both boys started at 31 breaths per minute. After 8 minutes Ali's rate fell to 13 (a drop of 18) but Jason's fell only to 17 (a drop of 14). So Jason's breathing rate decreased more slowly.",
+            "The table does not measure water vapour or carbon dioxide in each breath, and it does not show the breathing rates before or during the exercise, so the other statements cannot be 'definitely correct'.",
+            "The answer is option (2)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 10,
+      "page": 7,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "systems-human",
+      "subtypes": [
+        "circulatory-system"
+      ],
+      "stem": "Blood flows through blood vessels A to D as shown.\n[[img1]]\nWhich blood vessels transport oxygen-rich blood?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Flow chart: stomach, arrow A, heart, arrow B, lungs, arrow C, heart, arrow D, stomach.",
+          "page": 7,
+          "box": [
+            190,
+            170,
+            715,
+            215
+          ]
+        }
+      ],
+      "options": [
+        "A and B only",
+        "C and D only",
+        "A, B and D only",
+        "A, B, C and D"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "Blood picks up oxygen in the lungs. Blood leaving the lungs is rich in oxygen until it reaches a body part that uses the oxygen.",
+            "C carries blood from the lungs to the heart and D carries it from the heart to the stomach, so C and D carry oxygen-rich blood.",
+            "The stomach uses up oxygen, so the blood in A (stomach to heart) and B (heart to lungs) is poor in oxygen and rich in carbon dioxide.",
+            "The answer is option (2)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 11,
+      "page": 7,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "interactions-environment",
+      "subtypes": [
+        "food-web",
+        "population-change"
+      ],
+      "stem": "The diagram below shows a food web.\n[[img1]]\nWhich of the following will most likely take place within a week when a new disease kills organism E in the community above?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Food web with organisms A, B, C, D and E. Arrows: D to E, D to A, E to B, A to B, B to C, A to C.",
+          "page": 7,
+          "box": [
+            215,
+            450,
+            470,
+            578
+          ]
+        }
+      ],
+      "options": [
+        "B will feed on more A",
+        "Population of A will increase.",
+        "C will have more A to feed on.",
+        "Populations of all the other organisms will decrease."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 1
+          },
+          "explanation": [
+            "Read the food web: D is the producer. E and A feed on D. B feeds on both E and A. C feeds on B and A.",
+            "When E dies, B loses one of its two food sources. B still needs food, so it will feed on more A.",
+            "Since more A are eaten by B, the population of A is not likely to increase and C will not have more A to feed on, so options (2) and (3) are wrong. D is no longer eaten by E, so not all populations decrease.",
+            "The answer is option (1)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "1",
+        "solvedAnswer": "1",
+        "status": "verified",
+        "note": "The arrowhead on the line between E and B is smudged by a pen mark in the scan. It is read as E → B (B feeds on E), the arrowhead being at the B end."
+      }
+    },
+    {
+      "section": "a",
+      "number": 12,
+      "page": 7,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "interactions-environment",
+      "subtypes": [
+        "human-impact"
+      ],
+      "stem": "Which of the following is an impact of increased emission of greenhouse gases?",
+      "options": [
+        "land pollution",
+        "burning of trees",
+        "melting of polar ice",
+        "usage of petrol-powered cars"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "Greenhouse gases such as carbon dioxide trap heat around the Earth. More greenhouse gases cause global warming.",
+            "As the Earth gets warmer, the ice at the poles melts. This is an impact (a result) of the gases.",
+            "Burning trees and using petrol-powered cars are causes: they produce greenhouse gases. They are not impacts. Land pollution is caused by litter and waste, not by these gases.",
+            "The answer is option (3)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 13,
+      "page": 8,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "interactions-environment",
+      "subtypes": [
+        "conditions-for-growth",
+        "reading-graphs"
+      ],
+      "stem": "The graph shows how temperature of the surroundings affects the growth rate of some plants.\n[[img1]]\nAndy and Bernard made the following statements.\n[[table1]]\nWho is/are correct?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Line graph of growth rate of plants (%) against temperature (°C), with the temperature axis marked 0, 10, 15, 20, 25, 30, 35, 40, 45. The line starts low at 0°C, rises to a peak at 25°C (marked by a vertical dotted line), falls steadily until 40°C, then stays level from 40°C to 45°C.",
+          "page": 8,
+          "box": [
+            140,
+            195,
+            725,
+            452
+          ]
+        }
+      ],
+      "tables": [
+        {
+          "id": "table1",
+          "header": [
+            "",
+            "Statement"
+          ],
+          "rows": [
+            [
+              "Andy",
+              "The growth rate of the plants decreases as temperature increases from 25°C to 45°C."
+            ],
+            [
+              "Bernard",
+              "As temperature of the surroundings increases from 40°C to 45°C, the growth rate of the plants remains the same."
+            ]
+          ]
+        }
+      ],
+      "options": [
+        "Andy only",
+        "Bernard only",
+        "Both Andy and Bernard",
+        "Neither Andy nor Bernard"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "Read the line carefully, one section at a time.",
+            "From 40°C to 45°C the line is flat, so the growth rate remains the same. Bernard is correct.",
+            "From 25°C to 40°C the line goes down, but from 40°C to 45°C it does not go down any more. So the growth rate does not decrease all the way from 25°C to 45°C, and Andy is wrong.",
+            "The answer is option (2)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 14,
+      "page": 9,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "interactions-environment",
+      "subtypes": [
+        "adaptations",
+        "structural-adaptations",
+        "heat-loss"
+      ],
+      "stem": "Plant H has bell-shaped flowers with inner reflective petals, and hairy leaves and stems that trap air.\n[[img1]]\nWhich of the following best explains the adaptation of Plant H to survive in a cold environment?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Drawing of plant H with labels: hairy stem, bell-shaped flower with inner reflective petals, and hairy leaves.",
+          "page": 9,
+          "box": [
+            215,
+            195,
+            640,
+            380
+          ]
+        }
+      ],
+      "options": [
+        "Adaptation: bell-shaped flower. Purpose: To collect water for the plant to photosynthesise.",
+        "Adaptation: bell-shaped flower with inner reflective petals. Purpose: To reflect light into the surroundings to keep cool.",
+        "Adaptation: hairy leaves and stems. Purpose: To prevent the plant from being eaten by predators.",
+        "Adaptation: hairy leaves and stems. Purpose: To trap air to reduce heat loss to the colder environment."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 4
+          },
+          "explanation": [
+            "In a cold environment the plant must keep warm, so look for an adaptation that reduces heat loss.",
+            "The hairs on the leaves and stems trap air. Air is a poor conductor of heat, so the plant loses heat more slowly to the colder surroundings.",
+            "Option (2) is about keeping cool, which is the opposite of what the plant needs in the cold. Options (1) and (3) are not about the cold at all.",
+            "The answer is option (4)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 15,
+      "page": 10,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "energy-photosynthesis",
+      "subtypes": [
+        "rate-of-photosynthesis",
+        "reading-tables",
+        "variables"
+      ],
+      "stem": "Angie placed two containers of identical plants in two different rooms. She counted the number of bubbles produced by the plant after some time.\n[[img1]]\nPart of the results are shown below.\n[[table1]]\nShe repeated the experiment using another two containers of identical plants with different amounts of carbon dioxide in the water.\n\nPart of the results are shown below.\n[[table2]]\nWhat are the possible values of P and Q?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Two identical set-ups, each a test tube closed with a stopper and filled with water with a water plant inside, with light shining on it. One is labelled 'Placed in Room 1' and the other 'Placed in Room 2'.",
+          "page": 10,
+          "box": [
+            190,
+            195,
+            665,
+            425
+          ]
+        }
+      ],
+      "tables": [
+        {
+          "id": "table1",
+          "header": [
+            "Container",
+            "Amount of carbon dioxide in the water (cm³)",
+            "Amount of light (units)",
+            "Number of bubbles produced per minute"
+          ],
+          "rows": [
+            [
+              "1",
+              "200",
+              "**P**",
+              "35"
+            ],
+            [
+              "2",
+              "200",
+              "500",
+              "45"
+            ]
+          ]
+        },
+        {
+          "id": "table2",
+          "header": [
+            "Container",
+            "Amount of carbon dioxide in the water (cm³)",
+            "Amount of light (units)",
+            "Number of bubbles produced per minute"
+          ],
+          "rows": [
+            [
+              "3",
+              "200",
+              "500",
+              "20"
+            ],
+            [
+              "4",
+              "**Q**",
+              "500",
+              "30"
+            ]
+          ]
+        }
+      ],
+      "options": [
+        "P: 400. Q: 150.",
+        "P: 400. Q: 300.",
+        "P: 600. Q: 150.",
+        "P: 600. Q: 300."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "The bubbles are oxygen from photosynthesis. More light or more carbon dioxide gives a faster rate of photosynthesis and more bubbles.",
+            "Containers 1 and 2 have the same amount of carbon dioxide. Container 1 gave fewer bubbles (35 compared with 45), so it had less light than 500 units. P is 400.",
+            "Containers 3 and 4 have the same amount of light. Container 4 gave more bubbles (30 compared with 20), so it had more carbon dioxide than 200 cm³. Q is 300.",
+            "The answer is option (2)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified",
+        "note": "The key's digit for Q15 is partly covered by the watermark; it reads as 2 at high zoom."
+      }
+    },
+    {
+      "section": "a",
+      "number": 16,
+      "page": 11,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "cycles-matter-water",
+      "subtypes": [
+        "condensation"
+      ],
+      "stem": "An equal volume of water was poured into two identical cups.\n[[img1]]\nWater droplets were seen after 5 minutes. Which of the following shows the correct location of the water droplets?\n[[img2]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Two identical cups, each about half filled with water. Cup A contains water at 70°C. Cup B contains water at 30°C. Surrounding temperature: 30°C.",
+          "page": 11,
+          "box": [
+            200,
+            165,
+            706,
+            335
+          ]
+        },
+        {
+          "id": "img2",
+          "alt": "Four options, each showing cup A and cup B. (1): cup A has droplets on the outside along its whole height; cup B has droplets on the outside of its lower half, next to the water. (2): cup A has droplets on the outside of its upper half, above the water level; cup B has no droplets. (3): cup A and cup B both have droplets on the inside wall above the water level. (4): cup A has droplets on the inside wall above the water level; cup B has no droplets.",
+          "page": 11,
+          "box": [
+            185,
+            380,
+            455,
+            925
+          ]
+        }
+      ],
+      "options": [
+        "Option (1)",
+        "Option (2)",
+        "Option (3)",
+        "Option (4)"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 4
+          },
+          "explanation": [
+            "Condensation happens when warmer water vapour touches a cooler surface and loses heat to it.",
+            "In cup A, the hot water at 70°C evaporates quickly. The warm water vapour touches the cooler inner wall of the cup above the water, loses heat and condenses into water droplets on the inside.",
+            "In cup B, the water, the cup and the surrounding air are all at 30°C. There is no cooler surface, so no droplets form. Droplets cannot form on the outside of cup A because the cup is warmer than the surrounding air, which rules out option (2).",
+            "The answer is option (4)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 17,
+      "page": 12,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "interactions-forces",
+      "subtypes": [
+        "effects-of-forces",
+        "gravity",
+        "friction"
+      ],
+      "stem": "Which is **not** an effect of a force?",
+      "options": [
+        "Rain falling from the sky.",
+        "A marble rolling to a stop.",
+        "Light bouncing off a mirror.",
+        "A balloon inflating when air is blown into it."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "A force is a push or a pull. It can make an object start moving, stop, change speed or direction, or change shape.",
+            "Rain falls because gravity pulls it down. A marble stops because of friction. A balloon changes shape because the air inside pushes on it. All three are effects of forces.",
+            "Light is a form of energy, not an object being pushed or pulled. When light bounces off a mirror it is reflected; no force is needed.",
+            "The answer is option (3)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 18,
+      "page": 12,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "energy-light-heat",
+      "subtypes": [
+        "reflection-of-light",
+        "how-we-see"
+      ],
+      "stem": "Jenson saw a reflection of himself in a mirror.\n[[img1]]\nWhich statement explains why he could see his reflection?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A boy standing in front of a mirror, looking at his reflection in it. The reflection is labelled.",
+          "page": 12,
+          "box": [
+            200,
+            335,
+            535,
+            550
+          ]
+        }
+      ],
+      "options": [
+        "Light is reflected by the mirror.",
+        "Jenson's reflection gives off light.",
+        "The mirror allows light to pass through.",
+        "Jenson's eyes produce light so he can see."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 1
+          },
+          "explanation": [
+            "We see an object when light from it enters our eyes.",
+            "Light from a light source falls on Jenson and is reflected off him to the mirror. The mirror reflects this light into his eyes, so he sees his reflection.",
+            "A reflection is not a light source, so it does not give off its own light, and our eyes do not produce light. A mirror reflects light; it does not let light pass through.",
+            "The answer is option (1)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "1",
+        "solvedAnswer": "1",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 19,
+      "page": 13,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "energy-forms",
+      "subtypes": [
+        "energy-conversion"
+      ],
+      "stem": "The diagram below shows some wind turbines.\n[[img1]]\nWhich energy received by the wind turbine is used to produce electricity?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Several tall wind turbines with large blades standing in an open landscape beside a river. One is labelled 'wind turbine'.",
+          "page": 13,
+          "box": [
+            320,
+            170,
+            625,
+            335
+          ]
+        }
+      ],
+      "options": [
+        "Heat energy",
+        "Sound energy",
+        "Kinetic energy",
+        "Potential energy"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "Wind is moving air. Anything that is moving has kinetic energy.",
+            "The moving air pushes the blades of the turbine and makes them turn. The generator in the turbine converts this kinetic energy into electrical energy.",
+            "Heat and sound are wasted energy given out by the turbine, not the energy it receives from the wind.",
+            "The answer is option (3)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 20,
+      "page": 13,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "diversity-materials",
+      "subtypes": [
+        "properties-of-materials"
+      ],
+      "stem": "Kayley placed a lit candle in a lantern as shown below. She carried her lantern around the dark neighbourhood during the Mid-Autumn festival celebrations. It can be folded so that it can be kept easily.\n[[img1]]\nWhich row correctly shows the properties of the material for making part X?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Left: an opened lantern with a handle on top. Its body, labelled part X, has folds like an accordion, and a lit candle can be seen inside it. Right: the same lantern folded flat, labelled 'lantern when kept'.",
+          "page": 13,
+          "box": [
+            255,
+            555,
+            634,
+            705
+          ]
+        }
+      ],
+      "options": [
+        "Allows some light to pass through: yes. Flexible: yes.",
+        "Allows some light to pass through: yes. Flexible: no.",
+        "Allows some light to pass through: no. Flexible: yes.",
+        "Allows some light to pass through: no. Flexible: no."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 1
+          },
+          "explanation": [
+            "Choose the material by what the object must do.",
+            "The lantern is used in the dark, so light from the candle must pass through part X to be seen. The material must allow some light to pass through.",
+            "The lantern can be folded flat and opened again without breaking, so the material must be flexible. A stiff material would not fold.",
+            "The answer is option (1)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "1",
+        "solvedAnswer": "1",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 21,
+      "page": 14,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "cycles-matter-water",
+      "subtypes": [
+        "evaporation-rate",
+        "condensation",
+        "heat-conductors"
+      ],
+      "stem": "Ahmad boiled sea water to collect fresh water as shown in the diagram below.\n[[img1]]\nWhich set-up would allow Ahmad to collect the most fresh water in the shortest duration?\n[[img2]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A container of sea water on a tripod stand is heated by a bunsen burner. A slanted metal sheet is held above it. Drops of fresh water form on the underside of the metal sheet and drip from its lower end into an empty container on a second tripod stand.",
+          "page": 14,
+          "box": [
+            180,
+            180,
+            625,
+            395
+          ]
+        },
+        {
+          "id": "img2",
+          "alt": "Four set-ups like the one above. (1): glass sheet, narrow container of sea water, one bunsen burner. (2): metal sheet, wide container of sea water, one bunsen burner. (3): glass sheet, narrow container of sea water, two bunsen burners. (4): metal sheet, wide container of sea water, two bunsen burners.",
+          "page": 14,
+          "box": [
+            175,
+            452,
+            705,
+            942
+          ]
+        }
+      ],
+      "options": [
+        "Set-up (1)",
+        "Set-up (2)",
+        "Set-up (3)",
+        "Set-up (4)"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 4
+          },
+          "explanation": [
+            "To collect fresh water quickly, the sea water must turn into water vapour quickly, and the water vapour must condense quickly on the sheet.",
+            "Two burners supply more heat, and a wide container gives a larger exposed surface area of water, so more water vapour is produced in a shorter time.",
+            "Metal is a better conductor of heat than glass. The metal sheet conducts heat away from the water vapour faster, so the vapour condenses into water droplets faster.",
+            "Set-up (2) has the metal sheet and the wide container but only one burner. Set-up (4) has all three: option (4)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 22,
+      "page": 15,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "cycles-matter-water",
+      "subtypes": [
+        "properties-of-matter",
+        "air-can-be-compressed"
+      ],
+      "stem": "Study the diagram below.\n[[img1]]\nThe capacity of the container is 800 cm³. The tap was opened to remove 100 cm³ of water and 100 cm³ of air was pumped into the container.\nWhat is the final volume of air in the container?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A closed container on a stand, with a tap near its base. A tube connects the top of the container to an air pump. The container holds 300 cm³ of water at the bottom and air in the space above the water.",
+          "page": 15,
+          "box": [
+            255,
+            170,
+            600,
+            370
+          ]
+        }
+      ],
+      "options": [
+        "100 cm³",
+        "500 cm³",
+        "600 cm³",
+        "700 cm³"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "Air has no definite volume. It fills up all the space available to it, and it can be compressed.",
+            "After 100 cm³ of water is removed, the water left is 300 − 100 = 200 cm³. Water has a definite volume.",
+            "The space left for the air is 800 − 200 = 600 cm³. All the air in the container, including the extra 100 cm³ pumped in, is squeezed into this space.",
+            "Do not add 100 to get 700 cm³: the air cannot take up more space than the container has. The answer is 600 cm³, option (3)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 23,
+      "page": 16,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "systems-electrical",
+      "subtypes": [
+        "switches",
+        "series-and-parallel",
+        "closed-circuit"
+      ],
+      "stem": "Use the information below to answer Questions 23 and 24.\n\nGopal set up a circuit as shown.\n[[img1]]\nAll five bulbs were lit when all four switches were closed.\n\nGopal wanted the least number of bulbs to be lit by opening only one switch. Which switch should he open?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Circuit with a battery, five bulbs and four switches A, B, C and D. A top wire and a bottom wire join all the branches. Left branch: a bulb, switch A and another bulb in series. Next branch: the battery. Switch B is on the bottom wire, between the battery and the branches on the right. Third branch: switch C and a bulb in series. Fourth branch, on the far right: switch D and a bulb in series; the bottom of this branch is joined to the bottom of the switch C branch through one more bulb on the bottom wire.",
+          "page": 16,
+          "box": [
+            225,
+            200,
+            510,
+            356
+          ]
+        }
+      ],
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "A bulb lights up only if it is in a closed circuit with the battery. Trace the path through each switch.",
+            "Switch B is on the main wire that leads from the battery to both branches on the right. Opening B switches off the three bulbs on the right, so only the 2 bulbs on the left stay lit.",
+            "Opening A switches off the 2 bulbs on the left (3 stay lit). Opening C switches off 1 bulb (4 stay lit). Opening D switches off the 2 bulbs in its path (3 stay lit).",
+            "Opening B leaves the least number of bulbs lit: option (2)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 24,
+      "page": 16,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "systems-electrical",
+      "subtypes": [
+        "series-and-parallel",
+        "brightness-of-bulbs"
+      ],
+      "stem": "Use the information below to answer Questions 23 and 24.\n\nGopal set up a circuit as shown.\n[[img1]]\nAll five bulbs were lit when all four switches were closed.\n\nA new bulb is connected to the circuit as shown below.\n[[img2]]\nWhat will happen to the brightness of bulbs X and Y?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Circuit with a battery, five bulbs and four switches A, B, C and D. A top wire and a bottom wire join all the branches. Left branch: a bulb, switch A and another bulb in series. Next branch: the battery. Switch B is on the bottom wire, between the battery and the branches on the right. Third branch: switch C and a bulb in series. Fourth branch, on the far right: switch D and a bulb in series; the bottom of this branch is joined to the bottom of the switch C branch through one more bulb on the bottom wire.",
+          "page": 16,
+          "box": [
+            225,
+            200,
+            510,
+            356
+          ]
+        },
+        {
+          "id": "img2",
+          "alt": "The same circuit with all switches closed and one more branch added on the far right: the new bulb is connected from the top wire to the bottom wire, in parallel with the switch D branch. Bulb X is the bulb in the switch C branch. Bulb Y is the lower bulb in the left branch (the branch with switch A). A crossed-out letter next to the bulb in the switch D branch should be ignored.",
+          "page": 16,
+          "box": [
+            205,
+            578,
+            628,
+            737
+          ]
+        }
+      ],
+      "options": [
+        "Brightness of bulb X: increases. Brightness of bulb Y: increases.",
+        "Brightness of bulb X: increases. Brightness of bulb Y: decreases.",
+        "Brightness of bulb X: remains the same. Brightness of bulb Y: does not light up.",
+        "Brightness of bulb X: remains the same. Brightness of bulb Y: remains the same."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 4
+          },
+          "explanation": [
+            "In a parallel circuit each branch is connected to the battery by its own path. Adding a bulb to one branch does not change the brightness of bulbs in the other branches.",
+            "The new bulb is added on the far right, in its own path next to the switch D branch.",
+            "Bulb X is in the switch C branch and bulb Y is in the left branch. Both branches are still connected straight across the battery in the same way as before, so the same amount of electricity flows through them.",
+            "Both bulbs remain the same brightness: option (4)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified",
+        "note": "The scan has a handwritten correction: the label Y printed next to the bulb in the switch D branch is crossed out, and Y is written next to the lower bulb of the left branch. The corrected position is used; it is the one that gives the key's answer (with the original position, bulb Y would become dimmer, which is not among the options). The key's digit for Q24 is partly covered by the watermark; it reads as 4 at high zoom."
+      }
+    },
+    {
+      "section": "a",
+      "number": 25,
+      "page": 17,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "interactions-forces",
+      "subtypes": [
+        "friction",
+        "gravity",
+        "magnetic-materials"
+      ],
+      "stem": "A magnet is used to hold a piece of paper on a whiteboard as shown below.\n[[img1]]\nWhich of the following statement(s) is/are correct?\nA  There is friction between the paper and the magnet.\nB  Gravitational force is not acting on the piece of paper.\nC  There is a magnetic force of attraction between the paper and the magnet.",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A whiteboard with a piece of paper held against it by a small magnet placed on the top edge of the paper. Labels: whiteboard, magnet, paper.",
+          "page": 17,
+          "box": [
+            195,
+            175,
+            645,
+            330
+          ]
+        }
+      ],
+      "options": [
+        "A only",
+        "C only",
+        "A and B only",
+        "A and C only"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 1
+          },
+          "explanation": [
+            "Gravity acts on every object on Earth, so it is pulling the paper down. B is wrong.",
+            "Paper is not a magnetic material, so the magnet does not attract the paper. The magnet is attracted to the whiteboard behind the paper. C is wrong, which rules out the tempting option (4).",
+            "The magnet presses the paper against the board. Friction between the paper and the magnet (and the board) stops the paper from sliding down. A is correct.",
+            "A only: option (1)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "1",
+        "solvedAnswer": "1",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 26,
+      "page": 18,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "interactions-forces",
+      "subtypes": [
+        "elastic-spring-force",
+        "springs",
+        "reading-graphs"
+      ],
+      "stem": "Three springs, X, Y and Z have the same length. Three identical blocks were attached to a table top using the springs. The springs were compressed.\n[[img1]]\nWhich of the following correctly shows the relationship between elastic spring force and compression for springs X, Y and Z?\n[[img2]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A vertical stack on a table top. From the top: a block, spring X, a block, spring Y, a block, spring Z, then the table top. Each compressed spring is marked 5 cm long.",
+          "page": 18,
+          "box": [
+            262,
+            190,
+            480,
+            402
+          ]
+        },
+        {
+          "id": "img2",
+          "alt": "Four graphs of elastic spring force against compression. (1): one flat horizontal line labelled X, Y, Z (same line). (2): one straight line rising from the origin labelled X, Y, Z (same line). (3): three straight lines rising from the origin; Z is the steepest, Y is in the middle and X is the least steep. (4): three straight lines rising from the origin; X is the steepest, Y is in the middle and Z is the least steep.",
+          "page": 18,
+          "box": [
+            180,
+            475,
+            705,
+            905
+          ]
+        }
+      ],
+      "options": [
+        "Graph (1)",
+        "Graph (2)",
+        "Graph (3)",
+        "Graph (4)"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 3
+          },
+          "explanation": [
+            "The springs had the same length at first and are all 5 cm long now, so all three springs are compressed by the same amount.",
+            "Each spring pushes up with a force equal to the weight resting on it. Spring X holds up 1 block, spring Y holds up 2 blocks and spring Z holds up 3 blocks.",
+            "So for the same compression, Z exerts the greatest elastic spring force and X the least. On the graph, Z's line must be the highest and X's the lowest.",
+            "Graph (4) has the order the wrong way round. The answer is Graph (3): option (3)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "3",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 27,
+      "page": 19,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "interactions-forces",
+      "subtypes": [
+        "gravity",
+        "friction",
+        "ramps"
+      ],
+      "stem": "The diagram below shows an iron toy car moving up a slope.\n[[img1]]\nWhat are the forces acting on the toy car?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A slope rising to the right. An iron toy car is part-way up the slope. A magnet is fixed at the top of the slope.",
+          "page": 19,
+          "box": [
+            255,
+            185,
+            630,
+            340
+          ]
+        }
+      ],
+      "options": [
+        "Gravitational force: yes. Frictional force: yes. Magnetic force: no.",
+        "Gravitational force: no. Frictional force: yes. Magnetic force: yes.",
+        "Gravitational force: yes. Frictional force: no. Magnetic force: yes.",
+        "Gravitational force: yes. Frictional force: yes. Magnetic force: yes."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 4
+          },
+          "explanation": [
+            "Gravity acts on all objects, so gravitational force pulls the car downwards.",
+            "The car is touching the slope and moving along it, so frictional force acts between the car and the slope.",
+            "Iron is a magnetic material, so the magnet at the top attracts the car. This magnetic force is what pulls the car up the slope.",
+            "All three forces act on the car: option (4)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "4",
+        "solvedAnswer": "4",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "a",
+      "number": 28,
+      "page": 19,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "energy-light-heat",
+      "subtypes": [
+        "heat-conductors",
+        "heat-gain"
+      ],
+      "stem": "The diagram below shows four containers A, B, C, and D, filled with the same volume of boiling water.\n[[img1]]\nWhich container of water would cook a frozen dumpling the fastest?",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Four containers of water, each heated from below by a flame. Containers A and B are made of steel; containers C and D are made of ceramic. Containers A and C are narrow and tall, so the water is deep. Containers B and D are wide, so the water is shallow and spread over a larger base.",
+          "page": 19,
+          "box": [
+            190,
+            620,
+            715,
+            815
+          ]
+        }
+      ],
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "The frozen dumpling gains heat from the water, so the water must keep gaining heat quickly from the flame.",
+            "Steel is a better conductor of heat than ceramic, so heat from the flame passes through a steel container to the water faster. That leaves A and B.",
+            "Container B has a larger base, so a larger area of the container is heated and in contact with the water. The water in B gains heat fastest.",
+            "By this reasoning the answer is B, option (2). Note that the school's answer key gives option (3), container C; see the review note."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "3",
+        "solvedAnswer": "2",
+        "status": "needs-review",
+        "note": "Disagreement with the key after re-reading at high zoom. The key gives (3), container C (ceramic, narrow), which fits only if the question is about losing the least heat to the surroundings (poor conductor, small exposed surface). But the diagram shows a flame under every container, so heat gain from the flame should decide: steel conducts heat to the water faster, giving A or B, and B has the larger heated base. The key's digit for Q28 is also typed in a different font from the rest of the table, as if it was added or changed later. The answer value stored is the solver's (2), not the key's; a teacher should confirm."
+      }
+    },
+    {
+      "section": "a",
+      "number": 29,
+      "page": 20,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "energy-light-heat",
+      "subtypes": [
+        "shadows"
+      ],
+      "stem": "The set-up below shows light shining on three different wooden objects P, Q, and R. They are placed at different distances from the torch.\n[[img1]]\nThe diagram below shows the shadows of the objects on the screen.\n[[img2]]\nWhich are objects P, Q and R?\n[[img3]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Side view. A torch on the left shines towards a screen on the far right. Three objects stand in a row between them: P is nearest the torch, Q is in the middle and R is nearest the screen. Each object is marked 8 cm tall.",
+          "page": 20,
+          "box": [
+            230,
+            186,
+            700,
+            324
+          ]
+        },
+        {
+          "id": "img2",
+          "alt": "The shadows on the screen overlap: a vertical rod shadow that is the tallest and sticks out above and below a square frame shadow, and a solid triangle shadow that fits inside the square frame.",
+          "page": 20,
+          "box": [
+            315,
+            350,
+            482,
+            462
+          ]
+        },
+        {
+          "id": "img3",
+          "alt": "Four options showing the shapes of P, Q and R. (1): P is a rod, Q is a square frame, R is a triangle. (2): P is a rod, Q is a triangle, R is a square frame. (3): P is a square frame, Q is a triangle, R is a rod. (4): P is a square frame, Q is a rod, R is a triangle.",
+          "page": 20,
+          "box": [
+            175,
+            498,
+            425,
+            922
+          ]
+        }
+      ],
+      "options": [
+        "Option (1)",
+        "Option (2)",
+        "Option (3)",
+        "Option (4)"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 1
+          },
+          "explanation": [
+            "The nearer an object is to the light source, the bigger its shadow. All three objects are the same height (8 cm), so the size of each shadow tells us its position.",
+            "The rod's shadow is the tallest, since it sticks out above and below the square. So the rod is nearest the torch: P.",
+            "The triangle's shadow is the smallest, since it fits inside the square frame. So the triangle is nearest the screen: R. The square frame is in the middle: Q.",
+            "P is the rod, Q is the square frame and R is the triangle: option (1)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "1",
+        "solvedAnswer": "1",
+        "status": "verified",
+        "note": "The '8 cm' arrows beside P, Q and R are read as the height of each object. The word 'screen' is partly faded in the scan."
+      }
+    },
+    {
+      "section": "a",
+      "number": 30,
+      "page": 21,
+      "format": "mcq",
+      "marks": 2,
+      "topic": "energy-forms",
+      "subtypes": [
+        "potential-and-kinetic-energy",
+        "energy-conversion",
+        "friction"
+      ],
+      "stem": "A block slid down a slope after it had been released from the top as shown in Diagram 1. The graph shows the amount of the different types of energy of the block at point X.\n[[img1]]\nThe slope was covered with oil and the experiment was repeated. Which graph correctly shows the amount of the different types of energy at X?\n[[img2]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Diagram 1: a block released from the top of a slope slides down; point X is about halfway down the slope. Beside it is a bar graph of amount of energy (units) against type of energy for the block at X: kinetic energy is at level E, potential energy is at level E, and heat is a shorter bar, about half of E.",
+          "page": 21,
+          "box": [
+            175,
+            212,
+            705,
+            392
+          ]
+        },
+        {
+          "id": "img2",
+          "alt": "Four bar graphs of amount of energy (units) against type of energy, each with a dotted line at level E. (1): kinetic is above E, potential is below E, heat is a short bar. (2): kinetic is above E, potential is at E, heat is a very short bar. (3): kinetic is above E, potential is above E, there is no heat bar. (4): kinetic is slightly below E, potential is at E, heat is a medium bar.",
+          "page": 21,
+          "box": [
+            175,
+            448,
+            722,
+            908
+          ]
+        }
+      ],
+      "options": [
+        "Graph (1)",
+        "Graph (2)",
+        "Graph (3)",
+        "Graph (4)"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": {
+            "type": "mcq",
+            "value": 2
+          },
+          "explanation": [
+            "As the block slides down, its gravitational potential energy is converted into kinetic energy and heat (because of friction).",
+            "Point X is at the same height as before, so the block's potential energy at X is still E.",
+            "Oil reduces friction, so less energy is converted into heat and more is converted into kinetic energy. The kinetic bar must be higher than E and the heat bar must be shorter than before.",
+            "Graph (3) is wrong because there is still some friction and the potential energy cannot increase. The answer is Graph (2): option (2)."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "2",
+        "solvedAnswer": "2",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 31,
+      "page": 23,
+      "format": "structured",
+      "marks": 3,
+      "topic": "systems-plants",
+      "subtypes": [
+        "plant-transport-system",
+        "decomposers"
+      ],
+      "stem": "A ring of the stem between positions X and Y has been removed from a plant as shown below. Only the food-carrying tubes have been removed.\n[[img1]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A potted plant with leaves at the top. A ring has been cut out of the stem below the leaves. An enlarged view shows the ring: X marks the stem just above the removed ring and Y marks the stem just below it.",
+          "page": 23,
+          "box": [
+            330,
+            296,
+            575,
+            450
+          ]
+        },
+        {
+          "id": "img2",
+          "alt": "Three drawings of the ringed part of the stem, from left to right. First: the stem above X is unchanged and the stem below Y is swollen. Second: the stem is swollen both above X and below Y. Third: the stem above X is swollen and the stem below Y is unchanged.",
+          "page": 23,
+          "box": [
+            215,
+            505,
+            668,
+            592
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "Tick the correct box which shows the possible appearance of the stem after some time.\n[[img2]]\n(Type first, second or third, counting the pictures from the left.)",
+          "marks": 1,
+          "answer": {
+            "type": "text",
+            "value": "third",
+            "accept": [
+              "third",
+              "3",
+              "3rd",
+              "the third",
+              "third box",
+              "the third box",
+              "third picture",
+              "the third picture",
+              "box 3",
+              "picture 3",
+              "right",
+              "the right one",
+              "last",
+              "the last one"
+            ]
+          },
+          "explanation": [
+            "Food is made in the leaves and carried down the stem in the food-carrying tubes.",
+            "The food-carrying tubes are removed between X and Y, so food coming down from the leaves cannot pass the ring. It collects just above the ring, at X, and the stem swells there.",
+            "The part below Y receives no food, so it does not swell. This is the third picture."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "Based on your answer in (a), explain why the plant died after some time.",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "Food made by the leaves cannot be transported to the roots because the food-carrying tubes have been removed. Without food, the roots die and can no longer take in water for the plant, so the plant dies."
+          },
+          "explanation": [
+            "The marking point is that food made by the leaves cannot be transported to the roots.",
+            "Link it to the missing food-carrying tubes. Roots are living and need food to stay alive; when they die, the plant cannot take in water and mineral salts."
+          ]
+        },
+        {
+          "label": "c",
+          "prompt": "Organism P breaks down dead plants during a process. Identify the process and explain why it slows down when the surrounding temperature is lower.",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "The process is decomposition. When the temperature is lower, there is less warmth for decomposition to take place, so organism P (a decomposer) breaks down the dead plants more slowly."
+          },
+          "explanation": [
+            "Name the process: decomposition. Organism P is a decomposer such as bacteria or fungi.",
+            "Decomposers need warmth, as well as water and oxygen, to work. A lower temperature means less warmth, so decomposition slows down.",
+            "Half a mark is for the process and half a mark is for the reason."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) Tick the third box.  b) Food made by the leaves cannot be transported to the roots.  c) Decomposition. When temperature is lower, there will be less warmth for decomposition to take place.",
+        "solvedAnswer": "agrees with key",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 32,
+      "page": 24,
+      "format": "structured",
+      "marks": 4,
+      "topic": "cycles-life",
+      "subtypes": [
+        "seed-dispersal",
+        "fair-test",
+        "planning-an-experiment"
+      ],
+      "stem": "Study fruit A below.\n[[img1]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Fruit A hanging from a stalk. It has two long, flat, thin wing-like structures spreading out on either side. One of them is labelled 'wing-like structure'.",
+          "page": 24,
+          "box": [
+            255,
+            165,
+            540,
+            312
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "Identify the method of seed dispersal for fruit A. Explain your answer.",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "Fruit A is dispersed by wind. It has a wing-like structure that enables it to be carried by the wind, or to glide and stay in the air longer."
+          },
+          "explanation": [
+            "State the method: by wind.",
+            "Give the evidence from the picture: the wing-like structure. Explain what it does: it lets the fruit stay in the air longer and be carried further away by the wind."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "Pat uses only fruit A to investigate how the length of the wing-like structure of the fruit affects the distance it travels.\n\nExplain why Pat needs to use the same fruit in the investigation.",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "So that the mass of the fruit is kept the same. This makes it a fair test, because only the length of the wing-like structure is changed."
+          },
+          "explanation": [
+            "In a fair test only one variable is changed. Here it is the length of the wing-like structure.",
+            "Different fruits have different masses (and shapes), which also affect how far a fruit travels. Using the same fruit keeps the mass the same.",
+            "The key phrase is 'the mass of the fruit is kept the same'."
+          ]
+        },
+        {
+          "label": "c",
+          "prompt": "Describe the steps Pat has to take to conduct the investigation.",
+          "marks": 2,
+          "answer": {
+            "type": "self",
+            "value": "1. Release fruit A from a height.\n2. Measure the distance travelled by it.\n3. Cut part of the wing-like structure of fruit A to decrease its length.\n4. Release fruit A from the same height again and measure the distance travelled by it. Compare the distances."
+          },
+          "explanation": [
+            "A good plan says what is done, what is measured, what is changed and what is kept the same.",
+            "What is done and measured: release the fruit from a height and measure the distance it travels.",
+            "What is changed: the length of the wing-like structure, by cutting part of it off.",
+            "What is kept the same: the same fruit is released from the same height. Then the distance is measured again."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) By wind. Fruit A has a wing-like structure that enables it to be carried by the wind or glide/stay in the air.  b) So that the mass of the fruit is kept the same.  c) 1. Release fruit A from a height. 2. Measure the distance travelled by it. 3. She can cut part of the wing-like structure of fruit A to change/decrease its length. 4. Then release fruit A from the same height and measure the distance travelled by it.",
+        "solvedAnswer": "agrees with key",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 33,
+      "page": 25,
+      "format": "structured",
+      "marks": 4,
+      "topic": "systems-human",
+      "subtypes": [
+        "digestive-system",
+        "circulatory-system",
+        "reading-graphs"
+      ],
+      "stem": "The diagram below shows a human digestive system.\n[[img1]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Outline of a human body showing the digestive system from the mouth down. A points to the stomach. B points to the coiled small intestine. C points to the large intestine that runs around the small intestine. D points to the end of the large intestine at the bottom.",
+          "page": 25,
+          "box": [
+            255,
+            195,
+            495,
+            480
+          ]
+        },
+        {
+          "id": "img2",
+          "alt": "Bar graph of volume of blood supplied per minute (units) against activities, with a key: blood at arms is a striped bar, blood at stomach is a white bar. At rest: a short striped bar for the arms. Swimming: a tall striped bar for the arms, about three times as tall. No white bars for the stomach can be seen.",
+          "page": 26,
+          "box": [
+            150,
+            225,
+            700,
+            440
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "In which parts of the digestive system, A, B, C or D, are digestive juices present?\n(Type the letters.)",
+          "marks": 1,
+          "answer": {
+            "type": "text",
+            "value": "A and B",
+            "accept": [
+              "a and b",
+              "a, b",
+              "a,b",
+              "a b",
+              "ab",
+              "a & b",
+              "b and a",
+              "b, a",
+              "b,a",
+              "ba",
+              "parts a and b",
+              "a and b only"
+            ]
+          },
+          "explanation": [
+            "Digestive juices are found where digestion takes place: the mouth, the stomach and the small intestine.",
+            "A is the stomach and B is the small intestine, so digestive juices are present in A and B.",
+            "C and D are parts of the large intestine. No digestion takes place there."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "How does the amount of undigested food change as it moves from part C to part D?",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "The amount of undigested food remained the same."
+          },
+          "explanation": [
+            "C and D are in the large intestine. The large intestine only absorbs water from the undigested food.",
+            "No digestion takes place there, so the amount of undigested food does not change. Only the amount of water decreases."
+          ]
+        },
+        {
+          "label": "c",
+          "prompt": "The graph below shows the volume of blood supplied to two parts of the body after a meal when Ali was at rest and swimming.\n[[img2]]\nBased on the information in the graph, explain why more blood was supplied to Ali's arms when he was swimming.",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "When swimming, the muscles in Ali's arms work harder and need more energy. His heart has to pump blood faster to transport more oxygen and digested food to the muscles in his arms for respiration to release more energy."
+          },
+          "explanation": [
+            "Start with the need: the arm muscles work harder when swimming, so they need more energy.",
+            "Energy is released from digested food using oxygen (respiration). Blood carries the oxygen and digested food.",
+            "So the heart pumps blood faster to carry more oxygen and digested food to the arm muscles. Use all the key words: heart pumps faster, more oxygen and digested food, muscles, release energy."
+          ]
+        },
+        {
+          "label": "d",
+          "prompt": "Draw the missing bar in the graph above to represent the volume of blood supplied to the stomach when Ali was at rest.\n(Draw it on your canvas.)",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "Draw a white (unshaded) bar for the stomach beside the 'At rest' arms bar. It should be higher than the stomach bar for 'Swimming'."
+          },
+          "explanation": [
+            "After a meal, the stomach is digesting food, so it needs a good supply of blood.",
+            "When Ali is swimming, more blood is sent to the working muscles and less to the stomach. When he is at rest, more blood can go to the stomach.",
+            "So the stomach bar for 'At rest' must be higher than the stomach bar for 'Swimming'."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) Parts A and B  b) The amount of undigested food remained the same.  c) Heart has to pump blood faster to transport/carry/send more oxygen and digested food to the muscles to release energy/for respiration.  d) The Stomach bar for 'At rest' should be higher than Swimming.",
+        "solvedAnswer": "agrees with key for (a) to (c); (d) cannot be fully checked",
+        "status": "needs-review",
+        "note": "Part (d): the key compares the missing bar with the stomach bar for 'Swimming', but no white stomach bar is visible anywhere in the scanned graph (only the two striped arms bars). The printed stomach bar for 'Swimming' seems to be missing from the scan, so a pupil has nothing to compare the new bar with. Needs the graph from a clean copy. The parts on page 26 are printed without a question number; they are (c) and (d) of Question 33."
+      }
+    },
+    {
+      "section": "b",
+      "number": 34,
+      "page": 27,
+      "format": "structured",
+      "marks": 3,
+      "topic": "energy-photosynthesis",
+      "subtypes": [
+        "rate-of-photosynthesis",
+        "human-impact",
+        "experiment-design"
+      ],
+      "stem": "Jeremy wanted to find out how polluted the water is for 3 different ponds, A, B and C. Polluted water has dirt in it. He lowered a metal plate into pond A until the plate could no longer be seen from above the pond as shown in the diagram below.\n[[img1]]\nHe repeated the investigation for ponds B and C. The table below shows his results.\n[[table1]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Cross section of a pond. A hand above the pond holds a string with a flat metal plate hanging from it, lowered a little below the water surface. Water plants grow on the bottom of the pond. Labels: metal plate, water plants, water.",
+          "page": 27,
+          "box": [
+            225,
+            240,
+            705,
+            485
+          ]
+        }
+      ],
+      "tables": [
+        {
+          "id": "table1",
+          "header": [
+            "Pond",
+            "Depth at which metal plate could no longer be seen (cm)"
+          ],
+          "rows": [
+            [
+              "A",
+              "100"
+            ],
+            [
+              "B",
+              "200"
+            ],
+            [
+              "C",
+              "150"
+            ]
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "Based on his results, which ponds, A, B or C, allows the water plants to grow the fastest? Explain why.",
+          "marks": 2,
+          "answer": {
+            "type": "self",
+            "value": "Pond B. The metal plate can be seen from the greatest depth in pond B, so its water is the clearest. The most light reaches the water plants, so their rate of photosynthesis is the highest and they can make the most food to grow."
+          },
+          "explanation": [
+            "Choice: pond B.",
+            "Evidence from the table: the plate could still be seen at the greatest depth (200 cm) in pond B, so the water there has the least dirt and lets the most light through.",
+            "Reason: the most light reaches the water plants, so the rate of photosynthesis is the highest and the plants make the most food for growth."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "If the metal plate is replaced with a glass plate, would the results still be accurate? Explain your answer.",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "No. Glass is transparent and allows most light to pass through, so the plate is hard to see even in clean water. Jeremy would not be able to tell how far the plate can be lowered before it can no longer be seen."
+          },
+          "explanation": [
+            "We see the plate because it reflects light into our eyes. A metal plate is opaque and easy to see.",
+            "A glass plate is transparent: most light passes through it, so it cannot be seen clearly even in clear water.",
+            "The answer needs 'No', the property of glass (transparent / allows most light to pass through) and the effect on the measurement."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) C: Pond B. E: The metal plate can be seen from the greatest depth. R: Most light reaches the plants so they can make the most food / rate of photosynthesis is highest.  b) No. Glass allows most light to pass through/is transparent so the person is not able to see/measure how far the plate can be lowered.",
+        "solvedAnswer": "agrees with key",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 35,
+      "page": 28,
+      "format": "structured",
+      "marks": 2,
+      "topic": "interactions-environment",
+      "subtypes": [
+        "mutual-benefit",
+        "gas-exchange"
+      ],
+      "stem": "The eggs of animal S are normally found near the surface of a pond and are of a bright green color because of organism A growing in them. The developing animal S does not feed on organism A.\n[[img1]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A cluster of round eggs attached to a stem just below the surface of a pond, among water plants. An enlarged view of one egg shows the developing animal S curled up inside, surrounded by a jelly-like substance. Organism A is shown as small bodies in the jelly-like substance around the developing animal.",
+          "page": 28,
+          "box": [
+            185,
+            265,
+            705,
+            470
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "Organism A can photosynthesise. Explain how a developing animal S would benefit from its relationship with organism A.",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "Organism A gives out oxygen during photosynthesis. The developing animal S gets this oxygen from organism A to survive."
+          },
+          "explanation": [
+            "Photosynthesis produces food and oxygen. The question says animal S does not feed on organism A, so the benefit is not food.",
+            "The benefit is oxygen: the developing animal takes in the oxygen given out by organism A for respiration."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "Organism A can also be found floating freely in the water. Explain why it is an advantage for organism A to grow in the eggs of developing animal S instead of growing in the water.",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "Organism A is protected by the jelly-like substance from food consumers that feed on it. OR Organism A can receive carbon dioxide from the developing animal S to photosynthesise and make food."
+          },
+          "explanation": [
+            "Think about what organism A gains inside the egg that it does not have in open water.",
+            "Protection: the jelly-like substance keeps away animals that would eat it.",
+            "Or carbon dioxide: animal S gives out carbon dioxide when it respires, and organism A needs carbon dioxide for photosynthesis. Either answer earns the mark."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) Developing animal S gets oxygen from organism A to survive.  b) Organism A is protected by the jelly-like substance from the food consumers. OR A can receive carbon dioxide (from S) to photosynthesise/make food.",
+        "solvedAnswer": "agrees with key",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 36,
+      "page": 29,
+      "format": "structured",
+      "marks": 4,
+      "topic": "interactions-environment",
+      "subtypes": [
+        "food-web",
+        "population-change"
+      ],
+      "stem": "A scientist made the following observations of organisms A, B, C and D found on the deep ocean floor.\n• A produces its own food using chemicals released by a vent.\n• B and D live on the vent and feed on A.\n• C swims near the vent and feeds on both B and D.\n[[img1]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Drawing of a vent, a rocky chimney on the deep ocean floor giving out a cloud of chemicals. A points to the cloud around the top of the vent. B points to the tall tube-like organisms growing on the side of the vent. C points to a fish swimming beside them. D points to a crab-like organism at the base of the vent.",
+          "page": 29,
+          "box": [
+            258,
+            260,
+            625,
+            514
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "Draw a food web to show the relationships among all the organisms above.\n(Draw it on your canvas.)",
+          "marks": 2,
+          "answer": {
+            "type": "self",
+            "value": "Write the letters A, B, C and D. Draw four arrows: from A to B, from A to D, from B to C and from D to C."
+          },
+          "explanation": [
+            "In a food web, each arrow points from the organism that is eaten to the organism that eats it.",
+            "A makes its own food, so it is the producer and the food web starts from A.",
+            "B and D feed on A: draw A → B and A → D.",
+            "C feeds on both B and D: draw B → C and D → C."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "How would the population of C change when the population of A increased? Explain your answer.",
+          "marks": 2,
+          "answer": {
+            "type": "self",
+            "value": "The population of C will increase. B and D will have more A to feed on, so the populations of B and D will increase. C will then have more B and D to feed on."
+          },
+          "explanation": [
+            "State the change: the population of C increases.",
+            "Explain it step by step along the food web, without skipping a link: more A means more food for B and D, so their populations increase.",
+            "More B and D means more food for C, so the population of C increases."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) Food web: A → B, A → D, B → C, D → C.  b) C will increase in population size. B and D will have more A to feed on and increase in population size. C will have more B and D to feed on.",
+        "solvedAnswer": "agrees with key",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 37,
+      "page": 30,
+      "format": "structured",
+      "marks": 3,
+      "topic": "interactions-forces",
+      "subtypes": [
+        "gravity",
+        "reading-tables",
+        "experiment-design"
+      ],
+      "stem": "Danielle placed an empty glass cup in a container of water as shown in Diagram 1 and measured the height, h, of the glass cup which was above the water surface. She then placed a 10 g mass into the glass cup and measured the new height, h, as shown in Diagram 2, with a ruler.\n[[img1]]\nShe measured the height, h, each time a 10 g mass was added. The table below shows her results.\n[[table1]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Diagram 1: an empty glass cup floating upright in a container of water; the height of the cup above the water surface is marked h. Diagram 2: the same cup with a mass inside it; the cup floats lower in the water, so the height h above the water surface is smaller. Labels: glass cup, water, container, mass.",
+          "page": 30,
+          "box": [
+            185,
+            235,
+            695,
+            440
+          ]
+        }
+      ],
+      "tables": [
+        {
+          "id": "table1",
+          "header": [
+            "Mass added (g)",
+            "Height, h (cm)"
+          ],
+          "rows": [
+            [
+              "0",
+              "5"
+            ],
+            [
+              "10",
+              "4"
+            ],
+            [
+              "20",
+              "3"
+            ],
+            [
+              "30",
+              "2"
+            ],
+            [
+              "40",
+              "1"
+            ]
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "State how the height, h, changed with mass added.",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "As the mass added increases, the height, h, decreases."
+          },
+          "explanation": [
+            "Read down the table: the mass goes up 0, 10, 20, 30, 40 g and the height goes down 5, 4, 3, 2, 1 cm.",
+            "State the relationship between the two variables: as the mass added increases, the height h decreases (by 1 cm for every 10 g)."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "The set-up cannot be used to measure the mass of an object heavier than 50 g when placed in the cup. Explain why.",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "The height h would become 0 cm at 50 g, so with an object heavier than 50 g the cup would sink or be completely submerged in the water, and no height could be measured."
+          },
+          "explanation": [
+            "Continue the pattern: every 10 g lowers the cup by 1 cm, so at 50 g the height above the water is 0 cm.",
+            "With anything heavier, the top of the cup goes below the water surface. Water enters the cup and it sinks, so there is no height to measure.",
+            "The key phrase is that the cup would sink or be completely submerged."
+          ]
+        },
+        {
+          "label": "c",
+          "prompt": "Without using other apparatus and materials, describe one way to obtain an accurate measurement of height, h",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "Place the base (the 0 cm mark) of the ruler exactly on the surface of the water when measuring. OR Read the measurement on the ruler at eye level. OR Wait for the water to stop moving before measuring the height."
+          },
+          "explanation": [
+            "The answer must be about how the ruler is used, because no other apparatus is allowed.",
+            "Any one of these earns the mark: start the reading from the 0 cm mark at the water surface, read the ruler at eye level, or wait until the water is still.",
+            "For the first answer the marker wants a reference to the 0 cm mark of the ruler."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) As the mass added increases, the height, h, decreases.  b) The cup would sink or be completely submerged in water.  c) The base/start/bottom of the ruler should be on surface of the water (must have reference to 0 cm of the ruler). OR To read the measurement on the ruler at eye level. OR Wait for water to stop moving before measuring the height.",
+        "solvedAnswer": "agrees with key",
+        "status": "verified"
+      }
+    },
+    {
+      "section": "b",
+      "number": 38,
+      "page": 31,
+      "format": "structured",
+      "marks": 5,
+      "topic": "cycles-matter-water",
+      "subtypes": [
+        "evaporation-rate",
+        "condensation",
+        "heat-loss"
+      ],
+      "stem": "Ali poured hot tea from one mug to another mug.\n[[img1]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A man holds a mug high in one hand and pours a long stream of hot tea down into another mug held low in his other hand. Wavy lines beside the stream of tea are labelled mist. Labels: mist, tea, mug.",
+          "page": 31,
+          "box": [
+            215,
+            190,
+            505,
+            400
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "Explain how this action cools down the tea faster.",
+          "marks": 2,
+          "answer": {
+            "type": "self",
+            "value": "Pouring the tea in a long stream gives the tea a larger exposed surface area in contact with the cooler surrounding air. So the tea loses heat faster to the surroundings (and evaporates faster)."
+          },
+          "explanation": [
+            "First mark: the long stream of tea has more exposed surface area in contact with the cooler surrounding air.",
+            "Second mark: with a larger exposed surface area, the tea loses heat to the surrounding air faster (or evaporates faster), so it cools down faster.",
+            "Always say where the heat goes: from the hot tea to the cooler surrounding air."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "Explain how the mist was formed.",
+          "marks": 2,
+          "answer": {
+            "type": "self",
+            "value": "Water vapour from the hot tea touched the cooler surrounding air near the tea, lost heat to it and condensed to form tiny water droplets, which are seen as mist."
+          },
+          "explanation": [
+            "Mist is made of tiny water droplets. It is not water vapour, which cannot be seen.",
+            "First mark: warm water vapour from the hot tea loses heat to the cooler surrounding air.",
+            "Second mark: the water vapour condenses to form tiny water droplets (mist)."
+          ]
+        },
+        {
+          "label": "c",
+          "prompt": "The mist disappeared after a short time. Explain why.",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "The mist evaporated. The tiny water droplets gained heat from the surrounding air and changed into water vapour, which cannot be seen."
+          },
+          "explanation": [
+            "The mist is tiny droplets of liquid water.",
+            "The droplets gain heat from the surroundings and evaporate to become water vapour, which is invisible. The key word is 'evaporated'."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) There is more exposed surface area of the tea to the (cooler) surrounding air, so the tea will lose more heat/lose heat faster (to the surroundings) OR so the tea will evaporate faster.  b) Water vapour from the hot tea lost heat to/touched the cooler surrounding air (near the tea), and condensed (to form water droplets/mist).  c) The mist evaporated.",
+        "solvedAnswer": "agrees with key",
+        "status": "verified",
+        "note": "Parts of the key for (a) and (b) are under the watermark; the covered words were read at high zoom."
+      }
+    },
+    {
+      "section": "b",
+      "number": 39,
+      "page": 32,
+      "format": "structured",
+      "marks": 5,
+      "topic": "interactions-magnets",
+      "subtypes": [
+        "electromagnet",
+        "closed-circuit"
+      ],
+      "stem": "In the circuit below, all the components are working.\n[[img1]]\nWhen the switch was closed, the bulb did not light up.",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "Circuit diagram. A wire is coiled around an iron bar at the top. One end of the coil goes through a switch to two batteries held between fixed metal plates on the right. Both batteries have their raised (positive) ends facing the same way, towards the two plates on the left, and one long plate joins their flat ends on the right. The other end of the coil goes to a bulb on the left; the wires from the coil and to the rest of the circuit both touch the bulb at the metal tip of its base. From the bulb a wire runs along the bottom to two fixed metal contacts and on to the batteries. A movable steel bar stands on the two fixed metal contacts, directly below the iron bar. Labels: iron bar, bulb, movable steel bar, batteries, fixed metal plates, fixed metal contacts.",
+          "page": 32,
+          "box": [
+            183,
+            140,
+            645,
+            367
+          ]
+        },
+        {
+          "id": "img2",
+          "alt": "The same components drawn without most of the wires, for the pupil to complete: the iron bar with the coil and the switch, the bulb, the steel bar standing on the two fixed metal contacts, and the two batteries between their metal plates.",
+          "page": 32,
+          "box": [
+            270,
+            440,
+            585,
+            637
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "Draw a circuit below to correct the mistake(s).\n[[img2]]\n(Draw it on your canvas.)",
+          "marks": 2,
+          "answer": {
+            "type": "self",
+            "value": "Draw one complete loop: switch → coil around the iron bar → bulb → fixed metal contacts (joined by the steel bar) → batteries → back to the switch. Correct two mistakes: (1) turn one battery around so that the positive end of one battery is joined to the negative end of the other through the metal plate, and (2) connect one wire to the metal tip of the bulb and the other wire to the metal casing of the bulb."
+          },
+          "explanation": [
+            "Look for reasons why no electric current flows even though every part is working.",
+            "Batteries: the two batteries face the same way, so they push against each other. One battery must be turned around so that the positive end of one is joined to the negative end of the other.",
+            "Bulb: a bulb lights up only when one wire touches its metal tip and the other touches its metal casing. In the diagram both wires touch the same part.",
+            "The rest of the circuit stays as one closed loop through the switch, the coil, the bulb, the contacts and the batteries."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "State an observation of the steel bar when the switch is closed after the mistake(s) has/have been corrected.",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "The steel bar will move up and down repeatedly."
+          },
+          "explanation": [
+            "An observation is what you see, not the reason for it.",
+            "The steel bar jumps up to the iron bar, drops back down, and keeps repeating this. (The bulb also flickers on and off.)"
+          ]
+        },
+        {
+          "label": "c",
+          "prompt": "Explain your answer in (b).",
+          "marks": 2,
+          "answer": {
+            "type": "self",
+            "value": "When the switch is closed, the circuit is closed and the iron bar becomes an electromagnet, which attracts the steel bar upwards. The steel bar leaves the fixed metal contacts, so the circuit becomes open and the iron bar loses its magnetism and stops attracting the steel bar. The steel bar drops back onto the fixed metal contacts and closes the circuit again, so the process repeats."
+          },
+          "explanation": [
+            "Closed circuit: current flows through the coil, so the iron bar becomes an electromagnet and attracts the steel bar (steel is a magnetic material).",
+            "Open circuit: when the steel bar is lifted off the contacts, there is a gap. No current flows, so the iron bar loses its magnetism and the steel bar drops because of gravity.",
+            "The fallen bar touches the contacts and closes the circuit again, so the cycle repeats."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) Drawing: a single loop joining the switch, the coil on the iron bar, the bulb (one wire to the metal tip, one to the casing), the two fixed metal contacts and the batteries, with the top battery turned around so that the two batteries are joined positive to negative through the metal plate.  b) The steel rod will move up and down repeatedly.  c) When the switch is closed, the iron bar becomes an electromagnet/is magnetised and attracts the steel bar. The circuit becomes open and the iron bar stops attracting the steel bar/iron bar loses its magnetism. The steel bar drops onto the fixed metal contacts and closing the circuit again.",
+        "solvedAnswer": "agrees with key",
+        "status": "verified",
+        "note": "The key for (a) is a small hand-drawn circuit with no words. The two mistakes named in the model answer (battery arrangement and bulb connections) were worked out by comparing the key's drawing with the question diagram."
+      }
+    },
+    {
+      "section": "b",
+      "number": 40,
+      "page": 33,
+      "format": "structured",
+      "marks": 4,
+      "topic": "energy-forms",
+      "subtypes": [
+        "energy-conversion",
+        "elastic-spring-force",
+        "gravity"
+      ],
+      "stem": "Liquid soap flows out of the soap dispenser when the pump head is pressed down as shown.\n[[img1]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "A finger presses down the pump head of a bottle of liquid soap. A drop of liquid soap hangs just below the nozzle. An enlarged view of the inside of the pump shows a piston connected to a spring, with the spring compressed. Labels: pump head, nozzle, a drop of liquid soap, piston connected to spring, compressed spring.",
+          "page": 33,
+          "box": [
+            165,
+            180,
+            705,
+            400
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "Identify the force(s) acting on the drop of liquid soap shown in the diagram.",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "Gravitational force (gravity) and friction (air resistance)."
+          },
+          "explanation": [
+            "The drop is falling through the air. Gravity pulls it downwards.",
+            "As it moves through the air, air resistance, which is a kind of friction, acts on it in the opposite direction.",
+            "Both forces are needed for the mark."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "Fill in the boxes below to show the energy conversion when the pump head is pressed down for the drop of soap to be dispensed.\n___ (compressed spring) → ___ (moving piston) + ___ (moving piston)",
+          "marks": 1,
+          "answer": {
+            "type": "self",
+            "value": "elastic potential energy (compressed spring) → kinetic energy (moving piston) + heat energy (moving piston). Sound energy or gravitational potential energy is also accepted in the last box."
+          },
+          "explanation": [
+            "A compressed spring stores elastic potential energy.",
+            "When the spring pushes the piston, this energy is converted into the kinetic energy of the moving piston.",
+            "Some energy is also converted into heat and sound because of friction, and the piston gains gravitational potential energy as it moves up. Any one of these goes in the last box."
+          ]
+        },
+        {
+          "label": "c",
+          "prompt": "Explain how the nozzle is able to go back to original position after the hand is removed from the pump head.",
+          "marks": 2,
+          "answer": {
+            "type": "self",
+            "value": "When the hand is removed, the compressed spring returns to its original length. The spring exerts an elastic spring force on the piston and pushes the piston and the nozzle up. (The elastic potential energy stored in the compressed spring is converted to kinetic energy, causing the piston to move up.)"
+          },
+          "explanation": [
+            "First mark: the compressed spring returns to its original length (or shape) once nothing is pressing on it.",
+            "Second mark: as it does so, the spring exerts an elastic spring force that pushes the piston, and so the nozzle, back up.",
+            "It can also be explained with energy: elastic potential energy in the compressed spring is converted to kinetic energy of the piston."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "a) Gravity and friction/air resistance.  b) (E)PE → KE + HE/SE/(G)PE  c) The (compressed) spring returns to original length/size/shape. The spring pushes the piston/nozzle up OR The spring exerts an elastic spring force on the piston OR elastic potential energy (stored in compressed spring) is converted to kinetic energy, causing piston to move up.",
+        "solvedAnswer": "agrees with key",
+        "status": "verified",
+        "note": "In part (b) the paper prints 'moving piston' under both the second and the third box; this is transcribed as printed."
+      }
+    },
+    {
+      "section": "b",
+      "number": 41,
+      "page": 34,
+      "format": "structured",
+      "marks": 3,
+      "topic": "cycles-matter-water",
+      "subtypes": [
+        "melting",
+        "properties-of-matter",
+        "planning-an-experiment"
+      ],
+      "stem": "Dylan has a solid made from substances X and Y that have different melting points.\n[[img1]]\n[[table1]]\nHe has some apparatus as shown. The electric hot plate is connected to a power source.\n[[img2]]\n[[img3]]",
+      "images": [
+        {
+          "id": "img1",
+          "alt": "An irregular solid, 45 mm wide and 40 mm high. The outer part is substance X and a block of substance Y is embedded in the middle of it.",
+          "page": 34,
+          "box": [
+            160,
+            190,
+            448,
+            326
+          ]
+        },
+        {
+          "id": "img2",
+          "alt": "Apparatus: an electric hot plate 250 mm long; a beaker 50 mm wide and 70 mm tall with markings in cm³ at 20, 40, 60 and 80; and a thermometer.",
+          "page": 34,
+          "box": [
+            215,
+            384,
+            577,
+            564
+          ]
+        },
+        {
+          "id": "img3",
+          "alt": "A measuring cylinder 30 mm wide, with markings in cm³ at 20, 40, 60, 80 and 100 and small divisions between them.",
+          "page": 34,
+          "box": [
+            588,
+            352,
+            650,
+            562
+          ]
+        }
+      ],
+      "tables": [
+        {
+          "id": "table1",
+          "header": [
+            "Substance",
+            "Melting point (°C)"
+          ],
+          "rows": [
+            [
+              "X",
+              "45"
+            ],
+            [
+              "Y",
+              "62"
+            ]
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "",
+          "prompt": "Describe how the volume of substance X can be obtained using the apparatus selected.",
+          "marks": 3,
+          "answer": {
+            "type": "self",
+            "value": "1. Put the solid into the beaker and heat the beaker on the electric hot plate.\n2. Use the thermometer to check that the temperature is above 45°C but below 62°C (for example 50°C), so that only substance X melts and substance Y stays solid.\n3. Pour only the melted substance X into the measuring cylinder and read the volume at eye level."
+          },
+          "explanation": [
+            "Use the difference in melting points to separate the two substances: X melts at 45°C and Y melts at 62°C.",
+            "First mark: put the solid in the beaker and heat it on the hot plate.",
+            "Second mark: use the thermometer to keep the temperature above 45°C and below 62°C (any temperature from 46°C to 61°C), so only X becomes a liquid.",
+            "Third mark: pour only the liquid X into the measuring cylinder and read its volume at eye level. A liquid has a definite volume, and the measuring cylinder measures it more accurately than the beaker."
+          ]
+        }
+      ],
+      "review": {
+        "keyAnswer": "1. Put the solid into the beaker and heat up this beaker on the electric hot plate. 2. Use the thermometer to check that the temperature of the melted substance X is above 45°C and below 62°C / Heat up the solid to __°C (any temperature within the range 46°C to 61°C). 3. Pour only the melted substance X into the measuring cylinder and read the marking/measurement at eye level or read under the meniscus.",
+        "solvedAnswer": "agrees with key",
+        "status": "verified",
+        "note": "Parts of the key are under the watermark; the covered words were read at high zoom. The apparatus picture is cropped in two pieces so that a line of question text printed beside it is left out; the printed label 'measuring cylinder' under the cylinder could not be kept in the crop and is given in the alt text only."
+      }
+    }
+  ]
+}

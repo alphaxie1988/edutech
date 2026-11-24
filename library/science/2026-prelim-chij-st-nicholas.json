@@ -1,0 +1,1297 @@
+{
+  "paper": {
+    "id": "2026-prelim-chij-st-nicholas",
+    "subject": "science",
+    "year": 2026,
+    "exam": "Prelim",
+    "school": "CHIJ St Nicholas",
+    "schoolFull": "CHIJ St Nicholas Girls' School",
+    "file": "PSLE-2026-P6-papers/Science/P6-Science-Prelim-2026-St-Nicholas-Paper.pdf",
+    "coordDpi": 100
+  },
+  "questions": [
+    {
+      "section": "a", "number": 1, "page": 2, "format": "mcq", "marks": 2,
+      "topic": "energy-photosynthesis",
+      "subtypes": ["requirements-for-photosynthesis"],
+      "stem": "Substance X was placed in a clear plastic bag and the pot of plant was left under the sun for a few hours.\n[[img1]]\nLeaf A was then tested for starch. The results of the experiment is shown below.\n[[img2]]\nWhich of the following statements is true about substance X?",
+      "images": [
+        { "id": "img1", "alt": "A potted plant with several leaves. Part of leaf A, the half towards its tip, is enclosed in a clear plastic bag. Substance X is inside the clear plastic bag.", "page": 2, "box": [335, 238, 612, 405] },
+        { "id": "img2", "alt": "Leaf A after the starch test. One half of the leaf is dark, labelled 'Iodine solution turned dark blue'. The other half, towards the tip, is pale, labelled 'Iodine solution remained yellowish-brown'.", "page": 2, "box": [210, 453, 605, 525] }
+      ],
+      "options": [
+        "Substance X gives off heat.",
+        "Substance X absorbs oxygen.",
+        "Substance X releases water vapour.",
+        "Substance X absorbs carbon dioxide."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 4 },
+          "explanation": [
+            "Iodine solution turns dark blue when starch is present. The part of leaf A outside the bag has starch, so it made food. The part inside the bag has no starch, so it did not photosynthesise.",
+            "Photosynthesis needs light, water and carbon dioxide. The bag is clear, so light still reached the leaf, and water still came up from the roots. What was missing must be carbon dioxide.",
+            "So substance X absorbed the carbon dioxide inside the bag. Absorbing oxygen would not stop photosynthesis, because a leaf does not need oxygen to make food.",
+            "The answer is option (4)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "4", "solvedAnswer": "4", "status": "verified" }
+    },
+    {
+      "section": "a", "number": 2, "page": 2, "format": "mcq", "marks": 2,
+      "topic": "interactions-environment",
+      "subtypes": ["decomposers"],
+      "stem": "After harvesting their crops, farmers may leave behind dead leaves on the ground. How does leaving them behind benefit the next batch of crops?",
+      "options": [
+        "allows the plants to photosynthesise.",
+        "reduces the amount of water in the soil.",
+        "reduces the amount of carbon dioxide in the air.",
+        "increases the amount of mineral salts in the soil."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 4 },
+          "explanation": [
+            "Decomposers such as bacteria and fungi break down dead leaves.",
+            "When the dead leaves are broken down, mineral salts are returned to the soil. The roots of the next batch of crops take in these mineral salts and the crops grow better.",
+            "Decomposition gives out carbon dioxide, so it does not reduce the carbon dioxide in the air, and dead leaves do not make the plants photosynthesise.",
+            "The answer is option (4)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "4", "solvedAnswer": "4", "status": "verified" }
+    },
+    {
+      "section": "a", "number": 3, "page": 3, "format": "mcq", "marks": 2,
+      "topic": "interactions-environment",
+      "subtypes": ["populations-and-communities"],
+      "stem": "The diagram below shows a pond habitat.\n[[img1]]\nWhich of the following statements is correct?",
+      "images": [
+        { "id": "img1", "alt": "A pond habitat. Plants: water lilies with flowers and round leaves floating on the surface and long stalks rooted in the pond bed; two floating plants with roots hanging in the water; and several fully submerged water plants. Animals: a dragonfly on a lily leaf, a frog on a lily leaf, small insects on the water surface, tadpoles in the water and several fish.", "page": 3, "box": [256, 124, 698, 460] }
+      ],
+      "options": [
+        "There are 3 populations of producers.",
+        "There are 9 populations of organisms.",
+        "There are 6 populations of consumers.",
+        "There are 2 communities of organisms."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 1 },
+          "explanation": [
+            "A population is all the organisms of the same kind living in one place. A community is all the populations living together in a habitat.",
+            "Count the kinds of plants (producers): water lilies, floating plants with hanging roots, and submerged water plants. That is 3 populations of producers.",
+            "The pond is one habitat with one community, so 'two communities' is wrong. Tadpoles are young frogs, so they belong to the same population as the frog, which makes the counts of consumers and of all organisms smaller than 6 and 9.",
+            "The answer is option (1)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "1", "solvedAnswer": "1", "status": "needs-review", "note": "The answer agrees with the key, but the scanned diagram has a pupil's pencil marks on it that cannot be cropped out: circled counting numbers next to the animals and '3 prod' written beside the rightmost submerged plant, which gives the answer away. Needs a clean copy of the diagram." }
+    },
+    {
+      "section": "a", "number": 4, "page": 3, "format": "mcq", "marks": 2,
+      "topic": "interactions-environment",
+      "subtypes": ["structural-adaptations", "behavioural-adaptations", "camouflage"],
+      "stem": "Study the information shown below.\n[[img1]]\nWhich of the following shows the type(s) and purpose of the adaptation of the stick insect?",
+      "images": [
+        { "id": "img1", "alt": "Information table beside a picture of a stick insect, which has a long thin body and long thin legs. Organism: stick insect. Diet: leaves. Appearance: looks like a twig; rough skin texture. Movement: remains motionless; sways with the tree branch when wind blows; comes out at night to feed on leaves.", "page": 3, "box": [196, 655, 748, 833] }
+      ],
+      "options": [
+        "Type(s) of adaptation: behavioural only. Purpose: to catch prey.",
+        "Type(s) of adaptation: structural only. Purpose: to avoid being spotted by predators.",
+        "Type(s) of adaptation: behavioural and structural. Purpose: to catch prey.",
+        "Type(s) of adaptation: behavioural and structural. Purpose: to avoid being spotted by predators."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 4 },
+          "explanation": [
+            "A structural adaptation is a body feature. Looking like a twig and having rough skin are structural adaptations.",
+            "A behavioural adaptation is something the animal does. Staying motionless, swaying with the branch and feeding at night are behavioural adaptations. So it has both types, not structural only.",
+            "The stick insect eats leaves, so it does not catch prey. Its adaptations help it blend in with the branches so that predators do not spot it.",
+            "The answer is option (4)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "4", "solvedAnswer": "4", "status": "verified" }
+    },
+    {
+      "section": "a", "number": 5, "page": 4, "format": "mcq", "marks": 2,
+      "topic": "diversity-living",
+      "subtypes": ["classifying-animals"],
+      "stem": "Use the information below to answer Questions 5 and 6.\n\nStudy the chart below.\n[[img1]]\nThe diagram below shows a wild cat.\n[[img2]]\nWhich letter P, Q, R or S best represents the wild cat?",
+      "images": [
+        { "id": "img1", "alt": "Classification chart. Wild cats are divided into plain fur and patterned fur. Plain fur is divided into dark fur (P) and light fur (Q). Patterned fur is divided into spots (R) and stripes (S).", "page": 4, "box": [180, 175, 690, 415] },
+        { "id": "img2", "alt": "A running wild cat with a slim body, long legs and a long tail. Its fur is covered with spots.", "page": 4, "box": [325, 468, 535, 572] }
+      ],
+      "options": ["P", "Q", "R", "S"],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 3 },
+          "explanation": [
+            "Follow the chart from the top. The wild cat in the picture has a pattern on its fur, so go to 'patterned fur', not 'plain fur'.",
+            "The pattern is made of spots, not stripes, so go to 'spots', which leads to R.",
+            "P and Q are for cats with plain fur, and S is for cats with stripes. The answer is option (3)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "3", "solvedAnswer": "3", "status": "verified" }
+    },
+    {
+      "section": "a", "number": 6, "page": 4, "format": "mcq", "marks": 2,
+      "topic": "interactions-environment",
+      "subtypes": ["structural-adaptations", "behavioural-adaptations"],
+      "stem": "Use the information below to answer Questions 5 and 6.\n\nStudy the chart below.\n[[img1]]\nThe diagram below shows a wild cat.\n[[img2]]\nThe wild cat's body temperature increases very quickly when chasing a prey. Which of the following structural adaptations helps to keep its body cool?",
+      "images": [
+        { "id": "img1", "alt": "Classification chart. Wild cats are divided into plain fur and patterned fur. Plain fur is divided into dark fur (P) and light fur (Q). Patterned fur is divided into spots (R) and stripes (S).", "page": 4, "box": [180, 175, 690, 415] },
+        { "id": "img2", "alt": "A running wild cat with a slim body, long legs and a long tail. Its fur is covered with spots.", "page": 4, "box": [325, 468, 535, 572] }
+      ],
+      "options": [
+        "Hunting in a pack",
+        "Strong leg muscles",
+        "Resting in the shade",
+        "Light coloured fur coat"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 4 },
+          "explanation": [
+            "A structural adaptation is a body feature. Hunting in a pack and resting in the shade are things the animal does, so they are behavioural adaptations.",
+            "That leaves strong leg muscles and a light coloured fur coat. Strong leg muscles help the cat run fast, but they do not cool it.",
+            "A light coloured fur coat absorbs less heat from the sun than a dark one, so it helps to keep the body cool.",
+            "The answer is option (4)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "4", "solvedAnswer": "4", "status": "verified" }
+    },
+    {
+      "section": "a", "number": 7, "page": 5, "format": "mcq", "marks": 2,
+      "topic": "interactions-environment",
+      "subtypes": ["human-impact"],
+      "stem": "Which of the following correctly shows the human activity and its negative impact on the environment?",
+      "options": [
+        "Human activity: Water pollution. Negative impact on the environment: Causes landfills to give off a bad smell.",
+        "Human activity: Burning of fossil fuels. Negative impact on the environment: Releases harmful gases into the air.",
+        "Human activity: Reforestation. Negative impact on the environment: Destroys habitats of animals.",
+        "Human activity: Overfishing. Negative impact on the environment: Keeps the number of populations in the food web balanced."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 2 },
+          "explanation": [
+            "Burning fossil fuels such as petrol and coal gives out harmful gases and carbon dioxide, which pollute the air. This pair is correct.",
+            "Reforestation means planting trees again, which creates habitats instead of destroying them. That would be deforestation.",
+            "Water pollution harms living things in the water and has nothing to do with landfills, and overfishing upsets the balance in a food web.",
+            "The answer is option (2)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "2", "solvedAnswer": "2", "status": "verified" }
+    },
+    {
+      "section": "a", "number": 8, "page": 5, "format": "mcq", "marks": 2,
+      "topic": "interactions-environment",
+      "subtypes": ["human-impact", "reading-graphs"],
+      "stem": "The graph below shows how the amount of carbon dioxide on Earth changed over time.\n[[img1]]\nWhich of the following could have caused the change in the amount of carbon dioxide?\nA  Driving cars\nB  Global warming\nC  Burning down trees\nD  Taking long showers",
+      "images": [
+        { "id": "img1", "alt": "Line graph of amount of carbon dioxide (units) against time (years). The line starts a little above zero and rises steadily in a straight line.", "page": 5, "box": [322, 388, 642, 570] }
+      ],
+      "options": ["D only", "A and C only", "B and D only", "A, B and C only"],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 2 },
+          "explanation": [
+            "The graph shows the amount of carbon dioxide increasing over time. Look for activities that add carbon dioxide to the air or stop it being removed.",
+            "A: cars burn petrol, which gives out carbon dioxide. C: burning trees gives out carbon dioxide, and there are fewer trees left to take in carbon dioxide during photosynthesis.",
+            "B: global warming is the result of having more carbon dioxide, not the cause of it. D: taking long showers wastes water and does not give out carbon dioxide directly.",
+            "A and C only: option (2)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "2", "solvedAnswer": "2", "status": "verified" }
+    },
+    {
+      "section": "a", "number": 9, "page": 5, "format": "mcq", "marks": 2,
+      "topic": "systems-plants",
+      "subtypes": ["plant-parts"],
+      "stem": "Which of the following correctly matches the plant part to its function?",
+      "options": [
+        "Plant part: Fruit. Function: To attract animals to eat it.",
+        "Plant part: Stem. Function: To take in food for the plant.",
+        "Plant part: Root. Function: To take in water for the plant.",
+        "Plant part: Leaf. Function: To take in sunlight and oxygen to make food."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 3 },
+          "explanation": [
+            "Roots take in water and mineral salts from the soil for the plant. This pair is correct.",
+            "Plants do not take in food. They make their own food in the leaves, and the stem only transports food and water.",
+            "The leaf uses sunlight, water and carbon dioxide to make food, not oxygen. The function of a fruit is to protect the seeds and help to disperse them; not every fruit is eaten by animals.",
+            "The answer is option (3)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "3", "solvedAnswer": "3", "status": "verified" }
+    },
+    {
+      "section": "a", "number": 10, "page": 6, "format": "mcq", "marks": 2,
+      "topic": "cycles-life",
+      "subtypes": ["life-cycle-of-animals", "life-cycle-of-insects"],
+      "stem": "Study the classification table below.\n[[img1]]\nWhich of the following represents K, L and M?",
+      "images": [
+        { "id": "img1", "alt": "Classification chart. Life cycle of animals is divided into 3 stages and 4 stages. 3 stages is divided into 'young does not look like adult' (K) and 'young looks like adult' (L). 4 stages leads to 'young does not look like adult' (M).", "page": 6, "box": [235, 145, 662, 365] }
+      ],
+      "options": [
+        "K: chicken. L: mealworm beetle. M: mosquito.",
+        "K: grasshopper. L: chicken. M: grasshopper.",
+        "K: frog. L: cockroach. M: butterfly.",
+        "K: butterfly. L: mosquito. M: frog."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 3 },
+          "explanation": [
+            "K has 3 stages and its young does not look like the adult. A frog has 3 stages (egg, tadpole, adult) and a tadpole does not look like a frog.",
+            "L has 3 stages and its young looks like the adult. A cockroach has 3 stages (egg, nymph, adult) and the nymph looks like a small adult without wings.",
+            "M has 4 stages. A butterfly has 4 stages: egg, larva (caterpillar), pupa and adult.",
+            "A chicken's young looks like the adult, so it cannot be K, and a mosquito and a mealworm beetle have 4 stages, so they cannot be L. The answer is option (3)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "3", "solvedAnswer": "3", "status": "verified" }
+    },
+    {
+      "section": "a", "number": 11, "page": 6, "format": "mcq", "marks": 2,
+      "topic": "cycles-life",
+      "subtypes": ["germination", "fair-test", "variables"],
+      "stem": "Heidi wanted to find out if seeds need light to germinate. Which of the following variables should she keep constant for a fair test?\nA  Type of seeds\nB  Amount of soil\nC  Presence of light\nD  Amount of water\nE  Temperature of surroundings",
+      "options": ["A and D only", "B and C only", "C, D and E only", "A, B, D and E only"],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 4 },
+          "explanation": [
+            "In a fair test only one variable is changed. Everything else must be kept the same.",
+            "Heidi wants to find out about light, so the presence of light (C) is the one variable she changes: one set-up with light and one without.",
+            "The type of seeds, amount of soil, amount of water and temperature of the surroundings (A, B, D and E) must all be kept constant.",
+            "The answer is option (4)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "4", "solvedAnswer": "4", "status": "verified" }
+    },
+    {
+      "section": "a", "number": 12, "page": 7, "format": "mcq", "marks": 2,
+      "topic": "cycles-life",
+      "subtypes": ["seed-dispersal"],
+      "stem": "The diagrams below show the seed dispersal patterns of plants A, B and C.\n[[img1]]\nWhich of the following shows how the fruits of plants A, B and C could look like?\n[[img2]]",
+      "images": [
+        { "id": "img1", "alt": "Three boxes, each with an arrow showing the wind direction from left to right, the parent plant marked by a letter and dots for seeds. Plant A: the seeds are clustered close around A. Plant B: the seeds are scattered far from B in all directions, in small groups. Plant C: the seeds are spread out to the right of C, in the direction of the wind.", "page": 7, "box": [176, 160, 765, 306] },
+        { "id": "img2", "alt": "Option table with columns A, B and C. Row (1): A is a dry pod that has split open, B is a fruit with a wing-like structure, C is a fleshy fruit cut open to show a seed inside. Row (2): A is a fruit covered with hooks, B is a split dry pod, C is a fruit with a wing-like structure. Row (3): A is a split dry pod, B is a fleshy fruit, C is a fruit with a wing-like structure. Row (4): A is a fleshy fruit, B is a fruit covered with hooks, C is a split dry pod.", "page": 7, "box": [160, 352, 775, 765] }
+      ],
+      "options": ["Option (1)", "Option (2)", "Option (3)", "Option (4)"],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 3 },
+          "explanation": [
+            "Plant A: the seeds land close to and around the parent plant. This is the pattern for dispersal by splitting (explosive action), so its fruit is a dry pod that splits open.",
+            "Plant C: the seeds are all carried in the direction of the wind, so they are dispersed by wind. Its fruit has a wing-like structure.",
+            "Plant B: the seeds are scattered far away in all directions in small groups, so they are dispersed by animals. A fleshy fruit is eaten by animals and the seeds are passed out in their droppings.",
+            "Option (1) also starts with the split pod for A, but it gives the winged fruit to B, whose seeds do not follow the wind. The answer is option (3)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "3", "solvedAnswer": "3", "status": "verified" }
+    },
+    {
+      "section": "a", "number": 13, "page": 8, "format": "mcq", "marks": 2,
+      "topic": "cycles-life",
+      "subtypes": ["pollination", "parts-of-a-flower"],
+      "stem": "The diagram below shows two flowers of the same kind.\n[[img1]]\nPollination occurs when pollen grains are transferred from ________.",
+      "images": [
+        { "id": "img1", "alt": "Cross sections of two flowers of the same kind. In the first flower, P and R are the anthers at the tips of the stalks on the left and right, and Q is the stigma at the top of the central female part. In the second flower, W and Y are the anthers on the left and right, and X is the stigma at the top of the central female part.", "page": 8, "box": [300, 142, 625, 282] }
+      ],
+      "options": [
+        "Q to R and W to X",
+        "Y to Q and X to R",
+        "P to Q and R to X",
+        "Y to R and W to P"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 3 },
+          "explanation": [
+            "Pollination is the transfer of pollen grains from an anther to a stigma. It can happen within one flower or between two flowers of the same kind.",
+            "P, R, W and Y are anthers. Q and X are stigmas. So every transfer must go from P, R, W or Y to Q or X.",
+            "P to Q is anther to stigma in the same flower, and R to X is anther to stigma in another flower of the same kind. Both are pollination.",
+            "In option (2), Y to Q is correct but X to R goes from a stigma to an anther, which is wrong. The answer is option (3)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "3", "solvedAnswer": "3", "status": "verified" }
+    },
+    {
+      "section": "a", "number": 14, "page": 8, "format": "mcq", "marks": 2,
+      "topic": "interactions-environment",
+      "subtypes": ["food-web"],
+      "stem": "The table below shows how some animals found in a community are grouped.\n[[table1]]\nWhich of the food webs below show the possible food relationships between some of these animals?\n[[img1]]",
+      "tables": [
+        { "id": "table1", "header": ["Plant-eaters", "Animal-eaters", "Plant-and-animal eaters"], "rows": [["J", "L", "Q"], ["K", "M", "R"]] }
+      ],
+      "images": [
+        { "id": "img1", "alt": "Four food webs. Web (1): Plant to J, Plant to K, K to J, K to L, L to J. Web (2): Plant to M, Plant to K, K to M, K to Q, M to Q. Web (3): Plant to Q, Plant to J, Plant to R, J to R, R to Q. Web (4): Plant to L, Plant to R, Plant to M, R to M, M to L.", "page": 8, "box": [168, 622, 762, 878] }
+      ],
+      "options": ["Food web (1)", "Food web (2)", "Food web (3)", "Food web (4)"],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 3 },
+          "explanation": [
+            "In a food web the arrow points from the food to the organism that eats it. Plant-eaters (J, K) may only have arrows from the plant. Animal-eaters (L, M) may only have arrows from animals. Q and R may have both.",
+            "Web (1) shows J eating K and L, but J is a plant-eater. Webs (2) and (4) show M or L eating the plant, but they are animal-eaters.",
+            "Web (3): Q eats the plant and R, R eats the plant and J, and J eats the plant only. Every arrow fits the table.",
+            "The answer is option (3)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "3", "solvedAnswer": "3", "status": "verified" }
+    },
+    {
+      "section": "a", "number": 15, "page": 9, "format": "mcq", "marks": 2,
+      "topic": "interactions-environment",
+      "subtypes": ["food-web", "population-change"],
+      "stem": "Study the food web below.\n[[img1]]\nA large number of organism Z migrated to the habitat. Z only fed on one organism. It was observed that the population of all other organisms decreased.\n\nWhich organism did Z feed on?",
+      "images": [
+        { "id": "img1", "alt": "Food web with organisms R, S, T and U in boxes. Arrows: R to S, R to T, T to S, S to U, T to U.", "page": 9, "box": [320, 145, 612, 295] }
+      ],
+      "options": ["R", "S", "T", "U"],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 1 },
+          "explanation": [
+            "No arrow points to R, so R is the producer. S and T feed on R, and U feeds on S and T.",
+            "If Z feeds on R, the population of R decreases. Then S and T have less food and decrease, and U has less food and decreases too. All the other organisms decrease.",
+            "If Z fed on T, S or U instead, fewer animals would be eating R (or eating their prey), so at least one population would increase.",
+            "The answer is option (1)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "1", "solvedAnswer": "1", "status": "verified", "note": "The key's answer for Q15 is partly covered by the watermark; it reads as 1 at high zoom." }
+    },
+    {
+      "section": "a", "number": 16, "page": 9, "format": "mcq", "marks": 2,
+      "topic": "cycles-matter-water",
+      "subtypes": ["air-can-be-compressed", "properties-of-matter"],
+      "stem": "More air could be pumped into a fully inflated basketball. Why is this so?",
+      "options": [
+        "Air has mass.",
+        "Air occupies space.",
+        "Air can be compressed.",
+        "Air does not have a definite shape."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 3 },
+          "explanation": [
+            "Air is a gas. A gas has no definite volume, so it can be compressed (squeezed) into a smaller space.",
+            "The ball is already full, yet more air can go in. This is possible only because the air already inside can be squeezed to make room.",
+            "Air does have mass and does occupy space, but these facts do not explain why more air can be added to a ball that is already full.",
+            "The answer is option (3)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "3", "solvedAnswer": "3", "status": "verified", "note": "The key's answer for Q16 is partly covered by the watermark; it reads as 3 at high zoom." }
+    },
+    {
+      "section": "a", "number": 17, "page": 9, "format": "mcq", "marks": 2,
+      "topic": "cycles-matter-water",
+      "subtypes": ["properties-of-matter", "changes-of-state"],
+      "stem": "A flask containing substance P was left in the classroom for an hour.\n[[img1]]\nWhich of the following statements about substance P is true after one hour?",
+      "images": [
+        { "id": "img1", "alt": "Two drawings of the same round flask, tilted with one side of its base resting on a small block. The first is labelled 'at the start' and the second 'after one hour'. In each drawing a label line for substance P points to the inside of the flask, but the substance itself is not visible in the scan.", "page": 9, "box": [320, 698, 628, 797] }
+      ],
+      "options": [
+        "Substance P increased in mass.",
+        "Substance P has no definite shape.",
+        "Substance P has no definite volume.",
+        "Substance P did not change in state."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 2 },
+          "explanation": [
+            "A solid has a definite shape and a definite volume. A liquid has a definite volume but no definite shape: it takes the shape of its container. A gas has no definite shape and no definite volume.",
+            "The key's answer means substance P was a liquid after one hour, for example a solid that melted in the warm classroom and settled into the shape of the tilted flask.",
+            "Its mass does not change when it changes state. The key gives option (2)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "2", "solvedAnswer": "cannot tell: the drawing of substance P inside the flask is not visible", "status": "needs-review", "note": "The shading that shows substance P inside the flask did not survive the scan: even at 600 dpi both flasks look empty, with only the label lines pointing inside (to the right side at the start, to the left side after one hour). Without seeing the shape of P at the start and after one hour the question cannot be answered. The answer value 2 is the key's, not independently confirmed. Needs a clean copy of the diagram." }
+    },
+    {
+      "section": "a", "number": 18, "page": 10, "format": "mcq", "marks": 2,
+      "topic": "diversity-materials",
+      "subtypes": ["properties-of-materials"],
+      "stem": "Four strips A, B, C and D made from different materials were placed in a container with blue-coloured water as shown.\n[[img1]]\nAfter one hour, the stripes were removed from the container as shown below. The shaded part of each strip shows the blue water mark on each of the stripes.\n[[img2]]\nWhich of the materials A, B, C or D is the most suitable material to make a towel and a raincoat?",
+      "images": [
+        { "id": "img1", "alt": "Four upright strips labelled A, B, C and D standing in a container of blue-coloured water. The lower part of each strip is in the water.", "page": 10, "box": [255, 140, 712, 292] },
+        { "id": "img2", "alt": "The four strips after one hour. Strip A is shaded all the way to the top. Strip B is shaded for about one third of its height. Strip C is not shaded at all. Strip D is shaded for about two thirds of its height.", "page": 10, "box": [355, 352, 530, 497] }
+      ],
+      "options": [
+        "Towel: B. Raincoat: D.",
+        "Towel: A. Raincoat: C.",
+        "Towel: A. Raincoat: B.",
+        "Towel: D. Raincoat: C."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 2 },
+          "explanation": [
+            "The higher the blue water mark, the more water the material absorbed.",
+            "A towel must absorb as much water as possible. Strip A has the highest water mark, so A is the best for a towel.",
+            "A raincoat must be waterproof. Strip C has no water mark at all, so it did not absorb any water. Strip B absorbed a little water, so it is not as good as C.",
+            "The answer is option (2)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "2", "solvedAnswer": "2", "status": "verified", "note": "The paper prints 'stripes' where it means 'strips' in the second paragraph; the wording is transcribed as printed." }
+    },
+    {
+      "section": "a", "number": 19, "page": 10, "format": "mcq", "marks": 2,
+      "topic": "energy-light-heat",
+      "subtypes": ["heat-and-temperature", "heat-gain"],
+      "stem": "Which of the following statements are true?\nA  Heat can be measured using a thermometer.\nB  Heat is a form of energy that makes things hot.\nC  Heat travels from a hotter place to a colder place.\nD  An increase in the amount of heat energy will always result in an increase in temperature.",
+      "options": ["A and D only", "B and C only", "A, B and D only", "B, C and D only"],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 2 },
+          "explanation": [
+            "Heat is a form of energy, and it always flows from a hotter place to a colder place. B and C are true.",
+            "A thermometer measures temperature, which tells us how hot or cold something is. It does not measure heat. A is false.",
+            "When ice is melting or water is boiling, it keeps gaining heat but its temperature stays the same. So gaining heat does not always raise the temperature. D is false.",
+            "B and C only: option (2)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "2", "solvedAnswer": "2", "status": "verified" }
+    },
+    {
+      "section": "a", "number": 20, "page": 11, "format": "mcq", "marks": 2,
+      "topic": "diversity-materials",
+      "subtypes": ["properties-of-materials"],
+      "stem": "Four masses were attached to four ropes W, X, Y and Z as shown below. The ropes were of similar thickness but made of different materials. When the masses were lifted by the ropes, only ropes W and Z broke.\n[[img1]]\nWhich of the statements are definitely true?\nA  Rope Y is the weakest.\nB  Rope X is the strongest.\nC  Rope W will not break when lifting a 30 kg mass.\nD  Rope X and Y will not break when lifting a 20 kg mass.",
+      "images": [
+        { "id": "img1", "alt": "Four ropes, each holding a mass. Rope W holds 40 kg. Rope X holds 80 kg. Rope Y holds 30 kg. Rope Z holds 80 kg.", "page": 11, "box": [225, 175, 692, 335] }
+      ],
+      "options": ["A and B only", "A and C only", "B and D only", "C and D only"],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 3 },
+          "explanation": [
+            "Strength is how much load a material can take before it breaks. Rope W broke at 40 kg and rope Z broke at 80 kg. Rope X held 80 kg and rope Y held 30 kg.",
+            "D: X can hold 80 kg and Y can hold 30 kg, so both can certainly hold a lighter 20 kg mass. D is definitely true.",
+            "B: X held 80 kg, which broke Z, and W broke at only 40 kg, so X is stronger than W and Z. A: Y did not break, so we cannot say it is the weakest; W broke at 40 kg. C: W was only tested with 40 kg, so we cannot be sure about 30 kg.",
+            "The key gives B and D only: option (3)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "3", "solvedAnswer": "only D is definitely true; none of the options is 'D only'", "status": "needs-review", "note": "Read strictly, only statement D is definitely true. B (rope X is the strongest) is not certain, because rope Y was only tested with 30 kg and did not break, so Y could be stronger than X. C is not certain either, because W was only tested with 40 kg. Both remaining options, (3) B and D and (4) C and D, therefore contain one statement that cannot be confirmed. The key gives (3), which treats X as the strongest because it held the heaviest mass without breaking. The answer value 3 is the key's. The masses were checked at high zoom: 40 kg, 80 kg, 30 kg, 80 kg." }
+    },
+    {
+      "section": "a", "number": 21, "page": 11, "format": "mcq", "marks": 2,
+      "topic": "interactions-magnets",
+      "subtypes": ["attraction-and-repulsion", "elastic-spring-force"],
+      "stem": "When object P was placed on the lever, the fixed spring stretched as shown in diagram 1. When object Q was placed above object P, the fixed spring stretched more as shown in diagram 2.\n[[img1]]\nWhich of the following statements is true?",
+      "images": [
+        { "id": "img1", "alt": "Diagram 1: a lever balanced on a stand like a see-saw. Object P sits on the left end of the lever. On the other side of the stand, a fixed spring connects the lever to the base. The lever is level. Diagram 2: object Q is held just above object P without touching it. The left end of the lever with P has tilted down, the right end has gone up and the spring is stretched more.", "page": 11, "box": [215, 668, 722, 852] }
+      ],
+      "options": [
+        "Object Q attracts object P.",
+        "Object P is definitely a magnet.",
+        "The spring pushed the lever upwards.",
+        "There was more gravitational force acting on object P."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 2 },
+          "explanation": [
+            "In diagram 2, the end of the lever with P moved down when Q was held above it without touching it. So Q pushed P away: Q repelled P.",
+            "Only two magnets can repel each other, when their like poles face each other. So P must be a magnet (and so must Q).",
+            "If Q attracted P, P would be pulled up and the spring would stretch less, so option (1) is wrong. The gravitational force on P does not change because its mass is the same, and a stretched spring pulls; it does not push.",
+            "The answer is option (2)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "2", "solvedAnswer": "2", "status": "verified" }
+    },
+    {
+      "section": "a", "number": 22, "page": 12, "format": "mcq", "marks": 2,
+      "topic": "interactions-forces",
+      "subtypes": ["gravity", "reading-graphs"],
+      "stem": "A ball was dropped from the top of a plastic block. It started to roll down the slide as shown in the diagram below.\n[[img1]]\nWhich of the graph correctly shows the amount of gravitational force acting on the ball at points P, Q, R and S?\n[[img2]]",
+      "images": [
+        { "id": "img1", "alt": "A ball at the top of a plastic block rolls down a slide. Point P is halfway down the slide. Point Q is at the bottom of the slide, on the ground. The ball then leaves the slide and moves through the air: point R is the highest point of its path in the air, lower than P, and point S is further along as it falls back towards the ground.", "page": 12, "box": [200, 160, 695, 302] },
+        { "id": "img2", "alt": "Four bar graphs of gravitational force (units) at points P, Q, R and S. Graph (1): P tallest, Q zero (no bar), R medium, S shorter. Graph (2): P medium, Q tallest, R shorter, S shortest. Graph (3): the bars get shorter from P to Q to R to S. Graph (4): all four bars are the same height.", "page": 12, "box": [160, 378, 735, 792] }
+      ],
+      "options": ["Graph (1)", "Graph (2)", "Graph (3)", "Graph (4)"],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 4 },
+          "explanation": [
+            "Gravitational force is the pull of the Earth on an object. It depends on the mass of the object.",
+            "The mass of the ball does not change as it rolls and bounces, so the gravitational force on it is the same at P, Q, R and S.",
+            "Graph (3) is tempting because the ball gets lower, but height changes the ball's gravitational potential energy, not the gravitational force acting on it.",
+            "All four bars must be equal: option (4)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "4", "solvedAnswer": "4", "status": "verified" }
+    },
+    {
+      "section": "a", "number": 23, "page": 13, "format": "mcq", "marks": 2,
+      "topic": "interactions-magnets",
+      "subtypes": ["making-magnets", "magnetic-materials"],
+      "stem": "An iron rod was stroked 20 times with a magnet as shown in diagram 1. Diagram 2 shows the poles AB after it was stroked.\n[[img1]]\nPenny used a bar magnet to stroke a copper rod as shown below.\n[[img2]]\nWhich of the following observation(s) is / are possible when a bar magnet was brought near parts X and Y?\nA  Part Y will repel the North pole of the bar magnet.\nB  Part X will be attracted to the North pole of the bar magnet.\nC  Part X will be attracted to the South pole of the bar magnet.\nD  Both ends of the rod will not be attracted to the bar magnet.",
+      "images": [
+        { "id": "img1", "alt": "Diagram 1: a magnet is held at a slant with its N pole touching an iron rod AB. A dotted arrow shows the magnet stroking along the rod from A to B, then being lifted and brought back to A in a loop. Diagram 2: the rod after stroking, with end A marked N and end B marked S.", "page": 13, "box": [262, 152, 708, 338] },
+        { "id": "img2", "alt": "A bar magnet is held at a slant with its S pole touching a copper rod and its N pole at the top. A dotted arrow shows the magnet stroking along the copper rod from end X to end Y, then being lifted and brought back in a loop.", "page": 13, "box": [385, 388, 602, 552] }
+      ],
+      "options": ["B only", "D only", "A and B only", "C and D only"],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 2 },
+          "explanation": [
+            "Only magnetic materials such as iron and steel can be made into magnets by the stroking method.",
+            "Copper is a metal, but it is not a magnetic material. Stroking it with a magnet does not turn it into a magnet, and a magnet does not attract it.",
+            "So neither end of the copper rod will be attracted to or repelled by the bar magnet. Only D is possible; A, B and C would need the rod to be a magnet or a magnetic material.",
+            "The answer is option (2)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "2", "solvedAnswer": "2", "status": "verified" }
+    },
+    {
+      "section": "a", "number": 24, "page": 14, "format": "mcq", "marks": 2,
+      "topic": "energy-light-heat",
+      "subtypes": ["shadows"],
+      "stem": "Study the diagram below. The lamps were directly above the wooden blocks.\n[[img1]]\nWhich of the following shadows would most likely be observed on screens A and B?\n[[img2]]",
+      "images": [
+        { "id": "img1", "alt": "Two set-ups. On the left, a lamp hangs directly above a wooden block shaped like a cube that is turned so that it looks like a diamond, with screen A lying flat below it. On the right, a lamp hangs directly above a wooden block shaped like a cylinder lying on its side, with screen B lying flat below it.", "page": 14, "box": [320, 118, 608, 302] },
+        { "id": "img2", "alt": "Option table with columns Screen A and Screen B. Row (1): A is a diamond shape, B is a rectangle. Row (2): A is a diamond shape, B is a circle. Row (3): A is a square, B is a circle. Row (4): A is a rectangle, B is a rectangle.", "page": 14, "box": [165, 365, 757, 622] }
+      ],
+      "options": ["Option (1)", "Option (2)", "Option (3)", "Option (4)"],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 1 },
+          "explanation": [
+            "A shadow is formed when an opaque object blocks light. Its shape is the outline of the object as seen from the light source.",
+            "The lamp is directly above each block, so think about how each block looks from above.",
+            "The cylinder is lying on its side. From above, its curved side looks like a rectangle, so the shadow on screen B is a rectangle, not a circle. A circle would be seen only if the lamp shone on its flat end.",
+            "The cube is turned so that its corners point outwards, so its shadow on screen A is a diamond shape. The answer is option (1)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "1", "solvedAnswer": "1", "status": "verified", "note": "The shadow on screen B (a rectangle, because the cylinder lies on its side) is certain. For screen A the small drawing shows the cube as a diamond; this is read as a cube turned so that its outline seen from the lamp is a diamond, which gives option (1) and matches the key. If the cube were instead balanced on one edge, its shadow would be a rectangle (option 4)." }
+    },
+    {
+      "section": "a", "number": 25, "page": 14, "format": "mcq", "marks": 2,
+      "topic": "cycles-matter-water",
+      "subtypes": ["evaporation-rate", "heat-gain"],
+      "stem": "Which of the following explains why a puddle of water on the ground becomes smaller and finally disappears after a while?",
+      "options": [
+        "The water loses heat to the cooler ground and evaporated.",
+        "The water gains heat from the cooler ground and evaporated.",
+        "The water loses heat to the warmer surrounding air and evaporated.",
+        "The water gains heat from the warmer surrounding air and evaporated."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 4 },
+          "explanation": [
+            "Evaporation is the change of liquid water into water vapour. Water must gain heat to evaporate.",
+            "Heat always flows from a hotter place to a colder place. So the water gains heat from the warmer surrounding air.",
+            "Water cannot gain heat from something cooler than itself, and it cannot lose heat to something warmer, so options (2) and (3) are impossible. Losing heat would not make it evaporate.",
+            "The answer is option (4)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "4", "solvedAnswer": "4", "status": "verified", "note": "The key's answer for Q25 is partly covered by the watermark; it reads as 4 at high zoom." }
+    },
+    {
+      "section": "a", "number": 26, "page": 15, "format": "mcq", "marks": 2,
+      "topic": "cycles-matter-water",
+      "subtypes": ["melting", "fair-test", "variables"],
+      "stem": "Study the set-ups below.\n[[img1]]\nWhich of the following shows the correct pair of set-ups to use to investigate the aim?",
+      "images": [
+        { "id": "img1", "alt": "Four set-ups, each a container holding three ice cubes. Set-up W (placed indoors): a hair dryer blows at the ice cubes. Set-up X (placed indoors): ice cubes only. Set-up Y (placed indoors): salt is sprinkled on the ice cubes. Set-up Z (placed in the sun): ice cubes only.", "page": 15, "box": [200, 138, 735, 302] }
+      ],
+      "options": [
+        "Set-ups: X and Y. Aim: To find out if salt will speed up the melting of ice.",
+        "Set-ups: W and Z. Aim: To find out if the presence of light will speed up the melting of ice.",
+        "Set-ups: W and Y. Aim: To find out if the presence of wind will slow down the melting of ice.",
+        "Set-ups: Y and Z. Aim: To find out if increase in the amount of heat will speed up the melting of ice."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 1 },
+          "explanation": [
+            "For a fair test, the two set-ups must differ in only one variable, and that variable must be the one named in the aim.",
+            "X and Y are both indoors with the same ice cubes. The only difference is that Y has salt. So X and Y can be used to find out if salt speeds up melting.",
+            "W and Z differ in two ways (hair dryer and place), W and Y differ in two ways (hair dryer and salt), and Y and Z differ in two ways (salt and place). These are not fair tests.",
+            "The answer is option (1)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "1", "solvedAnswer": "1", "status": "verified", "note": "Option (2) is printed as 'speed up the malting of ice'; it is transcribed as 'melting'." }
+    },
+    {
+      "section": "a", "number": 27, "page": 15, "format": "mcq", "marks": 2,
+      "topic": "energy-light-heat",
+      "subtypes": ["heat-gain", "experiment-design", "variables"],
+      "stem": "Study the set-up below. When the heat lamp was switched on, the temperature of the air inside the glass box increased.\n[[img1]]\nThe temperature of the air in the box was measured every 2 minutes when distance y is 5 cm. The experiment was repeated when distance y is 10 cm and 15 cm.\n\nWhich of the following is a possible hypothesis for the experiment?",
+      "images": [
+        { "id": "img1", "alt": "A heat lamp points at a piece of cardboard that stands against one side of a glass box. The distance between the heat lamp and the cardboard is labelled y. A thermometer is inserted through the top of the glass box to measure the temperature of the air inside.", "page": 15, "box": [195, 621, 705, 767] }
+      ],
+      "options": [
+        "The thicker the cardboard, the lower the temperature of the air in the box.",
+        "The greater the distance y, the lower the temperature of the air in the box.",
+        "The greater the distance y, the shorter the time taken for the heat to pass through the cardboard.",
+        "The greater the amount of heat produced by the lamp, the higher the temperature of the air in the box."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 2 },
+          "explanation": [
+            "A hypothesis links the variable that is changed to the variable that is measured.",
+            "The variable changed is distance y (5 cm, 10 cm, 15 cm). The variable measured is the temperature of the air in the box.",
+            "Only option (2) links distance y to the temperature of the air. It also makes sense: the further the lamp, the less heat reaches the box.",
+            "Option (3) uses distance y but the time for heat to pass through was not measured. The thickness of the cardboard and the lamp were not changed. The answer is option (2)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "2", "solvedAnswer": "2", "status": "verified" }
+    },
+    {
+      "section": "a", "number": 28, "page": 16, "format": "mcq", "marks": 2,
+      "topic": "systems-electrical",
+      "subtypes": ["conductors-and-insulators", "series-and-parallel", "closed-circuit"],
+      "stem": "The diagrams below show two circuits A and B.\n[[img1]]\nThe table below shows which bulbs lit up in the two circuits.\n[[table1]]\nWhich of the following is correct?",
+      "images": [
+        { "id": "img1", "alt": "Circuit A: a battery with material U and bulb 3 next to it in the main path. Two branches are connected in parallel: material T with bulb 2, and material R with bulb 1. Material S is on the wire that leads only to the branch with R and bulb 1. Circuit B: a battery with material R and bulb 3 next to it in the main path. Two branches are connected in parallel: an unlabelled material with bulb 2, and material T with bulb 1. Material U is on the wire that leads only to the branch with T and bulb 1.", "page": 16, "box": [290, 122, 632, 342] }
+      ],
+      "tables": [
+        { "id": "table1", "header": [{ "t": "Circuit", "rowspan": 2 }, { "t": "Did the bulb light up?", "colspan": 3 }], "rows": [["**Bulb 1**", "**Bulb 2**", "**Bulb 3**"], ["A", "No", "Yes", "Yes"], ["B", "Yes", "No", "Yes"]] }
+      ],
+      "options": [
+        "Electrical conductor(s): T and U. Electrical insulator(s): R. Not possible to tell: S.",
+        "Electrical conductor(s): S. Electrical insulator(s): R, T and U. Not possible to tell: none.",
+        "Electrical conductor(s): R, T and U. Electrical insulator(s): S. Not possible to tell: none.",
+        "Electrical conductor(s): R and S. Electrical insulator(s): T. Not possible to tell: U."
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 3 },
+          "explanation": [
+            "A bulb lights up only when every material in its path is an electrical conductor, so that the circuit is closed.",
+            "Circuit B: bulb 3 lit up, so R is a conductor. Bulb 1 lit up, so T and U are conductors.",
+            "Circuit A: bulb 1 did not light up. Its path goes through S and R. R is a conductor (from circuit B), so S must be the insulator. Bulbs 2 and 3 lit up, which agrees with T and U being conductors.",
+            "So R, T and U are conductors and S is an insulator. Option (1) is tempting if you look at circuit A alone, but circuit B shows that R conducts. The answer is option (3)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "3", "solvedAnswer": "3", "status": "verified", "note": "In circuit B the box in the bulb 2 branch has no letter in the scan (it is presumably S). The answer does not depend on it: circuit B shows R, T and U are conductors, and circuit A then shows S is an insulator. In the option table a dash is printed under 'Not possible to tell' for options (2) and (3); it is transcribed as 'none'." }
+    },
+    {
+      "section": "a", "number": 29, "page": 17, "format": "mcq", "marks": 2,
+      "topic": "energy-forms",
+      "subtypes": ["energy-conversion"],
+      "stem": "The diagram below shows a solar powered water feature. The solar panel enables the water pump to pump water up to the jar. Water then flows down to the base container.\n[[img1]]\nWhich of the following shows the main energy conversion that allows the water to reach the jug?",
+      "images": [
+        { "id": "img1", "alt": "A solar powered water feature. A solar panel is connected to a water pump in a large base container of water. A water pipe goes from the pump up to a jug at the top. Water flows out of the jug down through three small bowls and back into the base container.", "page": 17, "box": [205, 180, 750, 397] }
+      ],
+      "options": [
+        "Heat energy → Electrical energy → Kinetic energy + Potential energy",
+        "Light energy → Electrical energy → Kinetic energy → Potential energy",
+        "Heat energy → Electrical energy → Potential energy + Sound energy",
+        "Light energy → Electrical energy → Sound energy → Potential energy"
+      ],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 2 },
+          "explanation": [
+            "A solar panel converts light energy from the Sun into electrical energy. It does not use heat energy, so options (1) and (3) are wrong.",
+            "The electrical energy runs the pump, which makes the water move: kinetic energy of the water.",
+            "As the moving water rises up the pipe to the jug, its kinetic energy is converted into gravitational potential energy. Sound is not the main energy that lifts the water.",
+            "The answer is option (2)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "2", "solvedAnswer": "2", "status": "verified", "note": "The stem says 'jar' once where the diagram and the question say 'jug'; transcribed as printed." }
+    },
+    {
+      "section": "a", "number": 30, "page": 18, "format": "mcq", "marks": 2,
+      "topic": "energy-forms",
+      "subtypes": ["potential-and-kinetic-energy", "reading-graphs"],
+      "stem": "The diagram shows a boy playing on a swing.\n[[img1]]\nWhich of the following graphs show the correct energy changes of the swing with height?\n[[img2]]",
+      "images": [
+        { "id": "img1", "alt": "A boy on a swing shown at the highest point on each side of his swing. A dotted curve shows the path of the swing through the lowest point in the middle. An arrow labelled 'height' shows the height of the swing above its lowest point.", "page": 18, "box": [298, 140, 565, 312] },
+        { "id": "img2", "alt": "Four graphs of energy against height (m). Graph (1): a dotted kinetic energy line rises from zero to a peak, then a solid potential energy line falls from the peak to zero. Graph (2): the solid potential energy line rises from zero as height increases, while the dotted kinetic energy line falls from its greatest value to zero. Graph (3): a solid potential energy line rises from zero to a peak, then a dotted kinetic energy line falls from the peak to zero. Graph (4): the solid potential energy line falls from its greatest value to zero as height increases, while the dotted kinetic energy line rises from zero.", "page": 18, "box": [165, 375, 742, 802] }
+      ],
+      "options": ["Graph (1)", "Graph (2)", "Graph (3)", "Graph (4)"],
+      "parts": [
+        {
+          "label": "",
+          "answer": { "type": "mcq", "value": 2 },
+          "explanation": [
+            "The higher the swing, the more gravitational potential energy it has. So the potential energy line must go up as height increases.",
+            "As the swing rises, its kinetic energy is converted into potential energy and it slows down. At the highest point it stops for a moment, so its kinetic energy is zero there. The kinetic energy line must go down as height increases.",
+            "Graph (2) shows potential energy rising and kinetic energy falling as height increases. Graph (4) shows the opposite.",
+            "The answer is option (2)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "2", "solvedAnswer": "2", "status": "verified" }
+    },
+    {
+      "section": "b", "number": 31, "page": 20, "format": "structured", "marks": 2,
+      "topic": "interactions-environment",
+      "subtypes": ["habitat-conditions", "experiment-design", "fair-test"],
+      "stem": "Jovan wanted to investigate the preferred living conditions of organism Z. He covered parts C and D with black paper. Then he placed some organism Z in the middle of the tray as shown below.\n[[img1]]\nAt the end of the experiment, most organism Z were found at part D of the tray.",
+      "images": [
+        { "id": "img1", "alt": "A square tray divided into four equal parts, with organism Z in a circle at the centre. Part A (top left) and part C (bottom left) are darkly shaded. Part B (top right) and part D (bottom right) are lightly shaded. Legend: the dark shading is dry soil; the light box is wet soil.", "page": 20, "box": [203, 203, 718, 372] }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "What can Jovan conclude about the preferred living conditions of organism Z?",
+          "marks": 1,
+          "answer": { "type": "self", "value": "Organism Z prefers to live in dark and wet (moist) conditions." },
+          "explanation": [
+            "Work out the conditions at part D. From the legend, parts B and D have wet soil. Parts C and D are covered with black paper, so they are dark.",
+            "Part D is the only part that is both dark and wet, and most of organism Z moved there.",
+            "The marker looks for both conditions: dark and wet (damp or moist)."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "Why did Jovan place organism Z in the middle of the tray at the start?",
+          "marks": 1,
+          "answer": { "type": "self", "value": "So that organism Z is at an equal distance from all four parts and has an equal chance of moving to any of the four parts. This makes the test fair, because the results are not affected by where the organisms started." },
+          "explanation": [
+            "This is about a fair test. If the organisms started nearer one part, more of them might end up there just because it was closer.",
+            "Starting in the middle gives every part the same distance and the same chance.",
+            "Key phrases: equal distance or equal chance of moving to any of the four parts."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "a) Organism Z prefers dark and moist conditions.  b) This gives every organism Z an equal distance / opportunity to move to any of the four parts, avoiding bias due to its starting position.", "solvedAnswer": "agrees with key", "status": "verified", "note": "In the scan the legend's 'Wet soil' box looks blank while parts B and D of the tray are lightly shaded; the darkly shaded parts A and C match the 'Dry soil' box, so B and D are wet soil." }
+    },
+    {
+      "section": "b", "number": 32, "page": 21, "format": "structured", "marks": 3,
+      "topic": "interactions-environment",
+      "subtypes": ["human-impact", "competition-for-light", "reading-tables"],
+      "stem": "Water was taken from three parts X, Y and Z of a river. A block was placed at the bottom of the container. Water from X was then poured into the container until the block could no longer be seen. The height of water, h, was recorded as shown below.\n[[img1]]\nThe experiment was repeated with water collected from Y and Z. The results are recorded in the table below.\n[[table1]]",
+      "images": [
+        { "id": "img1", "alt": "An eye looks down from directly above into a tall container. A block sits at the bottom of the container, covered by water from X. The height of the water in the container is labelled h.", "page": 21, "box": [318, 168, 622, 322] },
+        { "id": "img2", "alt": "A river with an arrow showing the direction of water flow from left to right. Point X is furthest upstream. Building A stands on the bank beside the river between X and Y. Point Y is further downstream. Building B is built across the river between Y and Z. Point Z is downstream of building B.", "page": 21, "box": [215, 690, 702, 852] }
+      ],
+      "tables": [
+        { "id": "table1", "header": ["Part of the river", "X", "Y", "Z"], "rows": [["h (cm)", "15", "4", "26"]] }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "Based on the results, which part of the river X, Y or Z would have the greatest number of submerged plants growing? Explain your answer.",
+          "marks": 2,
+          "answer": { "type": "self", "value": "Part Z. The greatest height of water (26 cm) was needed before the block could no longer be seen, so the water at Z is the clearest. The most light can pass through the water at Z to reach the submerged plants, so they can photosynthesise and make the most food." },
+          "explanation": [
+            "Read the table: the clearer the water, the more water is needed to hide the block. Z has the greatest h (26 cm), so its water is the clearest.",
+            "Link clear water to light: clear water lets the most light through to plants growing under the water.",
+            "Link light to the plants: submerged plants need light to photosynthesise and make food, so more of them can grow at Z.",
+            "One mark is for choosing Z with the evidence from the table, and one mark is for the light and photosynthesis reason."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "The diagram below shows the different parts of the river where water was collected from.\n[[img2]]\nBased on the above information, suggest a possible purpose of building B.",
+          "marks": 1,
+          "answer": { "type": "self", "value": "Building B could be a water treatment plant (a filter) that removes dirt and pollutants from the river water, so the water becomes cleaner and clearer after passing through it." },
+          "explanation": [
+            "Compare the water just before and just after building B. At Y, before B, h is only 4 cm, so the water is very murky. At Z, after B, h is 26 cm, so the water is very clear.",
+            "The water became much clearer after flowing through building B, so B must be cleaning the water.",
+            "Any sensible purpose that removes dirt or pollutants from the water is accepted."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "a) Z. Its water is the clearest because the greatest depth (26 cm) is needed before the block can no longer be seen. Hence, the most light can pass through the water for submerged plants to photosynthesise.  b) Building B could be a water-treatment facility that removes dirt / pollutants from the river water.", "solvedAnswer": "agrees with key", "status": "verified" }
+    },
+    {
+      "section": "b", "number": 33, "page": 22, "format": "structured", "marks": 5,
+      "topic": "interactions-environment",
+      "subtypes": ["behavioural-adaptations", "structural-adaptations", "reading-tables"],
+      "stem": "Ann tapped the chopstick up and down in the water, causing water ripples to be formed. The water ripples moved the leaf and she measured the distance x as shown in the diagram below.\n[[img1]]\nShe repeated the experiment with different number of taps and recorded the results in the table below.\n[[table1]]",
+      "images": [
+        { "id": "img1", "alt": "A rectangular tank of water. A hand taps a chopstick up and down in the water at one end, making ripples that spread out. A leaf floats on the water. Its starting position is near the chopstick and its final position is further away from the chopstick. The distance between the two positions is labelled x.", "page": 22, "box": [190, 132, 660, 300] },
+        { "id": "img2", "alt": "Two male organism C, which are water insects with flat oval bodies and a pair of front legs like pincers. The one on the left is larger than the one on the right.", "page": 22, "box": [345, 675, 540, 838] },
+        { "id": "img3", "alt": "A male organism C seen from above. Its back (the hard outer covering) is covered with many eggs, labelled 'eggs'.", "page": 23, "box": [395, 122, 585, 282] }
+      ],
+      "tables": [
+        { "id": "table1", "header": ["Number of taps of the chopstick", "Distance x (cm)"], "rows": [["5", "2"], ["10", "3"], ["15", "5"]] }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "Based on the results, state the relationship between the number of taps of the chopstick and distance x.",
+          "marks": 1,
+          "answer": { "type": "self", "value": "As the number of taps of the chopstick increases, distance x increases." },
+          "explanation": [
+            "Read down the table: 5 taps give 2 cm, 10 taps give 3 cm and 15 taps give 5 cm.",
+            "State the relationship with the changed variable first: as the number of taps increases, distance x increases."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "Organism C lives in water. Male organism C moves its body up and down to create water ripples. When the female organism C senses the water ripples, it moves towards the male.\n\nThe diagram below shows two male organism C of different sizes. It was observed that the larger organism C can move its body up and down more times per minute.\n[[img2]]\nFrom the experimental results and above information, explain why the larger organism C have a higher chance of attracting a mate.",
+          "marks": 2,
+          "answer": { "type": "self", "value": "The larger organism C moves its body up and down more times per minute, so it creates more water ripples. From the experiment, more taps moved the leaf a greater distance, so its ripples can travel further. Females that are further away (more females) can sense the ripples and move towards the larger male." },
+          "explanation": [
+            "Link the organism to the experiment: moving the body up and down is like tapping the chopstick. More movements per minute is like more taps.",
+            "Use the result: more taps made the leaf move further, so more ripples reach a greater distance.",
+            "Finish with the effect on mating: females further away, and so more females, can sense the ripples and move towards the larger male.",
+            "One mark is for more movements giving more ripples that travel further, and one mark is for more or further females sensing them."
+          ]
+        },
+        {
+          "label": "c",
+          "prompt": "Male organism C are seen to carry eggs on their hard outer covering as shown below.\n[[img3]]\nHow does this adaptation help the eggs to survive better?",
+          "marks": 1,
+          "answer": { "type": "self", "value": "The eggs stay with the male on its hard outer covering, so they are protected from predators that would eat them (and from being damaged or washed away). This increases the chance that the eggs survive and hatch." },
+          "explanation": [
+            "Eggs left on their own are easily eaten by predators.",
+            "Eggs carried on the male's hard back are protected, and the male can move them away from danger.",
+            "The key idea is protection of the eggs from predators or damage, so that more eggs survive."
+          ]
+        },
+        {
+          "label": "d",
+          "prompt": "Organism C is observed to swim to the water surface and expose the eggs to the air above water several times a day. Give a reason for this behaviour.",
+          "marks": 1,
+          "answer": { "type": "self", "value": "The eggs need oxygen to develop. Exposing the eggs to the air above the water allows them to get enough oxygen." },
+          "explanation": [
+            "Eggs are living things. They need oxygen for respiration so that the young inside can develop.",
+            "There is much more oxygen in the air than dissolved in the water, so bringing the eggs to the surface lets them take in enough oxygen.",
+            "The key word is oxygen (or air)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "a) As the number of taps increases, distance x increases.  b) A larger male moves its body up and down more times per minute, producing more ripples. The ripples move the leaf farther / travel farther, so females farther away can detect them and move towards the male.  c) Carrying the eggs on its hard outer covering protects them from predators / physical damage, increasing their chances of survival.  d) The eggs need oxygen for respiration and development; exposing them to air allows them to obtain sufficient oxygen.", "solvedAnswer": "agrees with key", "status": "verified", "note": "In the results table the first distance has a stray pencil mark over it; it reads as 2 cm. The mark bracket for part (d) is cut off at the page edge and reads as [1]." }
+    },
+    {
+      "section": "b", "number": 34, "page": 23, "format": "structured", "marks": 3,
+      "topic": "interactions-environment",
+      "subtypes": ["food-web", "food-chain", "population-change"],
+      "stem": "Study the food web below.\n[[img1]]",
+      "images": [
+        { "id": "img1", "alt": "Food web with organisms A, B, C, D, E, F and G. Arrows: A to B, A to C, B to C, B to D, B to F, D to E, F to G, G to E.", "page": 23, "box": [305, 572, 572, 698] }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "How many food chains are there in the food web above?",
+          "marks": 1,
+          "answer": { "type": "number", "value": "4" },
+          "explanation": [
+            "A food chain starts at the producer (A, which has no arrow pointing to it) and follows the arrows until it reaches an organism that nothing eats.",
+            "List them: A → C. A → B → C. A → B → D → E. A → B → F → G → E.",
+            "There are 4 food chains."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "What would happen to the population of D when the population of C decreases?",
+          "marks": 2,
+          "answer": { "type": "self", "value": "The population of D would increase. When the population of C decreases, fewer B are eaten by C, so the population of B increases. There is then more food for D, which feeds on B, so the population of D increases." },
+          "explanation": [
+            "Find the link between C and D. They are not joined directly, but both feed on B.",
+            "Fewer C means fewer B are eaten, so the population of B increases.",
+            "D feeds on B. More B means more food for D, so the population of D increases.",
+            "One mark is for the effect on B with the reason, and one mark is for the increase in D because it has more food."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "a) 4  b) The population of D would increase. With fewer C feeding on B, the population of B would increase, providing more food for D.", "solvedAnswer": "agrees with key", "status": "verified" }
+    },
+    {
+      "section": "b", "number": 35, "page": 24, "format": "structured", "marks": 4,
+      "topic": "energy-photosynthesis",
+      "subtypes": ["rate-of-photosynthesis", "reading-graphs", "experiment-design"],
+      "stem": "Wayne wanted to find out how the distance between the torch and water plant, d, affects the rate of photosynthesis as shown in diagram 1.\n\nAfter 2 hours, he observed some changes to the height of gas column as shown in diagram 2.\n[[img1]]\nHe repeated the experiment by changing d and recorded the height of gas column in the graph below.\n[[img2]]",
+      "images": [
+        { "id": "img1", "alt": "Diagram 1: a beaker of water with a water plant at the bottom under an upside-down funnel. A test tube filled with water is placed upside down over the stem of the funnel. A torch shines at the beaker from the side, and the distance between the torch and the water plant is labelled d. Diagram 2: the same set-up after 2 hours, with a space at the top of the test tube labelled 'height of gas column'.", "page": 24, "box": [135, 198, 722, 397] },
+        { "id": "img2", "alt": "Line graph of height of gas column (cm) against d (cm). The straight line starts high on the vertical axis and slopes steadily downwards as d increases.", "page": 24, "box": [228, 458, 662, 668] }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "Explain why the height of gas column decreased as d increased.",
+          "marks": 2,
+          "answer": { "type": "self", "value": "As d increased, the torch was further away, so less light reached the water plant. The rate of photosynthesis of the water plant decreased, so less oxygen was produced and the gas column was shorter." },
+          "explanation": [
+            "Start with the light: a greater distance d means less light reaches the plant.",
+            "Link light to the process: with less light, the rate of photosynthesis decreases.",
+            "Link the process to the gas: photosynthesis gives out oxygen, and the oxygen collects at the top of the test tube. Less oxygen means a shorter gas column.",
+            "One mark is for less light giving a lower rate of photosynthesis, and one mark is for less oxygen being produced."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "Besides the height of gas column, state another way he could measure the rate of photosynthesis of the water plant.",
+          "marks": 1,
+          "answer": { "type": "self", "value": "He could count the number of oxygen bubbles produced by the water plant in a fixed time, for example the number of bubbles per minute." },
+          "explanation": [
+            "The oxygen made during photosynthesis leaves the water plant as bubbles.",
+            "The faster the rate of photosynthesis, the more bubbles are produced each minute.",
+            "The answer must include a fixed time (per minute), not just 'count the bubbles'."
+          ]
+        },
+        {
+          "label": "c",
+          "prompt": "He repeated the experiment using a similar set-up with two water plants. Draw a line in the above graph to show the results of his experiment. (Draw it on your canvas.)",
+          "marks": 1,
+          "answer": { "type": "self", "value": "Draw a second line that is above the original line at every value of d and also slopes downwards as d increases." },
+          "explanation": [
+            "Two water plants carry out more photosynthesis than one, so more oxygen is produced at every distance. The new line must be higher than the original line everywhere.",
+            "Light still decreases as d increases, so the new line must still slope downwards."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "a) As d increases, less light reaches the water plant. Its rate of photosynthesis decreases, so less oxygen is produced and the gas column is shorter.  b) Count the number of oxygen bubbles produced per unit time (for example, bubbles per minute).  c) Draw a decreasing line above the original line at every value of d (same general downward trend).", "solvedAnswer": "agrees with key", "status": "verified" }
+    },
+    {
+      "section": "b", "number": 36, "page": 25, "format": "structured", "marks": 3,
+      "topic": "cycles-life",
+      "subtypes": ["seed-dispersal"],
+      "stem": "",
+      "images": [
+        { "id": "img1", "alt": "Fruit from plant E: a dry pod with seeds, split open. Fruit from plant G: a berry-like fruit labelled 'sweet and fleshy with small indigestible seeds'.", "page": 25, "box": [215, 240, 682, 392] },
+        { "id": "img2", "alt": "Two islands separated by sea. Island A is larger and has plant E, plant G and several animals on it. Island B is smaller and has no plants or animals.", "page": 25, "box": [215, 568, 682, 735] }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "Why do plants need to disperse their seeds?",
+          "marks": 1,
+          "answer": { "type": "self", "value": "To prevent overcrowding, so that the young plants do not have to compete with the parent plant and with one another for sunlight, water, mineral salts and space." },
+          "explanation": [
+            "Seeds that fall right beside the parent plant grow up crowded together.",
+            "Crowded plants compete for sunlight, water, mineral salts and space, so they grow poorly.",
+            "Key phrases: reduce overcrowding and competition, and name the things the plants compete for."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "The diagram below shows the fruits of plants E and G.\n[[img1]]\nState the dispersal method of the fruits of plants E and G.\nFruit of plant E: ___\nFruit of plant G: ___",
+          "marks": 1,
+          "answer": { "type": "self", "value": "Fruit of plant E: by splitting (explosive action). Fruit of plant G: by animals." },
+          "explanation": [
+            "Fruit E is a dry pod. When a pod dries, it splits open with force and flings the seeds out. This is dispersal by splitting or explosive action.",
+            "Fruit G is sweet and fleshy with small seeds that cannot be digested. Animals eat the fruit and pass the seeds out in their droppings. This is dispersal by animals.",
+            "Each method is worth half a mark."
+          ]
+        },
+        {
+          "label": "c",
+          "prompt": "The diagram below shows two islands A and B. At first, plants E and G were found only on island A.\n[[img2]]\nAfter a few years, scientists discovered some young plants on island B. These young plants resembled those from island A.\n\nWhich plant, E or G, could the young plants on island B be? Explain your answer.",
+          "marks": 1,
+          "answer": { "type": "self", "value": "Plant G. Animals such as birds could eat the sweet, fleshy fruits of plant G on island A, travel to island B and pass out the small indigestible seeds in their droppings there. The seeds of plant E are dispersed by splitting, so they cannot travel far enough to cross the sea." },
+          "explanation": [
+            "Island B is far from island A, across the sea. The seeds must have been carried over a long distance.",
+            "Splitting only throws seeds a short distance from the parent plant, so plant E's seeds cannot reach island B.",
+            "Animals that eat fruit G can travel to island B and pass out the indigestible seeds in their droppings, where the seeds grow into young plants.",
+            "The mark needs both the choice (G) and the reason (carried by animals and passed out in droppings on island B)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "a) To reduce overcrowding and competition among the parent plant and seedlings for light, water, mineral salts and space.  b) Plant E — splitting / explosive action; Plant G — animals.  c) Plant G. An animal could eat its sweet, fleshy fruit and carry the small indigestible seeds to island B, where the seeds are passed out in its droppings.", "solvedAnswer": "agrees with key", "status": "verified" }
+    },
+    {
+      "section": "b", "number": 37, "page": 26, "format": "structured", "marks": 3,
+      "topic": "energy-light-heat",
+      "subtypes": ["light-travels-in-straight-lines", "how-we-see", "reflection-of-light"],
+      "stem": "Nora set up the following experiment using cardboards each with a hole in them as shown in diagram 1 below.\n[[img1]]\nWhen she looked through the hole in cardboard A, she was able to see the flame on the lighted candle. However, when she moved cardboard B to the position shown in diagram 2, she could no longer see the flame.",
+      "images": [
+        { "id": "img1", "alt": "Diagram 1: three cardboards A, B and C stand one behind another in front of a lighted candle. Each cardboard has a hole, and a dotted straight line passes through all three holes to the candle flame. Diagram 2: cardboard B has been moved to one side so that its hole is no longer in line with the holes in A and C.", "page": 26, "box": [213, 118, 642, 282] },
+        { "id": "img2", "alt": "A girl looks through a hole in the side of a black box. Inside the box, a wooden board stands between the hole and a ball. A light source is behind the wooden board, on the same side as the ball, and shines on the ball. Position Q is at the top corner of the box above the ball.", "page": 26, "box": [293, 473, 602, 627] }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "What property of light is shown in Nora's experiment?",
+          "marks": 1,
+          "answer": { "type": "self", "value": "Light travels in straight lines." },
+          "explanation": [
+            "Nora saw the flame only when the three holes were in a straight line.",
+            "When cardboard B was moved, the light could not bend to pass through its hole, so it was blocked. This shows that light travels in straight lines."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "Nora conducted another experiment using a black box as shown below.\n[[img2]]\nWhen she looked through the hole in the box, she could not see the ball even though the box was bright inside. Explain why.",
+          "marks": 1,
+          "answer": { "type": "self", "value": "The wooden board is opaque and is between the ball and the hole. It blocks the light reflected by the ball, so the reflected light cannot enter Nora's eyes." },
+          "explanation": [
+            "We see an object when light from it enters our eyes. The ball does not give out light, so Nora can see it only if light reflected by the ball enters her eyes.",
+            "The light source shines on the ball and the ball reflects the light, but light travels in straight lines and the opaque wooden board is in the way.",
+            "Key idea: the wooden board blocks the light reflected by the ball from entering her eyes."
+          ]
+        },
+        {
+          "label": "c",
+          "prompt": "Suggest what could be added inside the box at position Q so that Nora can see the ball clearly.",
+          "marks": 1,
+          "answer": { "type": "self", "value": "A mirror could be added at position Q (to reflect light from the ball over the wooden board into Nora's eyes)." },
+          "explanation": [
+            "Light reflected by the ball cannot pass through the wooden board, so it needs another path to Nora's eyes.",
+            "A mirror at Q reflects the light from the ball over the top of the board and through the hole to her eyes.",
+            "The answer is a mirror (a smooth, shiny surface that reflects light well)."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "a) Light travels in straight lines.  b) The wooden board blocks light from the source from reaching the ball. Thus, no light reflected by the ball enters Nora's eye.  c) Add a plane mirror at Q, angled to reflect light from the source onto the ball.", "solvedAnswer": "(a) agrees with key. (b) and (c) disagree with the key's reasoning: the diagram shows the light source behind the board, on the ball's side, so light does reach the ball; the board blocks the light reflected by the ball from reaching Nora's eyes, and the mirror at Q is needed to reflect that light to her eyes.", "status": "needs-review", "note": "The key's reason for (b) says the wooden board stops light from the source reaching the ball. At high zoom the diagram shows the light source between the wooden board and the ball, shining on the ball, and the question says the box was bright inside, so the key's reason does not fit the diagram. The model answers for (b) and (c) follow the diagram instead: the board blocks the reflected light from the ball, and a mirror at Q reflects that light to Nora's eyes. The item to add in (c), a mirror, is the same as the key's. A person should confirm against the school's own marking scheme." }
+    },
+    {
+      "section": "b", "number": 38, "page": 27, "format": "structured", "marks": 3,
+      "topic": "energy-light-heat",
+      "subtypes": ["expansion-and-contraction", "heat-gain"],
+      "stem": "The experiment below was used to investigate the effect of heat on a metal rod. One end of the metal rod was fixed to the table while the other end rested on four rollers placed on a wooden block. A pointer was attached to the top of the metal rod.\n[[img1]]\nA lighted burner was then placed under the metal rod for 5 minutes.",
+      "images": [
+        { "id": "img1", "alt": "A long horizontal metal rod. Its left end bends down and is fixed to the table (labelled 'fixed end of metal rod'). Its right end rests on four rollers on a wooden block and bends upwards, with a pointer attached at the top. The pointer points at a scale above it, marked 0, 1 and 2 from left to right, and it is at 1. A burner stands under the middle of the rod.", "page": 27, "box": [193, 153, 705, 382] },
+        { "id": "img2", "alt": "A bridge made of metal beams. Each end of the bridge rests on a support, and there is a small gap between each end of the bridge and the ground beside it. Both gaps are labelled.", "page": 27, "box": [170, 672, 700, 792] }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "Will the reading on the scale increase or decrease after 5 minutes? Explain your answer.",
+          "marks": 2,
+          "answer": { "type": "self", "value": "The reading will increase. The metal rod gains heat from the burner and expands. Its left end is fixed, so the rod can only get longer towards the right. The free end on the rollers moves to the right, so the pointer moves to the right, towards the larger readings on the scale." },
+          "explanation": [
+            "Name the concept: metals expand when they gain heat.",
+            "Use the set-up: the left end is fixed, so the rod can only expand towards the right. The rollers let that end move freely.",
+            "The pointer on the free end moves to the right, from 1 towards 2, so the reading increases.",
+            "One mark is for the rod gaining heat and expanding, and one mark is for the free end and pointer moving towards the larger readings."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "Study the diagram of a bridge below.\n[[img2]]\nGive a reason why it is necessary for the bridge to have gaps at both ends of the bridge.",
+          "marks": 1,
+          "answer": { "type": "self", "value": "On hot days the bridge gains heat and expands. The gaps give the bridge space to expand, so that it does not bend (buckle) or get damaged." },
+          "explanation": [
+            "This is the same idea as the metal rod: the bridge expands when it gains heat on a hot day.",
+            "Without gaps, the expanding bridge would push against its ends and buckle or crack.",
+            "Key phrases: gains heat and expands, and the gaps give space for the expansion."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "a) The reading increases. When heated, the metal rod expands. As its left end is fixed, its right end and pointer move to the right, towards the larger scale readings.  b) The gaps allow the bridge to expand on hot days without buckling / becoming damaged.", "solvedAnswer": "agrees with key", "status": "verified" }
+    },
+    {
+      "section": "b", "number": 39, "page": 28, "format": "structured", "marks": 5,
+      "topic": "cycles-matter-water",
+      "subtypes": ["evaporation-rate", "condensation", "heat-conductors"],
+      "stem": "The set-up below was placed outdoors on a hot sunny day. After 3 hours, a liquid was collected in the glass.\n[[img1]]",
+      "images": [
+        { "id": "img1", "alt": "A plastic bowl with muddy water at the bottom. An empty glass stands in the middle of the bowl, with its rim above the muddy water. A plastic sheet covers the top of the bowl.", "page": 28, "box": [230, 160, 652, 282] }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "What was the liquid collected in the glass?",
+          "marks": 1,
+          "answer": { "type": "text", "value": "Water", "accept": ["water", "pure water", "clean water", "clear water", "distilled water", "fresh water", "liquid water", "h2o"] },
+          "explanation": [
+            "The muddy water gains heat from the sun and the water in it evaporates to form water vapour. The mud is left behind.",
+            "The water vapour touches the cooler plastic sheet, loses heat and condenses into water droplets, which drip into the glass.",
+            "The liquid is (clean) water."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "Suggest what could be added to the plastic sheet to increase the amount of liquid collected in the glass. Explain your answer.",
+          "marks": 2,
+          "answer": { "type": "self", "value": "Place a small stone (weight) on the plastic sheet directly above the glass. The sheet then dips to form a lowest point above the glass, so the water droplets that condense on the underside of the sheet run down to that point and drip into the glass instead of falling back into the muddy water. (Also accepted: place ice cubes on the plastic sheet. This makes the sheet cooler, so the water vapour loses heat to it faster and condenses faster.)" },
+          "explanation": [
+            "Water droplets form on the underside of the plastic sheet when water vapour condenses there.",
+            "On a flat sheet many droplets fall back into the muddy water. A small weight above the glass makes the sheet slope down to one point, so the droplets run there and drip into the glass.",
+            "Another way is to cool the sheet, for example with ice, so that the water vapour loses heat faster and more of it condenses.",
+            "One mark is for what is added, and one mark is for explaining how it lets more water collect in the glass."
+          ]
+        },
+        {
+          "label": "c",
+          "prompt": "How would the amount of liquid in the glass change if the plastic sheet was replaced with a metal sheet? Give a reason for your answer.",
+          "marks": 2,
+          "answer": { "type": "self", "value": "Key's answer: more liquid would be collected. Metal is a better conductor of heat than plastic, so the water vapour loses heat through the metal sheet more quickly and condenses faster." },
+          "explanation": [
+            "The key compares how well the two sheets conduct heat. Metal is a better conductor of heat than plastic.",
+            "Water vapour condenses when it loses heat to a cooler surface. The key's reasoning is that heat passes through a metal sheet faster, so the vapour loses heat and condenses faster.",
+            "One mark is for stating the change and one mark is for the reason. The key's reason uses the words 'conductor of heat', 'loses heat' and 'condenses'."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "a) Water.  b) Place a small stone / weight on the plastic sheet directly above the glass. This forms a lower point so condensed water runs down and drips into the glass.  c) More liquid would be collected. Metal is a better conductor of heat than plastic, so water vapour loses heat through it more quickly and condenses faster.", "solvedAnswer": "(a) and (b) agree with key. (c) uncertain: a metal sheet is opaque and gets hot in the sun, so less liquid is also a defensible answer.", "status": "needs-review", "note": "Part (c) is doubtful. The key says more liquid is collected because metal conducts heat better, so the water vapour loses heat and condenses faster. But the set-up is outdoors on a hot sunny day: a metal sheet is opaque, so less sunlight reaches the muddy water and less water evaporates, and a metal sheet in the sun becomes hot, so the vapour would lose heat to it more slowly. 'Less liquid' may be the intended answer. The model answer shown is the key's and needs checking against the school's marking scheme. Also, no mark is printed beside part (c); it is taken as 2 marks so that Booklet B adds up to the 40 marks printed on the cover." }
+    },
+    {
+      "section": "b", "number": 40, "page": 29, "format": "structured", "marks": 3,
+      "topic": "systems-electrical",
+      "subtypes": ["conductors-and-insulators", "brightness-of-bulbs", "reading-tables"],
+      "stem": "The set-up below was used to investigate the electrical conductivity of some liquids.\n[[img1]]\nWhen liquid W was poured into the beaker, the brightness of the bulb was observed and recorded. The experiment was repeated using liquids X, Y and Z.\n[[table1]]",
+      "images": [
+        { "id": "img1", "alt": "A circuit with two batteries and a bulb. The wires end in two metal rods that dip into a beaker of liquid W. The two rods do not touch each other, so the circuit is completed only through the liquid.", "page": 29, "box": [225, 122, 672, 302] }
+      ],
+      "tables": [
+        { "id": "table1", "header": [{ "t": "Liquid", "rowspan": 2 }, { "t": "Brightness of bulb", "colspan": 4 }], "rows": [["**Very dim**", "**Dim**", "**Bright**", "**Very bright**"], ["W", "", "", "", "✓"], ["X", "", "✓", "", ""], ["Y", "", "", "✓", ""], ["Z", "✓", "", "", ""]] }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "State the property of the rods that allows the above observations to be made.",
+          "marks": 1,
+          "answer": { "type": "self", "value": "The rods are conductors of electricity. They allow electric current to pass through them." },
+          "explanation": [
+            "The bulb can light up only if there is a closed circuit, so electricity must pass through the rods as well as the liquid.",
+            "Metal is an electrical conductor. The key phrase is 'conductor of electricity'."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "Liquid W is salt water. Explain why it would be dangerous to swim in the sea during a lightning storm.",
+          "marks": 2,
+          "answer": { "type": "self", "value": "The bulb was very bright with liquid W, so salt water is a good conductor of electricity. Sea water is salt water. If lightning strikes the sea, the electricity can pass through the sea water to the swimmer's body and give the swimmer an electric shock (electrocution)." },
+          "explanation": [
+            "Use the result: liquid W (salt water) made the bulb very bright, so salt water conducts electricity very well.",
+            "Apply it: sea water is salt water, so it also conducts electricity very well.",
+            "Explain the danger: electricity from the lightning can travel through the sea water and through the swimmer's body, causing an electric shock.",
+            "One mark is for salt water being a good conductor of electricity, and one mark is for the electricity passing through the water to the swimmer."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "a) The rods are electrical conductors / allow electric current to pass through them.  b) Salt water conducts electricity well. If lightning strikes the sea, electric current can pass through the seawater and the swimmer's body, causing electrocution.", "solvedAnswer": "agrees with key", "status": "verified" }
+    },
+    {
+      "section": "b", "number": 41, "page": 30, "format": "structured", "marks": 3,
+      "topic": "energy-forms",
+      "subtypes": ["potential-and-kinetic-energy", "energy-conversion", "gravity"],
+      "stem": "",
+      "images": [
+        { "id": "img1", "alt": "A container of water is held 5 m above the ground on a pole and is allowed to rotate about the pole. A metal pipe with water curves over the top of the container to fill it.", "page": 30, "box": [245, 268, 628, 428] }
+      ],
+      "tables": [
+        { "id": "table1", "header": ["Container", "Capacity (cm³)"], "rows": [["A", "200"], ["B", "150"]] }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "What is gravitational potential energy?",
+          "marks": 1,
+          "answer": { "type": "self", "value": "Gravitational potential energy is the energy that an object has because of its position (height) above the ground." },
+          "explanation": [
+            "An object that is raised above the ground has stored energy, because gravity can pull it down and make it move.",
+            "The higher the object and the greater its mass, the more gravitational potential energy it has.",
+            "Key phrase: energy an object has due to its position or height above the ground."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "Study the set-up below. The container is allowed to rotate about a pole attached to it. A metal pipe fills the container with water. When the container is filled to the brim, it rotates and empties the water onto the ground below.\n[[img1]]\nState the main energy conversion that has occurred in the water when the container rotates.\n___ energy of water → ___ energy of water",
+          "marks": 1,
+          "answer": { "type": "self", "value": "Gravitational potential energy of water → kinetic energy of water" },
+          "explanation": [
+            "Before the container rotates, the water is 5 m above the ground, so it has gravitational potential energy.",
+            "When the container tips, the water falls. Its gravitational potential energy is converted into kinetic energy as it moves faster and faster."
+          ]
+        },
+        {
+          "label": "c",
+          "prompt": "Hashim conducted an experiment using the set-up above and two separate containers of different capacities as shown in the table below.\n[[table1]]\nWill the water in container B fall faster, slower or at the same speed as the water in container A? Explain why.",
+          "marks": 1,
+          "answer": { "type": "self", "value": "At the same speed. The water in both containers falls from the same height of 5 m. Container B holds a smaller mass of water, so its water has less gravitational potential energy and less kinetic energy, but the speed of a falling object does not depend on its mass, so the water from both containers falls at the same speed." },
+          "explanation": [
+            "Both containers are at the same height, 5 m above the ground.",
+            "The speed at which something falls depends on the height it falls from, not on its mass. A heavy object and a light object dropped from the same height reach the ground at the same speed.",
+            "Container B has less water, so its water has less gravitational potential energy and less kinetic energy. That is because it has less mass, not because it moves more slowly."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "a) Gravitational potential energy is energy possessed by an object because of its position / height above the ground.  b) Gravitational potential energy of water → kinetic energy of water.  c) Slower. Container B holds a smaller amount / mass of water, so the water has less gravitational potential energy at the same height and less kinetic energy as it falls.", "solvedAnswer": "(a) and (b) agree with key. (c) disagrees: the water falls at the same speed, because both fall from the same height.", "status": "needs-review", "note": "The key's answer to (c), 'slower', is scientifically wrong. Water from container B has less mass, so it has less gravitational potential energy and less kinetic energy, but less kinetic energy with less mass does not mean a lower speed: objects falling from the same height (5 m) fall at the same speed whatever their mass. The model answer shown is 'at the same speed'. A person should confirm against the school's own marking scheme." }
+    },
+    {
+      "section": "b", "number": 42, "page": 31, "format": "structured", "marks": 3,
+      "topic": "interactions-forces",
+      "subtypes": ["friction", "ramps", "reliability"],
+      "stem": "Pamela prepared three ramps made of similar materials as shown below. Some raised strips made of a rough material are pasted on two of the ramps.\n[[img1]]\nShe released a toy car from the top of each ramp. The time taken for the car to reach the bottom of the ramp was recorded in the table below.\n[[table1]]",
+      "images": [
+        { "id": "img1", "alt": "Three ramps of the same size and slope. Ramp A has a smooth surface with no raised strips. Ramp B has 3 raised strips across the upper part of its surface. Ramp C has about 9 raised strips along the whole length of its surface.", "page": 31, "box": [210, 150, 722, 277] },
+        { "id": "img2", "alt": "A road outside Pamela's house. A zebra crossing is painted across the road, and several raised strips are laid across the road just before the zebra crossing.", "page": 31, "box": [245, 598, 668, 777] }
+      ],
+      "tables": [
+        { "id": "table1", "header": [{ "t": "", "rowspan": 2 }, { "t": "Time taken for the car to reach the bottom (s)", "colspan": 3 }], "rows": [["**ramp A**", "**ramp B**", "**ramp C**"], ["1st try", "6", "9", ""], ["2nd try", "8", "10", "13"], ["3rd try", "7", "10", "15"]] }
+      ],
+      "parts": [
+        {
+          "label": "a",
+          "prompt": "Why did Pamela conduct the experiment three times on each ramp?",
+          "marks": 1,
+          "answer": { "type": "self", "value": "To make sure that her results are reliable (so that she can calculate the average time taken)." },
+          "explanation": [
+            "One reading could be wrong by chance. Repeating the experiment and taking the average gives results that can be trusted.",
+            "The key word is 'reliable'. Do not write 'fair' or 'accurate'."
+          ]
+        },
+        {
+          "label": "b",
+          "prompt": "The road outside Pamela's house has similar raised strips as shown below.\n[[img2]]\nUsing the experimental results, explain in terms of forces how the raised strips can help improve the safety for people crossing the road.",
+          "marks": 2,
+          "answer": { "type": "self", "value": "The results show that the more raised strips there were on the ramp, the longer the car took to reach the bottom, so the car moved more slowly. The raised strips increase the friction between the tyres of the vehicles and the road. This slows the vehicles down before the zebra crossing, so drivers have more time to stop for people crossing the road and accidents are less likely." },
+          "explanation": [
+            "Use the results: ramp A (no strips) took about 7 s, ramp B (a few strips) about 10 s and ramp C (many strips) about 14 s. More strips made the car slower.",
+            "Name the force: the rough raised strips increase the friction between the wheels and the surface. Friction opposes motion.",
+            "Apply it to the road: vehicles slow down before the zebra crossing, so drivers can stop in time and people can cross safely.",
+            "One mark is for more friction between the tyres and the road, and one mark is for vehicles slowing down so that it is safer to cross."
+          ]
+        }
+      ],
+      "review": { "keyAnswer": "a) To improve the reliability of the results and allow an average to be calculated.  b) The raised strips increase the frictional force between a vehicle's tyres and the road. This slows vehicles down, giving drivers and pedestrians more time to react and reducing the likelihood / severity of an accident.", "solvedAnswer": "agrees with key", "status": "verified", "note": "In the scanned results table the cell for ramp C, 1st try, is blank and the row label '2nd try' is partly rubbed out (only '2nd' is readable; 'try' is inferred from the rows above and below). The blank cell is left blank; the answers do not depend on it." }
+    }
+  ]
+}
