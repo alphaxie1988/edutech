@@ -3,6 +3,9 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="PSLE Quest">
 <title>PSLE Quest</title>
 <style>
 :root{
@@ -18,10 +21,11 @@ html,body{height:100%;margin:0}
 body{font-family:var(--body);color:var(--ink);font-size:18px;line-height:1.45;overflow:hidden;
   background-color:var(--paper);
   background-image:linear-gradient(var(--line) 1px,transparent 1px),linear-gradient(90deg,var(--line) 1px,transparent 1px);
-  background-size:28px 28px;overscroll-behavior:none}
+  background-size:28px 28px;overscroll-behavior:none;touch-action:manipulation;-webkit-text-size-adjust:100%}
+.qpanel,.passage,.result,.top,.btn,.board,.grip,.mcq,.ptabs,.tools,.zoomer,.topic,.subj{-webkit-user-select:none;user-select:none;-webkit-touch-callout:none}
 h1,h2,h3,.disp{font-family:var(--display);line-height:1.1;margin:0}
 button{font:inherit;color:inherit;cursor:pointer}
-.screen{position:fixed;inset:0;display:none;flex-direction:column}
+.screen{position:fixed;left:0;right:0;top:var(--vtop,0px);height:var(--vh,100%);display:none;flex-direction:column}
 .screen.on{display:flex}
 .scroll{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:20px max(20px,env(safe-area-inset-right)) 40px max(20px,env(safe-area-inset-left))}
 .wrap{max-width:1040px;margin:0 auto}
@@ -128,6 +132,7 @@ table.qt th{background:#f3ecd7}
 .zoomer button{width:40px;height:40px;border-radius:11px;border:2.5px solid var(--ink);background:var(--card);font-weight:800;font-size:1.1rem;box-shadow:2px 2px 0 var(--ink);padding:0}
 .zoomer span{font-weight:800;font-size:.85rem;background:var(--card);border:2px solid var(--ink);border-radius:9px;padding:2px 7px}
 @media (max-width:620px){.tools hr{display:none}.tools button{width:38px;height:38px}}
+.fig img,.passage img{-webkit-user-drag:none;-webkit-touch-callout:none}
 .passage{position:absolute;inset:0;overflow:auto;background:#fffdf4;padding:58px 22px 40px;z-index:20;font-size:1.14rem;line-height:1.75;display:none}
 .passage .inner{max-width:780px;margin:0 auto}
 .passage p{margin:.55em 0}
@@ -230,7 +235,7 @@ table.qt th{background:#f3ecd7}
     <div class="ptabs" id="ptabs"><button data-pt="pass" class="on">📖 Passage</button><button data-pt="pad">✏️ Scratch pad</button></div>
     <div class="tools" id="tools">
       <button data-tool="pen" class="on" title="Pen">✏️</button>
-      <button data-tool="eraser" title="Eraser">🧽</button>
+      <button data-tool="eraser" title="Eraser: rub out part of your writing">🧽</button>
       <button data-tool="hand" title="Move around">✋</button>
       <hr>
       <button data-color="#1b2340" class="on" title="Ink"><i class="sw" style="background:#1b2340"></i></button>
@@ -755,6 +760,13 @@ $("#importFile").onchange = e => { const f = e.target.files[0]; if (!f) return; 
     catch(err) { toast("That file is not a PSLE Quest backup."); } e.target.value = ""; };
   r.readAsText(f); };
 
+/* ---------- keep the layout above the on-screen keyboard (iPad) ---------- */
+(() => { const vv = window.visualViewport; if (!vv) return;
+  const fit = () => { const r = document.documentElement.style; r.setProperty("--vh", vv.height + "px"); r.setProperty("--vtop", vv.offsetTop + "px");
+    if ($("#play").classList.contains("on")) Board.resize(); };
+  vv.addEventListener("resize", fit); vv.addEventListener("scroll", fit); fit();
+})();
+
 /* ---------- question panel resize ---------- */
 (() => { const grip = $("#grip"), panel = $("#qpanel"); let y0, h0;
   grip.addEventListener("pointerdown", e => { grip.setPointerCapture(e.pointerId); y0 = e.clientY; h0 = panel.offsetHeight; });
@@ -766,13 +778,15 @@ $("#importFile").onchange = e => { const f = e.target.files[0]; if (!f) return; 
 /* ---------- drawing board ---------- */
 const Board = (() => {
   const cv = $("#cv"), ctx = cv.getContext("2d"), wrap = $("#board");
+  const ink = document.createElement("canvas"), ictx = ink.getContext("2d"); // pen strokes live on their own layer so the eraser only rubs out ink
+  const ERASER_PX = 26;
   let items = [], undo = [], redo = [], view = {s:1, x:0, y:0}, W = 0, H = 0, dpr = 1;
   let tool = "pen", color = "#1b2340", width = 2.6, penSeen = false, spaceDown = false, raf = 0;
-  const pts = new Map(); let drawing = null, panning = null, pinch = null, erased = null;
+  const pts = new Map(); let hover = null, drawing = null, panning = null, pinch = null, erased = null;
   const toWorld = (x, y) => ({x:(x-view.x)/view.s, y:(y-view.y)/view.s});
   const pos = e => { const r = cv.getBoundingClientRect(); return {x:e.clientX-r.left, y:e.clientY-r.top}; };
   function resize(){ const r = wrap.getBoundingClientRect(); if (!r.width) return; dpr = window.devicePixelRatio || 1; W = r.width; H = r.height;
-    cv.width = Math.round(W*dpr); cv.height = Math.round(H*dpr); draw(); }
+    cv.width = ink.width = Math.round(W*dpr); cv.height = ink.height = Math.round(H*dpr); draw(); }
   function ask(){ if (!raf) raf = requestAnimationFrame(() => { raf = 0; draw(); }); }
   function draw(){
     ctx.setTransform(dpr,0,0,dpr,0,0); ctx.fillStyle = "#fff"; ctx.fillRect(0,0,W,H);
@@ -780,14 +794,21 @@ const Board = (() => {
     if (step > 9) { ctx.fillStyle = "#d9dbe6"; const ox = ((view.x%step)+step)%step, oy = ((view.y%step)+step)%step, r = Math.max(1, Math.min(2, view.s*1.2));
       for (let x = ox; x < W; x += step) for (let y = oy; y < H; y += step) ctx.fillRect(x-r/2, y-r/2, r, r); }
     ctx.setTransform(dpr*view.s,0,0,dpr*view.s,dpr*view.x,dpr*view.y); ctx.lineCap = "round"; ctx.lineJoin = "round";
+    for (const it of items) if (it.img && it.img.complete) ctx.drawImage(it.img, it.x, it.y, it.w, it.h);
+    const c = ictx; c.setTransform(1,0,0,1,0,0); c.clearRect(0,0,ink.width,ink.height);
+    c.setTransform(dpr*view.s,0,0,dpr*view.s,dpr*view.x,dpr*view.y); c.lineCap = "round"; c.lineJoin = "round";
     for (const it of items) {
-      if (it.img) { if (it.img.complete) ctx.drawImage(it.img, it.x, it.y, it.w, it.h); continue; }
-      const p = it.p; ctx.strokeStyle = it.c; ctx.fillStyle = it.c; ctx.lineWidth = it.w;
-      if (p.length < 2) { ctx.beginPath(); ctx.arc(p[0].x, p[0].y, it.w/2, 0, 7); ctx.fill(); continue; }
-      ctx.beginPath(); ctx.moveTo(p[0].x, p[0].y);
-      for (let i = 1; i < p.length-1; i++) ctx.quadraticCurveTo(p[i].x, p[i].y, (p[i].x+p[i+1].x)/2, (p[i].y+p[i+1].y)/2);
-      ctx.lineTo(p[p.length-1].x, p[p.length-1].y); ctx.stroke();
+      if (it.img) continue;
+      const p = it.p; c.globalCompositeOperation = it.e ? "destination-out" : "source-over";
+      c.strokeStyle = it.e ? "#000" : it.c; c.fillStyle = c.strokeStyle; c.lineWidth = it.w;
+      if (p.length < 2) { c.beginPath(); c.arc(p[0].x, p[0].y, it.w/2, 0, 7); c.fill(); continue; }
+      c.beginPath(); c.moveTo(p[0].x, p[0].y);
+      for (let i = 1; i < p.length-1; i++) c.quadraticCurveTo(p[i].x, p[i].y, (p[i].x+p[i+1].x)/2, (p[i].y+p[i+1].y)/2);
+      c.lineTo(p[p.length-1].x, p[p.length-1].y); c.stroke();
     }
+    c.globalCompositeOperation = "source-over";
+    ctx.setTransform(1,0,0,1,0,0); ctx.drawImage(ink, 0, 0);
+    if (hover && tool === "eraser") { ctx.setTransform(dpr,0,0,dpr,0,0); ctx.strokeStyle = "#8a90a8"; ctx.lineWidth = 1.5; ctx.beginPath(); ctx.arc(hover.x, hover.y, ERASER_PX/2, 0, 7); ctx.stroke(); }
     $("#zPct").textContent = Math.round(view.s*100)+"%";
   }
   function zoomAt(cx, cy, k){ const s = Math.max(0.15, Math.min(8, view.s*k)); k = s/view.s; view.x = cx-(cx-view.x)*k; view.y = cy-(cy-view.y)*k; view.s = s; ask(); }
@@ -811,11 +832,13 @@ const Board = (() => {
     const wantPan = tool === "hand" || spaceDown || e.button === 1 || (e.pointerType === "touch" && penSeen);
     if (wantPan) { panning = {x:p.x, y:p.y}; cv.style.cursor = "grabbing"; return; }
     const w = toWorld(p.x, p.y);
-    if (tool === "eraser") { erased = []; eraseAt(w); return; }
+    if (tool === "eraser") { hover = p; drawing = {p:[w], e:true, w:ERASER_PX/view.s}; items.push(drawing); ask(); return; }
     drawing = {p:[w], c:color, w:width}; items.push(drawing); ask();
   }
   function move(e){
+    if (tool === "eraser" && e.pointerType !== "touch") { hover = pos(e); ask(); }
     if (!pts.has(e.pointerId)) return; const p = pos(e); pts.set(e.pointerId, p);
+    if (tool === "eraser" && drawing) hover = p;
     if (pinch && pts.size >= 2) { const [a, b] = [...pts.values()], d = Math.hypot(a.x-b.x, a.y-b.y), mx = (a.x+b.x)/2, my = (a.y+b.y)/2;
       view.x += mx-pinch.mx; view.y += my-pinch.my; zoomAt(mx, my, d/(pinch.d||1)); pinch = {d, mx, my}; return; }
     if (panning) { view.x += p.x-panning.x; view.y += p.y-panning.y; panning = {x:p.x, y:p.y}; ask(); return; }
@@ -833,6 +856,7 @@ const Board = (() => {
   }
   cv.addEventListener("pointerdown", down); cv.addEventListener("pointermove", move);
   cv.addEventListener("pointerup", up); cv.addEventListener("pointercancel", up);
+  cv.addEventListener("pointerleave", () => { if (hover) { hover = null; ask(); } });
   cv.addEventListener("wheel", e => { e.preventDefault(); const p = pos(e);
     if (e.shiftKey) { view.x -= e.deltaY; ask(); } else zoomAt(p.x, p.y, Math.exp(-e.deltaY*0.0015)); }, {passive:false});
   cv.addEventListener("contextmenu", e => e.preventDefault());
@@ -851,7 +875,7 @@ const Board = (() => {
     else if (a.t === "clear") items = [];
     undo.push(a); ask(); }
   $("#tools").addEventListener("click", e => { const b = e.target.closest("button"); if (!b) return;
-    if (b.dataset.tool) { tool = b.dataset.tool; $$("#tools [data-tool]").forEach(x => x.classList.toggle("on", x === b)); cv.style.cursor = tool === "hand" ? "grab" : tool === "eraser" ? "cell" : "crosshair"; }
+    if (b.dataset.tool) { tool = b.dataset.tool; $$("#tools [data-tool]").forEach(x => x.classList.toggle("on", x === b)); cv.style.cursor = tool === "hand" ? "grab" : tool === "eraser" ? "none" : "crosshair"; hover = null; ask(); }
     if (b.dataset.color) { color = b.dataset.color; $$("#tools [data-color]").forEach(x => x.classList.toggle("on", x === b));
       if (tool !== "pen") $('#tools [data-tool="pen"]').click(); }
     if (b.id === "btnWidth") { width = width < 3 ? 5.5 : 2.6; b.textContent = width > 3 ? "➖" : "〰️"; b.classList.toggle("on", width > 3); }
