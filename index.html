@@ -99,6 +99,20 @@ h2.sec{font-size:1.5rem;font-weight:800;margin:0 0 12px}
 .pick button[data-sub]::before{content:"";display:inline-block;width:.8em;margin-right:6px;font-weight:800}
 .pick button[data-sub].on::before{content:"✓"}
 .pickhd{display:flex;align-items:baseline;justify-content:space-between;gap:10px;flex-wrap:wrap}
+.toggle{border:2.5px solid var(--ink);border-radius:12px;background:#fff;padding:6px 12px;font-weight:700;margin:-6px 0 18px}
+.toggle::before{content:"";display:inline-grid;place-items:center;width:1.1em;height:1.1em;border:2px solid var(--ink);border-radius:5px;margin-right:8px;vertical-align:-2px;font-size:.85em;background:#fff}
+.toggle.on::before{content:"✓";background:var(--mint)}
+.sheet .sub{font-weight:800;margin:4px 0 -6px}
+.flagbtn{margin-left:auto;border:2px solid var(--line);border-radius:999px;background:transparent;padding:2px 10px;font-size:.8rem;font-weight:700;color:#5a6079;cursor:pointer}
+.flagbtn.on{background:var(--red);border-color:var(--ink);color:#fff}
+.hint{display:none;margin:6px 0 8px;padding:8px 12px;border:2.5px dashed var(--ink);border-radius:12px;background:#fff8dc;font-size:1.05rem}
+.hint.on{display:block}
+.hint ol{margin:4px 0 0;padding-left:1.4em}
+.weak{display:grid;gap:8px;margin-bottom:22px}
+.weakrow{display:flex;align-items:center;gap:10px;flex-wrap:wrap;background:var(--card);border:2.5px solid var(--ink);border-radius:14px;padding:8px 12px}
+.weakrow b{flex:1;min-width:160px}
+.flagrow{display:flex;align-items:flex-start;gap:10px;flex-wrap:wrap;border-bottom:2px solid var(--line);padding:8px 0}
+.flagrow div{flex:1;min-width:200px}
 .linkbtn{border:0;background:none;padding:2px 0;font-weight:800;color:var(--ink);text-decoration:underline;cursor:pointer;font-size:.9rem}
 .row{display:flex;gap:12px;flex-wrap:wrap;align-items:center}
 .lightbox img{max-width:96vw;max-height:90vh;background:#fff;border:4px solid var(--ink);border-radius:12px}
@@ -246,7 +260,7 @@ table.qt th{background:#f3ecd7}
 <!-- PLAY -->
 <section class="screen" id="play">
   <div class="top"><button class="btn small" id="btnQuit">← Back</button><div class="title" id="playTitle"></div><div class="hud" data-hud></div></div>
-  <div class="qpanel" id="qpanel"><div class="qmeta" id="qmeta"></div><div class="qtext" id="qtext"></div></div>
+  <div class="qpanel" id="qpanel"><div class="qmeta" id="qmeta"></div><div class="qtext" id="qtext"></div><div class="hint" id="hint"></div></div>
   <div class="grip" id="grip" title="Drag to resize"></div>
   <div class="board" id="board">
     <canvas id="cv"></canvas>
@@ -311,7 +325,7 @@ const today = () => { const d = new Date(); return d.getFullYear()+"-"+String(d.
 
 /* ---------- saved progress ---------- */
 const KEY = "psle-quest-v1";
-const fresh = () => ({v:1, xp:0, streak:0, best:0, day:{date:"", n:0}, dayStreak:0, lastGoalDay:"", q:{}, mist:{}});
+const fresh = () => ({v:1, xp:0, streak:0, best:0, day:{date:"", n:0}, dayStreak:0, lastGoalDay:"", q:{}, mist:{}, flags:{}, prefs:{skipSolved:true}});
 let S = fresh();
 try { const raw = localStorage.getItem(KEY); if (raw) S = Object.assign(fresh(), JSON.parse(raw)); } catch(e) {}
 const save = () => { try { localStorage.setItem(KEY, JSON.stringify(S)); } catch(e) {} };
@@ -490,6 +504,7 @@ function topicStats(sid, topicId){
   const medal = pct >= 80 ? "🥇" : pct >= 40 ? "🥈" : pct >= 10 ? "🥉" : "";
   return {total:qs.length, done, right, pct, medal, acc: attempts ? Math.round(100*corrects/attempts) : null};
 }
+const solved = id => !!(S.q[id] && S.q[id].c > 0);
 const mistakeIds = sid => Object.keys(S.mist).filter(id => qById[id] && qById[id].subject === sid);
 
 /* ---------- screens ---------- */
@@ -531,6 +546,11 @@ function renderMenu(){
   }).join("");
 }
 $("#topics").addEventListener("click", e => { const b = e.target.closest("[data-topic]"); if (b) openTopic(b.dataset.topic); });
+// "Skip questions I've solved": one setting shared by the topic and random-mix sheets.
+const skipToggle = () => `<button class="toggle ${S.prefs.skipSolved?"on":""}" id="skipSolved" aria-pressed="${!!S.prefs.skipSolved}">Skip questions I've solved</button>`;
+const startLabel = (n, nAll) => `<button class="btn yellow" id="topicStart" ${n ? "" : "disabled"}>▶ Start practice (${n})</button><button class="btn ghost" id="topicClose">Cancel</button>` +
+  (!n && nAll && S.prefs.skipSolved ? `<div class="note" style="flex-basis:100%">You have solved all of these! 🎉 Untick “Skip questions I've solved” to review them.</div>` : "");
+const applySkip = ids => S.prefs.skipSolved ? ids.filter(id => !solved(id)) : ids;
 function openTopic(topicId){
   const L = lib(), t = L.topics.find(x => x.id === topicId), qs = L.questions.filter(q => q.topic === topicId);
   const counts = {}; qs.forEach(q => q.subtypes.forEach(s => counts[s] = (counts[s]||0)+1));
@@ -539,29 +559,57 @@ function openTopic(topicId){
   const OTHER = "__other", listed = new Set(subs), keysOf = q => { const k = q.subtypes.filter(s => listed.has(s)); return k.length ? k : [OTHER]; };
   const nOther = qs.filter(q => keysOf(q)[0] === OTHER).length, all = nOther ? [...subs, OTHER] : subs;
   const sel = new Set(all);
-  const poolOf = () => qs.filter(q => keysOf(q).some(k => sel.has(k))).map(q => q.id);
+  const poolAll = () => qs.filter(q => keysOf(q).some(k => sel.has(k))).map(q => q.id), poolOf = () => applySkip(poolAll());
   const draw = () => {
     const n = poolOf().length, allOn = sel.size === all.length;
     $("#topicSheet").innerHTML = `<h2>${t.icon||""} ${esc(t.name)}</h2>
       <div class="pickhd"><div class="note">Untick any question types you want to skip.</div>${all.length > 1 ? `<button class="linkbtn" id="topicAll">${allOn ? "Untick all" : "Tick all"}</button>` : ""}</div>
       <div class="pick">${all.map(s => `<button data-sub="${s}" class="${sel.has(s)?"on":""}" aria-pressed="${sel.has(s)}">${s === OTHER ? "Other" : esc(pretty(s))} (${s === OTHER ? nOther : counts[s]})</button>`).join("")}</div>
-      <div class="row"><button class="btn yellow" id="topicStart" ${n ? "" : "disabled"}>▶ Start practice (${n})</button><button class="btn ghost" id="topicClose">Cancel</button></div>`;
+      ${skipToggle()}
+      <div class="row">${startLabel(n, poolAll().length)}</div>`;
   };
   draw(); $("#topicModal").classList.add("on");
   $("#topicSheet").onclick = e => {
     const b = e.target.closest("[data-sub]"); if (b) { const k = b.dataset.sub; sel.has(k) ? sel.delete(k) : sel.add(k); draw(); return; }
+    if (e.target.id === "skipSolved") { S.prefs.skipSolved = !S.prefs.skipSolved; save(); draw(); return; }
     if (e.target.id === "topicAll") { if (sel.size === all.length) sel.clear(); else all.forEach(k => sel.add(k)); draw(); return; }
     if (e.target.id === "topicClose") $("#topicModal").classList.remove("on");
     if (e.target.id === "topicStart") {
       const pool = poolOf(); if (!pool.length) return;
       $("#topicModal").classList.remove("on");
       const on = all.filter(k => sel.has(k)), name = k => k === OTHER ? "Other" : pretty(k);
-      startSession({mode:"topic", label: t.name + (on.length === all.length ? "" : on.length === 1 ? " · " + name(on[0]) : ` · ${on.length} types`), pool});
+      startSession({mode:"topic", label: t.name + (on.length === all.length ? "" : on.length === 1 ? " · " + name(on[0]) : ` · ${on.length} types`), pool, skip: S.prefs.skipSolved});
     }
   };
 }
 $("#topicModal").addEventListener("click", e => { if (e.target.id === "topicModal") e.currentTarget.classList.remove("on"); });
-$("#btnRandom").onclick = () => startSession({mode:"random", label:"Random mix", pool: lib().questions.filter(q => q.topic !== "writing").map(q => q.id)});
+function openRandom(){
+  const L = lib(), qs = L.questions.filter(q => q.topic !== "writing");
+  const secs = Object.keys(L.sections || {}).filter(k => qs.some(q => q.section === k));
+  const secName = k => L.sections[k] + (subjectId === "maths" ? (k === "p2" ? " · calculator" : " · no calculator") : "");
+  const sel = new Set(secs);
+  const poolAll = () => qs.filter(q => !secs.length || sel.has(q.section)).map(q => q.id), poolOf = () => applySkip(poolAll());
+  const draw = () => {
+    const n = poolOf().length;
+    $("#topicSheet").innerHTML = `<h2>🎲 Random mix</h2><div class="note">Questions from every topic. Untick any paper you want to skip.</div>
+      ${secs.length > 1 ? `<div class="pick">${secs.map(k => `<button data-sub="${k}" class="${sel.has(k)?"on":""}" aria-pressed="${sel.has(k)}">${esc(secName(k))} (${qs.filter(q => q.section === k).length})</button>`).join("")}</div>` : "<div style='height:18px'></div>"}
+      ${skipToggle()}
+      <div class="row">${startLabel(n, poolAll().length)}</div>`;
+  };
+  draw(); $("#topicModal").classList.add("on");
+  $("#topicSheet").onclick = e => {
+    const b = e.target.closest("[data-sub]"); if (b) { const k = b.dataset.sub; sel.has(k) ? sel.delete(k) : sel.add(k); draw(); return; }
+    if (e.target.id === "skipSolved") { S.prefs.skipSolved = !S.prefs.skipSolved; save(); draw(); return; }
+    if (e.target.id === "topicClose") $("#topicModal").classList.remove("on");
+    if (e.target.id === "topicStart") {
+      const pool = poolOf(); if (!pool.length) return;
+      $("#topicModal").classList.remove("on");
+      const on = secs.filter(k => sel.has(k));
+      startSession({mode:"random", label: "Random mix" + (on.length === secs.length ? "" : " · " + on.map(k => L.sections[k]).join(", ")), pool, skip: S.prefs.skipSolved});
+    }
+  };
+}
+$("#btnRandom").onclick = openRandom;
 $("#btnMistakes").onclick = () => startSession({mode:"mistakes", label:"Mistake book", pool: mistakeIds(subjectId)});
 $("#btnQuit").onclick = () => go("menu");
 $("#btnProgBack").onclick = () => go(prevScreen === "progress" ? "home" : prevScreen);
@@ -571,6 +619,8 @@ function startSession(s){ session = Object.assign(s, {seen:new Set()}); go("play
 function pickNext(){
   let pool = session.mode === "mistakes" ? mistakeIds(subjectId) : session.pool;
   if (!pool.length) return null;
+  if (session.skip) { pool = pool.filter(id => !solved(id)); if (!pool.length) { session.allDone = true; return null; } }
+  const ok = pool.filter(id => !S.flags[id]); if (ok.length) pool = ok;   // flagged questions sit out until a parent checks them
   let cand = pool.filter(id => !session.seen.has(id));
   if (!cand.length) { session.seen.clear(); cand = pool.filter(id => !cur || id !== cur.id); if (!cand.length) cand = pool; }
   const weak = {};
@@ -599,7 +649,7 @@ function nextQuestion(){
       if (mates.length > 1) { session.queue = mates; session.gpos = {i:0, n:mates.length}; id = session.queue.shift(); }
     }
   }
-  if (!id) { toast("Mistake book is empty. Great work!"); go("menu"); return; }
+  if (!id) { toast(session.allDone ? "You have solved every question in this set! 🎉" : "Mistake book is empty. Great work!"); go("menu"); return; }
   if (session.gpos) session.gpos.i++;
   cur = qById[id]; session.seen.add(id);
   $("#play").lang = /chinese/.test(cur.subject) ? "zh-Hans" : "en";
@@ -609,10 +659,10 @@ function nextQuestion(){
   $("#board").classList.toggle("calcok", calcOK);
   $("#qmeta").innerHTML = `${calcOK ? '<span class="chip calcchip" title="Paper 2: you may use a calculator"><svg class="calcico" viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="2" width="16" height="20" rx="3" fill="#fff" stroke="currentColor" stroke-width="2"/><rect x="7" y="5" width="10" height="4" rx="1" fill="currentColor"/><g fill="currentColor"><circle cx="8.5" cy="13" r="1.3"/><circle cx="12" cy="13" r="1.3"/><circle cx="15.5" cy="13" r="1.3"/><circle cx="8.5" cy="17.5" r="1.3"/><circle cx="12" cy="17.5" r="1.3"/><circle cx="15.5" cy="17.5" r="1.3"/></g></svg></span>' : ""}<span class="chip yellow">${t ? esc(t.name) : ""}</span>
     <span class="chip">${cur.marks} mark${cur.marks>1?"s":""}</span>${session.gpos?`<span class="chip">📖 ${session.gpos.i} of ${session.gpos.n}</span>`:""}${S.mist[cur.id]?'<span class="chip red">📕 retry</span>':""}
-    <span class="cite">${esc(cur.cite)}</span>`;
+    <span class="cite">${esc(cur.cite)}</span><button class="flagbtn ${S.flags[cur.id]?"on":""}" id="btnFlag" title="Something wrong with this question? Flag it for a parent to check.">🚩 ${S.flags[cur.id]?"Flagged":"Report problem"}</button>`;
   $("#qtext").innerHTML = questionHTML(cur);
   $("#qpanel").scrollTop = 0; $("#qpanel").style.maxHeight = cur.subject !== "maths" ? "58vh" : ""; $("#qpanel").style.height = "";
-  Board.reset();
+  Board.reset(); hintN = 0; $("#hint").classList.remove("on"); $("#hint").innerHTML = "";
   const g = groupOf(cur), board = $("#board"), pi = $("#passageInner");
   board.classList.toggle("haspass", !!g);
   if (g) {
@@ -632,6 +682,13 @@ function nextQuestion(){
 function setPassTab(t){ $("#board").classList.toggle("showpass", t === "pass"); $$("#ptabs button").forEach(b => b.classList.toggle("on", b.dataset.pt === t)); if (t !== "pass") Board.resize(); }
 $("#ptabs").addEventListener("click", e => { const b = e.target.closest("[data-pt]"); if (b) setPassTab(b.dataset.pt); });
 $("#passage").addEventListener("click", e => { if (e.target.tagName === "IMG") { $("#lightbox img").src = e.target.src; $("#lightbox").classList.add("on"); } });
+$("#qmeta").addEventListener("click", e => {
+  if (e.target.id !== "btnFlag" || !cur) return;
+  if (S.flags[cur.id]) { if (!confirm("Remove the flag from this question?")) return; delete S.flags[cur.id]; toast("Flag removed."); }
+  else { const note = prompt("What looks wrong? (for example: wrong answer, picture cut off, can't read it)", ""); if (note === null) return;
+    S.flags[cur.id] = {date: today(), note: note.trim()}; toast("Flagged 🚩 A parent can check it on the Progress page. It is skipped until then."); }
+  save(); e.target.classList.toggle("on", !!S.flags[cur.id]); e.target.textContent = "🚩 " + (S.flags[cur.id] ? "Flagged" : "Report problem");
+});
 $("#qtext").addEventListener("click", e => {
   const pin = e.target.closest("[data-pin]");
   if (pin) { const src = PSLE.images[pin.dataset.pin]; if (src) Board.addImage(src); return; }
@@ -640,6 +697,24 @@ $("#qtext").addEventListener("click", e => {
 $("#lightbox").onclick = () => $("#lightbox").classList.remove("on");
 
 let mcqPick = null;
+// Hints: the worked steps of each part, minus its last step (which gives the answer away). Using any hint halves the XP.
+let hintN = 0;
+function hintSteps(q){
+  if (q.topic === "writing") return [];
+  const out = [];
+  q.parts.forEach(p => { const ex = p.explanation || []; ex.slice(0, ex.length - 1).forEach(st => out.push({label: p.label, st})); });
+  return out;
+}
+function showHint(){
+  const steps = hintSteps(cur); if (hintN >= steps.length) return;
+  hintN++;
+  const shown = steps.slice(0, hintN), h = $("#hint");
+  h.innerHTML = `<b>💡 Hint</b> <span class="note">(half XP for this question)</span><ol>${shown.map(x => `<li>${x.label && q2multi() ? `<b>(${esc(x.label)})</b> ` : ""}${inline(x.st)}</li>`).join("")}</ol>`;
+  h.classList.add("on");
+  const qp = $("#qpanel"); qp.scrollTop = qp.scrollHeight;
+  const b = $("#btnHint"); if (b) { b.textContent = hintN < steps.length ? "💡 Another hint" : "💡 No more hints"; b.disabled = hintN >= steps.length; }
+}
+const q2multi = () => cur.parts.length > 1;
 function renderAnswerBar(){
   const q = cur, el = $("#answer"); mcqPick = null;
   let h = '<div class="ansrow">';
@@ -660,7 +735,7 @@ function renderAnswerBar(){
     });
   }
   const allSelf = q.parts.every(p => p.answer.type === "self");
-  h += `<span class="spacer"></span><button class="btn ghost small" id="btnGiveUp">Show answer</button>
+  h += `<span class="spacer"></span>${hintSteps(q).length ? `<button class="btn ghost small" id="btnHint">💡 Hint</button>` : ""}<button class="btn ghost small" id="btnGiveUp">Show answer</button>
     <button class="btn mint" id="btnCheck">${allSelf ? "Show answer" : "Check ✓"}</button></div>`;
   el.innerHTML = h;
   if (allSelf) $("#btnGiveUp").remove();
@@ -670,6 +745,7 @@ $("#answer").addEventListener("click", e => {
   if (o) { mcqPick = +o.dataset.opt; $$("#answer [data-opt]").forEach(b => b.classList.toggle("on", b === o)); return; }
   if (e.target.id === "btnCheck") doCheck(false);
   if (e.target.id === "btnGiveUp") doCheck(true);
+  if (e.target.id === "btnHint") showHint();
   if (e.target.id === "btnNext") nextQuestion();
   if (e.target.id === "btnFeedback") copyFeedback();
   const sm = e.target.closest("[data-self]");
@@ -697,7 +773,7 @@ function doCheck(giveUp){
     if (typeof r === "object") { toast(r.nudge); return; }
     results.push(r);
   }
-  pending = {q, inputs, results, giveUp, done:false};
+  pending = {q, inputs, results, giveUp, done:false, hint: hintN > 0};
   drawResult();
 }
 function drawResult(){
@@ -708,7 +784,7 @@ function drawResult(){
   let h = `<div class="result ${waiting ? "" : allRight ? "good" : "bad"}"><h3>`;
   if (waiting) h += "Compare with the answer, then mark yourself";
   else h += (allRight ? pick(["Correct! 🎉","Nailed it! 🌟","Spot on! 💪","Brilliant! 🚀"]) : results.some(r=>r==="right") ? "Partly right" : "Not quite — see how it works") +
-    (pending.repeat && allRight ? ` <span class="chip" title="You already earned the XP for this question">Already solved · no XP</span>` : ` <span class="chip ${pending.xp ? "yellow" : ""}">+${pending.xp} XP</span>`) + (allRight && !pending.repeat && S.streak > 1 ? ` <span class="chip">🔥 ${S.streak} in a row</span>` : "");
+    (pending.repeat && allRight ? ` <span class="chip" title="You already earned the XP for this question">Already solved · no XP</span>` : ` <span class="chip ${pending.xp ? "yellow" : ""}">+${pending.xp} XP${pending.hint && pending.xp ? " · hint" : ""}</span>`) + (allRight && !pending.repeat && S.streak > 1 ? ` <span class="chip">🔥 ${S.streak} in a row</span>` : "");
   h += `<span class="spacer"></span><button class="btn yellow" id="btnNext" ${waiting?"disabled":""}>Next ➜</button></h3>`;
   q.parts.forEach((p, i) => {
     const r = results[i], a = p.answer, mine = inputs[i];
@@ -747,7 +823,8 @@ function finalize(){
   q.parts.forEach((p, i) => { full += worth(p); if (results[i] === "right") base += worth(p); });
   const rec = S.q[q.id] || (S.q[q.id] = {a:0, c:0});
   const earned = rec.x !== undefined ? rec.x : rec.c > 0 ? full : 0, repeat = earned >= full;
-  let xp = Math.max(0, base - earned); rec.x = Math.max(earned, base); pending.repeat = repeat;
+  let xp = Math.max(0, base - earned); if (pending.hint) xp = Math.floor(xp / 2);
+  rec.x = earned + xp; pending.repeat = repeat;   // with a hint only half is paid, so the rest can still be earned later
   if (!allRight) S.streak = 0;
   else if (!repeat) { S.streak++; S.best = Math.max(S.best, S.streak); xp += Math.min(10, 2*(S.streak-1)); }
   rec.a++; if (allRight) rec.c++; rec.ok = allRight; rec.last = today();
@@ -777,6 +854,14 @@ function confetti(n){
 let toastT; function toast(msg){ const t = $("#toast"); t.textContent = msg; t.classList.add("on"); clearTimeout(toastT); toastT = setTimeout(() => t.classList.remove("on"), 3200); }
 
 /* ---------- progress ---------- */
+const WEAK_MIN = 3;
+function weakSpots(){
+  const agg = {};
+  for (const id in S.q) { const q = qById[id], r = S.q[id]; if (!q || !r.a) continue;
+    for (const sub of q.subtypes) { const k = q.subject + "|" + sub, g = agg[k] || (agg[k] = {sid:q.subject, sub, a:0, c:0}); g.a += r.a; g.c += r.c; } }
+  return Object.values(agg).filter(g => g.a >= WEAK_MIN && g.c < g.a).map(g => Object.assign(g, {acc: Math.round(100*g.c/g.a)}))
+    .filter(g => g.acc < 80).sort((x,y) => x.acc - y.acc || y.a - x.a).slice(0, 5);
+}
 function renderProgress(){
   const L = levelOf(S.xp), ids = Object.keys(S.q).filter(id => qById[id]);
   const att = ids.reduce((s,id) => s + S.q[id].a, 0), cor = ids.reduce((s,id) => s + S.q[id].c, 0);
@@ -787,6 +872,14 @@ function renderProgress(){
     <div class="stat"><b>🔥 ${S.best}</b>best run in a row</div>
     <div class="stat"><b>📅 ${S.dayStreak}</b>day streak · today ${S.day.date===today()?S.day.n:0}/${DAILY_GOAL}</div>
     <div class="stat"><b>📕 ${Object.keys(S.mist).filter(id=>qById[id]).length}</b>in mistake book</div></div>`;
+  const weak = weakSpots();
+  h += `<h2 class="sec">🎯 Weak spots</h2>` + (weak.length ? `<div class="weak">${weak.map(w => { const sj = SUBJECTS.find(x => x.id === w.sid);
+      return `<div class="weakrow"><b>${sj.icon} ${esc(pretty(w.sub))}</b><span>${w.acc}% right · ${w.a} tries</span><button class="btn small yellow" data-weak="${w.sid}|${w.sub}">Practise ➜</button></div>`; }).join("")}</div>`
+    : `<p class="note">Question types you get wrong most often show up here once you have tried each one at least ${WEAK_MIN} times.</p>`);
+  const flags = Object.keys(S.flags).filter(id => qById[id]);
+  if (flags.length) h += `<h2 class="sec">🚩 Flagged questions (${flags.length})</h2><p class="note">Questions your child reported as wrong or hard to read. They are skipped in practice until you remove the flag.</p>` +
+    flags.map(id => { const q = qById[id], f = S.flags[id];
+      return `<div class="flagrow"><div><b>${esc(q.cite)}</b><br><span class="note">${f.note ? "“" + esc(f.note) + "”" : "No note"} · ${esc(f.date)} · id <code>${esc(id)}</code></span></div><button class="btn small" data-unflag="${esc(id)}">Remove flag</button></div>`; }).join("") + "<div style='height:18px'></div>";
   for (const s of SUBJECTS) { const lb = PSLE.subjects[s.id]; if (!lb || !lb.questions.length) continue;
     h += `<h2 class="sec">${s.icon} ${s.name}</h2><div class="bars">` + lb.topics.map(t => { const st = topicStats(s.id, t.id); if (!st.total) return "";
       return `<div class="barrow"><span>${st.medal} ${esc(t.name)}</span><span class="bar"><i style="width:${st.pct}%"></i></span><span>${st.right}/${st.total}${st.acc!==null?` · ${st.acc}%`:""}</span></div>`; }).join("") + "</div>"; }
@@ -798,6 +891,11 @@ $("#progBody").addEventListener("click", e => {
   if (e.target.id === "btnExport") { const a = document.createElement("a"); a.href = URL.createObjectURL(new Blob([JSON.stringify(S)], {type:"application/json"}));
     a.download = "psle-quest-progress-"+today()+".json"; a.click(); }
   if (e.target.id === "btnImport") $("#importFile").click();
+  const wk = e.target.closest("[data-weak]");
+  if (wk) { const [sid, sub] = wk.dataset.weak.split("|"); subjectId = sid;
+    startSession({mode:"topic", label: "Weak spot · " + pretty(sub), pool: PSLE.subjects[sid].questions.filter(q => q.subtypes.includes(sub) && q.topic !== "writing").map(q => q.id)}); }
+  const uf = e.target.closest("[data-unflag]");
+  if (uf) { delete S.flags[uf.dataset.unflag]; save(); renderProgress(); toast("Flag removed."); }
   if (e.target.id === "btnReset" && confirm("Erase all progress, XP and the mistake book on this device?")) { S = fresh(); save(); renderHud(); renderProgress(); }
 });
 $("#importFile").onchange = e => { const f = e.target.files[0]; if (!f) return; const r = new FileReader();
