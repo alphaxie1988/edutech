@@ -96,6 +96,10 @@ h2.sec{font-size:1.5rem;font-weight:800;margin:0 0 12px}
 .pick{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0 20px}
 .pick button{border:2.5px solid var(--ink);border-radius:999px;background:#fff;padding:6px 14px;font-weight:700}
 .pick button.on{background:var(--yellow);box-shadow:2px 2px 0 var(--ink)}
+.pick button[data-sub]::before{content:"";display:inline-block;width:.8em;margin-right:6px;font-weight:800}
+.pick button[data-sub].on::before{content:"✓"}
+.pickhd{display:flex;align-items:baseline;justify-content:space-between;gap:10px;flex-wrap:wrap}
+.linkbtn{border:0;background:none;padding:2px 0;font-weight:800;color:var(--ink);text-decoration:underline;cursor:pointer;font-size:.9rem}
 .row{display:flex;gap:12px;flex-wrap:wrap;align-items:center}
 .lightbox img{max-width:96vw;max-height:90vh;background:#fff;border:4px solid var(--ink);border-radius:12px}
 
@@ -531,21 +535,28 @@ function openTopic(topicId){
   const L = lib(), t = L.topics.find(x => x.id === topicId), qs = L.questions.filter(q => q.topic === topicId);
   const counts = {}; qs.forEach(q => q.subtypes.forEach(s => counts[s] = (counts[s]||0)+1));
   const subs = Object.keys(counts).filter(k => counts[k] >= 2).sort((a,b) => counts[b]-counts[a] || a.localeCompare(b));
-  let pick = "";
+  // Questions tagged only with rare types (not listed) go under "Other", so unticking types never hides them by accident.
+  const OTHER = "__other", listed = new Set(subs), keysOf = q => { const k = q.subtypes.filter(s => listed.has(s)); return k.length ? k : [OTHER]; };
+  const nOther = qs.filter(q => keysOf(q)[0] === OTHER).length, all = nOther ? [...subs, OTHER] : subs;
+  const sel = new Set(all);
+  const poolOf = () => qs.filter(q => keysOf(q).some(k => sel.has(k))).map(q => q.id);
   const draw = () => {
-    $("#topicSheet").innerHTML = `<h2>${t.icon||""} ${esc(t.name)}</h2><div class="note">Pick a question type, or play them all.</div>
-      <div class="pick"><button data-sub="" class="${pick===""?"on":""}">All types (${qs.length})</button>
-      ${subs.map(s => `<button data-sub="${s}" class="${pick===s?"on":""}">${esc(pretty(s))} (${counts[s]})</button>`).join("")}</div>
-      <div class="row"><button class="btn yellow" id="topicStart">▶ Start</button><button class="btn ghost" id="topicClose">Cancel</button></div>`;
+    const n = poolOf().length, allOn = sel.size === all.length;
+    $("#topicSheet").innerHTML = `<h2>${t.icon||""} ${esc(t.name)}</h2>
+      <div class="pickhd"><div class="note">Untick any question types you want to skip.</div>${all.length > 1 ? `<button class="linkbtn" id="topicAll">${allOn ? "Untick all" : "Tick all"}</button>` : ""}</div>
+      <div class="pick">${all.map(s => `<button data-sub="${s}" class="${sel.has(s)?"on":""}" aria-pressed="${sel.has(s)}">${s === OTHER ? "Other" : esc(pretty(s))} (${s === OTHER ? nOther : counts[s]})</button>`).join("")}</div>
+      <div class="row"><button class="btn yellow" id="topicStart" ${n ? "" : "disabled"}>▶ Start practice (${n})</button><button class="btn ghost" id="topicClose">Cancel</button></div>`;
   };
   draw(); $("#topicModal").classList.add("on");
   $("#topicSheet").onclick = e => {
-    const b = e.target.closest("[data-sub]"); if (b) { pick = b.dataset.sub; draw(); return; }
+    const b = e.target.closest("[data-sub]"); if (b) { const k = b.dataset.sub; sel.has(k) ? sel.delete(k) : sel.add(k); draw(); return; }
+    if (e.target.id === "topicAll") { if (sel.size === all.length) sel.clear(); else all.forEach(k => sel.add(k)); draw(); return; }
     if (e.target.id === "topicClose") $("#topicModal").classList.remove("on");
     if (e.target.id === "topicStart") {
+      const pool = poolOf(); if (!pool.length) return;
       $("#topicModal").classList.remove("on");
-      const pool = qs.filter(q => !pick || q.subtypes.includes(pick)).map(q => q.id);
-      startSession({mode:"topic", label: t.name + (pick ? " · " + pretty(pick) : ""), pool});
+      const on = all.filter(k => sel.has(k)), name = k => k === OTHER ? "Other" : pretty(k);
+      startSession({mode:"topic", label: t.name + (on.length === all.length ? "" : on.length === 1 ? " · " + name(on[0]) : ` · ${on.length} types`), pool});
     }
   };
 }
@@ -697,7 +708,7 @@ function drawResult(){
   let h = `<div class="result ${waiting ? "" : allRight ? "good" : "bad"}"><h3>`;
   if (waiting) h += "Compare with the answer, then mark yourself";
   else h += (allRight ? pick(["Correct! 🎉","Nailed it! 🌟","Spot on! 💪","Brilliant! 🚀"]) : results.some(r=>r==="right") ? "Partly right" : "Not quite — see how it works") +
-    ` <span class="chip ${pending.xp ? "yellow" : ""}">+${pending.xp} XP</span>` + (allRight && S.streak > 1 ? ` <span class="chip">🔥 ${S.streak} in a row</span>` : "");
+    (pending.repeat && allRight ? ` <span class="chip" title="You already earned the XP for this question">Already solved · no XP</span>` : ` <span class="chip ${pending.xp ? "yellow" : ""}">+${pending.xp} XP</span>`) + (allRight && !pending.repeat && S.streak > 1 ? ` <span class="chip">🔥 ${S.streak} in a row</span>` : "");
   h += `<span class="spacer"></span><button class="btn yellow" id="btnNext" ${waiting?"disabled":""}>Next ➜</button></h3>`;
   q.parts.forEach((p, i) => {
     const r = results[i], a = p.answer, mine = inputs[i];
@@ -730,17 +741,22 @@ function finalize(){
   const {q, results} = pending; pending.done = true;
   const allRight = results.every(r => r === "right");
   const before = levelOf(S.xp);
-  let xp = 0;
-  q.parts.forEach((p, i) => { if (results[i] === "right") xp += q.topic === "writing" ? 30 : 10 * (p.marks || (q.parts.length === 1 ? q.marks : 1)); });
-  if (allRight) { S.streak++; S.best = Math.max(S.best, S.streak); xp += Math.min(10, 2*(S.streak-1)); } else S.streak = 0;
+  // XP is paid once per mark: rec.x holds what this question has already paid, so repeats earn nothing.
+  const worth = p => q.topic === "writing" ? 30 : 10 * (p.marks || (q.parts.length === 1 ? q.marks : 1));
+  let full = 0, base = 0;
+  q.parts.forEach((p, i) => { full += worth(p); if (results[i] === "right") base += worth(p); });
   const rec = S.q[q.id] || (S.q[q.id] = {a:0, c:0});
+  const earned = rec.x !== undefined ? rec.x : rec.c > 0 ? full : 0, repeat = earned >= full;
+  let xp = Math.max(0, base - earned); rec.x = Math.max(earned, base); pending.repeat = repeat;
+  if (!allRight) S.streak = 0;
+  else if (!repeat) { S.streak++; S.best = Math.max(S.best, S.streak); xp += Math.min(10, 2*(S.streak-1)); }
   rec.a++; if (allRight) rec.c++; rec.ok = allRight; rec.last = today();
   if (!allRight) S.mist[q.id] = {days:[]};
   else if (S.mist[q.id]) { const m = S.mist[q.id]; if (!m.days.includes(today())) m.days.push(today()); if (m.days.length >= 2) { delete S.mist[q.id]; toast("Cleared from your mistake book! 📗"); } }
   const d = today();
   if (S.day.date !== d) S.day = {date:d, n:0};
-  S.day.n++;
-  if (S.day.n === DAILY_GOAL) {
+  if (!repeat) S.day.n++;
+  if (!repeat && S.day.n === DAILY_GOAL) {
     const y = new Date(); y.setDate(y.getDate()-1);
     const yk = y.getFullYear()+"-"+String(y.getMonth()+1).padStart(2,"0")+"-"+String(y.getDate()).padStart(2,"0");
     S.dayStreak = S.lastGoalDay === yk ? S.dayStreak + 1 : 1; S.lastGoalDay = d; xp += 20;
