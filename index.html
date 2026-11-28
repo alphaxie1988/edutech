@@ -14,6 +14,8 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
   gtag('config', 'G-KTJTR3X63V');
+  // App events for Google Analytics. Only what was practised and how it went; never typed answers or notes.
+  function track(name, params){ try { gtag('event', name, params || {}); } catch(e) {} }
 </script>
 <style>
 :root{
@@ -541,7 +543,7 @@ function renderHome(){
       <small>${n ? `${n} questions · ${L.papers.length} papers` : "Coming soon"}</small></button>`;
   }).join("");
 }
-$("#subjects").addEventListener("click", e => { const b = e.target.closest("[data-subject]"); if (b) { subjectId = b.dataset.subject; go("menu"); } });
+$("#subjects").addEventListener("click", e => { const b = e.target.closest("[data-subject]"); if (b) { subjectId = b.dataset.subject; track("select_subject", {subject: subjectId}); go("menu"); } });
 function renderMenu(){
   const L = lib(); $("#menuTitle").textContent = L.name;
   const n = mistakeIds(subjectId).length;
@@ -623,7 +625,9 @@ $("#btnQuit").onclick = () => go("menu");
 $("#btnProgBack").onclick = () => go(prevScreen === "progress" ? "home" : prevScreen);
 
 /* ---------- playing ---------- */
-function startSession(s){ session = Object.assign(s, {seen:new Set()}); go("play"); nextQuestion(); }
+function startSession(s){ session = Object.assign(s, {seen:new Set()});
+  track("start_practice", {subject: subjectId, mode: s.mode, label: s.label, questions: s.pool ? s.pool.length : 0, skip_solved: !!s.skip});
+  go("play"); nextQuestion(); }
 function pickNext(){
   let pool = session.mode === "mistakes" ? mistakeIds(subjectId) : session.pool;
   if (!pool.length) return null;
@@ -694,7 +698,7 @@ $("#qmeta").addEventListener("click", e => {
   if (e.target.id !== "btnFlag" || !cur) return;
   if (S.flags[cur.id]) { if (!confirm("Remove the flag from this question?")) return; delete S.flags[cur.id]; toast("Flag removed."); }
   else { const note = prompt("What looks wrong? (for example: wrong answer, picture cut off, can't read it)", ""); if (note === null) return;
-    S.flags[cur.id] = {date: today(), note: note.trim()}; toast("Flagged 🚩 A parent can check it on the Progress page. It is skipped until then."); }
+    S.flags[cur.id] = {date: today(), note: note.trim()}; track("flag_question", {subject: cur.subject, question_id: cur.id}); toast("Flagged 🚩 A parent can check it on the Progress page. It is skipped until then."); }
   save(); e.target.classList.toggle("on", !!S.flags[cur.id]); e.target.textContent = "🚩 " + (S.flags[cur.id] ? "Flagged" : "Report problem");
 });
 $("#qtext").addEventListener("click", e => {
@@ -716,6 +720,7 @@ function hintSteps(q){
 function showHint(){
   const steps = hintSteps(cur); if (hintN >= steps.length) return;
   hintN++;
+  track("use_hint", {subject: cur.subject, topic: cur.topic, question_id: cur.id, step: hintN});
   const shown = steps.slice(0, hintN), h = $("#hint");
   h.innerHTML = `<b>💡 Hint</b> <span class="note">(half XP for this question)</span><ol>${shown.map(x => `<li>${x.label && q2multi() ? `<b>(${esc(x.label)})</b> ` : ""}${inline(x.st)}</li>`).join("")}</ol>`;
   h.classList.add("on");
@@ -845,11 +850,16 @@ function finalize(){
     const y = new Date(); y.setDate(y.getDate()-1);
     const yk = y.getFullYear()+"-"+String(y.getMonth()+1).padStart(2,"0")+"-"+String(y.getDate()).padStart(2,"0");
     S.dayStreak = S.lastGoalDay === yk ? S.dayStreak + 1 : 1; S.lastGoalDay = d; xp += 20;
+    track("daily_goal", {day_streak: S.dayStreak});
     setTimeout(() => toast(`Daily goal done! +20 XP · ${S.dayStreak} day streak 📅`), 1500);
   }
   S.xp += xp; pending.xp = xp; save(); renderHud();
+  const nRight = results.filter(r => r === "right").length;
+  track("answer_question", {subject: q.subject, topic: q.topic, section: q.section, question_id: q.id, paper: `${q.year} ${q.exam} ${q.school}`,
+    result: pending.giveUp ? "gave_up" : allRight ? "right" : nRight ? "partly_right" : "wrong", hint: !!pending.hint, repeat: !!repeat, xp, mode: session ? session.mode : ""});
   if (xp) { const f = document.createElement("div"); f.className = "xpfly"; f.textContent = "+"+xp+" XP"; document.body.appendChild(f); setTimeout(() => f.remove(), 1400); }
   if (allRight) confetti(levelOf(S.xp) > before ? 90 : 28);
+  if (levelOf(S.xp) > before) track("level_up", {level: levelOf(S.xp)});
   if (levelOf(S.xp) > before) setTimeout(() => toast(`Level up! You are now Level ${levelOf(S.xp)} — ${RANKS[Math.min(RANKS.length-1, levelOf(S.xp)-1)]} 🏆`), 600);
 }
 function confetti(n){
