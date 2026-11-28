@@ -123,6 +123,8 @@ h2.sec{font-size:1.5rem;font-weight:800;margin:0 0 12px}
 .weakrow b{flex:1;min-width:160px}
 .flagrow{display:flex;align-items:flex-start;gap:10px;flex-wrap:wrap;border-bottom:2px solid var(--line);padding:8px 0}
 .flagrow div{flex:1;min-width:200px}
+.cloud{display:flex;align-items:center;gap:12px;flex-wrap:wrap;background:var(--card);border:2.5px solid var(--ink);border-radius:14px;padding:10px 14px;margin:0 0 16px}
+.cloud div{flex:1;min-width:200px}
 .linkbtn{border:0;background:none;padding:2px 0;font-weight:800;color:var(--ink);text-decoration:underline;cursor:pointer;font-size:.9rem}
 .row{display:flex;gap:12px;flex-wrap:wrap;align-items:center}
 .lightbox img{max-width:96vw;max-height:90vh;background:#fff;border:4px solid var(--ink);border-radius:12px}
@@ -338,7 +340,8 @@ const KEY = "psle-quest-v1";
 const fresh = () => ({v:1, xp:0, streak:0, best:0, day:{date:"", n:0}, dayStreak:0, lastGoalDay:"", q:{}, mist:{}, flags:{}, prefs:{skipSolved:true}});
 let S = fresh();
 try { const raw = localStorage.getItem(KEY); if (raw) S = Object.assign(fresh(), JSON.parse(raw)); } catch(e) {}
-const save = () => { try { localStorage.setItem(KEY, JSON.stringify(S)); } catch(e) {} };
+let syncQueue = () => {};   // replaced by the cloud-save module when it is switched on
+const save = () => { S.ts = Date.now(); try { localStorage.setItem(KEY, JSON.stringify(S)); } catch(e) {} syncQueue(); };
 const levelFloor = L => 50*L*(L-1);
 function levelOf(xp){ let L = 1; while (levelFloor(L+1) <= xp) L++; return L; }
 const DAILY_GOAL = 5;
@@ -902,6 +905,7 @@ function renderProgress(){
     h += `<h2 class="sec">${s.icon} ${s.name}</h2><div class="bars">` + lb.topics.map(t => { const st = topicStats(s.id, t.id); if (!st.total) return "";
       return `<div class="barrow"><span>${st.medal} ${esc(t.name)}</span><span class="bar"><i style="width:${st.pct}%"></i></span><span>${st.right}/${st.total}${st.acc!==null?` · ${st.acc}%`:""}</span></div>`; }).join("") + "</div>"; }
   h += `<p class="note">Medals: 🥉 10% of a topic solved, 🥈 40%, 🥇 80%. Progress is saved in this browser on this device. Use Export to keep a backup.</p>
+    ${Sync.panel()}
     <div class="row"><button class="btn small" id="btnExport">⬇ Export progress</button><button class="btn small" id="btnImport">⬆ Import progress</button><button class="btn small red" id="btnReset">Reset everything</button></div>`;
   $("#progBody").innerHTML = h;
 }
@@ -914,10 +918,12 @@ $("#progBody").addEventListener("click", e => {
     startSession({mode:"topic", label: "Weak spot · " + pretty(sub), pool: PSLE.subjects[sid].questions.filter(q => q.subtypes.includes(sub) && q.topic !== "writing").map(q => q.id)}); }
   const uf = e.target.closest("[data-unflag]");
   if (uf) { delete S.flags[uf.dataset.unflag]; save(); renderProgress(); toast("Flag removed."); }
-  if (e.target.id === "btnReset" && confirm("Erase all progress, XP and the mistake book on this device?")) { S = fresh(); save(); renderHud(); renderProgress(); }
+  if (e.target.id === "btnReset" && confirm(Sync.user() ? "Erase all progress, XP and the mistake book on this device AND in your cloud save?" : "Erase all progress, XP and the mistake book on this device?")) { S = fresh(); save(); Sync.overwrite(); renderHud(); renderProgress(); }
+  if (e.target.id === "btnSignIn") Sync.signIn();
+  if (e.target.id === "btnSignOut" && confirm("Sign out? Progress stays on this device but stops syncing.")) Sync.signOut();
 });
 $("#importFile").onchange = e => { const f = e.target.files[0]; if (!f) return; const r = new FileReader();
-  r.onload = () => { try { const d = JSON.parse(r.result); if (typeof d.xp !== "number" || typeof d.q !== "object") throw 0; S = Object.assign(fresh(), d); save(); renderHud(); renderProgress(); toast("Progress imported."); }
+  r.onload = () => { try { const d = JSON.parse(r.result); if (typeof d.xp !== "number" || typeof d.q !== "object") throw 0; S = Object.assign(fresh(), d); save(); Sync.overwrite(); renderHud(); renderProgress(); toast("Progress imported."); }
     catch(err) { toast("That file is not a PSLE Quest backup."); } e.target.value = ""; };
   r.readAsText(f); };
 
@@ -1087,6 +1093,91 @@ const Calc = (() => {
   function toggle(on){ const bd = $("#board"); on = on === undefined ? !bd.classList.contains("calcon") : on; bd.classList.toggle("calcon", on); $("#btnCalc").classList.toggle("on", on); }
   $("#btnCalc").addEventListener("click", () => toggle());
   return {key, toggle, evaluate, read: () => $("#calcVal").textContent};
+})();
+
+/* ---------- cloud save (Firebase: Google sign-in + Firestore) ----------
+   Off until FIREBASE_CONFIG is filled in. Only runs on the hosted site (http/https), never from file://.
+   Each Google account has one document progress/{uid} holding the saved progress as JSON.
+   Devices never overwrite each other: local and cloud copies are merged (best result per question). */
+const FIREBASE_CONFIG = {   // public by design; the Firestore rules are what protect the data
+  apiKey: "AIzaSyDaoJHWdUXfx8qV34fK_mLKuvN9TjCsFKM",
+  authDomain: "edutech-xjl.firebaseapp.com",
+  projectId: "edutech-xjl",
+  storageBucket: "edutech-xjl.firebasestorage.app",
+  messagingSenderId: "862378430300",
+  appId: "1:862378430300:web:fe2e869cfd5bf0363d7b99"
+};
+const FIREBASE_VER = "13.4.0";
+function mergeProgress(a, b){
+  const newer = (a.ts||0) >= (b.ts||0) ? a : b, m = Object.assign(fresh(), newer);
+  m.xp = Math.max(a.xp||0, b.xp||0); m.best = Math.max(a.best||0, b.best||0); m.streak = Math.max(a.streak||0, b.streak||0);
+  const da = a.day||{}, db = b.day||{};
+  m.day = da.date === db.date ? {date:da.date, n:Math.max(da.n||0, db.n||0)} : ((da.date||"") > (db.date||"") ? da : db);
+  const ga = a.lastGoalDay||"", gb = b.lastGoalDay||"";
+  if (ga !== gb) { const w = ga > gb ? a : b; m.lastGoalDay = w.lastGoalDay; m.dayStreak = w.dayStreak; } else m.dayStreak = Math.max(a.dayStreak||0, b.dayStreak||0);
+  m.q = {}; m.mist = {};
+  const qa = a.q||{}, qb = b.q||{};
+  for (const id of new Set([...Object.keys(qa), ...Object.keys(qb)])) {
+    const x = qa[id], y = qb[id];
+    if (!x || !y) { m.q[id] = Object.assign({}, x || y); const src = x ? a : b; if ((src.mist||{})[id]) m.mist[id] = src.mist[id]; continue; }
+    const late = (y.last||"") > (x.last||"") ? y : x, lateSide = late === x ? a : b;
+    m.q[id] = {a:Math.max(x.a||0, y.a||0), c:Math.max(x.c||0, y.c||0), ok:late.ok, last:late.last};
+    if (x.x !== undefined || y.x !== undefined) m.q[id].x = Math.max(x.x||0, y.x||0);
+    if ((x.last||"") === (y.last||"")) { const mm = (a.mist||{})[id] || (b.mist||{})[id]; if (mm) m.mist[id] = mm; }
+    else if ((lateSide.mist||{})[id]) m.mist[id] = lateSide.mist[id];
+  }
+  for (const side of [a, b]) for (const id in (side.mist||{})) if (!m.q[id] && !m.mist[id]) m.mist[id] = side.mist[id];
+  m.ts = Math.max(a.ts||0, b.ts||0);
+  return m;
+}
+const Sync = (() => {
+  let fb = null, user = null, status = "", timer = null, busy = false, again = false;
+  const on = () => !!FIREBASE_CONFIG && /^https?:$/.test(location.protocol);
+  const ref = () => fb.firestore().collection("progress").doc(user.uid);
+  const load = src => new Promise((ok, no) => { const t = document.createElement("script"); t.src = src; t.onload = ok; t.onerror = no; document.head.appendChild(t); });
+  function setStatus(t){ status = t; if ($("#progress").classList.contains("on")) renderProgress(); }
+  function refresh(){ renderHud(); const on = $(".screen.on"); if (on && on.id === "menu") renderMenu(); if (on && on.id === "progress") renderProgress(); }
+  async function syncNow(force){
+    if (!user) return;
+    if (busy) { again = true; return; }
+    busy = true; setStatus("Saving…");
+    try {
+      await fb.firestore().runTransaction(async tx => {
+        const doc = await tx.get(ref());
+        let remote = null; if (doc.exists) { try { remote = JSON.parse(doc.data().data); } catch(e) {} }
+        if (remote && !force) { const merged = mergeProgress(S, remote); const changed = JSON.stringify(merged) !== JSON.stringify(S);
+          S = merged; try { localStorage.setItem(KEY, JSON.stringify(S)); } catch(e) {} if (changed) setTimeout(refresh, 0); }
+        tx.set(ref(), {data: JSON.stringify(S), updated: firebase.firestore.FieldValue.serverTimestamp(), xp: S.xp});
+      });
+      setStatus("Saved " + new Date().toLocaleTimeString([], {hour:"2-digit", minute:"2-digit"}));
+    } catch(e) { setStatus(navigator.onLine === false ? "Offline: will save when back online" : "Could not save: " + (e.code || e.message || e)); }
+    busy = false; if (again) { again = false; syncNow(); }
+  }
+  async function start(){
+    try {
+      for (const m of ["app", "auth", "firestore"]) await load(`https://www.gstatic.com/firebasejs/${FIREBASE_VER}/firebase-${m}-compat.js`);
+      fb = firebase.initializeApp(FIREBASE_CONFIG);
+      fb.auth().onAuthStateChanged(u => { user = u; setStatus(u ? "Connecting…" : ""); if (u) syncNow(); else if ($("#progress").classList.contains("on")) renderProgress(); });
+      fb.auth().getRedirectResult().catch(e => setStatus("Sign-in failed: " + (e.code || e.message)));
+      syncQueue = () => { if (!user) return; clearTimeout(timer); timer = setTimeout(syncNow, 2500); };
+      document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible") syncNow(); });
+      window.addEventListener("online", () => syncNow());
+    } catch(e) { fb = null; setStatus("Cloud save is unavailable (offline?)"); }
+  }
+  if (on()) start();
+  return {
+    user: () => user,
+    signIn(){ if (!fb) { toast("Cloud save is not available right now."); return; }
+      const p = new firebase.auth.GoogleAuthProvider();
+      fb.auth().signInWithPopup(p).catch(e => { if (e.code === "auth/popup-blocked" || e.code === "auth/operation-not-supported-in-this-environment") fb.auth().signInWithRedirect(p); else if (e.code !== "auth/popup-closed-by-user" && e.code !== "auth/cancelled-popup-request") toast("Sign-in failed: " + (e.code || e.message)); }); },
+    signOut(){ if (fb) fb.auth().signOut(); },
+    overwrite(){ if (user) syncNow(true); },
+    panel(){
+      if (!on()) return FIREBASE_CONFIG ? `<div class="cloud"><div><b>☁️ Cloud save</b><br><span class="note">Open the app from its website to sign in and keep progress in sync between devices.</span></div></div>` : "";
+      if (!user) return `<div class="cloud"><div><b>☁️ Cloud save</b><br><span class="note">${esc(status) || "Sign in with Google to keep progress safe and the same on every device."}</span></div><button class="btn small yellow" id="btnSignIn">Sign in with Google</button></div>`;
+      return `<div class="cloud"><div><b>☁️ Synced as ${esc(user.displayName || user.email || "you")}</b><br><span class="note">${esc(status)}</span></div><button class="btn small" id="btnSignOut">Sign out</button></div>`;
+    }
+  };
 })();
 
 renderHud(); renderHome();

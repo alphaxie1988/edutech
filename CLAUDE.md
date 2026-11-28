@@ -42,7 +42,7 @@ python tools/tests/uitest.py OUTDIR      # maths flow; scitest.py and touchtest.
 
 - **Copyright.** The papers belong to the schools. Keep PDFs out of git. The GitHub repo is public, so ask before pushing, and never publish the app or data anywhere else.
 - **Commit and push only when asked.**
-- **`index.html` must work from `file://`**: no fetch, no modules, no external scripts or fonts. Data loads through `<script>` tags. The one exception is the async Google Analytics tag in `<head>` (GA4 `G-KTJTR3X63V`); the app must keep working when it fails to load (offline).
+- **`index.html` must work from `file://`**: no fetch, no modules, no external scripts or fonts. Data loads through `<script>` tags. The one exception is the async Google Analytics tag in `<head>` (GA4 `G-KTJTR3X63V`); the app must keep working when it fails to load (offline). Cloud save (`Sync` in `index.html`) loads the Firebase compat scripts from gstatic at runtime, only on the hosted http(s) site and only when `FIREBASE_CONFIG` is set; local saving works without it.
 - **Never edit `data/`**; change `library/` and rebuild.
 - **Do not change existing question ids.** They key the saved progress in `localStorage` (`psle-quest-v1`). Maths and science ids are unprefixed; other subjects are prefixed with the subject.
 - **Answers.** Solve each question independently, then compare with the key. Never copy the key for a question you could not solve. Unresolved or unreadable: `review.status: "needs-review"` with a note; it is then left out of play and listed in `data/<subject>/REVIEW.md`.
